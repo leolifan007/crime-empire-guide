@@ -1,0 +1,8 @@
+# Material icon name -> filename mapping
+# Maps short names to actual PNG files in static/images/game-icons/
+# REPLACE with your game's items
+#
+# Example:
+# iron = "iron-plate.png"
+# copper = "copper-plate.png"
+# wood = "wood-log.png"

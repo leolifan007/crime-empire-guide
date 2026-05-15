@@ -1,0 +1,27 @@
+baseURL = 'https://YOUR-SITE-URL.com/'
+theme = 'guide-theme'
+title = 'YOUR GAME Guide'
+publishDir = 'docs'
+enableRobotsTXT = true
+buildFuture = true
+buildDrafts = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+    [markup.goldmark.extensions]
+      typographer = false
+      linkify = false
+      footnote = false
+      table = false
+      strikethrough = false
+      taskList = false
+      definitionList = false
+
+[params]
+  description = 'YOUR GAME guide: tips, strategies, and solutions.'
+  keywords = 'YOUR GAME, guide, tips, walkthrough, strategy'
+  steam_url = 'https://store.steampowered.com/app/YOUR_APP_ID/YOUR_GAME/'
