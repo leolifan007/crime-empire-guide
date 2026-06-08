@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#92C66D"/>
+    </marker>
+    <linearGradient id="barnGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#92C66D;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="wareGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a843;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; fill: #92C66D; }
+    .wtitle { font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; fill: #d4a843; }
+    .label { font-family: Arial, sans-serif; font-size: 11px; fill: #c8d6e5; }
+    .box { fill: #16213e; stroke-width: 1.5; rx: 4; }
+    .barn-box { stroke: #92C66D; }
+    .ware-box { stroke: #d4a843; }
+    .sub { font-family: Arial, sans-serif; font-size: 9px; fill: #8395a7; }
+  </style>
+  <!-- Left side: Barn -->
+  <text x="20" y="20" class="title">Barn ($25K) -- 2-Floor Vertical Chain</text>
+  <rect x="10" y="30" width="340" height="150" fill="url(#barnGrad)" stroke="#92C66D" stroke-width="1" rx="6"/>
+  <!-- Ground floor -->
+  <rect x="20" y="40" width="100" height="35" class="box barn-box"/>
+  <text x="70" y="56" class="label" text-anchor="middle">Shelf x4</text>
+  <text x="70" y="69" class="sub" text-anchor="middle">ingredients</text>
+  <line x1="120" y1="57" x2="160" y2="57" stroke="#92C66D" stroke-width="1.5" marker-end="url(#arrow)" opacity="0.6"/>
+  <rect x="160" y="40" width="100" height="35" class="box barn-box"/>
+  <text x="210" y="56" class="label" text-anchor="middle">Mix Stn x4</text>
+  <text x="210" y="69" class="sub" text-anchor="middle">2 Chemists</text>
+  <line x1="260" y1="57" x2="300" y2="57" stroke="#92C66D" stroke-width="1.5" marker-end="url(#arrow)" opacity="0.6"/>
+  <rect x="300" y="40" width="40" height="35" class="box barn-box"/>
+  <text x="320" y="56" class="label" text-anchor="middle">Box</text>
+  <text x="320" y="69" class="sub" text-anchor="middle">2 Handler</text>
+  <!-- Floor label -->
+  <text x="20" y="90" class="sub">Ground: 2 Handler move Shelf > Mix > Box</text>
+  <!-- Upper floor -->
+  <rect x="20" y="100" width="320" height="70" fill="none" stroke="#92C66D" stroke-dasharray="3,3" rx="4"/>
+  <text x="30" y="115" class="sub">Upper floor:</text>
+  <rect x="120" y="105" width="80" height="30" class="box barn-box"/>
+  <text x="160" y="119" class="label" text-anchor="middle">Packer</text>
+  <text x="160" y="131" class="sub" text-anchor="middle">bags product</text>
+  <rect x="220" y="105" width="80" height="30" class="box barn-box"/>
+  <text x="260" y="119" class="label" text-anchor="middle">Loading Bay</text>
+  <text x="260" y="131" class="sub" text-anchor="middle">1 Handler</text>
+  <line x1="200" y1="120" x2="220" y2="120" stroke="#92C66D" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <!-- Up arrow -->
+  <line x1="340" y1="58" x2="340" y2="120" stroke="#92C66D" stroke-width="1" stroke-dasharray="4,2"/>
+  <text x="345" y="92" class="sub">stairs</text>
+  <!-- Right side: Warehouse -->
+  <text x="370" y="20" class="wtitle">Docks Warehouse ($50K) -- U-Shape Horizontal</text>
+  <rect x="360" y="30" width="350" height="150" fill="url(#wareGrad)" stroke="#d4a843" stroke-width="1" rx="6"/>
+  <!-- East wall shelves -->
+  <rect x="370" y="50" width="80" height="30" class="box ware-box"/>
+  <text x="410" y="65" class="label" text-anchor="middle">Shelf x6</text>
+  <text x="410" y="78" class="sub" text-anchor="middle">8-mix ingredients</text>
+  <line x1="450" y1="65" x2="480" y2="65" stroke="#d4a843" stroke-width="1.5" marker-end="url(#arrow)" opacity="0.6"/>
+  <!-- Center mixing -->
+  <rect x="480" y="45" width="110" height="40" class="box ware-box"/>
+  <text x="535" y="60" class="label" text-anchor="middle">8 Mix Stations</text>
+  <text x="535" y="77" class="sub" text-anchor="middle">2x 4-chain (4 Chemists)</text>
+  <line x1="590" y1="65" x2="620" y2="65" stroke="#d4a843" stroke-width="1.5" marker-end="url(#arrow)" opacity="0.6"/>
+  <!-- West loading -->
+  <rect x="620" y="45" width="80" height="40" class="box ware-box"/>
+  <text x="660" y="60" class="label" text-anchor="middle">2 Packer</text>
+  <text x="660" y="77" class="sub" text-anchor="middle">bagging area</text>
+  <text x="660" y="90" class="sub" text-anchor="middle">+ 4 Handler</text>
+  <!-- ROI table area -->
+  <rect x="10" y="195" width="700" height="155" fill="#0a0a1e" rx="6"/>
+  <text x="20" y="215" class="title">ROI Comparison</text>
+  <text x="20" y="235" class="sub">Barn (Meth 4-mix): $25K property + $5K equip | $490/day wages | ~120 units/day | $127 profit/unit</text>
+  <text x="20" y="252" class="sub">Warehouse (Coke 8-mix): $50K property + $12K equip | $790/day wages | ~240 units/day | $305 profit/unit</text>
+  <text x="20" y="269" class="sub">Barn daily net: $14,750 | Recoup: ~2 days | Upgrade threshold: $10K/day revenue</text>
+  <text x="20" y="286" class="sub">Warehouse daily net: $72,410 | Recoup: ~0.85 days | Upgrade threshold: $20K/day ingredients</text>
+  <text x="20" y="310" class="sub">Flow: Shelf (Handler feeds) -> Mix Station 4-chain (Chemist mixes) -> Packer bags -> Loading bay (Handler delivers)</text>
+</svg>
