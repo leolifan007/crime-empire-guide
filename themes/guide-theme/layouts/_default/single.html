@@ -1,21 +1,97 @@
-﻿{{ define "main" }}
-<div class="single-page">
-  <div class="article-hero-full">
-    <div class="article-hero-bg" style="background-image:url('{{ `images/hero-bg.jpg` | relURL }}')"></div>
-    <div class="article-hero-fade"></div>
-    <div class="article-hero-text">
-      <h1>{{ .Title }}</h1>
-      <div class="article-meta">
-        <span class="meta-date">Updated: {{ .Date.Format "Jan 2, 2006" }}</span>
-      </div>
-    </div>
+{{ define "main" }}
+
+{{ $gameID := "" }}
+{{ $gameName := "" }}
+{{ $tagline := "" }}
+{{ with .Params.game }}{{ $gameID = . }}{{ end }}
+{{ range $.Site.Params.games }}{{ if eq .id $gameID }}{{ $gameName = .name }}{{ $tagline = .tagline }}{{ end }}{{ end }}
+
+{{ $gameSection := $.Site.GetPage (printf "/%s" $gameID) }}
+{{ $currentCat := .CurrentSection }}
+
+<!-- Game Hero Banner -->
+<section class="section-hero game-{{ $gameID }}">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>{{ $gameName }}</h1>
+    <p class="section-hero-tagline">{{ $tagline }}</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+
+  <!-- Breadcrumb -->
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <a href="/{{ $gameID }}/">{{ $gameName }}</a>
+    <span class="sep">/</span>
+    <a href="{{ $currentCat.RelPermalink }}">{{ $currentCat.Title }}</a>
+    <span class="sep">/</span>
+    <span class="current">{{ .Title }}</span>
+  </nav>
+
+  <!-- 2nd Level: Category Navigation -->
+  <div class="cat-nav game-{{ $gameID }}">
+    {{ range $gameSection.Sections.ByParam "weight" }}
+    <a href="{{ .RelPermalink }}" class="cat-nav-btn {{ if eq .RelPermalink $currentCat.RelPermalink }}active{{ end }}">
+      {{ .Title }}
+    </a>
+    {{ end }}
   </div>
 
-  <div class="article-layout">
-    <aside class="floating-toc" id="floatingToc"></aside>
-    <main class="article-body">
-      {{ .Content | safeHTML }}
+  <div class="single-layout">
+
+    <!-- Sidebar: articles in this category -->
+    <aside class="guide-sidebar game-{{ $gameID }}">
+      <div class="sidebar-header">
+        <h3>{{ $currentCat.Title }}</h3>
+        <span class="sidebar-count">{{ len $currentCat.RegularPages }} articles</span>
+      </div>
+      <div class="sidebar-list">
+        {{ range $currentCat.RegularPages.ByParam "weight" }}
+        <a href="{{ .RelPermalink }}" class="sidebar-item {{ if eq $.RelPermalink .RelPermalink }}active{{ end }}">
+          <span class="sidebar-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="single-main">
+      <article class="single-article">
+        <div class="article-header">
+          <div class="article-tag {{ with .Params.tag }}{{ . | lower }}{{ end }}">{{ .Params.tag }}</div>
+          <h1>{{ .Title }}</h1>
+          <div class="article-meta">
+            <span>Updated: {{ .Date.Format "Jan 2, 2006" }}</span>
+          </div>
+        </div>
+        <div class="article-body game-{{ $gameID }}">
+          {{ .Content | safeHTML }}
+        </div>
+      </article>
+
+      <nav class="article-nav">
+        {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}" class="nav-prev">
+          <span class="nav-direction">Previous Article</span>
+          <span class="nav-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}" class="nav-next">
+          <span class="nav-direction">Next Article</span>
+          <span class="nav-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </nav>
+
+      <div class="back-section">
+        <a href="{{ $currentCat.RelPermalink }}" class="back-btn">Back to {{ $currentCat.Title }}</a>
+      </div>
     </main>
   </div>
 </div>
+
 {{ end }}

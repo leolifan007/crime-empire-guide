@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" font-family="'Orbitron','Inter','Segoe UI',system-ui,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a12"/><stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+    <!-- OG Kush: Schedule I green palette -->
+    <linearGradient id="greenG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#92C66D"/><stop offset="100%" stop-color="#6aaa3a"/>
+    </linearGradient>
+    <!-- Meth: Teal/cyan -->
+    <linearGradient id="tealG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2dd4bf"/><stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+    <!-- Cocaine: Gold/amber -->
+    <linearGradient id="goldG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <filter id="sh"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.4"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="760" height="600" rx="16" fill="url(#bg)"/>
+  <rect width="760" height="600" rx="16" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+
+  <!-- Subtle grid pattern overlay -->
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255,255,255,0.02)" stroke-width="0.5"/>
+  </pattern>
+  <rect width="760" height="600" rx="16" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- Title -->
+  <text x="380" y="38" text-anchor="middle" fill="#e2e8f0" font-size="18" font-weight="700" letter-spacing="1">Recipe Profit Per Unit</text>
+  <text x="380" y="58" text-anchor="middle" fill="#64748b" font-size="12" letter-spacing="0.5">Ingredient cost vs sell price across 5 key recipes · v0.4</text>
+
+  <!-- Chart area -->
+  <g transform="translate(70, 100)">
+    <!-- X-axis -->
+    <line x1="0" y1="400" x2="620" y2="400" stroke="#2a2a45" stroke-width="1.5"/>
+    <!-- Y-axis -->
+    <line x1="0" y1="0" x2="0" y2="400" stroke="#2a2a45" stroke-width="1.5"/>
+
+    <!-- Horizontal grid (every $75) -->
+    <line x1="0" y1="80" x2="620" y2="80" stroke="rgba(255,255,255,0.03)" stroke-width="1" stroke-dasharray="4,6"/>
+    <line x1="0" y1="160" x2="620" y2="160" stroke="rgba(255,255,255,0.03)" stroke-width="1" stroke-dasharray="4,6"/>
+    <line x1="0" y1="240" x2="620" y2="240" stroke="rgba(255,255,255,0.03)" stroke-width="1" stroke-dasharray="4,6"/>
+    <line x1="0" y1="320" x2="620" y2="320" stroke="rgba(255,255,255,0.03)" stroke-width="1" stroke-dasharray="4,6"/>
+
+    <!-- Y-axis labels -->
+    <text x="-14" y="85" text-anchor="end" fill="#475569" font-size="11" font-family="'JetBrains Mono',monospace">$300</text>
+    <text x="-14" y="165" text-anchor="end" fill="#475569" font-size="11" font-family="'JetBrains Mono',monospace">$225</text>
+    <text x="-14" y="245" text-anchor="end" fill="#475569" font-size="11" font-family="'JetBrains Mono',monospace">$150</text>
+    <text x="-14" y="325" text-anchor="end" fill="#475569" font-size="11" font-family="'JetBrains Mono',monospace">$75</text>
+    <text x="-14" y="405" text-anchor="end" fill="#475569" font-size="11" font-family="'JetBrains Mono',monospace">$0</text>
+
+    <!-- Scale: $1 = 1.33px (400px / $300) -->
+    <!-- Bar width: 55px, gap between groups: 50px -->
+
+    <!-- Bar 1: OG Kush 3-mix. Cost $31 (41px), Sell $167 (222px) = total $167 (bar top at y=178) -->
+    <rect x="40" y="178" width="55" height="222" rx="4" fill="url(#greenG)" filter="url(#sh)"/>
+    <rect x="40" y="359" width="55" height="41" rx="4" fill="#1a2e0f" opacity="0.75"/>
+    <text x="67" y="170" text-anchor="middle" fill="#b8e0a0" font-size="12" font-weight="700">$167</text>
+    <text x="67" y="422" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600" letter-spacing="0.5">OG Kush</text>
+    <text x="67" y="440" text-anchor="middle" fill="#64748b" font-size="11">3-mix</text>
+
+    <!-- Bar 2: OG Kush 8-mix. Cost $28 (37px), Sell $186 (248px) = bar top at y=152 -->
+    <rect x="145" y="152" width="55" height="248" rx="4" fill="url(#greenG)" filter="url(#sh)"/>
+    <rect x="145" y="363" width="55" height="37" rx="4" fill="#1a2e0f" opacity="0.75"/>
+    <text x="172" y="144" text-anchor="middle" fill="#b8e0a0" font-size="12" font-weight="700">$186</text>
+    <text x="172" y="422" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600" letter-spacing="0.5">OG Kush</text>
+    <text x="172" y="440" text-anchor="middle" fill="#64748b" font-size="11">8-mix</text>
+
+    <!-- Bar 3: Meth 4-mix. Cost $18 (24px), Sell $145 (193px) = bar top at y=207 -->
+    <rect x="250" y="207" width="55" height="193" rx="4" fill="url(#tealG)" filter="url(#sh)"/>
+    <rect x="250" y="376" width="55" height="24" rx="4" fill="#0a2e28" opacity="0.75"/>
+    <text x="277" y="199" text-anchor="middle" fill="#99f6e4" font-size="12" font-weight="700">$145</text>
+    <text x="277" y="422" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600" letter-spacing="0.5">Meth</text>
+    <text x="277" y="440" text-anchor="middle" fill="#64748b" font-size="11">4-mix</text>
+
+    <!-- Bar 4: Meth 8-mix. Cost $38 (51px), Sell $305 (capped). Total $343. -->
+    <rect x="355" y="0" width="55" height="400" rx="4" fill="url(#tealG)" filter="url(#sh)"/>
+    <rect x="355" y="349" width="55" height="51" rx="4" fill="#0a2e28" opacity="0.75"/>
+    <text x="382" y="-8" text-anchor="middle" fill="#99f6e4" font-size="12" font-weight="700">$343</text>
+    <text x="382" y="422" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600" letter-spacing="0.5">Meth</text>
+    <text x="382" y="440" text-anchor="middle" fill="#64748b" font-size="11">8-mix</text>
+    <line x1="352" y1="4" x2="413" y2="4" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.6"/>
+
+    <!-- Bar 5: Cocaine 9-mix. Cost $38 (51px), Sell $717 (capped at $300). Total $755. -->
+    <rect x="460" y="0" width="55" height="400" rx="4" fill="url(#goldG)" filter="url(#sh)"/>
+    <rect x="460" y="349" width="55" height="51" rx="4" fill="#2a1a00" opacity="0.75"/>
+    <text x="487" y="-8" text-anchor="middle" fill="#fde68a" font-size="12" font-weight="700">$755</text>
+    <text x="487" y="422" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="600" letter-spacing="0.5">Cocaine</text>
+    <text x="487" y="440" text-anchor="middle" fill="#64748b" font-size="11">9-mix</text>
+    <line x1="457" y1="4" x2="518" y2="4" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.6"/>
+
+    <!-- Legend -->
+    <g transform="translate(0, 468)">
+      <rect x="0" y="0" width="60" height="14" rx="2" fill="url(#greenG)" opacity="0.8"/>
+      <text x="66" y="11" fill="#94a3b8" font-size="11">Sell Price</text>
+      <rect x="150" y="0" width="60" height="14" rx="2" fill="#1a2e0f" opacity="0.8"/>
+      <text x="216" y="11" fill="#94a3b8" font-size="11">Ingredient Cost</text>
+      <text x="330" y="11" fill="#64748b" font-size="10">* Meth 8-mix &amp; Cocaine 9-mix exceed chart max</text>
+    </g>
+  </g>
+</svg>

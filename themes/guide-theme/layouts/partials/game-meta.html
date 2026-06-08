@@ -1,0 +1,13 @@
+{{- /* Compute latest article Lastmod Unix timestamp for a section */ -}}
+{{- $latest := 0 -}}
+{{- range .Sections -}}
+  {{- range .RegularPages -}}
+    {{- $d := .Lastmod.Unix -}}
+    {{- if gt $d $latest }}{{ $latest = $d }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- range .RegularPages -}}
+  {{- $d := .Lastmod.Unix -}}
+  {{- if gt $d $latest }}{{ $latest = $d }}{{ end -}}
+{{- end -}}
+{{ $latest }}

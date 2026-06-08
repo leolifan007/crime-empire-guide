@@ -1,0 +1,7 @@
+{{- $s := . -}}
+{{- $count := 0 -}}
+{{- $latest := 0 -}}
+{{- range $s.RegularPages }}{{ $count = add $count 1 }}{{ $d := .Lastmod.Unix }}{{ if gt $d $latest }}{{ $latest = $d }}{{ end }}{{ end -}}
+{{- range $s.Sections }}{{ range .RegularPages }}{{ $count = add $count 1 }}{{ $d := .Lastmod.Unix }}{{ if gt $d $latest }}{{ $latest = $d }}{{ end }}{{ end }}{{ end -}}
+{{- $days := 0 -}}{{- if $latest }}{{ $now := now.Unix }}{{ $days = div (sub $now $latest) 86400 }}{{ end -}}
+{"count":{{ $count }},"latest":{{ $latest }},"daysAgo":{{ $days }},"isNew":{{ and $latest (le $days 10) }}}

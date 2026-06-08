@@ -1,70 +1,144 @@
-﻿{{ define "main" }}
-<div class="home-page">
-  <section class="hero-section">
-    {{/* <-- REPLACE: hero background image */}}
-    <div class="hero-bg" style="background-image:url('{{ `images/hero-bg.jpg` | relURL }}');"></div>
-    <div class="hero-overlay"></div>
-    <div class="hero-content">
-      <div class="hero-logo">
-        {{/* <-- REPLACE: game logo image */}}
-        <img src="{{ `images/game-logo.png` | relURL }}" alt="Game Logo" class="game-logo">
-      </div>
-      {{/* <-- REPLACE: Hero heading and tagline */}}
-      <h1>{{ .Site.Title }} <span class="hero-tagline">No Fluff, Just Fixes</span></h1>
-      <p class="hero-sub">Real answers to the problems that actually stop your progress.<br>Written by players, for players.</p>
-      <div class="hero-cta">
-        {{/* <-- REPLACE: CTA buttons - point to your top guides */}}
-        <a href="{{ `guide-one/` | relURL }}" class="btn-primary">Start Here</a>
-        <a href="{{ `guide-two/` | relURL }}" class="btn-secondary">Popular Guide</a>
-      </div>
-    </div>
-  </section>
+{{ define "main" }}
 
-  <div class="home-content">
-    <section class="featured-guides">
-      <h2 class="section-title">Latest Guides</h2>
-      <div class="guide-grid">
-        {{ range where .Pages "RelPermalink" "ne" "/" }}
-        <a href="{{ .RelPermalink }}" class="guide-card">
-          <div class="card-body">
-            <h3>{{ .Title }}</h3>
-            {{ with .Description }}<p>{{ . }}</p>{{ end }}
-            <span class="card-read">Read Guide</span>
-            <span class="card-date">Updated {{ .Date.Format "Jan 2, 2006" }}</span>
-          </div>
-        </a>
+{{ $firstGame := index .Site.Params.games 0 }}
+
+{{/*
+  Section meta: count, latest Unix, isNew (<=10 days)
+  Uses direct iteration instead of partials to avoid scope issues.
+*/}}
+
+<!-- Hero Accordion -->
+<section class="hero">
+  <div class="hero-acc" id="heroAccordion">
+
+    {{ range $i, $game := .Site.Params.games }}
+    {{- $gameSection := $.Site.GetPage (printf "/%s" $game.id) -}}
+    {{- $count := 0 -}}
+    {{- $latest := 0 -}}
+    {{- if $gameSection -}}
+      {{- range $gameSection.RegularPages -}}
+        {{- $count = add $count 1 -}}
+        {{- $d := .Lastmod.Unix -}}
+        {{- if gt $d $latest }}{{ $latest = $d }}{{ end -}}
+      {{- end -}}
+      {{- range $gameSection.Sections -}}
+        {{- range .RegularPages -}}
+          {{- $count = add $count 1 -}}
+          {{- $d := .Lastmod.Unix -}}
+          {{- if gt $d $latest }}{{ $latest = $d }}{{ end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $days := 0 -}}
+    {{- if and $latest (gt $latest 0) -}}
+      {{- $now := now.Unix -}}
+      {{- $days = div (sub $now $latest) 86400 -}}
+    {{- end -}}
+    {{- $isNew := and (gt $latest 0) (le $days 10) -}}
+    <div class="game-card game-{{ $game.id }} {{ if eq $i 0 }}expanded{{ end }}" data-game="{{ $game.id }}" onclick="activateCard(this); switchGame('{{ $game.id }}');">
+      <div class="pattern"></div>
+      <div class="card-gradient"></div>
+      <div class="content">
+        <div class="top-badges">
+          {{ if and (not $gameSection) $game.is_coming_soon }}
+          <span class="badge coming-badge">Coming Soon</span>
+          {{ else if $isNew }}
+          <span class="badge new-badge">NEW</span>
+          {{ end }}
+          {{ range $game.badges }}
+          <span class="badge {{ if in . "Coming Soon" }}coming-badge{{ end }}">{{ . }}</span>
+          {{ end }}
+        </div>
+        <div class="game-title">{{ replace $game.name " " "<br>" 1 | safeHTML }}</div>
+        <div class="game-tagline">{{ $game.tagline }}</div>
+        <div class="game-stats">
+          <span>{{ if or (not $gameSection) $game.is_coming_soon }}{{ if not $game.is_coming_soon }}No articles yet{{ else }}Coming Soon{{ end }}{{ else }}{{ $count }} guides{{ end }}</span>
+          {{ if and $gameSection (gt $latest 0) }}
+          <span class="stat-sep">|</span>
+          <span>Updated {{ $latest | mul 1000 | dateFormat "Jan 2" }}</span>
+          {{ end }}
+        </div>
+        <div class="game-desc">
+          {{ $game.description | safeHTML }}
+          <br><a href="#" onclick="switchGame('{{ $game.id }}'); return false;" class="cta-btn">{{ if or (not $gameSection) $game.is_coming_soon }}PREVIEW{{ else }}EXPLORE GUIDES{{ end }}</a>
+        </div>
+      </div>
+      <div class="side-label">{{ $game.short }}</div>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+
+<!-- Content Area -->
+<section class="content-area">
+
+  {{ range $game := .Site.Params.games }}
+  {{- $gameSection := $.Site.GetPage (printf "/%s" $game.id) -}}
+  {{- $totalCount := 0 -}}
+  {{- if $gameSection -}}
+    {{- range $gameSection.RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end -}}
+    {{- range $gameSection.Sections }}{{ range .RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end }}{{ end -}}
+  {{- end -}}
+  <div class="game-panel panel-{{ $game.id }} {{ if eq $game.id $firstGame.id }}active{{ end }}" id="panel-{{ $game.id }}">
+
+    <div class="section-header">
+      <h2>{{ $game.name }} {{ if or (not $gameSection) $game.is_coming_soon }}— Coming Soon{{ else }}— Guide Index{{ end }}</h2>
+      <div class="line"></div>
+      <span class="game-indicator">{{ $totalCount }} articles</span>
+    </div>
+
+    {{ if or (not $gameSection) $game.is_coming_soon }}
+    <div class="coming-panel panel-{{ $game.id }}">
+      <div class="coming-panel-bg"></div>
+      <h3>UNDER CONSTRUCTION</h3>
+      <p>We're currently building the {{ $game.name }} guide database. Comprehensive coverage — including money guides, strategies, maps, and walkthroughs — coming soon.</p>
+      <div class="countdown">
+        {{ if or (eq $game.id "mafia-biz") (eq $game.id "underworld") }}
+        Game Release: TBA 2026
+        {{ else if eq $game.id "dds2" }}
+        Estimated Launch: 21 Days
+        {{ else }}
+        Estimated Launch: 14 Days
         {{ end }}
       </div>
-    </section>
-
-    <section class="topic-clusters">
-      <h2 class="section-title">By Topic</h2>
-      <div class="topic-grid">
-        {{/* <-- REPLACE: Topic cards - match your game's categories */}}
-        <a href="{{ `guide-one/` | relURL }}" class="topic-card">
-          <div class="topic-body">
-            <h3>Category One</h3>
-            <p>Description of this topic area</p>
-            <span class="topic-count">1 guide</span>
+    </div>
+    {{ else }}
+    <div class="guides-grid">
+      {{ range $gameSection.Sections.ByParam "weight" }}
+        {{- $catCount := 0 -}}
+        {{- $catLatest := 0 -}}
+        {{- range .RegularPages -}}
+          {{- $catCount = add $catCount 1 -}}
+          {{- $d := .Lastmod.Unix -}}
+          {{- if gt $d $catLatest }}{{ $catLatest = $d }}{{ end -}}
+        {{- end -}}
+        {{- $catDays := 0 -}}
+        {{- if and $catLatest (gt $catLatest 0) -}}
+          {{- $now := now.Unix -}}
+          {{- $catDays = div (sub $now $catLatest) 86400 -}}
+        {{- end -}}
+        {{- $catIsNew := and (gt $catLatest 0) (le $catDays 10) -}}
+        {{- $ld := "" -}}
+        {{- if gt $catLatest 0 }}{{ $ld = $catLatest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
+        <a href="{{ .RelPermalink }}" class="guide-item game-{{ $game.id }}">
+          <div class="guide-icon" style="background-image: url('{{ with .Params.image }}{{ . }}{{ end }}'); background-size: cover; background-position: center;"></div>
+          <h3>{{ .Title }}</h3>
+          <p>{{ with .Description }}{{ . }}{{ end }}</p>
+          <div class="meta">
+            <span class="tag">{{ .Params.tag }}</span>
+            {{ if $catIsNew }}<span class="new-chip">NEW</span>{{ end }}
+            <span>{{ $catCount }} art.</span>
+            {{ if and $ld (ne $ld "Jan 1") }}<span class="update-date">{{ $ld }}</span>{{ end }}
           </div>
         </a>
-        <a href="{{ `guide-two/` | relURL }}" class="topic-card">
-          <div class="topic-body">
-            <h3>Category Two</h3>
-            <p>Description of this topic area</p>
-            <span class="topic-count">1 guide</span>
-          </div>
-        </a>
-      </div>
-    </section>
+      {{ end }}
+    </div>
+    {{ end }}
 
-    <section class="newsletter-cta">
-      <p><strong>New guides dropping weekly.</strong> Bookmark the page, no email list, no spam.</p>
-    </section>
-
-    <section class="site-disclaimer">
-      <p><strong>Disclaimer:</strong> This is an unofficial fan-made guide site. All trademarks and copyrights belong to their respective owners.</p>
-    </section>
   </div>
-</div>
+  {{ end }}
+
+</section>
+
 {{ end }}

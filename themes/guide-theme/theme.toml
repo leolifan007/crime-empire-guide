@@ -1,4 +1,4 @@
-﻿name = 'Steam Guide Template'
+name = 'Steam Guide Template'
 license = 'MIT'
 licenselink = 'https://github.com/owner/repo/LICENSE'
 description = 'Standardized Hugo template for Steam game guide sites. Based on DSP_Site structure.'

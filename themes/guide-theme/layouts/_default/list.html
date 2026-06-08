@@ -1,8 +1,102 @@
-﻿{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+{{ define "main" }}
+
+{{ $gameID := .Params.game }}
+{{ $gameName := "" }}
+{{ range $.Site.Params.games }}{{ if eq .id $gameID }}{{ $gameName = .name }}{{ end }}{{ end }}
+{{ $gameSection := $.Site.GetPage (printf "/%s" $gameID) }}
+
+<!-- Game Hero (shows GAME name, not category) -->
+<section class="section-hero game-{{ $gameID }}">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>{{ $gameName }}</h1>
+    <p class="section-hero-tagline">{{ .Title }}</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+  <!-- 2nd Level Nav -->
+  <div class="cat-nav game-{{ $gameID }}">
+    {{ range $gameSection.Sections.ByParam "weight" }}
+    <a href="{{ .RelPermalink }}" class="cat-nav-btn {{ if eq .RelPermalink $.RelPermalink }}active{{ end }}">{{ .Title }}</a>
+    {{ end }}
+  </div>
+
+  <!-- Main Layout -->
+  <div class="single-layout">
+    <!-- Sidebar: just article list -->
+    <aside class="guide-sidebar game-{{ $gameID }}">
+      <div class="sidebar-header">
+        <span class="sidebar-count">{{ len .RegularPages }} articles</span>
+      </div>
+      <div class="sidebar-list">
+        {{ range $i, $article := .RegularPages.ByParam "weight" }}
+        <a href="#article-{{ $i }}" class="sidebar-item {{ if eq $i 0 }}active{{ end }}" onclick="showArticle({{ $i }}); return false;">
+          <span class="sidebar-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </aside>
+
+    <!-- Content -->
+    <main class="single-main">
+      {{ range $i, $article := .RegularPages.ByParam "weight" }}
+      <div class="article-content" id="article-body-{{ $i }}" {{ if ne $i 0 }}style="display:none"{{ end }}>
+        <article class="single-article">
+          <div class="article-header">
+            <h1>{{ .Title }}</h1>
+            <div class="article-meta">
+              <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+            </div>
+          </div>
+          <div class="article-body game-{{ $gameID }}">
+            {{ .Content | safeHTML }}
+          </div>
+        </article>
+      </div>
+      {{ end }}
+
+      {{ if eq (len .RegularPages) 0 }}
+        {{ $sections := .Sections.ByParam "weight" }}
+        {{ $first := index $sections 0 }}
+        {{ if $first }}
+        <script>
+        window.location.href = "{{ $first.RelPermalink }}";
+        </script>
+        {{ else }}
+        <div class="coming-panel" style="margin-top:0;">
+          <h3>UNDER CONSTRUCTION</h3>
+          <p>Articles for this category are being written. Check back soon.</p>
+        </div>
+        {{ end }}
+      {{ end }}
+    </main>
+  </div>
+</div>
+
+<script>
+function showArticle(index) {
+  var contents = document.querySelectorAll('.article-content');
+  for (var i = 0; i < contents.length; i++) {
+    contents[i].style.display = 'none';
+  }
+  var target = document.getElementById('article-body-' + index);
+  if (target) target.style.display = 'block';
+  var items = document.querySelectorAll('.sidebar-item');
+  for (var i = 0; i < items.length; i++) {
+    items[i].classList.remove('active');
+  }
+  if (items[index]) items[index].classList.add('active');
+  window.location.hash = 'article-' + index;
+}
+window.addEventListener('DOMContentLoaded', function() {
+  if (window.location.hash) {
+    var m = window.location.hash.match(/article-(\d+)/);
+    if (m) {
+      var items = document.querySelectorAll('.sidebar-item');
+      if (items[parseInt(m[1])]) items[parseInt(m[1])].click();
+    }
+  }
+});
+</script>
 {{ end }}

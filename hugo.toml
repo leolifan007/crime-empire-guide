@@ -1,6 +1,6 @@
-baseURL = 'https://YOUR-SITE-URL.com/'
+baseURL = 'http://localhost:1313/'
 theme = 'guide-theme'
-title = 'YOUR GAME Guide'
+title = 'Crime Empire Guide'
 publishDir = 'docs'
 enableRobotsTXT = true
 buildFuture = true
@@ -16,12 +16,90 @@ buildDrafts = false
       typographer = false
       linkify = false
       footnote = false
-      table = false
+      table = true
       strikethrough = false
       taskList = false
       definitionList = false
 
 [params]
-  description = 'YOUR GAME guide: tips, strategies, and solutions.'
-  keywords = 'YOUR GAME, guide, tips, walkthrough, strategy'
-  steam_url = 'https://store.steampowered.com/app/YOUR_APP_ID/YOUR_GAME/'
+  description = 'Crime Empire Guide: The ultimate database of criminal empire games — guides, strategies, recipes, and tips for Schedule I and more.'
+  keywords = 'crime empire, schedule 1, schedule i, game guide, drug empire, criminal simulator'
+
+[[params.games]]
+  id = 'schedule-i'
+  name = 'Schedule I'
+  short = 'SCHEDULE I'
+  tagline = 'Drug Empire Simulator'
+  description = 'Build your drug empire from a broken RV to a criminal dynasty. Mix, deal, expand, automate — every gram counts.'
+  article_count = 156
+  is_coming_soon = false
+  badges = ['275K Reviews', 'Co-op', '98% Positive']
+  url = '/schedule-i/'
+  [[params.games.sample_guides]]
+    title = 'Best Drug Recipe Profit Rankings'
+    desc = 'From Green Crack to Blue Dream — per-gram profit, cost, and unlock level for every strain.'
+    date = 'Jun 3, 2026'
+    tag = 'MONEY'
+  [[params.games.sample_guides]]
+    title = 'Optimal Property Investment Route'
+    desc = 'RV → Bungalow → Mansion. Each tier costs, capacity, and when to upgrade for maximum ROI.'
+    date = 'Jun 1, 2026'
+    tag = 'UPGRADE'
+  [[params.games.sample_guides]]
+    title = 'Full Automation Workshop Guide'
+    desc = 'Handler + Chemist + Packer — the AFK money-making production line explained step by step.'
+    date = 'May 28, 2026'
+    tag = 'AUTOMATION'
+  [[params.games.sample_guides]]
+    title = 'All NPC Locations Map'
+    desc = 'Every dealer, supplier, and vendor with their trade preferences, schedules, and unlock conditions.'
+    date = 'May 25, 2026'
+    tag = 'REFERENCE'
+  [[params.games.sample_guides]]
+    title = 'Police System and Evasion Guide'
+    desc = 'Heat maps, patrol patterns, safe-house placements, and risk-free trade route strategies.'
+    date = 'May 20, 2026'
+    tag = 'SURVIVAL'
+  [[params.games.sample_guides]]
+    title = 'v0.4 Patch Analysis'
+    desc = 'New drugs, mechanics, community vote results — everything that changed and how to adapt.'
+    date = 'Apr 15, 2026'
+    tag = 'PATCH'
+  [[params.games.sample_guides]]
+    title = 'Fastest Early-Game Money Loop'
+    desc = 'From $0 to your first $10K — the optimal starter route that speedrunners use.'
+    date = 'Jun 5, 2026'
+    tag = 'SPEEDRUN'
+  [[params.games.sample_guides]]
+    title = 'Crop Hybridization Guide'
+    desc = 'Cross-breeding mechanics explained. Maximize yield and potency with optimal genetics.'
+    date = 'May 18, 2026'
+    tag = 'ADVANCED'
+  [[params.games.sample_guides]]
+    title = 'Expansion Strategy: Coast to Coast'
+    desc = 'When to expand to new cities, which locations give best returns, and logistics optimization.'
+    date = 'May 12, 2026'
+    tag = 'STRATEGY'
+
+[[params.games]]
+  id = 'dds2'
+  name = 'Drug Dealer Simulator 2'
+  short = 'DDS 2'
+  tagline = 'Open World Narcotics'
+  description = 'What turns a drug dealer into a drug lord? Find out in DDS2, a first-person co-op sim set in a dynamic open world. Make contacts, cook drugs, and manage your cartel.'
+  article_count = 0
+  is_coming_soon = false
+  badges = ['Open World', 'Co-op', '18 Screenshots']
+  url = '/dds2/'
+
+[[params.games]]
+  id = 'crime-sim'
+  name = 'Crime Simulator'
+  short = 'CRIME SIM'
+  tagline = 'Stealth Heist Co-op'
+  description = 'Sneak, steal, and break into houses solo or in 4-player co-op. Use lockpicks, sleeping gas, and brute force to complete jobs and outsmart security.'
+  article_count = 0
+  is_coming_soon = false
+  badges = ['Co-op', 'Stealth', '22 Screenshots']
+  url = '/crime-sim/'
+

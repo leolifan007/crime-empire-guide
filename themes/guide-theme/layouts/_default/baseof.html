@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -7,51 +7,64 @@
   <base href="{{ .Site.BaseURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  {{/* <-- REPLACE: Change Google Fonts URL to match your theme */}}
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ `css/main.css` | relURL }}">
-
-{{- with .Site.Params.google_analytics_id }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ . }}');
-</script>
-{{ end }}
-
-{{- with .Site.Params.google_adsense_id }}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
-{{ end }}
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  {{- partial "head/css.html" . }}
 </head>
 <body>
-<div class="site-header">
-  {{/* <-- REPLACE: Logo text and icon below */}}
+
+<header class="site-header">
   <a href="{{ `` | relURL }}" class="site-logo">
-    <span class="logo-icon">&#9670;</span> {{ .Site.Title }}
+    <span class="logo-icon">CE</span> CRIME EMPIRE
   </a>
   <div class="nav-links">
-    {{/* <-- REPLACE: Navigation links below - one per article */}}
-    <a href="{{ `guide-one/` | relURL }}" class="nav-btn">Guide One</a>
-    <a href="{{ `guide-two/` | relURL }}" class="nav-btn">Guide Two</a>
-    <a href="{{ `guide-three/` | relURL }}" class="nav-btn">Guide Three</a>
+    {{ range .Site.Params.games }}
+    {{ if $.IsHome }}
+    <a href="#" onclick="switchGame('{{ .id }}'); return false;" class="nav-btn">{{ .name }}</a>
+    {{ else }}
+    <a href="/{{ .id }}/" class="nav-btn">{{ .name }}</a>
+    {{ end }}
+    {{ end }}
+  </div>
+</header>
+
+<div class="page-wrap">
+  {{ block "main" . }}{{ end }}
+</div>
+
+<footer class="site-footer">
+  <div class="footer-links">
+    {{ range .Site.Params.games }}
+    {{ if $.IsHome }}
+    <a href="#" onclick="switchGame('{{ .id }}'); return false;">{{ .name }}</a>
+    {{ else }}
+    <a href="/{{ .id }}/">{{ .name }}</a>
+    {{ end }}
+    {{ end }}
+  </div>
+  <p class="copyright">&copy; 2026 Crime Empire Guide (Unofficial). This site is not affiliated with the game developers. All game content and materials are trademarks and copyrights of their respective owners.</p>
+</footer>
+
+<script src="/js/main.js"></script>
+
+<!-- Cookie Consent Banner -->
+<div id="cookie-banner" class="cookie-banner">
+  <div class="cookie-banner-content">
+    <p>We use cookies to deliver advertisements and analyse site traffic. <a href="#">Privacy Policy</a>.</p>
+    <button onclick="acceptCookies()" class="cookie-accept">Accept All</button>
   </div>
 </div>
 
-  <div class="page-wrap">
-    {{ block "main" . }}{{ end }}
-  </div>
+<script>
+function acceptCookies() {
+  localStorage.setItem('cookie_consent', 'accepted');
+  document.getElementById('cookie-banner').style.display = 'none';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  if (localStorage.getItem('cookie_consent')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+});
+</script>
 
-  <footer class="site-footer">
-    <div class="footer-links">
-      <a href="{{ `` | relURL }}">Guides</a>
-      <a href="{{ `tags/` | relURL }}">Topics</a>
-    </div>
-    {{/* <-- REPLACE: Footer text below */}}
-    <p><strong>{{ .Site.Title }}</strong> - Unofficial community guides.</p>
-    <p>&copy; {{ now.Year }} {{ .Site.Title }} - Game assets belong to their respective owners.</p>
-  </footer>
-<script src="{{ `js/main.js` | relURL }}"></script>
 </body>
 </html>
