@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#92C66D"/>
+    </marker>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#92C66D;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #92C66D; }
+    .label { font-family: Arial, sans-serif; font-size: 12px; fill: #c8d6e5; }
+    .box { fill: #16213e; stroke: #92C66D; stroke-width: 1.5; rx: 8; }
+    .arrow-line { stroke: #92C66D; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .sub-label { font-family: Arial, sans-serif; font-size: 10px; fill: #8395a7; }
+  </style>
+  <text x="20" y="24" class="title">Automation Employee Flow</text>
+  <!-- Shelf -->
+  <rect x="40" y="50" width="100" height="60" class="box"/>
+  <text x="90" y="74" class="label" text-anchor="middle">Ingredient</text>
+  <text x="90" y="90" class="label" text-anchor="middle">Shelf</text>
+  <text x="90" y="104" class="sub-label" text-anchor="middle">whitelist 2 items</text>
+  <!-- Arrow Shelf to Mix1 -->
+  <line x1="140" y1="80" x2="190" y2="80" class="arrow-line"/>
+  <text x="165" y="74" class="sub-label" text-anchor="middle">Handler</text>
+  <!-- Mixing Station 1 -->
+  <rect x="190" y="40" width="100" height="50" class="box"/>
+  <text x="240" y="62" class="label" text-anchor="middle">Mix Station 1</text>
+  <text x="240" y="78" class="sub-label" text-anchor="middle">Chemist</text>
+  <!-- Arrow Mix1 to Mix2 -->
+  <line x1="290" y1="65" x2="340" y2="65" class="arrow-line"/>
+  <!-- Mixing Station 2 -->
+  <rect x="340" y="40" width="100" height="50" class="box"/>
+  <text x="390" y="62" class="label" text-anchor="middle">Mix Station 2</text>
+  <text x="390" y="78" class="sub-label" text-anchor="middle">Chemist</text>
+  <!-- Arrow Mix2 to Mix3 -->
+  <line x1="440" y1="65" x2="460" y2="115" class="arrow-line"/>
+  <!-- Mixing Station 3 -->
+  <rect x="420" y="115" width="100" height="50" class="box"/>
+  <text x="470" y="137" class="label" text-anchor="middle">Mix Station 3</text>
+  <text x="470" y="153" class="sub-label" text-anchor="middle">Chemist</text>
+  <!-- Arrow Mix3 to Mix4 -->
+  <line x1="520" y1="140" x2="570" y2="140" class="arrow-line"/>
+  <!-- Mixing Station 4 -->
+  <rect x="570" y="115" width="100" height="50" class="box"/>
+  <text x="620" y="137" class="label" text-anchor="middle">Mix Station 4</text>
+  <text x="620" y="153" class="sub-label" text-anchor="middle">Chemist</text>
+  <!-- Arrow Mix4 to output -->
+  <line x1="620" y1="165" x2="620" y2="200" class="arrow-line"/>
+  <line x1="620" y1="200" x2="450" y2="200" class="arrow-line"/>
+  <!-- Output Box -->
+  <rect x="400" y="200" width="100" height="50" class="box"/>
+  <text x="450" y="224" class="label" text-anchor="middle">Output Box</text>
+  <text x="450" y="240" class="sub-label" text-anchor="middle">Packer</text>
+  <!-- Arrow to Loading Bay -->
+  <line x1="400" y1="225" x2="250" y2="225" class="arrow-line"/>
+  <!-- Loading Bay -->
+  <rect x="150" y="200" width="100" height="50" class="box"/>
+  <text x="200" y="224" class="label" text-anchor="middle">Loading Bay</text>
+  <text x="200" y="240" class="sub-label" text-anchor="middle">Handler takes here</text>
+  <!-- Arrow Loading to Customer -->
+  <line x1="150" y1="225" x2="80" y2="225" class="arrow-line"/>
+  <rect x="40" y="200" width="40" height="50" fill="none" stroke="#92C66D" stroke-dasharray="4,3" rx="4"/>
+  <text x="60" y="222" class="sub-label" text-anchor="middle">Dealer</text>
+  <text x="60" y="238" class="sub-label" text-anchor="middle">Delivery</text>
+  <!-- Legend -->
+  <rect x="20" y="270" width="680" height="40" fill="#0a0a1e" rx="4" opacity="0.7"/>
+  <text x="40" y="290" class="sub-label">Handler: moves items between zones. Chemist: mixes at stations. Packer: bags final product.</text>
+  <text x="40" y="304" class="sub-label">Maximum: 6 routes per Handler, 2 stations per Chemist, 4 bins per Packer</text>
+</svg>
