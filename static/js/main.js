@@ -13,12 +13,26 @@ function activateCard(card) {
 }
 
 function switchGame(gameId) {
-  // Lock content area height to prevent page jump during panel switch
   var contentArea = document.getElementById('home-content');
-  if (contentArea) {
-    contentArea.style.height = contentArea.offsetHeight + 'px';
+  var oldPanel = contentArea ? contentArea.querySelector('.game-panel.active') : null;
+  var newPanel = document.getElementById('panel-' + gameId);
+
+  // Measure new panel height before switching
+  if (contentArea && oldPanel && newPanel && oldPanel !== newPanel) {
+    var oldH = oldPanel.offsetHeight;
+    // Temporarily make new panel visible (but hidden) to measure height
+    newPanel.style.position = 'relative';
+    newPanel.style.opacity = '0';
+    newPanel.style.pointerEvents = 'none';
+    var newH = newPanel.offsetHeight;
+    newPanel.style.position = '';
+    newPanel.style.opacity = '';
+    newPanel.style.pointerEvents = '';
+    // Lock content area to max of old and new heights
+    contentArea.style.height = Math.max(oldH, newH) + 'px';
   }
 
+  // Switch hero cards
   var row = document.getElementById('heroAccordion');
   if (row) {
     var cards = row.children;
@@ -29,17 +43,23 @@ function switchGame(gameId) {
     if (target) target.classList.add('expanded');
   }
 
+  // Switch content panels
   var panels = document.querySelectorAll('.game-panel');
   for (var i = 0; i < panels.length; i++) {
     panels[i].classList.remove('active');
   }
-  var panel = document.getElementById('panel-' + gameId);
-  if (panel) panel.classList.add('active');
+  if (newPanel) newPanel.classList.add('active');
 
-  // Release height after new panel has rendered
+  // After new panel renders, transition to actual height then release
   requestAnimationFrame(function() {
     requestAnimationFrame(function() {
-      if (contentArea) {
+      if (contentArea && newPanel) {
+        contentArea.style.height = newPanel.offsetHeight + 'px';
+        // Release after CSS height transition completes
+        setTimeout(function() {
+          contentArea.style.height = '';
+        }, 350);
+      } else if (contentArea) {
         contentArea.style.height = '';
       }
     });
