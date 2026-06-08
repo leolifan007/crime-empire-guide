@@ -2,7 +2,7 @@
 title: "v0.4 Patch Analysis"
 date: 2026-04-15T00:00:00+08:00
 draft: false
-icon: 🔄
+icon: 
 game: schedule-i
 tag: PATCH
 weight: 6

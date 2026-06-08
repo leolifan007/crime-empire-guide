@@ -2,7 +2,7 @@
 title: "Crop Hybridization Guide"
 date: 2026-05-18T00:00:00+08:00
 draft: false
-icon: 🧬
+icon: 
 game: schedule-i
 tag: ADVANCED
 weight: 8

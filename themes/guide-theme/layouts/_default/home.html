@@ -2,15 +2,9 @@
 
 {{ $firstGame := index .Site.Params.games 0 }}
 
-{{/*
-  Section meta: count, latest Unix, isNew (<=10 days)
-  Uses direct iteration instead of partials to avoid scope issues.
-*/}}
-
 <!-- Hero Accordion -->
-<section class="hero">
+<section class="hero" id="home-hero">
   <div class="hero-acc" id="heroAccordion">
-
     {{ range $i, $game := .Site.Params.games }}
     {{- $gameSection := $.Site.GetPage (printf "/%s" $game.id) -}}
     {{- $count := 0 -}}
@@ -35,43 +29,41 @@
       {{- $days = div (sub $now $latest) 86400 -}}
     {{- end -}}
     {{- $isNew := and (gt $latest 0) (le $days 10) -}}
-    <div class="game-card game-{{ $game.id }} {{ if eq $i 0 }}expanded{{ end }}" data-game="{{ $game.id }}" onclick="activateCard(this); switchGame('{{ $game.id }}');">
-      <div class="pattern"></div>
+    {{- $ld := "" -}}
+    {{- if gt $latest 0 }}{{ $ld = $latest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
+
+    <div class="game-card theme-{{ $game.id }} {{ if eq $i 0 }}expanded{{ end }}" data-game="{{ $game.id }}" onclick="activateCard(this); switchGame('{{ $game.id }}');">
+      <div class="card-bg-cover"></div>
       <div class="card-gradient"></div>
-      <div class="content">
-        <div class="top-badges">
-          {{ if and (not $gameSection) $game.is_coming_soon }}
-          <span class="badge coming-badge">Coming Soon</span>
-          {{ else if $isNew }}
-          <span class="badge new-badge">NEW</span>
+      <div class="card-content">
+        {{ if or (not $gameSection) $game.is_coming_soon }}
+        <div class="card-badge coming-badge">Coming Soon</div>
+        {{ else if $isNew }}
+        <div class="card-badge new-badge pulse">NEW</div>
+        {{ end }}
+        <h2 class="card-title">{{ replace $game.name " " "<br>" 1 | safeHTML }}</h2>
+        <div class="card-expand-content">
+          <div class="card-tagline">{{ $game.tagline }}</div>
+          {{ if $gameSection }}
+          <div class="card-meta-info">
+            <span class="card-count">{{ $count }} guides</span>
+            {{ if and $ld (ne $ld "Jan 1") }}
+            <span class="card-updated">Updated {{ $ld }}</span>
+            {{ end }}
+          </div>
           {{ end }}
-          {{ range $game.badges }}
-          <span class="badge {{ if in . "Coming Soon" }}coming-badge{{ end }}">{{ . }}</span>
-          {{ end }}
-        </div>
-        <div class="game-title">{{ replace $game.name " " "<br>" 1 | safeHTML }}</div>
-        <div class="game-tagline">{{ $game.tagline }}</div>
-        <div class="game-stats">
-          <span>{{ if or (not $gameSection) $game.is_coming_soon }}{{ if not $game.is_coming_soon }}No articles yet{{ else }}Coming Soon{{ end }}{{ else }}{{ $count }} guides{{ end }}</span>
-          {{ if and $gameSection (gt $latest 0) }}
-          <span class="stat-sep">|</span>
-          <span>Updated {{ $latest | mul 1000 | dateFormat "Jan 2" }}</span>
-          {{ end }}
-        </div>
-        <div class="game-desc">
-          {{ $game.description | safeHTML }}
-          <br><a href="#" onclick="switchGame('{{ $game.id }}'); return false;" class="cta-btn">{{ if or (not $gameSection) $game.is_coming_soon }}PREVIEW{{ else }}EXPLORE GUIDES{{ end }}</a>
+          <div class="card-desc">{{ $game.description | safeHTML }}</div>
+          <a href="/{{ $game.id }}/" class="card-cta" onclick="event.stopPropagation();">EXPLORE {{ $game.short }}</a>
         </div>
       </div>
-      <div class="side-label">{{ $game.short }}</div>
+      <div class="card-side-label">{{ $game.short }}</div>
     </div>
     {{ end }}
-
   </div>
 </section>
 
 <!-- Content Area -->
-<section class="content-area">
+<section class="content-area" id="home-content">
 
   {{ range $game := .Site.Params.games }}
   {{- $gameSection := $.Site.GetPage (printf "/%s" $game.id) -}}
@@ -80,28 +72,17 @@
     {{- range $gameSection.RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end -}}
     {{- range $gameSection.Sections }}{{ range .RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end }}{{ end -}}
   {{- end -}}
-  <div class="game-panel panel-{{ $game.id }} {{ if eq $game.id $firstGame.id }}active{{ end }}" id="panel-{{ $game.id }}">
 
-    <div class="section-header">
-      <h2>{{ $game.name }} {{ if or (not $gameSection) $game.is_coming_soon }}— Coming Soon{{ else }}— Guide Index{{ end }}</h2>
-      <div class="line"></div>
-      <span class="game-indicator">{{ $totalCount }} articles</span>
+  <div class="game-panel panel-{{ $game.id }} {{ if eq $game.id $firstGame.id }}active{{ end }}" id="panel-{{ $game.id }}">
+    <div class="panel-header theme-{{ $game.id }}">
+      <h2><span class="panel-dot"></span> {{ $game.name }}</h2>
+      <span class="panel-count">{{ $totalCount }} articles</span>
     </div>
 
     {{ if or (not $gameSection) $game.is_coming_soon }}
-    <div class="coming-panel panel-{{ $game.id }}">
-      <div class="coming-panel-bg"></div>
+    <div class="coming-panel">
       <h3>UNDER CONSTRUCTION</h3>
-      <p>We're currently building the {{ $game.name }} guide database. Comprehensive coverage — including money guides, strategies, maps, and walkthroughs — coming soon.</p>
-      <div class="countdown">
-        {{ if or (eq $game.id "mafia-biz") (eq $game.id "underworld") }}
-        Game Release: TBA 2026
-        {{ else if eq $game.id "dds2" }}
-        Estimated Launch: 21 Days
-        {{ else }}
-        Estimated Launch: 14 Days
-        {{ end }}
-      </div>
+      <p>We're currently building the {{ $game.name }} guide database. Comprehensive coverage -- including money guides, strategies, maps, and walkthroughs -- coming soon.</p>
     </div>
     {{ else }}
     <div class="guides-grid">
@@ -119,23 +100,29 @@
           {{- $catDays = div (sub $now $catLatest) 86400 -}}
         {{- end -}}
         {{- $catIsNew := and (gt $catLatest 0) (le $catDays 10) -}}
-        {{- $ld := "" -}}
-        {{- if gt $catLatest 0 }}{{ $ld = $catLatest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
-        <a href="{{ .RelPermalink }}" class="guide-item game-{{ $game.id }}">
-          <div class="guide-icon" style="background-image: url('{{ with .Params.image }}{{ . }}{{ end }}'); background-size: cover; background-position: center;"></div>
-          <h3>{{ .Title }}</h3>
-          <p>{{ with .Description }}{{ . }}{{ end }}</p>
-          <div class="meta">
-            <span class="tag">{{ .Params.tag }}</span>
-            {{ if $catIsNew }}<span class="new-chip">NEW</span>{{ end }}
-            <span>{{ $catCount }} art.</span>
-            {{ if and $ld (ne $ld "Jan 1") }}<span class="update-date">{{ $ld }}</span>{{ end }}
+        {{- $ldDisplay := "" -}}
+        {{- if gt $catLatest 0 }}{{ $ldDisplay = $catLatest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
+
+        <a href="{{ .RelPermalink }}" class="guide-card theme-{{ $game.id }}">
+          <div class="guide-card-visual">
+            <div class="guide-card-img"{{ with .Params.image }} style="background-image: url('{{ . }}')"{{ end }}></div>
+            {{ if $catIsNew }}<div class="guide-card-new">NEW</div>{{ end }}
+          </div>
+          <div class="guide-card-body">
+            <h3>{{ .Title }}</h3>
+            <p>{{ with .Description }}{{ . }}{{ end }}</p>
+          </div>
+          <div class="guide-card-footer">
+            <span class="guide-card-tag">{{ .Params.tag }}</span>
+            <span class="guide-card-count">{{ $catCount }} articles</span>
+            {{ if and $ldDisplay (ne $ldDisplay "Jan 1") }}
+            <span class="guide-card-updated">{{ $ldDisplay }}</span>
+            {{ end }}
           </div>
         </a>
       {{ end }}
     </div>
     {{ end }}
-
   </div>
   {{ end }}
 

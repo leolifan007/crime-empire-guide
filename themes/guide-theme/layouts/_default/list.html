@@ -1,4 +1,4 @@
-{{ define "main" }}
+﻿{{ define "main" }}
 
 {{ $gameID := .Params.game }}
 {{ $gameName := "" }}
@@ -51,7 +51,6 @@
           </div>
           <div class="article-body game-{{ $gameID }}">
             {{ .Content | safeHTML }}
-          </div>
         </article>
       </div>
       {{ end }}

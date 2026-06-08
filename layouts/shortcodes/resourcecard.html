@@ -1,0 +1,7 @@
+﻿{{- $name := .Get "name" | default "Resource" -}}
+{{- $url := .Get "url" | default "#" -}}
+{{- $desc := .Get "desc" | default "" -}}
+<a href="{{ $url }}" class="resource-card" target="_blank" rel="noopener">
+  <span class="resource-name">{{ $name }}</span>
+  <span class="resource-desc">{{ $desc }}</span>
+</a>

@@ -1,0 +1,7 @@
+﻿{{- $title := .Get "title" | default "" -}}
+<div class="note-item">
+  <div class="note-body">
+    {{- if $title }}<strong>{{ $title }}</strong>{{ end -}}
+    {{ .Inner | safeHTML }}
+  </div>
+</div>

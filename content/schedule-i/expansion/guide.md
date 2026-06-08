@@ -2,7 +2,7 @@
 title: "Expansion Strategy: Coast to Coast"
 date: 2026-05-12T00:00:00+08:00
 draft: false
-icon: 🌎
+icon: 
 game: schedule-i
 tag: STRATEGY
 weight: 9

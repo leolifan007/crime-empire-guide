@@ -33,7 +33,7 @@ buildDrafts = false
   description = 'Build your drug empire from a broken RV to a criminal dynasty. Mix, deal, expand, automate — every gram counts.'
   article_count = 156
   is_coming_soon = false
-  badges = ['275K Reviews', 'Co-op', '98% Positive']
+  badges = ['Hot']
   url = '/schedule-i/'
   [[params.games.sample_guides]]
     title = 'Best Drug Recipe Profit Rankings'
@@ -89,7 +89,7 @@ buildDrafts = false
   description = 'What turns a drug dealer into a drug lord? Find out in DDS2, a first-person co-op sim set in a dynamic open world. Make contacts, cook drugs, and manage your cartel.'
   article_count = 0
   is_coming_soon = false
-  badges = ['Open World', 'Co-op', '18 Screenshots']
+  badges = ['New']
   url = '/dds2/'
 
 [[params.games]]
@@ -100,6 +100,6 @@ buildDrafts = false
   description = 'Sneak, steal, and break into houses solo or in 4-player co-op. Use lockpicks, sleeping gas, and brute force to complete jobs and outsmart security.'
   article_count = 0
   is_coming_soon = false
-  badges = ['Co-op', 'Stealth', '22 Screenshots']
+  badges = ['Trending']
   url = '/crime-sim/'
 

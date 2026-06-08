@@ -1,4 +1,6 @@
 // Crime Empire Guide - Accordion + Panel Switching
+// Cards use onclick="activateCard(this); switchGame('id');" directly in HTML
+// CTA links use onclick="event.stopPropagation();" to prevent card click
 
 function activateCard(card) {
   var row = document.getElementById('heroAccordion');
@@ -27,8 +29,6 @@ function switchGame(gameId) {
   }
   var panel = document.getElementById('panel-' + gameId);
   if (panel) panel.classList.add('active');
-
-
 }
 
 document.addEventListener('keydown', function(e) {

@@ -1,0 +1,12 @@
+﻿{{- $cost := .Get "cost" | default "?" -}}
+{{- $sell := .Get "sell" | default "?" -}}
+{{- $profit := .Get "profit" | default "?" -}}
+{{- $type := .Get "type" | default "normal" -}}
+{{- $class := cond (eq $type "highlight") " highlight" (cond (eq $type "end") " end" "") -}}
+<div class="step-metrics{{ $class }}">
+  <span class="metric-cost">Cost {{ $cost }}</span>
+  <span class="metric-arrow">→</span>
+  <span class="metric-sell">Sell {{ $sell }}</span>
+  <span class="metric-sep">·</span>
+  <span class="metric-profit">Profit {{ $profit }}</span>
+</div>

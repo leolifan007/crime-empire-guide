@@ -1,0 +1,20 @@
+﻿{{- $num := .Get "num" | default "1" -}}
+{{- $name := .Get "name" | default "" -}}
+{{- $badge := .Get "badge" | default "" -}}
+{{- $type := .Get "type" | default "normal" -}}
+{{- $markerClass := cond (eq $type "milestone") " highlight" (cond (eq $type "end") " end" "") -}}
+{{- $panelClass := $markerClass -}}
+{{- $dotContent := cond (eq $type "milestone") "★" $num -}}
+<div class="upgrade-step">
+  <div class="step-marker{{ $markerClass }}">
+    <span class="step-dot{{ if (eq $type "milestone") }} star{{ end }}">{{ $dotContent }}</span>
+    <div class="step-rail"></div>
+  </div>
+  <div class="step-panel{{ $panelClass }}">
+    <div class="step-rank">
+      <span class="rank-name">{{ $name }}</span>
+      {{- if $badge }}<span class="rank-badge{{ if (eq $type "milestone") }} milestone{{ else if (eq $type "end") }} gold{{ end }}">{{ $badge }}</span>{{ end -}}
+    </div>
+    {{ .Inner | safeHTML }}
+  </div>
+</div>

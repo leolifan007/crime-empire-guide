@@ -2,7 +2,7 @@
 title: "All NPC Locations Map"
 date: 2026-05-25T00:00:00+08:00
 draft: false
-icon: 🗺️
+icon: 
 game: schedule-i
 tag: REFERENCE
 weight: 4

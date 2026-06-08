@@ -69,13 +69,13 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
 
 <div class="upgrade-step">
   <div class="step-marker highlight">
-    <span class="step-dot star">★</span>
+    <span class="step-dot star"></span>
     <div class="step-rail"></div>
   </div>
   <div class="step-panel highlight">
     <div class="step-rank">
       <span class="rank-name">Peddler III</span>
-      <span class="rank-badge milestone">⚡ Milestone</span>
+      <span class="rank-badge milestone"> Milestone</span>
     </div>
     <div class="step-brew">
       {{< material "og_kush" >}}<span class="step-plus">+</span>{{< material "battery" >}}<span class="step-plus">+</span>{{< material "horse_semen" >}}<span class="step-plus">+</span>{{< material "mega_bean" >}}
@@ -122,7 +122,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
   <div class="step-panel">
     <div class="step-rank">
       <span class="rank-name">Kingpin</span>
-      <span class="rank-badge gold">👑 Endgame</span>
+      <span class="rank-badge gold"> Endgame</span>
     </div>
     <div class="step-brew">
       {{< material "cocaine" >}}<span class="step-plus">+</span>9-mix
@@ -161,13 +161,13 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
 
 <div class="recipe-notes">
   <div class="note-item">
-    <span class="note-icon">💡</span>
+    <span class="note-icon"></span>
     <div class="note-body">
       <strong>Why most players miss this.</strong> {{< material "horse_semen" >}} is not sold by a named supplier. It comes from a random NPC at the motel. The game does not put it on your map. You have to check every room or wait for a dealer to offer it.
     </div>
   </div>
   <div class="note-item">
-    <span class="note-icon">📊</span>
+    <span class="note-icon"></span>
     <div class="note-body">
       <strong>Better than the alternative.</strong> Compare to Green Crack 6-mix at the same rank ($98 net) — this recipe wins by 38% more profit with half the mixing steps.
     </div>
@@ -200,17 +200,17 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
   <p>Recipe values shift with every patch. The data above reflects v0.4 (April 2026). Before building a production line around a specific recipe, cross-check against:</p>
   <div class="resource-grid">
     <a href="https://schedule-1-calculator.com/" class="resource-card" target="_blank" rel="noopener">
-      <span class="resource-icon">🧮</span>
+      <span class="resource-icon"></span>
       <span class="resource-name">Schedule 1 Calculator</span>
       <span class="resource-desc">Real-time ingredient chain with cost and sell price</span>
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3648818766" class="resource-card" target="_blank" rel="noopener">
-      <span class="resource-icon">📖</span>
+      <span class="resource-icon"></span>
       <span class="resource-name">Complete Mixing Database</span>
       <span class="resource-desc">Tested recipes for all substances in v0.4</span>
     </a>
     <a href="https://www.pcgamer.com/games/sim/best-schedule-1-mixing-recipes-guide/" class="resource-card" target="_blank" rel="noopener">
-      <span class="resource-icon">🎮</span>
+      <span class="resource-icon"></span>
       <span class="resource-name">PC Gamer Recipe Guide</span>
       <span class="resource-desc">Community-discovered recipes updated after each patch</span>
     </a>

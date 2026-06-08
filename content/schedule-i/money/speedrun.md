@@ -2,7 +2,7 @@
 title: "Fastest Early-Game Money Loop"
 date: 2026-06-05T00:00:00+08:00
 draft: false
-icon: 💰
+icon: 
 game: schedule-i
 tag: SPEEDRUN
 weight: 7

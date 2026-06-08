@@ -2,7 +2,7 @@
 title: "Optimal Property Investment Route"
 date: 2026-06-01T00:00:00+08:00
 draft: false
-icon: 🏠
+icon: 
 game: schedule-i
 tag: UPGRADE
 weight: 2
