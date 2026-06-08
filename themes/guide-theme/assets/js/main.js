@@ -11,6 +11,12 @@ function activateCard(card) {
 }
 
 function switchGame(gameId) {
+  // Lock content area height to prevent page jump during panel switch
+  var contentArea = document.getElementById('home-content');
+  if (contentArea) {
+    contentArea.style.height = contentArea.offsetHeight + 'px';
+  }
+
   var row = document.getElementById('heroAccordion');
   if (row) {
     var cards = row.children;
@@ -28,7 +34,14 @@ function switchGame(gameId) {
   var panel = document.getElementById('panel-' + gameId);
   if (panel) panel.classList.add('active');
 
-
+  // Release height after new panel has rendered
+  requestAnimationFrame(function() {
+    requestAnimationFrame(function() {
+      if (contentArea) {
+        contentArea.style.height = '';
+      }
+    });
+  });
 }
 
 document.addEventListener('keydown', function(e) {
