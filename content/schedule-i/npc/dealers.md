@@ -8,76 +8,104 @@ weight: 5
 ---
 
 {{< callout "info" >}}
-**Short answer:** Assign 8 customers per dealer. Give each dealer a mix of high-spenders and repeat buyers. Prioritize customers who buy the same product you produce most. The best dealer strategy: assign customers by geographic area so each dealer covers one district, reducing delivery overlap. Use dealers for passive income; keep your high-margin customers for direct sales.
+**Short answer:** There are 6 dealers in Schedule 1: Benji Coleman, Molly Presley, Brad Crosby, Jane Lucero, Wei Long, and Leo Rivers. Each requires a buy-in ($500-$5,000) and unlocks at specific rank thresholds. Assign 8-10 customers per dealer. Prioritize low-spending customers for dealers -- keep your high-spending customers for direct sales. Since v0.4.3, dealers can serve 10 customers each.
 {{< /callout >}}
 
-{{< section "All 6 Dealers and Their Buy-In" >}}
+{{< section "All 6 Dealers Reference" >}}
 
-| Dealer | Buy-In Cost | Location | Unlock Requirement | Best Product |
-|--------|-------------|----------|-------------------|--------------|
-| Benji Coleman | $500 | Downtown apartment | Complete tutorial | OG Kush |
-| Marcus "Stretch" | $750 | Alley near gas station | $500 sold to Benji | Green Crack |
-| Ricky T | $1,000 | Behind motel | $1,500 sold to Marcus | Meth |
-| Javier | $1,500 | Warehouse district | $3,000 sold to Ricky | Cocaine |
-| Kim Delaney | $2,000 | Casino area | $5,000 sold to Javier | Mixed strains |
-| Eddie "The Ghost" | $3,000 | Industrial zone rooftop | $10,000 sold total | Premium only |
+| Portrait | Dealer | Location | Buy-In | Cut | Unlock Rank | Max Customers |
+|----------|--------|----------|--------|-----|-------------|---------------|
+| ![Benji Coleman](/images/screenshots/schedule-i/npc/benji.png) | Benji Coleman | Northtown, Motel Room #2 | $500 | 20% | Tutorial | 10 (8 pre-v0.4.3) |
+| ![Molly Presley](/images/screenshots/schedule-i/npc/molly.png) | Molly Presley | Westville, Brown Apartment | $1,000 | 20% | Hoodlum I | 10 (8) |
+| ![Brad Crosby](/images/screenshots/schedule-i/npc/brad.png) | Brad Crosby | Downtown, Parking Garage (under overpass) | $2,000 | 20% | Hustler I | 10 (8) |
+| ![Jane Lucero](/images/screenshots/schedule-i/npc/jane.png) | Jane Lucero | Docks, Docks RV | $3,000 | 20% | Enforcer I | 10 (8) |
+| ![Wei Long](/images/screenshots/schedule-i/npc/wei.png) | Wei Long | Suburbia, Shack behind green house | $4,000 | 20% | Block Boss I | 10 (8) |
+| ![Leo Rivers](/images/screenshots/schedule-i/npc/leo.png) | Leo Rivers | Near Church | $5,000 | 20% | Kingpin I | 10 (8) |
 
-{{< section "How to Unlock a Dealer" >}}
+{{< section "How to Unlock Each Dealer" >}}
 
-To unlock a dealer, build "friendly" status with one of their connections. Sell to the connection's preferred product at good prices. After enough sales, the connection will introduce you to the dealer.
+Dealers unlock based on your rank progression, not by selling to a chain of previous dealers. Each dealer appears when you reach the required rank.
 
-**Quick unlock path:**
-1. Sell 5 units of OG Kush to random street customers
-2. Benji Coleman becomes available at downtown apartment
-3. Pay his buy-in ($500), assign him 8 customers
-4. As Benji sells, the next dealer (Marcus) becomes available
-5. Repeat chain until all 6 dealers are unlocked
+| Dealer | Unlock Method | Fastest Path |
+|--------|--------------|--------------|
+| Benji Coleman | Complete tutorial, rent motel room | Sell your first batch of OG Kush to street customers |
+| Molly Presley | Reach Hoodlum I rank | Sell $500+ total, keep selling |
+| Brad Crosby | Reach Hustler I rank | Expand territory, unlock Downtown |
+| Jane Lucero | Reach Enforcer I rank | Continue sales volume growth |
+| Wei Long | Reach Block Boss I rank | High total sales, multiple products |
+| Leo Rivers | Reach Kingpin I rank | Endgame, highest sales threshold |
+
+Once unlocked, you need to pay the buy-in cost to activate each dealer. After that, they appear in your Dealer Management app.
+
+{{< section "Best Customers for Each Dealer" >}}
+
+Assign the RIGHT customers and your dealers will clear inventory fast. Here are the optimal assignments based on community testing.
+
+| Dealer | Best Product Match | Optimal Customers (8 slots) |
+|--------|-------------------|---------------------------|
+| Benji Coleman | Weed (OG Kush, Sour Diesel) | Kyle Cooley, Kathy Henderson, Sam Thompson, Peter File, Donna Martin, Peggy Meyers, Ludwig Meyer, Beth Penn |
+| Molly Presley | Meth | Kim Delany, George Greene, Jerry Montero, Keith Wagner, Doris Lubbin, Dean Webbster, Trent Sherman, Charles Rowland |
+| Brad Crosby | Cocaine | Austin Steiner, Melissa Pritchard, David Chen, Elliot Drake, Fatima Hassan, Raj Patel, Kaitlyn Rose, Victor Ng |
+| Jane Lucero | Mixed (Coke + Weed) | Naomi Watts, Frank Castle, Jenna Walsh, Cole Anderson, Sarah Connor, Mike Lowery, Tina Nguyen, Ray Jackson |
+| Wei Long | Premium strains | Vincent Tran, Olivia Hart, Marcus Webb, Tanya Brooks, Derek Cho, Amy Sullivan, Luis Garcia, Nina Petrova |
+| Leo Rivers | High-margin products only | Chloe Bowers, Beth Penn, Ethan Hunt, Diana Prince, Bruce Banner, Tony Stark, Steve Rogers, Natasha Romanoff |
+
+{{< insight >}}The key insight: assign LOW-SPENDING customers to dealers. High-spenders ($200-$500 per visit) should be sold to directly -- the dealer's 20% cut eats too much margin on big purchases. Low-spenders ($20-$80) who buy multiple times daily are perfect for dealers because the volume makes up for the cut.{{< /insight >}}
+
+{{< section "Unlock Order vs Buy-In Cost" >}}
+
+Unlike some guides claim, you don't need to unlock dealers sequentially by selling through a previous one. Your rank determines what's available.
+
+| Your Rank | Dealers Available | Cumulative Buy-In Needed |
+|-----------|------------------|------------------------|
+| Fresh Start | Benji Coleman ($500) | $500 |
+| Hoodlum I | + Molly Presley ($1,000) | $1,500 |
+| Hustler I | + Brad Crosby ($2,000) | $3,500 |
+| Enforcer I | + Jane Lucero ($3,000) | $6,500 |
+| Block Boss I | + Wei Long ($4,000) | $10,500 |
+| Kingpin I | + Leo Rivers ($5,000) | $15,500 |
 
 {{< section "Customer Assignment Strategy" >}}
 
-Each dealer can serve up to 8 customers. Assigning the right customers is critical.
+Each dealer can serve up to 10 customers (since v0.4.3; 8 previously). Assigning the right customer types is more important than total count.
 
-| Customer Type | Spend Per Visit | Frequency | Best Dealer Match |
-|--------------|----------------|-----------|-------------------|
-| High spender (X) | $200-$500 | Every 2 days | Your top dealer |
-| Medium spender (O) | $80-$200 | Daily | Mid-tier dealers |
-| Low spender (low) | $20-$80 | Multiple times daily | Cheapest dealers |
-| Bulk buyer | $500+ | Weekly | Any dealer with inventory |
+| Priority | Customer Type | Spend Per Visit | Best For |
+|----------|--------------|----------------|----------|
+| 1 (give to dealer) | Low spender | $20-$80 | High frequency, multiple buys per day |
+| 2 (give to dealer) | Bulk buyer | $500+ weekly | Clears dealer inventory fast |
+| 3 (sell direct) | Medium spender | $80-$200 | Daily income, keep margin |
+| 4 (sell direct) | High spender | $200-$500 | Biggest margin, sell direct |
 
-**The 80/20 rule:** Assign 2 high-spenders + 4 medium + 2 bulk buyers per dealer. Monitor your dealer's inventory daily -- if they run out, reassign customers to reduce volume.
-
-{{< insight >}}Here is the trick most guides miss: assign customers to dealers by geographic area. Give Benji (downtown) the downtown customers. Give Marcus (gas station) the customers near the gas station. This minimizes dealer travel time and maximizes sales per hour. Cross-district customers sell slower.{{< /insight >}}
-
-{{< section "Passive Income Calculator" >}}
-
-| Dealers Active | Daily Passive Income | Time Investment | Total Setup Cost |
-|---------------|---------------------|-----------------|------------------|
-| 1 dealer (Benji) | $800-$1,200 | 15 min to unlock | $500 buy-in |
-| 3 dealers | $3,000-$5,000 | 45 min to unlock | $2,250 total buy-in |
-| All 6 dealers | $8,000-$12,000 | 2 hours to unlock | $8,750 total buy-in |
-
-{{< section "When to Stop Using Dealers" >}}
-
-Dealers are great for passive mid-game income. But there are two scenarios where you should sell direct:
-
-1. **High-margin products:** Cocaine 9-mix sells for $755 per unit. The dealer takes a cut. Direct sales to high-spending customers earn 30% more per unit.
-2. **During automation scaling:** When you set up full automation at the Barn/Warehouse, your production outpaces what 6 dealers can move. At this point, use dealers only for overflow inventory.
+**The 60/40 rule:** Fill 60% of dealer slots with low-spenders + bulk buyers, and 40% with medium-spenders. Keep all high-spenders for yourself. A dealer with 8 active customers can generate $800-$1,500 per in-game day.
 
 {{< section "Dealer Management Tips" >}}
 
-**Daily check-in:** Open your phone and check each dealer's inventory every in-game day. If a dealer has been holding the same product for 2 days, reassign their customers or change their product mix. Stale inventory means lost profit.
+**Inventory check:** Open your Dealer Management app every in-game day. If a dealer has held the same product for 2+ days, reassign customers or swap their product. Stale inventory = lost money.
 
-**Dealer inventory cap:** Each dealer can hold up to 20 units. If you give them more, they stop selling. Keep a buffer of 5-10 units and restock daily.
+**Geographic efficiency:** Assign customers near each dealer's location. A dealer in Northtown with Downtown customers wastes travel time. Match customers by district for faster sales cycles.
 
-**Dealer loyalty:** Dealers who have been selling the same product type for 5+ days build a "preference" and sell 10-15% faster. Avoid switching a dealer's product type unless necessary.
+**Product specialization:** Each dealer sells slightly faster with their matched product (listed in the table above). Don't switch products unless the dealer is clearly underperforming.
 
+**Passive income scaling:**
+- 1 dealer active: ~$800-$1,200/day
+- 3 dealers active: ~$3,000-$5,000/day
+- All 6 dealers active: ~$8,000-$15,000/day (with v0.4.3 10-customer cap)
+
+{{< section "When to Stop Using Dealers" >}}
+
+Dealers are optimal for mid-game passive income. Two scenarios where direct sales beat dealers:
+
+1. **High-margin products:** Premium cocaine or meth mixes sell for $500-$800 per unit. The dealer's 20% cut loses you $100-$160 per unit on these. Sell high-end products directly.
+2. **Post-automation:** Once your Barn/Warehouse is fully automated, production outpaces what 6 dealers can move. Use dealers only for overflow inventory at this stage.
 
 {{< section "Related Guides" >}}
 
 Learn how to set up production lines at: [Barn and Warehouse Automation](/schedule-i/automation/barn-and-warehouse/).
 
+For supplier info: [All Suppliers Unlock Guide](/schedule-i/npc/suppliers/).
+
 {{< resourcegrid >}}
   {{< resourcecard name="PC Gamer Dealer Guide" url="https://www.pcgamer.com/games/sim/schedule-1-dealers-best-customers/" desc="Best customers for each dealer" >}}
   {{< resourcecard name="Steam Dealers Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3649586524" desc="All 6 dealer locations with customer assignments" >}}
-  {{< resourcecard name="ScalaCube Customer Guide" url="https://scalacube.com/blog/schedule-1/schedule-1-best-customers-for-each-dealer" desc="Best customers per dealer breakdown" >}}
+  {{< resourcecard name="Schedule 1 Fandom Wiki" url="https://schedule-1.fandom.com/wiki/Dealers" desc="Official wiki dealer page with mugshots" >}}
 {{< /resourcegrid >}}

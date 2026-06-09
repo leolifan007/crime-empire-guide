@@ -58,15 +58,14 @@ The Docks Warehouse ($50,000, Hoodlum V rank unlock, 6PM-6AM access) is the larg
 4. Two Packer stations at the west loading bay, each bagging different product sizes ($50 and $100 bags).
 5. Three Handlers on routes: Loading bay <-> Shelves, Shelves <-> Stations, Stations <-> Packer.
 
-| Metric | Barn (Meth 4-mix) | Warehouse (Coke 8-mix) |
+| Metric | Barn (Meth 4-mix, approx.) | Warehouse (Coke 8-mix, approx.) |
 |--------|-------------------|----------------------|
 | Setup cost | $25K property + $5K equipment | $50K property + $12K equipment |
-| Daily employee cost | $490 | $790 |
+| Daily employee cost | ~$490 | ~$790 |
 | Units per day | ~120 | ~240 |
-| Profit per unit | $127 (Meth) | $305 (Cocaine) |
-| Daily gross | $15,240 | $73,200 |
-| Daily net after wages | $14,750 | $72,410 |
-| Days to recoup setup | ~2 days | ~0.85 days |
+| Profit per unit (estimated) | $100-130 (Meth) | $250-350 (Cocaine) |
+| Daily gross (estimated) | $12K-$18K | $60K-$85K |
+| Days to recoup setup | ~2-3 days | ~1 day |
 
 {{< section "Automation Priority Order" >}}
 

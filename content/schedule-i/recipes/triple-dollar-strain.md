@@ -21,15 +21,16 @@ weight: 2
 | Cuke | Gas station or Albert | ~$2 | Adds stability |
 | **Total** | | **~$10** | **Sell price: $120+** |
 
-{{< section "More Popular Custom Strains" >}}
+{{< section "Popular Custom Strains" >}}
 
-| Name | Ingredients | Sell Price | Per-Unit Profit | Unlock Rank |
-|------|-------------|------------|-----------------|-------------|
-| Triple Dollar | OG Kush + Banana + Battery + Cuke | $120+ | $110+ | Peddler I |
-| Gorilla Mix | OG Kush + Horse Semen + Mega Bean + Donut | $150+ | $135+ | Peddler III |
-| Strawberry Monkey | Green Crack + Banana + Chili + Energy Drink | $135+ | $120+ | Hustler III |
-| Ocean OG | OG Kush + Cuke + Motor Oil + Battery | $145+ | $130+ | Hustler II |
-| Haze Diesel | Sour Diesel + Gasoline + Paracetamol + Mega Bean | $160+ | $145+ | Dealer I |
+Here are community-discovered custom strain recipes that sell for higher than standard mixes:
+
+| Strain Name | Ingredients | Sell Price (approx.) | Unlock Rank |
+|-------------|-------------|---------------------|-------------|
+| Triple Dollar | OG Kush + Banana + Battery + Cuke | $120+ | Peddler I |
+| Purple Cheese | OG Kush + Mouth Wash | $64 | Hoodlum (for Mixing Mania quest) |
+
+Note: Strain sell prices vary based on mix order and market. Use schedule-1-calculator.com to optimize your recipes.
 
 {{< insight >}}The key to custom strain value is ingredient ordering. Always add the lowest-value ingredient first and highest-value last. The Mixing Station calculates final value based on the sequence, not just the combination. Experiment with order changes -- the same 4 ingredients can vary by $20-30 in sell price depending on mix order.{{< /insight >}}
 

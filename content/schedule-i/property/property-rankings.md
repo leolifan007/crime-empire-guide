@@ -26,7 +26,7 @@ weight: 2
 
 Buy this as soon as you have $6K. Located at Ray's Realty (northeast of the burned RV marker). The Bungalow has space for 4 Mixing Stations, 2 shelves, and 5 employees.
 
-**Setup priority:** 1 loading bay. Use it for OG Kush 4-mix production. 2 Chemists + 2 Handlers + 1 Packer. This covers all your mid-game production needs. Expect daily revenue of $8K-$12K from this property alone.
+**Setup priority:** 1 loading bay. Use it for OG Kush 4-mix production. 2 Chemists + 2 Handlers + 1 Packer. This covers all your mid-game production needs.
 
 **Upgrade trigger:** Move to the Barn when you have $25K saved AND your daily Bungalow production maxes out (you are producing more than 4 Mixing Stations can handle).
 

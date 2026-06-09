@@ -15,11 +15,11 @@ weight: 10
 
 | Zone | Police Density | Properties | Suppliers | Best Time | Risk Level |
 |------|---------------|------------|-----------|-----------|------------|
-| Downtown | High (2 patrols + 1 station) | Apartment (free) | Dan's Hardware | Day | Medium |
-| Motel Area | Low (1 patrol) | Bungalow ($6K) | Albert, Horse Semen NPC | Any | Low |
-| Industrial | Medium (1 patrol) | Barn ($25K) | Hidden Workshop | Day | Medium |
-| Docks | Medium (1 night patrol) | Docks Warehouse ($50K) | Dock Supplier | Night (6PM-6AM) | Medium |
-| Highway/North | Low (1 patrol) | None | Casino | Night | Low |
+| Downtown | High (2 patrols + 1 station) | Apartment (free) | Dan Samwell (shop) | Day | Medium |
+| Motel/Westville | Low (1 patrol) | Bungalow ($6K) | Albert Hoover | Any | Low |
+| Industrial | Medium (1 patrol) | Barn ($25K) | Shirley Watts, Fungal Phil | Day | Medium |
+| Docks | Medium (1 night patrol) | Docks Warehouse ($50K) | Salvador Moreno | Night (6PM-6AM) | Medium |
+| Highway/North | Low (1 patrol) | None | Casino, vending machines | Night | Low |
 
 {{< section "Downtown Zone" >}}
 
@@ -35,10 +35,10 @@ The starting area. Contains:
 {{< section "Motel Area (East)" >}}
 
 The best early-game zone. Contains:
-- **Albert's room:** primary mid-tier supplier
+- **Albert Hoover:** primary mid-tier supplier, Motel room
 - **Random NPC rooms:** Horse Semen vendor (check every room)
 - **Trash spawns:** 3-4 bags behind motel, restock daily
-- **Parking garage:** rooftop hiding spot (100% police escape)
+- **Parking garage:** rooftop hiding spot (police escape)
 
 **Selling strategy:** Lowest police density in the game. Perfect for street dealing and dealer assignments. Buy the Bungalow here first.
 
@@ -46,8 +46,8 @@ The best early-game zone. Contains:
 
 Mid-game zone, unlocked at Dealer rank. Contains:
 - **The Barn** (east side): $25K, best value property
-- **Hidden Workshop** (alley entrance): meth precursor supplier
-- **Meth supplier area:** industrial park
+- **Shirley Watts' stash:** West face of Warehouse
+- **Fungal Phil's stash:** Behind Gas-Mart
 
 **Selling strategy:** Medium police density. Use dealers here instead of street selling. The Barn's 2-floor layout takes time to optimize.
 
@@ -55,7 +55,7 @@ Mid-game zone, unlocked at Dealer rank. Contains:
 
 Late-game zone, accessible 6PM-6AM. Contains:
 - **Docks Warehouse** ($50K): largest pre-Manor property
-- **Dock Supplier:** cocaine base ingredients
+- **Salvador Moreno's stash:** Behind Church (east side)
 
 **Selling strategy:** Night-only access means you need to plan your production schedule around the time gate. Stockpile ingredients during the day and produce at night.
 

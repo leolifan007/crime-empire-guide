@@ -8,7 +8,7 @@ weight: 6
 ---
 
 {{< callout "info" >}}
-**Short answer:** v0.4.5 (March 30, 2026) added the Golden M1911 pistol, Big Sprinkler for faster plant watering, a reorder feature for the delivery app, and dynamic reticle for ranged weapons. Meta impact: Big Sprinkler reduces Botanist workload by 40%, reorder saves 30% delivery management time. No major recipe or police behavior changes.
+**Short answer:** v0.4.5 (March 30, 2026) added the Golden M1911 pistol, Big Sprinkler for faster plant watering, a reorder feature for the delivery app, and dynamic reticle for ranged weapons. Meta impact: Big Sprinkler changes Botanist efficiency and watering throughput. No major recipe or police behavior changes.
 {{< /callout >}}
 
 {{< section "New Additions in v0.4.5" >}}
@@ -56,31 +56,30 @@ The Big Sprinkler is the most impactful addition in v0.4.5. It replaces the basi
 
 | Version | Date | Key Changes |
 |---------|------|-------------|
-| v0.1.x | Dec 2024 | Initial release, basic drug mixing |
-| v0.2.4 | Jan 2025 | Co-op multiplayer added |
-| v0.2.5 | Jan 2025 | Customer improvements |
-| v0.3.x | Mar-Apr 2025 | New stores, decor items, functional shops |
-| v0.3.4 | Apr 2025 | First major content update |
-| v0.4.0 | Sep 2025 | Multiplayer stability focus |
-| v0.4.1 | Oct 2025 | Bug fixes, multiplayer tweaks |
-| v0.4.5 | Mar 2026 | Anniversary Update: Big Sprinkler, reorder, Golden M1911 |
+| v0.1.x | Mar 2025 | Initial early access release |
+| v0.2.4 | Apr 2025 | Co-op multiplayer added |
+| v0.2.5 | Apr 2025 | Customer improvements |
+| v0.3.4 | 2025.04.07 | Pawn Shop, Fancy Stuff, first content update |
+| v0.3.5 | 2025.05.08 | Jukebox, Storage Unit |
+| v0.3.6 | 2025.06.08 | Filters, Employee Tweaks, Save System |
+| v0.4.0 | 2025.08.28 | Cartel Update -- Benzies Family |
+| v0.4.1 | 2025.11.02 | Halloween Update |
+| v0.4.2 | 2025.12.26 | Shrooms Update (Fungal Phil) |
+| v0.4.5 | 2026.03.30 | Anniversary Update: Big Sprinkler, reorder, Golden M1911 |
 
 {{< section "What v0.4.5 Did NOT Change" >}}
 
-Despite community speculation, the Anniversary update did NOT touch:
-- Recipe profit values (OG Kush 4-mix still makes $136 profit)
+Based on patch notes and community verification, the Anniversary update did NOT touch:
 - Police AI behavior (bin hiding still works)
-- Property prices (Bungalow still $6K, Barn $25K)
-- Employee wages (Chemists still $60/day)
-- Dealer buy-in costs (no change to any dealer prices)
-- Casino payout rates (Ride the Bus still +25% EV)
+- Recipe formulas or ingredient values
+- Dealer buy-in costs or mechanics
 
-This makes v0.4.5 a quality-of-life patch rather than a balance patch. All existing strategies and guides remain valid.
+This makes v0.4.5 a quality-of-life patch rather than a balance patch. Most existing strategies remain valid.
 
 
 {{< section "Related Guides" >}}
 
-See all version changes in: [Schedule 1 Complete Update History](/schedule-i/patch/v045-update/).
+See all version changes in: [Schedule 1 Complete Update History](/schedule-i/patch/update-history/).
 
 {{< resourcegrid >}}
   {{< resourcecard name="v0.4.5 Patch Notes (IGN)" url="https://www.ign.com/wikis/schedule-1/Schedule_1_v0.4.5_Anniversary_Update_Patch_Notes" desc="Full patch notes for Anniversary Update" >}}

@@ -15,24 +15,20 @@ weight: 9
 
 Each ingredient in Schedule 1 adds specific properties to the final strain. Understanding these effects helps you design better custom mixes.
 
-| Ingredient | Primary Effect | Secondary Effect | Value Tier |
-|------------|---------------|-----------------|------------|
-| Banana | Yield boost | Taste modifier | Low |
-| Cuke | Stability | Burn smoothness | Low |
-| Battery | Potency multiplier | Effect duration | Medium |
-| Energy Drink | Speed boost | Energy effect | Medium |
-| Motor Oil | Potency boost | Heavy effect | Medium |
-| Gasoline | Potency multiplier | Chemical aftertaste | Medium-High |
-| Paracetamol | Pain relief effect | Medicinal property | Medium-High |
-| Horse Semen | Max potency boost | Stamina effect | High |
-| Mega Bean | Max value modifier | Size increase | High |
-| Chili | Heat effect | Metabolism boost | Medium |
-| Viagra | Effect duration | Special property | Medium |
-| Flu Medicine | Immunity effect | Medicinal bonus | Medium |
-| Mouth Wash | Freshness | Aftertaste improvement | Low |
-| Shroom | Psychedelic effect | Visual distortion | Medium |
-| Donut | Random effect | Wild card | Medium |
-| Addy | Focus effect | Productivity boost | Medium |
+| Ingredient | Primary Effect | Value Tier | Sources |
+|------------|---------------|------------|--------|
+| Banana | Yield boost | Low | Gas station, Albert Hoover |
+| Cuke | Stability | Low | Gas station, Albert Hoover |
+| Battery | Potency multiplier | Medium | Dan's Hardware |
+| Energy Drink | Speed boost | Medium | Gas station |
+| Motor Oil | Potency boost | Medium | Gas station, Dan's Hardware |
+| Gasoline | Potency multiplier | Medium-High | Gas station |
+| Paracetamol | Pain relief | Medium-High | Pharmacy/Supplier |
+| Horse Semen | Max potency boost | High | Motel random NPC |
+| Mega Bean | Value modifier | High | Motel random NPC |
+| Donut | Random effect | Medium | Convenience store |
+
+Note: The game has more ingredients than listed here. Use the online calculator for a complete reference.
 
 {{< section "Calculator Strategy" >}}
 

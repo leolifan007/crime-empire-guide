@@ -17,12 +17,14 @@ weight: 3
 
 Schedule 1 has three employee types that form your automation pipeline. Each role handles a specific part of the production chain.
 
-| Role | Hire Cost | Daily Wage | Unlock Rank | Does What | Capacity |
-|------|-----------|------------|-------------|-----------|----------|
-| {{< material "og_kush" >}} Botanist | $150 | $40/day | Hustler I | Harvests plants, moves to drying racks | 5 pots per Botanist |
-| {{< material "battery" >}} Chemist | $200 | $60/day | Hustler II | Mixes ingredients at stations, auto-cooks | 2 stations per Chemist |
-| {{< material "mega_bean" >}} Handler | $175 | $50/day | Hustler I | Moves items between shelves, stations, loading bay | 6 routes per Handler |
-| {{< material "energy_drink" >}} Packer | $180 | $55/day | Hustler III | Bags finished product into packages | 4 output bins per Packer |
+| Role | Hire Cost | Daily Wage | Unlock Rank | Does What |
+|------|-----------|------------|-------------|-----------|
+| Botanist | ~$150 | ~$40/day | Hustler I | Harvests plants, moves to drying racks |
+| Chemist | ~$200 | ~$60/day | Hustler II | Mixes ingredients at stations |
+| Handler | ~$175 | ~$50/day | Hustler I | Moves items between shelves, stations, loading bay |
+| Packer | ~$180 | ~$55/day | Hustler III | Bags finished product into packages |
+
+Note: Exact wages may vary by patch and property. Check in-game phone for current rates.
 
 {{< insight >}}The Handler is the backbone of any automation setup. Without proper route configuration, your Chemist will run out of ingredients and your Packer will have nothing to bag. Spend time on Handler routes -- this is where most automation failures happen.{{< /insight >}}
 

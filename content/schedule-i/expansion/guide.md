@@ -17,28 +17,25 @@ Your Threat Level (rank) determines which parts of the map are viable. Each rank
 
 | Rank | Unlocks | New Area Access | Key Supplier |
 |------|---------|----------------|--------------|
-| Street Rat I-V | Basic delivery, first grow | Downtown + RV area | Initial contact |
-| Hoodlum I-V | Mixing stations, Bungalow purchase | Motel area + gas station | Albert (motel) |
-| Hustler I-III | Botanist + Handler employees | Suburbs + hardware store | Dan's Hardware |
-| Peddler I-III | Horse Semen + Mega Bean supplies | Motel back rooms | Random NPC at motel |
-| Dealer I-II | Meth production + Barn purchase | Industrial zone | Meth supplier |
-| Hoodlum V | Warehouse unlock | Dock area (6PM-6AM) | Dock supplier |
-| Kingpin | Manor + Cocaine 9-mix | All areas fully accessible | Cocaine supplier |
+| Street Rat I-V | Basic delivery, first grow | Downtown + RV area | Albert Hoover (Northtown) |
+| Hoodlum I-V | Mixing stations, Bungalow purchase | Westville | Albert Hoover |
+| Hustler I-III | Botanist + Handler employees | Downtown | Shirley Watts, Fungal Phil |
+| Peddler I-III | Horse Semen + Mega Bean supplies | Expanded area | Horseman NPC (motel random) |
+| Dealer I-II | Meth production + Barn purchase | Industrial zone | All 4 suppliers available |
+| Hoodlum V | Warehouse unlock | Docks (6PM-6AM) | Salvador Moreno |
+| Kingpin | Manor + Cocaine 9-mix | All areas | All suppliers at max loyalty |
 
-{{< section "Supplier Unlock Strategy" >}}
+{{< section "Supplier Reference" >}}
 
-Suppliers are unlocked by building your relationship bar with them. Orders placed through Dead Drop (not direct purchase) increase this bar.
+Schedule 1 has 4 named suppliers, not including shops. Correct list:
+- **Albert Hoover** (Northtown): Marijuana seeds, basic ingredients. Available from start.
+- **Shirley Watts** (Westville): Pseudo for meth production. Unlock via Elizabeth Homley or Kevin Oakley.
+- **Fungal Phil** (Downtown): Shroom spores and supplies. Same unlock connections as Shirley.
+- **Salvador Moreno** (Docks): Coca plant seeds. Unlock at higher ranks.
 
-| Supplier | Location | Key Items | Relationship Requirement |
-|----------|----------|-----------|------------------------|
-| Initial contact | Starting area | OG Kush seeds, basic ingredients | None |
-| Albert | Motel | Mid-tier seeds, Banana, Cuke | Hoodlum I |
-| Dan's Hardware | Hardware store | Mixing stations, equipment | Hustler II |
-| Motel NPC | Motel back rooms | Horse Semen, Mega Bean | Peddler I (random spawn) |
-| Meth supplier | Industrial zone | Meth base ingredient | Dealer I |
-| Dock supplier | Docks Warehouse | Cocaine base | Hoodlum V (after hours) |
+Note that **Dan's Hardware** is a shop (not a supplier). The NPC behind the counter is **Dan Samwell**, a Shop Owner who sells equipment directly for cash -- no Dead Drop system.
 
-{{< insight >}}Horse Semen is the most commonly missed ingredient. It comes from a random NPC at the motel -- not a named supplier with a map marker. Check every room at the motel or wait for a dealer to offer it. Missing this locks you out of the best mid-game OG Kush 4-mix recipe.{{< /insight >}}
+{{< insight >}}Horse Semen is the most commonly missed ingredient. It comes from a random NPC at the motel -- not a named supplier with a map marker. Check every room at the motel. Missing this locks you out of the best mid-game OG Kush recipes.{{< /insight >}}
 
 {{< section "Map Zones and Key Locations" >}}
 

@@ -134,7 +134,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
       <span class="metric-sep">·</span>
       <span class="metric-profit">Net <strong>$717</strong></span>
     </div>
-    <p class="step-desc">Cocaine 9-mix: {{< material "banana" >}} → {{< material "motor_oil" >}} → {{< material "cuke" >}} → {{< material "paracetamol" >}} → {{< material "gasoline" >}} → {{< material "cuke" >}} → {{< material "battery" >}} → {{< material "horse_semen" >}} → {{< material "mega_bean" >}}. Setup ~$40,000. Recoup in 60 units. Max per-unit profit in the game.</p>
+    <p class="step-desc">Cocaine 9-mix: {{< material "banana" >}} → {{< material "motor_oil" >}} → {{< material "cuke" >}} → {{< material "paracetamol" >}} → {{< material "gasoline" >}} → {{< material "cuke" >}} → {{< material "battery" >}} → {{< material "horse_semen" >}} → {{< material "mega_bean" >}}. Setup ~$40,000. Sell price per unit: $755 (verified by community testing).</p>
   </div>
 </div>
 
