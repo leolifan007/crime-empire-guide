@@ -8,7 +8,7 @@ weight: 2
 ---
 
 {{< callout "info" >}}
-Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for weed, one for amphetamine, one for meth. Here is the verified path to a million-dollar operation.
+Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for cannabis {{< material dds2-indica >}}, one for amphetamine {{< material dds2-amphetamine >}}, one for meth {{< material dds2-meth >}}. Here is the verified path to a million-dollar operation.
 
 {{< /callout >}}
 
@@ -37,6 +37,11 @@ The Steam FAQ guide covers "how to get more employees, from early-game strategie
 Reddit player strategies confirm the optimal mid-game layout:
 
 | Hideout | Product | Purpose | Police Risk |
+|---------|---------|---------|-------------|
+| Jungle | {{< material dds2-indica >}} Cannabis | Grow, low heat | Low |
+| Callejon | {{< material dds2-amphetamine >}} Amphetamine | Processing | Medium |
+| Slavs Bay | {{< material dds2-meth >}} Meth | High-end cooking | High |
+| Coast | {{< material dds2-opium >}} Opium | Endgame scaling | Medium |
 |---------|---------|---------|-------------|
 | Jungle/rural | Weed | Raw material, low heat | Low |
 | Callejon/industrial | Amphetamine | Processing, medium visibility | Medium |

@@ -31,7 +31,7 @@ Optimization: Accept all nearby orders, complete closest-first, return for new b
 At $2,000, invest in a basic lab kit ($800) and find the recipe card (tutorial zone warehouse). The DDS2 FAQ guide confirms cooking becomes viable once you have the recipe and ingredients.
 
 **Ingredient sourcing:**
-- Pharmacies yield precursor chemicals (pseudoephedrine)
+- Pharmacies yield precursor chemicals ({{< material dds2-ephedrine >}} pseudoephedrine)
 - Farm supply stores have solvents and ammonia
 - Hardware stores sell basic equipment
 
@@ -48,7 +48,7 @@ After $8,000, shift from survival to scaling. The game's economy has multiple te
 | Industrial zones | $5,000-12,000 | Processing, higher capacity |
 | Downtown/coastal | $10,000+ | High-value clients, more risk |
 
-{{< insight >}}Reddit player strategies show that organizing hideouts by function (one for weed in jungle, one for amp in Callejon, one for meth in Slavs Bay) is the community standard. Each hideout specializes in one product type.{{< /insight >}}
+{{< insight >}}Reddit player strategies show that organizing hideouts by function (one for cannabis {{< material dds2-indica >}} in jungle, one for amphetamine {{< material dds2-amphetamine >}} in Callejon, one for meth {{< material dds2-meth >}} in Slavs Bay) is the community standard. Each hideout specializes in one product type.{{< /insight >}}
 
 <div class="resource-section">
   <h2>Community Resources</h2>

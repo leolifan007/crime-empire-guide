@@ -12,7 +12,7 @@
   <!-- Title bar -->
   <rect x="0" y="0" width="720" height="36" fill="rgba(212,168,67,0.08)" rx="8"/>
   <rect x="0" y="28" width="720" height="8" fill="rgba(212,168,67,0.08)"/>
-  <text x="360" y="24" text-anchor="middle" fill="#d4a843" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="0.5">EARLY GAME PROGRESSION ROADMAP</text>
+  <text x="360" y="24" text-anchor="middle" fill="#d4a843" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">EARLY GAME PROGRESSION ROADMAP</text>
 
   <!-- ===== PROGRESS BAR ===== -->
   <rect x="40" y="52" width="640" height="6" rx="3" fill="rgba(255,255,255,0.06)"/>
@@ -23,66 +23,66 @@
 
   <!-- ===== PHASE 1: + icon ===== -->
   <circle cx="80" cy="88" r="20" fill="url(#g2)" stroke="#d4a843" stroke-width="1.5"/>
-  <text x="80" y="94" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="18" font-weight="bold">$</text>
+  <text x="80" y="94" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="13" font-weight="bold">$</text>
   <rect x="110" y="72" width="175" height="50" rx="8" fill="url(#g2)" stroke="#d4a843" stroke-width="1.2" opacity="0.5"/>
-  <text x="197" y="92" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Phase 1: Street Deals</text>
-  <text x="197" y="108" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Deliver goods, earn $0→$2K</text>
+  <text x="197" y="92" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Phase 1: Street Deals</text>
+  <text x="197" y="108" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="12">Deliver goods, earn $0�?2K</text>
   <!-- Money bar -->
-  <rect x="110" y="126" width="175" height="4" rx="2" fill="rgba(212,168,67,0.15)"/>
-  <rect x="110" y="126" width="44" height="4" rx="2" fill="#d4a843"/>
+  <rect x="110" y="126" width="175" height="4" rx="3" fill="rgba(212,168,67,0.15)"/>
+  <rect x="110" y="126" width="44" height="4" rx="3" fill="#d4a843"/>
 
   <!-- ===== ARROW 1 ===== -->
   <rect x="297" y="82" width="26" height="26" rx="13" fill="rgba(212,168,67,0.15)"/>
-  <text x="310" y="99" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="16">--></text>
+  <text x="310" y="99" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12">--></text>
 
   <!-- ===== PHASE 2: flask icon ===== -->
   <circle cx="345" cy="88" r="20" fill="url(#g3)" stroke="#d4a843" stroke-width="1.5"/>
-  <text x="345" y="95" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="16" font-weight="bold">L</text>
+  <text x="345" y="95" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">L</text>
   <rect x="375" y="72" width="175" height="50" rx="8" fill="url(#g3)" stroke="#d4a843" stroke-width="1.2" opacity="0.5"/>
-  <text x="462" y="92" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Phase 2: First Lab</text>
-  <text x="462" y="108" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Cook meth, earn $2K→$5K</text>
-  <rect x="375" y="126" width="175" height="4" rx="2" fill="rgba(212,168,67,0.15)"/>
-  <rect x="375" y="126" width="131" height="4" rx="2" fill="#d4a843"/>
+  <text x="462" y="92" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Phase 2: First Lab</text>
+  <text x="462" y="108" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="12">Cook meth, earn $2K�?5K</text>
+  <rect x="375" y="126" width="175" height="4" rx="3" fill="rgba(212,168,67,0.15)"/>
+  <rect x="375" y="126" width="131" height="4" rx="3" fill="#d4a843"/>
 
   <!-- ===== ARROW 2 ===== -->
   <rect x="562" y="82" width="26" height="26" rx="13" fill="rgba(212,168,67,0.15)"/>
-  <text x="575" y="99" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="16">--></text>
+  <text x="575" y="99" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12">--></text>
 
   <!-- ===== PHASE 3: house icon ===== -->
   <circle cx="610" cy="88" r="20" fill="url(#g2)" stroke="#d4a843" stroke-width="1.5"/>
-  <text x="610" y="94" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="16" font-weight="bold">E</text>
+  <text x="610" y="94" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">E</text>
   <rect x="640" y="72" width="65" height="50" rx="8" fill="url(#g2)" stroke="#d4a843" stroke-width="1.2" opacity="0.5"/>
-  <text x="672" y="92" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">Expand</text>
-  <text x="672" y="107" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="9">$5K+</text>
+  <text x="672" y="92" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Expand</text>
+  <text x="672" y="107" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="11">$5K+</text>
 
   <!-- ===== VERTICAL DIVIDER ===== -->
   <line x1="360" y1="145" x2="360" y2="170" stroke="rgba(212,168,67,0.2)" stroke-width="1"/>
 
   <!-- ===== PROGRESS METER (visual gauge) ===== -->
   <rect x="40" y="155" width="640" height="36" rx="18" fill="rgba(255,255,255,0.03)" stroke="rgba(212,168,67,0.15)" stroke-width="1"/>
-  <text x="60" y="177" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="10">MILESTONE</text>
+  <text x="60" y="177" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="12">MILESTONE</text>
   
   <!-- Milestone dots along bar -->
   <circle cx="120" cy="173" r="10" fill="rgba(212,168,67,0.2)" stroke="#d4a843" stroke-width="1"/>
-  <text x="120" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">B</text>
-  <text x="120" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Buy burner phone</text>
+  <text x="120" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">B</text>
+  <text x="120" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Buy burner phone</text>
 
   <circle cx="280" cy="173" r="10" fill="rgba(212,168,67,0.25)" stroke="#d4a843" stroke-width="1"/>
-  <text x="280" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">M</text>
-  <text x="280" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Basic lab kit</text>
+  <text x="280" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">M</text>
+  <text x="280" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Basic lab kit</text>
 
   <circle cx="360" cy="173" r="10" fill="rgba(212,168,67,0.3)" stroke="#d4a843" stroke-width="1.5"/>
-  <text x="360" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">S</text>
-  <text x="360" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Street Cred Lv4</text>
+  <text x="360" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">S</text>
+  <text x="360" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Street Cred Lv4</text>
   <circle cx="360" cy="173" r="14" fill="none" stroke="#d4a843" stroke-width="0.5" opacity="0.3"/>
 
   <circle cx="460" cy="173" r="10" fill="rgba(212,168,67,0.2)" stroke="#d4a843" stroke-width="1"/>
-  <text x="460" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">H</text>
-  <text x="460" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">2nd hideout</text>
+  <text x="460" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">H</text>
+  <text x="460" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">2nd hideout</text>
 
   <circle cx="620" cy="173" r="10" fill="rgba(212,168,67,0.15)" stroke="#d4a843" stroke-width="1"/>
-  <text x="620" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">D</text>
-  <text x="620" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Distributor desk</text>
+  <text x="620" y="177" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">D</text>
+  <text x="620" y="195" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Distributor desk</text>
 
   <!-- ===== BOTTOM SECTION: 3 columns ===== -->
   
@@ -90,73 +90,73 @@
   <rect x="40" y="210" width="200" height="170" rx="8" fill="rgba(255,255,255,0.02)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
   <rect x="40" y="210" width="200" height="28" rx="8" fill="rgba(212,168,67,0.06)"/>
   <rect x="40" y="230" width="200" height="8"/>
-  <text x="140" y="229" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">KEY THREATS</text>
+  <text x="140" y="229" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">KEY THREATS</text>
   
   <!-- Threat items with visual indicators -->
   <circle cx="60" cy="258" r="5" fill="#cc4444"/>
-  <text x="72" y="262" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="9">Police raids</text>
-  <rect x="160" y="254" width="60" height="8" rx="2" fill="rgba(204,68,68,0.15)"/>
-  <rect x="160" y="254" width="40" height="8" rx="2" fill="#cc4444"/>
+  <text x="72" y="262" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Police raids</text>
+  <rect x="160" y="254" width="60" height="8" rx="3" fill="rgba(204,68,68,0.15)"/>
+  <rect x="160" y="254" width="40" height="8" rx="3" fill="#cc4444"/>
 
   <circle cx="60" cy="278" r="5" fill="#d4a843"/>
-  <text x="72" y="282" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="9">Rival gangs</text>
-  <rect x="160" y="274" width="60" height="8" rx="2" fill="rgba(212,168,67,0.15)"/>
-  <rect x="160" y="274" width="30" height="8" rx="2" fill="#d4a843"/>
+  <text x="72" y="282" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Rival gangs</text>
+  <rect x="160" y="274" width="60" height="8" rx="3" fill="rgba(212,168,67,0.15)"/>
+  <rect x="160" y="274" width="30" height="8" rx="3" fill="#d4a843"/>
 
   <circle cx="60" cy="298" r="5" fill="#cc8844"/>
-  <text x="72" y="302" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="9">Asset seizure</text>
-  <rect x="160" y="294" width="60" height="8" rx="2" fill="rgba(204,136,68,0.15)"/>
-  <rect x="160" y="294" width="35" height="8" rx="2" fill="#cc8844"/>
+  <text x="72" y="302" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Asset seizure</text>
+  <rect x="160" y="294" width="60" height="8" rx="3" fill="rgba(204,136,68,0.15)"/>
+  <rect x="160" y="294" width="35" height="8" rx="3" fill="#cc8844"/>
 
-  <text x="60" y="330" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Hideout raid = 80% asset loss</text>
-  <text x="60" y="343" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">without backup storage</text>
-  <text x="60" y="360" fill="#d4a843" font-family="Arial,sans-serif" font-size="8">Split goods across 3+ hideouts</text>
+  <text x="60" y="330" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Hideout raid = 80% asset loss</text>
+  <text x="60" y="343" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">without backup storage</text>
+  <text x="60" y="360" fill="#d4a843" font-family="Arial,sans-serif" font-size="10">Split goods across 3+ hideouts</text>
 
   <!-- COL 2: Progression Tips -->
   <rect x="260" y="210" width="200" height="170" rx="8" fill="rgba(255,255,255,0.02)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
   <rect x="260" y="210" width="200" height="28" rx="8" fill="rgba(212,168,67,0.06)"/>
   <rect x="260" y="230" width="200" height="8"/>
-  <text x="360" y="229" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CRITICAL PRIORITY</text>
+  <text x="360" y="229" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">CRITICAL PRIORITY</text>
 
   <rect x="272" y="245" width="176" height="18" rx="4" fill="rgba(212,168,67,0.08)"/>
-  <text x="360" y="258" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">Get Street Cred Level 4</text>
+  <text x="360" y="258" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Get Street Cred Level 4</text>
 
   <rect x="272" y="268" width="176" height="18" rx="4" fill="rgba(212,168,67,0.05)"/>
-  <text x="360" y="281" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Unlocks recipes, hideouts, staff</text>
+  <text x="360" y="281" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Unlocks recipes, hideouts, staff</text>
 
   <rect x="272" y="291" width="176" height="18" rx="4" fill="rgba(212,168,67,0.05)"/>
-  <text x="360" y="304" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Max co-op 3 players</text>
+  <text x="360" y="304" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Max co-op 3 players</text>
 
-  <text x="280" y="340" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Steam Achievements unlock</text>
-  <text x="280" y="355" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">the police system progression</text>
-  <text x="280" y="370" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">tracking your rank timeline.</text>
+  <text x="280" y="340" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Steam Achievements unlock</text>
+  <text x="280" y="355" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">the police system progression</text>
+  <text x="280" y="370" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">tracking your rank timeline.</text>
 
   <!-- COL 3: Economy -->
   <rect x="480" y="210" width="200" height="170" rx="8" fill="rgba(255,255,255,0.02)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
   <rect x="480" y="210" width="200" height="28" rx="8" fill="rgba(212,168,67,0.06)"/>
   <rect x="480" y="230" width="200" height="8"/>
-  <text x="580" y="229" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">ECONOMY</text>
+  <text x="580" y="229" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">ECONOMY</text>
 
   <!-- Dual currency visual -->
   <rect x="495" y="248" width="85" height="36" rx="6" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="0.5"/>
-  <text x="537" y="264" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="10">Local</text>
-  <text x="537" y="278" text-anchor="middle" fill="#88cc88" font-family="Arial,sans-serif" font-size="10">Buy supplies</text>
+  <text x="537" y="264" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12">Local</text>
+  <text x="537" y="278" text-anchor="middle" fill="#88cc88" font-family="Arial,sans-serif" font-size="12">Buy supplies</text>
 
-  <text x="590" y="274" text-anchor="middle" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="14">--></text>
+  <text x="590" y="274" text-anchor="middle" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="10">--></text>
 
   <rect x="600" y="248" width="65" height="36" rx="6" fill="rgba(212,168,67,0.08)" stroke="#d4a843" stroke-width="0.8"/>
-  <text x="632" y="264" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10">USD</text>
-  <text x="632" y="278" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10">Sell product</text>
+  <text x="632" y="264" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12">USD</text>
+  <text x="632" y="278" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12">Sell product</text>
 
   <!-- Income bar -->
-  <text x="495" y="305" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="8">Income/hr scaling</text>
+  <text x="495" y="305" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="10">Income/hr scaling</text>
   <rect x="495" y="312" width="170" height="6" rx="3" fill="rgba(255,255,255,0.03)"/>
   <rect x="495" y="312" width="50" height="6" rx="3" fill="rgba(212,168,67,0.3)"/>
-  <text x="495" y="332" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="7">Street</text>
+  <text x="495" y="332" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="12">Street</text>
   <rect x="495" y="338" width="170" height="6" rx="3" fill="rgba(255,255,255,0.03)"/>
   <rect x="495" y="338" width="100" height="6" rx="3" fill="rgba(212,168,67,0.5)"/>
-  <text x="495" y="358" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="7">Lab</text>
+  <text x="495" y="358" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="12">Lab</text>
   <rect x="495" y="364" width="170" height="6" rx="3" fill="rgba(255,255,255,0.03)"/>
   <rect x="495" y="364" width="145" height="6" rx="3" fill="url(#g1)" opacity="0.7"/>
-  <text x="495" y="384" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="7">Empire</text>
+  <text x="495" y="384" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="12">Empire</text>
 </svg>

@@ -12,6 +12,8 @@ Employees in DDS2 are essential for scaling past the early game. The Steam FAQ g
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-staff-system.svg" "DDS2 Staff System: Hiring, Roles, and Priority" "720" >}}
+
 {{< section "How to Get Employees" >}}
 
 Verified methods from Steam community discussions:

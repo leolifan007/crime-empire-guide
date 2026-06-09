@@ -3,37 +3,36 @@
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
   </defs>
   <rect width="720" height="360" fill="url(#bg)" rx="8"/>
-  
   <rect x="0" y="0" width="720" height="34" fill="rgba(212,168,67,0.08)" rx="8"/>
   <rect x="0" y="26" width="720" height="8" fill="rgba(212,168,67,0.08)"/>
-  <text x="360" y="22" text-anchor="middle" fill="#d4a843" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="0.5">STAFF SYSTEM OVERVIEW</text>
+  <text x="360" y="22" text-anchor="middle" fill="#d4a843" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">STAFF SYSTEM OVERVIEW</text>
 
   <!-- ===== TOP ROW: Hiring Channels ===== -->
-  <text x="360" y="52" text-anchor="middle" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="9">HIRING CHANNELS -- EMPLOYEE ROLES -- BEST PRACTICES</text>
+  <text x="360" y="52" text-anchor="middle" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="11">HIRING CHANNELS -- EMPLOYEE ROLES -- BEST PRACTICES</text>
 
   <!-- Channel 1: Bulletin Board -->
   <rect x="40" y="65" width="200" height="70" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.15)" stroke-width="1"/>
   <circle cx="70" cy="100" r="14" fill="rgba(212,168,67,0.1)" stroke="#d4a843" stroke-width="1"/>
-  <text x="70" y="104" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">B</text>
-  <text x="94" y="92" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Bulletin Boards</text>
-  <text x="94" y="110" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Found in town / hideout</text>
-  <text x="94" y="124" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="7">Low cost, random spawns</text>
+  <text x="70" y="104" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">B</text>
+  <text x="94" y="92" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Bulletin Boards</text>
+  <text x="94" y="110" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Found in town / hideout</text>
+  <text x="94" y="124" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="12">Low cost, random spawns</text>
 
   <!-- Channel 2: Quests -->
   <rect x="260" y="65" width="200" height="70" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.15)" stroke-width="1"/>
   <circle cx="290" cy="100" r="14" fill="rgba(212,168,67,0.1)" stroke="#d4a843" stroke-width="1"/>
-  <text x="290" y="104" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">Q</text>
-  <text x="314" y="92" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Quest Rewards</text>
-  <text x="314" y="110" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Influencer missions</text>
-  <text x="314" y="124" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="7">Story progression</text>
+  <text x="290" y="104" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Q</text>
+  <text x="314" y="92" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Quest Rewards</text>
+  <text x="314" y="110" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Influencer missions</text>
+  <text x="314" y="124" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="12">Story progression</text>
 
   <!-- Channel 3: Story -->
   <rect x="480" y="65" width="200" height="70" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.15)" stroke-width="1"/>
   <circle cx="510" cy="100" r="14" fill="rgba(212,168,67,0.1)" stroke="#d4a843" stroke-width="1"/>
-  <text x="510" y="104" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">S</text>
-  <text x="534" y="92" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Story Unlocks</text>
-  <text x="534" y="110" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Main mission chains</text>
-  <text x="534" y="124" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="7">Higher rarity employees</text>
+  <text x="510" y="104" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">S</text>
+  <text x="534" y="92" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Story Unlocks</text>
+  <text x="534" y="110" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Main mission chains</text>
+  <text x="534" y="124" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="12">Higher rarity employees</text>
 
   <!-- ===== DOWNWARD FLOW ===== -->
   <line x1="140" y1="136" x2="140" y2="155" stroke="rgba(212,168,67,0.2)" stroke-width="1"/>
@@ -41,73 +40,73 @@
   <line x1="580" y1="136" x2="580" y2="155" stroke="rgba(212,168,67,0.2)" stroke-width="1"/>
   <line x1="140" y1="155" x2="580" y2="155" stroke="rgba(212,168,67,0.2)" stroke-width="1"/>
   <line x1="360" y1="155" x2="360" y2="170" stroke="rgba(212,168,67,0.2)" stroke-width="1"/>
-  <text x="370" y="167" fill="rgba(212,168,67,0.3)" font-family="Arial,sans-serif" font-size="7" font-style="italic">hire</text>
+  <text x="370" y="167" fill="rgba(212,168,67,0.3)" font-family="Arial,sans-serif" font-size="12" font-style="italic">hire</text>
 
   <!-- ===== MIDDLE: Employee Roles ===== -->
   <rect x="40" y="175" width="640" height="90" rx="8" fill="rgba(212,168,67,0.02)" stroke="rgba(212,168,67,0.1)" stroke-width="1"/>
   <rect x="40" y="175" width="640" height="22" rx="8" fill="rgba(212,168,67,0.04)"/>
   <rect x="40" y="189" width="640" height="8"/>
-  <text x="360" y="191" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">EMPLOYEE ROLES</text>
+  <text x="360" y="191" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">EMPLOYEE ROLES</text>
 
   <!-- Dealer -->
   <rect x="55" y="205" width="145" height="50" rx="6" fill="rgba(212,168,67,0.06)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
   <circle cx="75" cy="230" r="10" fill="rgba(212,168,67,0.1)"/>
-  <text x="75" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">D</text>
-  <text x="92" y="222" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9" font-weight="bold">Dealer</text>
-  <text x="92" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Sell to customers</text>
-  <text x="92" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Auto-sell when assigned</text>
+  <text x="75" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">D</text>
+  <text x="92" y="222" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Dealer</text>
+  <text x="92" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Sell to customers</text>
+  <text x="92" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">Auto-sell when assigned</text>
 
   <!-- Cook -->
   <rect x="210" y="205" width="145" height="50" rx="6" fill="rgba(212,168,67,0.06)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
   <circle cx="230" cy="230" r="10" fill="rgba(212,168,67,0.1)"/>
-  <text x="230" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">C</text>
-  <text x="247" y="222" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9" font-weight="bold">Cook</text>
-  <text x="247" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Auto-production</text>
-  <text x="247" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Uses recipe knowledge</text>
+  <text x="230" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">C</text>
+  <text x="247" y="222" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Cook</text>
+  <text x="247" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Auto-production</text>
+  <text x="247" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">Uses recipe knowledge</text>
 
   <!-- Supplier -->
   <rect x="365" y="205" width="145" height="50" rx="6" fill="rgba(212,168,67,0.06)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
   <circle cx="385" cy="230" r="10" fill="rgba(212,168,67,0.1)"/>
-  <text x="385" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">S</text>
-  <text x="402" y="222" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9" font-weight="bold">Supplier</text>
-  <text x="402" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Source ingredients</text>
-  <text x="402" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Auto-restock raw</text>
+  <text x="385" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">S</text>
+  <text x="402" y="222" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Supplier</text>
+  <text x="402" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Source ingredients</text>
+  <text x="402" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">Auto-restock raw</text>
 
   <!-- Distributor -->
   <rect x="520" y="205" width="145" height="50" rx="6" fill="rgba(212,168,67,0.08)" stroke="#d4a843" stroke-width="1"/>
   <circle cx="540" cy="230" r="10" fill="rgba(212,168,67,0.15)"/>
-  <text x="540" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">D</text>
-  <text x="557" y="222" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">Distributor</text>
-  <text x="557" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Desk required first</text>
-  <text x="557" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Assign dealers here</text>
+  <text x="540" y="233" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">D</text>
+  <text x="557" y="222" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Distributor</text>
+  <text x="557" y="238" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Desk required first</text>
+  <text x="557" y="250" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">Assign dealers here</text>
 
   <!-- ===== BOTTOM: Priority ===== -->
   <line x1="360" y1="266" x2="360" y2="285" stroke="rgba(212,168,67,0.2)" stroke-width="1"/>
-  <text x="370" y="283" fill="rgba(212,168,67,0.3)" font-family="Arial,sans-serif" font-size="7" font-style="italic">priority</text>
+  <text x="370" y="283" fill="rgba(212,168,67,0.3)" font-family="Arial,sans-serif" font-size="12" font-style="italic">priority</text>
 
   <rect x="40" y="290" width="640" height="55" rx="8" fill="rgba(212,168,67,0.02)" stroke="rgba(212,168,67,0.1)" stroke-width="1"/>
   <rect x="40" y="290" width="640" height="20" rx="8" fill="rgba(212,168,67,0.04)"/>
   <rect x="40" y="302" width="640" height="8"/>
-  <text x="360" y="304" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">BUY PRIORITY</text>
+  <text x="360" y="304" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">BUY PRIORITY</text>
 
   <!-- Priority bars -->
   <rect x="55" y="318" width="30" height="16" rx="8" fill="rgba(212,168,67,0.3)"/>
-  <text x="70" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="8" font-weight="bold">1</text>
-  <text x="95" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Distributor Desk</text>
+  <text x="70" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">1</text>
+  <text x="95" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Distributor Desk</text>
 
   <rect x="200" y="318" width="30" height="16" rx="8" fill="rgba(212,168,67,0.2)"/>
-  <text x="215" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="8" font-weight="bold">2</text>
-  <text x="240" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">1 Dealer</text>
+  <text x="215" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">2</text>
+  <text x="240" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">1 Dealer</text>
 
   <rect x="340" y="318" width="30" height="16" rx="8" fill="rgba(212,168,67,0.2)"/>
-  <text x="355" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="8" font-weight="bold">3</text>
-  <text x="380" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Cook</text>
+  <text x="355" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">3</text>
+  <text x="380" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Cook</text>
 
   <rect x="460" y="318" width="30" height="16" rx="8" fill="rgba(212,168,67,0.15)"/>
-  <text x="475" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="8" font-weight="bold">4</text>
-  <text x="500" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Supplier</text>
+  <text x="475" y="330" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">4</text>
+  <text x="500" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Supplier</text>
 
   <rect x="580" y="318" width="30" height="16" rx="8" fill="rgba(212,168,67,0.1)"/>
-  <text x="595" y="330" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="8" font-weight="bold">5</text>
-  <text x="620" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">More Dealers</text>
+  <text x="595" y="330" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10" font-weight="bold">5</text>
+  <text x="620" y="330" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">More Dealers</text>
 </svg>

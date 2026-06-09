@@ -36,7 +36,7 @@ Open ShadyComm and accept delivery jobs closest to your position. Each pays $80-
 
 ## Phase 3: Set Up Your First Lab
 
-Once you have $2,000, buy a basic lab kit and a recipe card. The first recipe (usually basic meth or weed) unlocks after finding the recipe card in the tutorial zone warehouse.
+Once you have $2,000, buy a basic lab kit and a recipe card. The first recipe (usually basic meth {{< material dds2-meth >}} or cannabis {{< material dds2-indica >}}) unlocks after finding the recipe card in the tutorial zone warehouse.
 
 {{< callout "warning" >}}Do not guess recipe ratios. The DDS2 Fandom wiki confirms that failed cooks waste materials. Always read the recipe card before mixing. Basic meth starts with a 5:3:2 ratio (precursor : solvent : catalyst).{{< /callout >}}
 
