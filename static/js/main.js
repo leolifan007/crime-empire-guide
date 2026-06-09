@@ -47,3 +47,16 @@ document.addEventListener('keydown', function(e) {
     e.preventDefault();
   }
 });
+
+// Mobile Navigation Toggle
+function toggleMobileNav() {
+  var overlay = document.getElementById('mobileOverlay');
+  var drawer = document.getElementById('mobileDrawer');
+  var toggle = document.querySelector('.mobile-nav-toggle');
+  if (!overlay || !drawer) return;
+  var isOpen = overlay.classList.contains('open');
+  overlay.classList.toggle('open');
+  drawer.classList.toggle('open');
+  if (toggle) toggle.classList.toggle('open');
+  document.body.style.overflow = isOpen ? '' : 'hidden';
+}

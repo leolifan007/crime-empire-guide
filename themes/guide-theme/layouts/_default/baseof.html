@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <base href="{{ .Site.BaseURL }}">
+  <!-- Google Search Console verification -->
+  <meta name="google-site-verification" content="TODO_REPLACE_ME" />
+  <!-- Google tag (gtag.js) - GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RDJSH9J2M9"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RDJSH9J2M9');
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
@@ -25,11 +35,41 @@
     {{ end }}
     {{ end }}
   </div>
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation">
+    <div class="hamburger-icon">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </button>
 </header>
 
 <div class="page-wrap">
   {{ block "main" . }}{{ end }}
 </div>
+
+<!-- Mobile Navigation Drawer -->
+<div class="mobile-overlay" id="mobileOverlay" onclick="toggleMobileNav()"></div>
+<nav class="mobile-drawer" id="mobileDrawer">
+  <a href="/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot" style="background:var(--gold);box-shadow:0 0 8px rgba(212,168,67,.4)"></span>
+    Home
+  </a>
+  <div class="mobile-drawer-divider"></div>
+  {{ range .Site.Params.games }}
+  {{ if $.IsHome }}
+  <a href="#" class="mobile-nav-btn" onclick="toggleMobileNav(); switchGame('{{ .id }}'); return false;">
+    <span class="nav-dot dot-{{ .id }}"></span>
+    {{ .name }}
+  </a>
+  {{ else }}
+  <a href="/{{ .id }}/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-{{ .id }}"></span>
+    {{ .name }}
+  </a>
+  {{ end }}
+  {{ end }}
+</nav>
 
 <footer class="site-footer">
   <div class="footer-links">
