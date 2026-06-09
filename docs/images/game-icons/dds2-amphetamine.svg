@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <rect width="60" height="60" rx="6" fill="#1a2e2e"/>
+  <rect x="4" y="4" width="52" height="52" rx="4" fill="none" stroke="#44aacc" stroke-width="1.5"/>
+  <path d="M30 14 Q34 28 30 34 Q26 28 30 14Z" fill="#44aacc" opacity="0.4"/>
+  <line x1="30" y1="34" x2="30" y2="44" stroke="#44aacc" stroke-width="1.5"/>
+  <circle cx="30" cy="46" r="2" fill="#44aacc" opacity="0.6"/>
+  <text x="30" y="54" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="5">Amph</text>
+</svg>

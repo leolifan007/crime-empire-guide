@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=11597&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crime Simulator Controls and Mechanics Deep Dive | Crime Empire Guide</title>
+  <base href="http://localhost:11597/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="site-logo">
+    <span class="logo-icon">CE</span> CRIME EMPIRE
+  </a>
+  <div class="nav-links">
+    
+    
+    <a href="/schedule-i/" class="nav-btn">Schedule I</a>
+    
+    
+    
+    <a href="/dds2/" class="nav-btn">Drug Dealer Simulator 2</a>
+    
+    
+    
+    <a href="/crime-sim/" class="nav-btn">Crime Simulator</a>
+    
+    
+  </div>
+</header>
+
+<div class="page-wrap">
+  
+
+
+
+
+
+
+
+
+
+
+
+<section class="section-hero game-crime-sim">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>Crime Simulator</h1>
+    <p class="section-hero-tagline">Stealth Heist Co-op</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+
+  
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <a href="/crime-sim/">Crime Simulator</a>
+    <span class="sep">/</span>
+    <a href="/crime-sim/basics/">Basics</a>
+    <span class="sep">/</span>
+    <span class="current">Crime Simulator Controls and Mechanics Deep Dive</span>
+  </nav>
+
+  
+  <div class="cat-nav game-crime-sim">
+    
+    <a href="/crime-sim/achievements/" class="cat-nav-btn ">
+      Achievements
+    </a>
+    
+    <a href="/crime-sim/basics/" class="cat-nav-btn active">
+      Basics
+    </a>
+    
+    <a href="/crime-sim/coop/" class="cat-nav-btn ">
+      Co-op Guide
+    </a>
+    
+    <a href="/crime-sim/hardcore/" class="cat-nav-btn ">
+      Hardcore Mode
+    </a>
+    
+    <a href="/crime-sim/loot/" class="cat-nav-btn ">
+      Loot Guide
+    </a>
+    
+    <a href="/crime-sim/money/" class="cat-nav-btn ">
+      Money
+    </a>
+    
+    <a href="/crime-sim/tools/" class="cat-nav-btn ">
+      Tools
+    </a>
+    
+  </div>
+
+  <div class="single-layout">
+
+    
+    <aside class="guide-sidebar game-crime-sim">
+      <div class="sidebar-header">
+        <h3>Basics</h3>
+        <span class="sidebar-count">2 articles</span>
+      </div>
+      <div class="sidebar-list">
+        
+        <a href="/crime-sim/basics/beginner-guide/" class="sidebar-item ">
+          <span class="sidebar-title">Crime Simulator Beginner&#39;s Guide: First Jobs and Progression</span>
+        </a>
+        
+        <a href="/crime-sim/basics/controls-mechanics/" class="sidebar-item active">
+          <span class="sidebar-title">Crime Simulator Controls and Mechanics Deep Dive</span>
+        </a>
+        
+      </div>
+    </aside>
+
+    
+    <main class="single-main">
+      <article class="single-article">
+        <div class="article-header">
+          <div class="article-tag basics">BASICS</div>
+          <h1>Crime Simulator Controls and Mechanics Deep Dive</h1>
+          <div class="article-meta">
+            <span>Updated: Jun 9, 2026</span>
+          </div>
+        </div>
+        <div class="article-body game-crime-sim">
+          <div class="callout">Crime Simulator has a control system that rewards mastery. Unlike many stealth games, button mashing gets you killed. This guide covers every control binding, advanced mechanics (stealth bonuses, fall damage thresholds), and settings that impact gameplay.</div>
+
+<h2 class="section-heading">Keyboard Controls Reference</h2>
+
+<table>
+  <thead>
+      <tr>
+          <th>Action</th>
+          <th>Default Key</th>
+          <th>Alternative</th>
+          <th>Notes</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Move</td>
+          <td>WASD</td>
+          <td>Arrow keys</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Sprint</td>
+          <td>Shift</td>
+          <td>-</td>
+          <td>Drains stamina</td>
+      </tr>
+      <tr>
+          <td>Crouch</td>
+          <td>Ctrl</td>
+          <td>C</td>
+          <td>Toggle or hold (configurable)</td>
+      </tr>
+      <tr>
+          <td>Interact</td>
+          <td>E</td>
+          <td>F</td>
+          <td>Context-sensitive</td>
+      </tr>
+      <tr>
+          <td>Weapon slot 1</td>
+          <td>1</td>
+          <td>Mouse wheel up</td>
+          <td>Melee</td>
+      </tr>
+      <tr>
+          <td>Weapon slot 2</td>
+          <td>2</td>
+          <td>Mouse wheel down</td>
+          <td>Ranged</td>
+      </tr>
+      <tr>
+          <td>Tool slot</td>
+          <td>3</td>
+          <td>Q</td>
+          <td>Lockpick/crowbar</td>
+      </tr>
+      <tr>
+          <td>Flashlight</td>
+          <td>F</td>
+          <td>-</td>
+          <td>Toggle on/off</td>
+      </tr>
+      <tr>
+          <td>Map</td>
+          <td>M</td>
+          <td>Tab</td>
+          <td>Full map</td>
+      </tr>
+      <tr>
+          <td>Phone</td>
+          <td>P</td>
+          <td>-</td>
+          <td>Job board, contacts</td>
+      </tr>
+      <tr>
+          <td>Stealth mode</td>
+          <td>X</td>
+          <td>-</td>
+          <td>Slows movement, muffles sound</td>
+      </tr>
+      <tr>
+          <td>Quick save</td>
+          <td>F5</td>
+          <td>-</td>
+          <td>Highly recommended before every job</td>
+      </tr>
+  </tbody>
+</table>
+<h2 class="section-heading">Stealth Mechanics</h2>
+
+<h3 id="sound-and-detection">Sound and Detection</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Surface</th>
+          <th>Sound Radius</th>
+          <th>Detection Time</th>
+          <th>Notes</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Carpet</td>
+          <td>2m</td>
+          <td>4s</td>
+          <td>Safest surface</td>
+      </tr>
+      <tr>
+          <td>Wood floor</td>
+          <td>5m</td>
+          <td>3s</td>
+          <td>Common in houses</td>
+      </tr>
+      <tr>
+          <td>Concrete</td>
+          <td>8m</td>
+          <td>2s</td>
+          <td>Warehouses, streets</td>
+      </tr>
+      <tr>
+          <td>Metal grating</td>
+          <td>12m</td>
+          <td>1s</td>
+          <td>Industrial zones</td>
+      </tr>
+      <tr>
+          <td>Glass shards</td>
+          <td>15m</td>
+          <td>Instant</td>
+          <td>Alert all nearby NPCs</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Detection cone:</strong> NPCs have a 120 degree forward cone (day) and 90 degree cone (night). Night vision is reduced to 15m range vs 30m during day.</p>
+<h3 id="stealth-kill-multiplier">Stealth Kill Multiplier</h3>
+<p>Attacking from stealth deals 3x damage. A basic melee weapon (crowbar) does 35 base damage. From stealth: 105 damage, enough to one-shot most civilian NPCs.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Enemy Type</th>
+          <th>HP</th>
+          <th>Need Stealth Kill?</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Civilian</td>
+          <td>50</td>
+          <td>Optional (50 base from crowbar)</td>
+      </tr>
+      <tr>
+          <td>Security Guard</td>
+          <td>120</td>
+          <td>Required (crowbar base 35, need 3 hits)</td>
+      </tr>
+      <tr>
+          <td>Gang Member</td>
+          <td>150</td>
+          <td>Required (survive 2 hits otherwise)</td>
+      </tr>
+      <tr>
+          <td>Elite Guard</td>
+          <td>250</td>
+          <td>Must stealth (4 hits alert everyone)</td>
+      </tr>
+  </tbody>
+</table>
+<h2 class="section-heading">Fall Damage</h2>
+
+<table>
+  <thead>
+      <tr>
+          <th>Height</th>
+          <th>Damage</th>
+          <th>Safe Landing Required</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>2m (ground floor window)</td>
+          <td>0</td>
+          <td>None</td>
+      </tr>
+      <tr>
+          <td>4m (second floor)</td>
+          <td>20 HP</td>
+          <td>Crouch landing (Ctrl before impact)</td>
+      </tr>
+      <tr>
+          <td>6m (third floor)</td>
+          <td>50 HP</td>
+          <td>Roll landing (Space before impact)</td>
+      </tr>
+      <tr>
+          <td>8m+ (fourth floor+)</td>
+          <td>Instant death</td>
+          <td>Parachute or haystack</td>
+      </tr>
+  </tbody>
+</table>
+<p>Crouch landing reduces damage by 50%. Roll landing reduces by 75%. Practice these at your hideout before attempting vertical escapes.</p>
+<h2 class="section-heading">Advanced Mechanics</h2>
+
+<h3 id="bribe-system">Bribe System</h3>
+<table>
+  <thead>
+      <tr>
+          <th>NPC Type</th>
+          <th>Bribe Cost</th>
+          <th>Success Chance</th>
+          <th>Notes</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Police patrol</td>
+          <td>$500</td>
+          <td>70%</td>
+          <td>Refusal = arrest</td>
+      </tr>
+      <tr>
+          <td>Security guard</td>
+          <td>$300</td>
+          <td>85%</td>
+          <td>Usually accepts</td>
+      </tr>
+      <tr>
+          <td>Witness civilian</td>
+          <td>$100</td>
+          <td>95%</td>
+          <td>Cheap and reliable</td>
+      </tr>
+      <tr>
+          <td>Rival gang lookout</td>
+          <td>$1,000</td>
+          <td>50%</td>
+          <td>Risky, fight is better option</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="lock-pick-minigame">Lock Pick Minigame</h3>
+<p>The lockpicking system has 3 difficulty levels:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Difficulty</th>
+          <th>Pins</th>
+          <th>Tolerance</th>
+          <th>Time Limit</th>
+          <th>Skill Required</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Easy</td>
+          <td>3</td>
+          <td>Wide</td>
+          <td>30s</td>
+          <td>Lockpicking 1</td>
+      </tr>
+      <tr>
+          <td>Medium</td>
+          <td>5</td>
+          <td>Medium</td>
+          <td>20s</td>
+          <td>Lockpicking 2</td>
+      </tr>
+      <tr>
+          <td>Hard</td>
+          <td>7</td>
+          <td>Tight</td>
+          <td>15s</td>
+          <td>Lockpicking 3</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Technique:</strong> Apply gentle pressure (mouse click), rotate pick slowly. When you feel resistance, hold position and increase pressure until the pin sets. If you hear a click, you broke the pin (permanent lock damage).</p>
+<h2 class="section-heading">Recommended Settings</h2>
+
+<table>
+  <thead>
+      <tr>
+          <th>Setting</th>
+          <th>Recommendation</th>
+          <th>Why</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Field of View</td>
+          <td>90-100</td>
+          <td>Better peripheral awareness during stealth</td>
+      </tr>
+      <tr>
+          <td>Sensitivity</td>
+          <td>2-3 (low)</td>
+          <td>Precision aiming for lockpick</td>
+      </tr>
+      <tr>
+          <td>Crouch mode</td>
+          <td>Toggle</td>
+          <td>Saves pinky finger during long stealth sections</td>
+      </tr>
+      <tr>
+          <td>Auto-run</td>
+          <td>Off</td>
+          <td>Manual control is safer in tight spaces</td>
+      </tr>
+      <tr>
+          <td>Shadow quality</td>
+          <td>Medium</td>
+          <td>Shadows affect stealth detection range</td>
+      </tr>
+      <tr>
+          <td>Audio mix</td>
+          <td>Headphones</td>
+          <td>Footstep direction is critical for stealth</td>
+      </tr>
+  </tbody>
+</table>
+<div class="insight-card">
+  <p>The toggle crouch setting is the single most impactful change you can make. Hold-to-crouch fatigues your hand during the 15-20 minute stealth sections that make up most Crime Simulator gameplay. Switch it in Settings > Controls > Crouch Mode.</p>
+</div>
+<div class="resource-section">
+  <h2>Community Verification</h2>
+  <div class="resource-section">
+  <h2>Community Verification &amp; Resources</h2>
+  <p>Data values may shift with patches. Cross-check against community resources before building your strategy.</p>
+  <div class="resource-grid">
+    
+    <a href="https://steamcommunity.com/app/2463290/discussions" class="resource-card" target="_blank" rel="noopener">
+      <span class="resource-name">Controls Discussion</span>
+      <span class="resource-desc">Community control customization guides</span>
+    </a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/" class="resource-card" target="_blank" rel="noopener">
+      <span class="resource-name">Lockpick Training Tool</span>
+      <span class="resource-desc">Third-party lockpick practice trainer</span>
+    </a>
+  
+  </div>
+</div>
+</div>
+
+        </div>
+      </article>
+
+      <nav class="article-nav">
+        
+        
+        <a href="/crime-sim/basics/beginner-guide/" class="nav-next">
+          <span class="nav-direction">Next Article</span>
+          <span class="nav-title">Crime Simulator Beginner&#39;s Guide: First Jobs and Progression</span>
+        </a>
+        
+      </nav>
+
+      <div class="back-section">
+        <a href="/crime-sim/basics/" class="back-btn">Back to Basics</a>
+      </div>
+    </main>
+  </div>
+</div>
+
+
+</div>
+
+<footer class="site-footer">
+  <div class="footer-links">
+    
+    
+    <a href="/schedule-i/">Schedule I</a>
+    
+    
+    
+    <a href="/dds2/">Drug Dealer Simulator 2</a>
+    
+    
+    
+    <a href="/crime-sim/">Crime Simulator</a>
+    
+    
+  </div>
+  <p class="copyright">&copy; 2026 Crime Empire Guide (Unofficial). This site is not affiliated with the game developers. All game content and materials are trademarks and copyrights of their respective owners.</p>
+</footer>
+
+<script src="/js/main.js"></script>
+
+
+<div id="cookie-banner" class="cookie-banner">
+  <div class="cookie-banner-content">
+    <p>We use cookies to deliver advertisements and analyse site traffic. <a href="#">Privacy Policy</a>.</p>
+    <button onclick="acceptCookies()" class="cookie-accept">Accept All</button>
+  </div>
+</div>
+
+<button id="backToTop" class="back-to-top" onclick="scrollToTop()" aria-label="Back to top">&#8593;</button>
+<script>
+function scrollToTop() {
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+window.addEventListener('scroll', function() {
+  var btn = document.getElementById('backToTop');
+  if (window.scrollY > 400) { btn.classList.add('visible'); } else { btn.classList.remove('visible'); }
+});
+</script>
+<script>
+function acceptCookies() {
+  localStorage.setItem('cookie_consent', 'accepted');
+  document.getElementById('cookie-banner').style.display = 'none';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  if (localStorage.getItem('cookie_consent')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+});
+</script>
+
+</body>
+</html>

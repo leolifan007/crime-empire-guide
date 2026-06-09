@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
+  </defs>
+  <rect width="720" height="340" fill="url(#bg)" rx="8"/>
+  <rect x="0" y="0" width="720" height="34" fill="rgba(212,168,67,0.08)" rx="8"/>
+  <rect x="0" y="26" width="720" height="8" fill="rgba(212,168,67,0.08)"/>
+  <text x="360" y="22" text-anchor="middle" fill="#d4a843" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">39 STEAM ACHIEVEMENTS -- RARITY &amp; DIFFICULTY</text>
+
+  <!-- ===== DIFFICULTY METER ===== -->
+  <rect x="40" y="48" width="640" height="54" rx="8" fill="rgba(212,168,67,0.02)" stroke="rgba(212,168,67,0.1)" stroke-width="1"/>
+  <text x="360" y="64" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="11">DIFFICULTY SPECTRUM</text>
+
+  <!-- Difficulty bar segments -->
+  <rect x="55" y="74" width="110" height="18" rx="4" fill="rgba(68,204,68,0.12)"/>
+  <text x="110" y="87" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">EASY (12)</text>
+
+  <rect x="175" y="74" width="110" height="18" rx="4" fill="rgba(212,168,67,0.12)"/>
+  <text x="230" y="87" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">MEDIUM (14)</text>
+
+  <rect x="295" y="74" width="120" height="18" rx="4" fill="rgba(204,136,68,0.12)"/>
+  <text x="355" y="87" text-anchor="middle" fill="#cc8844" font-family="Arial,sans-serif" font-size="10" font-weight="bold">HARD (9)</text>
+
+  <rect x="425" y="74" width="130" height="18" rx="4" fill="rgba(204,68,68,0.12)"/>
+  <text x="490" y="87" text-anchor="middle" fill="#cc4444" font-family="Arial,sans-serif" font-size="10" font-weight="bold">VERY HARD (4)</text>
+
+  <rect x="565" y="74" width="100" height="18" rx="4" fill="rgba(136,68,204,0.15)"/>
+  <text x="615" y="87" text-anchor="middle" fill="#8844cc" font-family="Arial,sans-serif" font-size="10" font-weight="bold">LEGEND</text>
+
+  <!-- ===== ACHIEVEMENT GROUPS ===== -->
+  
+  <!-- Story Achievements -->
+  <rect x="40" y="115" width="200" height="100" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
+  <rect x="40" y="115" width="200" height="22" rx="8" fill="rgba(212,168,67,0.05)"/>
+  <rect x="40" y="129" width="200" height="8"/>
+  <text x="140" y="131" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">STORY</text>
+
+  <text x="55" y="153" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Common: 12 achievements</text>
+  <!-- Rarity bar -->
+  <rect x="55" y="160" width="170" height="6" rx="3" fill="rgba(68,204,68,0.08)"/>
+  <rect x="55" y="160" width="140" height="6" rx="3" fill="#44cc44"/>
+  <text x="55" y="178" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Unlock %: 65-80% of players</text>
+  <text x="55" y="192" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">Tutorial -> First Meth -> Crew</text>
+  
+  <!-- Money / Grind -->
+  <rect x="260" y="115" width="200" height="100" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
+  <rect x="260" y="115" width="200" height="22" rx="8" fill="rgba(212,168,67,0.05)"/>
+  <rect x="260" y="129" width="200" height="8"/>
+  <text x="360" y="131" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">MONEY &amp; GRIND</text>
+
+  <text x="275" y="153" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Medium: 10 achievements</text>
+  <rect x="275" y="160" width="170" height="6" rx="3" fill="rgba(212,168,67,0.1)"/>
+  <rect x="275" y="160" width="102" height="6" rx="3" fill="#d4a843"/>
+  <text x="275" y="178" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Unlock %: 25-50% of players</text>
+  <text x="275" y="192" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">$100K -> $1M -> Street Cred Lv10</text>
+
+  <!-- Skill / Parkour -->
+  <rect x="480" y="115" width="200" height="100" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
+  <rect x="480" y="115" width="200" height="22" rx="8" fill="rgba(212,168,67,0.05)"/>
+  <rect x="480" y="129" width="200" height="8"/>
+  <text x="580" y="131" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">SKILL / PARKOUR</text>
+
+  <text x="495" y="153" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Hard: 11 achievements</text>
+  <rect x="495" y="160" width="170" height="6" rx="3" fill="rgba(204,136,68,0.08)"/>
+  <rect x="495" y="160" width="70" height="6" rx="3" fill="#cc8844"/>
+  <text x="495" y="178" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Unlock %: 5-20% of players</text>
+  <text x="495" y="192" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="12">Parkour combos -> No damage -> Speed</text>
+
+  <!-- ===== BOTTOM: Hidden/Secret ===== -->
+  <rect x="40" y="228" width="640" height="95" rx="8" fill="rgba(212,168,67,0.02)" stroke="rgba(212,168,67,0.1)" stroke-width="1"/>
+  <rect x="40" y="228" width="640" height="24" rx="8" fill="rgba(212,168,67,0.04)"/>
+  <rect x="40" y="244" width="640" height="8"/>
+  <text x="360" y="246" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">HIDDEN / SECRET ACHIEVEMENTS (4)</text>
+
+  <!-- Hidden 1 -->
+  <rect x="55" y="260" width="145" height="50" rx="6" fill="rgba(136,68,204,0.04)" stroke="rgba(136,68,204,0.12)" stroke-width="0.8"/>
+  <text x="127" y="278" text-anchor="middle" fill="#8844cc" font-family="Arial,sans-serif" font-size="11" font-weight="bold">I Am The One Who Knocks</text>
+  <text x="127" y="296" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Street Cred Lv4</text>
+
+  <!-- Hidden 2 -->
+  <rect x="210" y="260" width="145" height="50" rx="6" fill="rgba(136,68,204,0.04)" stroke="rgba(136,68,204,0.12)" stroke-width="0.8"/>
+  <text x="282" y="278" text-anchor="middle" fill="#8844cc" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Secret Character</text>
+  <text x="282" y="296" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Encounter special NPC</text>
+
+  <!-- Hidden 3 -->
+  <rect x="365" y="260" width="145" height="50" rx="6" fill="rgba(136,68,204,0.04)" stroke="rgba(136,68,204,0.12)" stroke-width="0.8"/>
+  <text x="437" y="278" text-anchor="middle" fill="#8844cc" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Elite Parkour</text>
+  <text x="437" y="296" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Complete parkour course</text>
+
+  <!-- Hidden 4 -->
+  <rect x="520" y="260" width="145" height="50" rx="6" fill="rgba(136,68,204,0.04)" stroke="rgba(136,68,204,0.12)" stroke-width="0.8"/>
+  <text x="592" y="278" text-anchor="middle" fill="#8844cc" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Mega Lab</text>
+  <text x="592" y="296" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Build max-level lab</text>
+</svg>

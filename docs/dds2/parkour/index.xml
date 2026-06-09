@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Parkour on Crime Empire Guide</title><link>https://crimempire.com/dds2/parkour/</link><description>Recent content in Parkour on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Jun 2026 13:10:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/dds2/parkour/index.xml" rel="self" type="application/rss+xml"/><item><title>DDS2 Parkour Guide: Movement Mechanics and Police Escape</title><link>https://crimempire.com/dds2/parkour/parkour-guide/</link><pubDate>Tue, 09 Jun 2026 13:00:00 +0800</pubDate><guid>https://crimempire.com/dds2/parkour/parkour-guide/</guid><description>&lt;div class="callout"&gt;The DDS2 Fandom tutorial page confirms: &amp;quot;Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas.&amp;quot; Parkour is your primary survival tool -- not guns.&lt;/div&gt;
+
+&lt;img src="https://crimempire.com/images/diagrams/dds2-parkour-escape.svg" alt="DDS2 Parkour System: Actions and Police Escape Flow" class="schema-diagram" loading="lazy" width="720"&gt;
+
+&lt;h2 class="section-heading"&gt;Parkour Actions&lt;/h2&gt;
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Action&lt;/th&gt;
+ &lt;th&gt;Key&lt;/th&gt;
+ &lt;th&gt;Use Case&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Vault&lt;/td&gt;
+ &lt;td&gt;Space (toward obstacle)&lt;/td&gt;
+ &lt;td&gt;Low fences, barriers&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Wall Run&lt;/td&gt;
+ &lt;td&gt;Space (toward wall at angle)&lt;/td&gt;
+ &lt;td&gt;Narrow alleys, building gaps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Jump Climb&lt;/td&gt;
+ &lt;td&gt;Space (toward ledge)&lt;/td&gt;
+ &lt;td&gt;Roof access, vertical escape&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sprint&lt;/td&gt;
+ &lt;td&gt;Shift&lt;/td&gt;
+ &lt;td&gt;Open ground between cover&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Crouch/Slide&lt;/td&gt;
+ &lt;td&gt;Ctrl&lt;/td&gt;
+ &lt;td&gt;Break line of sight&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The Fandom wiki confirms these moves are specifically designed for:&lt;/p&gt;</description></item><item><title>DDS2 Police Evasion: Parkour Escape Routes and Heat Management</title><link>https://crimempire.com/dds2/parkour/escape-routes/</link><pubDate>Tue, 09 Jun 2026 13:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/parkour/escape-routes/</guid><description>&lt;div class="callout"&gt;Police in DDS2 have a heat system similar to open-world crime games. Your wanted level (None -&amp;gt; Person of Interest -&amp;gt; Suspect -&amp;gt; Wanted) determines pursuit intensity. Parkour breaks line of sight faster than any other method.&lt;/div&gt;
+
+&lt;img src="https://crimempire.com/images/diagrams/dds2-parkour-escape.svg" alt="DDS2 Police Evasion: Wanted Levels and Escape Routes" class="schema-diagram" loading="lazy" width="720"&gt;
+
+&lt;h2 class="section-heading"&gt;Wanted Level System&lt;/h2&gt;
+
+&lt;p&gt;Based on the DDS2 Fandom hideout page and community discussions:&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;Name&lt;/th&gt;
+ &lt;th&gt;Police Behavior&lt;/th&gt;
+ &lt;th&gt;How to Reduce&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;0&lt;/td&gt;
+ &lt;td&gt;None&lt;/td&gt;
+ &lt;td&gt;Standard patrols&lt;/td&gt;
+ &lt;td&gt;No action needed&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Person of Interest&lt;/td&gt;
+ &lt;td&gt;Increased patrols in area&lt;/td&gt;
+ &lt;td&gt;3-5 min inactivity&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Suspect&lt;/td&gt;
+ &lt;td&gt;Active search, roadblocks&lt;/td&gt;
+ &lt;td&gt;5-10 min, avoid crime&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Wanted&lt;/td&gt;
+ &lt;td&gt;Pursuit, helicopter&lt;/td&gt;
+ &lt;td&gt;10+ min, hide in safe spot&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 class="section-heading"&gt;Parkour Escape Flow&lt;/h2&gt;
+
+&lt;p&gt;When police start chasing:&lt;/p&gt;</description></item></channel></rss>
