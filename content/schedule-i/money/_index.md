@@ -1,4 +1,4 @@
----
+ï»¿---
 title: "Money"
 date: 2026-06-07
 draft: false
@@ -7,7 +7,7 @@ game: schedule-i
 tag: speedrun
 weight: 1
 image: "/images/screenshots/money.jpg"
-description: "Fastest Early-Game Money Loop ¡ª complete guide covering all strategies, tips, and data."
+description: "Fastest Early-Game Money Loop â€” complete guide covering all strategies, tips, and data."
 ---
 
-Fastest Early-Game Money Loop ¡ª complete guide covering all strategies, tips, and data.
+Fastest Early-Game Money Loop â€” complete guide covering all strategies, tips, and data.

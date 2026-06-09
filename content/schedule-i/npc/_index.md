@@ -1,4 +1,4 @@
----
+ï»¿---
 title: "NPC Guide"
 date: 2026-06-07
 draft: false
@@ -7,7 +7,7 @@ game: schedule-i
 tag: reference
 weight: 1
 image: "/images/screenshots/npc.jpg"
-description: "All NPC Locations Map ¡ª complete guide covering all strategies, tips, and data."
+description: "All NPC Locations Map â€” complete guide covering all strategies, tips, and data."
 ---
 
-All NPC Locations Map ¡ª complete guide covering all strategies, tips, and data.
+All NPC Locations Map â€” complete guide covering all strategies, tips, and data.
