@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360">
+  <rect width="720" height="360" fill="#1a1a2e" rx="8"/>
+  <text x="360" y="25" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DDS2 Staff System: Hire, Assign & Automate</text>
+
+  <!-- How to Get Employees -->
+  <text x="40" y="50" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">HOW TO GET EMPLOYEES (Steam FAQ Guide Verified)</text>
+
+  <rect x="40" y="60" width="150" height="55" rx="4" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
+  <text x="115" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Notice Boards</text>
+  <text x="115" y="95" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Random spawns at hideouts</text>
+  <text x="115" y="109" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">No known limit</text>
+
+  <rect x="200" y="60" width="150" height="55" rx="4" fill="#16213e" stroke="#cccc44" stroke-width="2"/>
+  <text x="275" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Influencer Missions</text>
+  <text x="275" y="95" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Complete tasks for NPCs</text>
+  <text x="275" y="109" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="9">2 hires per influencer</text>
+
+  <rect x="360" y="60" width="150" height="55" rx="4" fill="#16213e" stroke="#cc6644" stroke-width="2"/>
+  <text x="435" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Story Progression</text>
+  <text x="435" y="95" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Unlock via main questline</text>
+  <text x="435" y="109" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="9">Story-gated</text>
+
+  <rect x="520" y="60" width="170" height="55" rx="4" fill="#16213e" stroke="#6644cc" stroke-width="2"/>
+  <text x="605" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Territory Expansion</text>
+  <text x="605" y="95" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Some hideouts include staff</text>
+  <text x="605" y="109" text-anchor="middle" fill="#6644cc" font-family="Arial, sans-serif" font-size="9">Limited</text>
+
+  <!-- Employee Roles -->
+  <text x="40" y="140" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">EMPLOYEE ROLES & ASSIGNMENTS</text>
+
+  <rect x="40" y="150" width="155" height="85" rx="5" fill="#1a2e1a" stroke="#44cc88" stroke-width="2"/>
+  <text x="117" y="170" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="11" font-weight="bold">DEALER</text>
+  <line x1="55" y1="176" x2="180" y2="176" stroke="#44cc88" stroke-width="0.5" opacity="0.5"/>
+  <text x="117" y="192" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Sells to customers in</text>
+  <text x="117" y="206" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">assigned territory</text>
+  <text x="117" y="225" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Prereq: Distributor Desk</text>
+
+  <rect x="205" y="150" width="155" height="85" rx="5" fill="#2e2e1a" stroke="#cccc44" stroke-width="2"/>
+  <text x="282" y="170" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="11" font-weight="bold">COOK</text>
+  <line x1="220" y1="176" x2="345" y2="176" stroke="#cccc44" stroke-width="0.5" opacity="0.5"/>
+  <text x="282" y="192" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Auto-processes batches</text>
+  <text x="282" y="206" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">in assigned lab</text>
+  <text x="282" y="225" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="9">Prereq: Lab Upgrade</text>
+
+  <rect x="370" y="150" width="155" height="85" rx="5" fill="#1a1a3d" stroke="#4466cc" stroke-width="2"/>
+  <text x="447" y="170" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="11" font-weight="bold">GUARD</text>
+  <line x1="385" y1="176" x2="510" y2="176" stroke="#4466cc" stroke-width="0.5" opacity="0.5"/>
+  <text x="447" y="192" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Reduces raid probability</text>
+  <text x="447" y="206" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Protects hideout assets</text>
+  <text x="447" y="225" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="9">Prereq: Guard Station</text>
+
+  <rect x="535" y="150" width="155" height="85" rx="5" fill="#2e1a2e" stroke="#cc44cc" stroke-width="2"/>
+  <text x="612" y="170" text-anchor="middle" fill="#cc44cc" font-family="Arial, sans-serif" font-size="11" font-weight="bold">DISTRIBUTOR</text>
+  <line x1="550" y1="176" x2="675" y2="176" stroke="#cc44cc" stroke-width="0.5" opacity="0.5"/>
+  <text x="612" y="192" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Manages inter-hideout</text>
+  <text x="612" y="206" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">logistics</text>
+  <text x="612" y="225" text-anchor="middle" fill="#cc44cc" font-family="Arial, sans-serif" font-size="9">Prereq: 2+ hideouts</text>
+
+  <!-- Hiring Priority -->
+  <text x="40" y="260" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">OPTIMAL HIRE ORDER (Verified Net Worth Progression)</text>
+
+  <rect x="40" y="270" width="115" height="50" rx="3" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
+  <text x="97" y="288" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Step 1: Dealer</text>
+  <text x="97" y="304" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">$5k-15k</text>
+  <text x="97" y="316" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Auto income</text>
+
+  <text x="165" y="288" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="185" y="270" width="115" height="50" rx="3" fill="#2e2e1a" stroke="#cccc44" stroke-width="1"/>
+  <text x="242" y="288" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Step 2: Cook</text>
+  <text x="242" y="304" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">$15k-50k</text>
+  <text x="242" y="316" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Scales production</text>
+
+  <text x="310" y="288" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="330" y="270" width="120" height="50" rx="3" fill="#1a1a3d" stroke="#4466cc" stroke-width="1"/>
+  <text x="390" y="288" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Step 3: Guard</text>
+  <text x="390" y="304" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">$50k-100k</text>
+  <text x="390" y="316" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Protects investment</text>
+
+  <text x="460" y="288" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="480" y="270" width="120" height="50" rx="3" fill="#2e1a2e" stroke="#cc44cc" stroke-width="1"/>
+  <text x="540" y="288" text-anchor="middle" fill="#cc44cc" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Step 4: Distributor</text>
+  <text x="540" y="304" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">$100k+</text>
+  <text x="540" y="316" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Full automation</text>
+
+  <text x="615" y="288" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="630" y="270" width="70" height="50" rx="3" fill="#3d1a3d" stroke="#cc66cc" stroke-width="1"/>
+  <text x="665" y="295" text-anchor="middle" fill="#cc66cc" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Full</text>
+  <text x="665" y="310" text-anchor="middle" fill="#cc66cc" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Staff</text>
+
+  <!-- Bottom note -->
+  <rect x="40" y="330" width="640" height="22" rx="4" fill="#16213e" stroke="#44cc88" stroke-width="1"/>
+  <text x="360" y="345" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">Full staff setup: $2,000-4,000/day income - $300-500 wages = $1,500-3,500/day net profit</text>
+</svg>

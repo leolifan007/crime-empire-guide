@@ -12,6 +12,8 @@ The DDS2 tutorial covers basic controls but skips the survival mechanics that ex
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-progression-flow.svg" "DDS2 Early Game Progression: From Beach to First $5K" "720" >}}
+
 1. Use Multiple Hideouts Early
 
 Hideout raid risk is affected by wanted level and visibility. The DDS2 Fandom wiki confirms that during a raid, helicopters may appear and you can lose stored assets. Community strategy: split raw materials, finished product, and cash across 3+ hideouts.

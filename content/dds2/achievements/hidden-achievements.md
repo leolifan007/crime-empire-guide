@@ -12,6 +12,8 @@ DDS2 has several achievements with hidden unlock conditions. By cross-referencin
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-achievement-guide.svg" "DDS2 Hidden Achievement Guide: Rarest Unlocks" "720" >}}
+
 {{< section "Achievements with Unknown Conditions" >}}
 
 Several achievements on Steam Hunters and PlayTracker have descriptions that do not clearly state their unlock conditions:

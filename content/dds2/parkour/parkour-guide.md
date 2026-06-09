@@ -12,6 +12,8 @@ The DDS2 Fandom tutorial page confirms: "Use parkour to find shortcuts, to make 
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-parkour-escape.svg" "DDS2 Parkour System: Actions and Police Escape Flow" "720" >}}
+
 {{< section "Parkour Actions" >}}
 
 | Action | Key | Use Case |

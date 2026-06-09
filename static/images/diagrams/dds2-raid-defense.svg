@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380">
+  <rect width="720" height="380" fill="#1a1a2e" rx="8"/>
+  <text x="360" y="25" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DDS2 Hideout Raid Defense System</text>
+
+  <!-- Wanted Level Display -->
+  <text x="40" y="50" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">WANTED LEVEL (affects raid probability)</text>
+  
+  <rect x="40" y="60" width="140" height="30" rx="3" fill="#1a3d1a" stroke="#44cc44" stroke-width="1"/>
+  <text x="110" y="80" text-anchor="middle" fill="#44cc44" font-family="Arial, sans-serif" font-size="10">NONE - Low raid risk</text>
+
+  <rect x="190" y="60" width="150" height="30" rx="3" fill="#3d3d1a" stroke="#cccc44" stroke-width="1"/>
+  <text x="265" y="80" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">PERSON OF INTEREST - Medium</text>
+
+  <rect x="350" y="60" width="130" height="30" rx="3" fill="#3d1a1a" stroke="#cc6644" stroke-width="1"/>
+  <text x="415" y="80" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="10">SUSPECT - High raid risk</text>
+
+  <rect x="490" y="60" width="140" height="30" rx="3" fill="#4d0a0a" stroke="#ff4444" stroke-width="1"/>
+  <text x="560" y="80" text-anchor="middle" fill="#ff4444" font-family="Arial, sans-serif" font-size="10">WANTED - Very High + Helicopter</text>
+
+  <!-- 3-Hideout Strategy -->
+  <text x="40" y="115" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RECOMMENDED: 3-Hideout Split Strategy</text>
+
+  <!-- Hideout A -->
+  <rect x="40" y="125" width="190" height="110" rx="6" fill="#1a2e1a" stroke="#44cc88" stroke-width="2"/>
+  <text x="135" y="145" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Hideout A: Rural/Jungle</text>
+  <line x1="60" y1="152" x2="210" y2="152" stroke="#44cc88" stroke-width="0.5" opacity="0.5"/>
+  <text x="135" y="167" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Raw materials, weed farm</text>
+  <text x="135" y="183" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Low Police Visibility</text>
+  <text x="135" y="199" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="10">Low Value = Low Risk</text>
+  <text x="135" y="228" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Recommended by r/DrugDealerSimOfficial</text>
+
+  <!-- Arrow A to B -->
+  <text x="245" y="170" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <!-- Hideout B -->
+  <rect x="265" y="125" width="190" height="110" rx="6" fill="#2e2e1a" stroke="#cccc44" stroke-width="2"/>
+  <text x="360" y="145" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Hideout B: Industrial</text>
+  <line x1="285" y1="152" x2="435" y2="152" stroke="#cccc44" stroke-width="0.5" opacity="0.5"/>
+  <text x="360" y="167" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Processing, amphetamine</text>
+  <text x="360" y="183" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Medium Visibility</text>
+  <text x="360" y="199" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">Medium Value = Medium Risk</text>
+  <text x="360" y="215" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Cost: $5,000-8,000</text>
+
+  <!-- Arrow B to C -->
+  <text x="470" y="170" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <!-- Hideout C -->
+  <rect x="490" y="125" width="190" height="110" rx="6" fill="#2e1a1a" stroke="#cc6644" stroke-width="2"/>
+  <text x="585" y="145" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Hideout C: Coastal</text>
+  <line x1="510" y1="152" x2="660" y2="152" stroke="#cc6644" stroke-width="0.5" opacity="0.5"/>
+  <text x="585" y="167" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">High-value production, meth</text>
+  <text x="585" y="183" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">High Police Visibility</text>
+  <text x="585" y="199" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="10">High Value = High Risk</text>
+  <text x="585" y="215" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Cost: $10,000+</text>
+
+  <!-- Protection Tips -->
+  <text x="40" y="265" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RAID PROTECTION CHECKLIST</text>
+  
+  <rect x="40" y="275" width="310" height="45" rx="4" fill="#16213e" stroke="#44cc88" stroke-width="1"/>
+  <text x="50" y="293" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">1. Own 2+ hideouts before net worth exceeds $5,000</text>
+  <text x="50" y="308" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">2. Keep raw materials + finished product separate</text>
+
+  <rect x="370" y="275" width="310" height="45" rx="4" fill="#16213e" stroke="#cc6644" stroke-width="1"/>
+  <text x="380" y="293" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">3. Reduce wanted level before visiting high-value hideouts</text>
+  <text x="380" y="308" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">4. Escape using parkour during raids, do not fight</text>
+
+  <!-- Raid Sequence -->
+  <text x="40" y="340" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">WHEN RAIDED (DDS2 Fandom verified):</text>
+  <text x="40" y="358" fill="#888888" font-family="Arial, sans-serif" font-size="10">Helicopter + armed police arrive -&gt; Vault nearest fence -&gt; Wall run to roof -&gt; Wait in hiding spot until heat drops</text>
+</svg>

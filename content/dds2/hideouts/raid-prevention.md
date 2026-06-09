@@ -12,6 +12,8 @@ Getting raided in DDS2 is preventable. The game's raid system checks wanted leve
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-raid-defense.svg" "DDS2 Raid Prevention: Wanted Level and Protection" "720" >}}
+
 {{< section "Raid Cause and Effect" >}}
 
 | Factor | Impact on Raid Chance | How to Control |

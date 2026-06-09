@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380">
+  <rect width="720" height="380" fill="#1a1a2e" rx="8"/>
+  <text x="360" y="25" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DDS2 Parkour Escape System</text>
+
+  <!-- Parkour Actions -->
+  <text x="40" y="50" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PARKOUR ACTIONS (Fandom Wiki Verified)</text>
+
+  <!-- Vault -->
+  <rect x="40" y="60" width="150" height="70" rx="5" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
+  <text x="115" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">VAULT</text>
+  <text x="115" y="96" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Low fences, barriers</text>
+  <text x="115" y="110" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Key: Space (toward obstacle)</text>
+  <text x="115" y="124" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Best: Quick escape, any terrain</text>
+
+  <!-- Wall Run -->
+  <rect x="200" y="60" width="150" height="70" rx="5" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
+  <text x="275" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">WALL RUN</text>
+  <text x="275" y="96" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Narrow alleys, gaps</text>
+  <text x="275" y="110" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Key: Space (toward wall at angle)</text>
+  <text x="275" y="124" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Best: Urban escape, break line of sight</text>
+
+  <!-- Climb -->
+  <rect x="360" y="60" width="150" height="70" rx="5" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
+  <text x="435" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">CLIMB</text>
+  <text x="435" y="96" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Roofs, ledges, balconies</text>
+  <text x="435" y="110" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Key: Space (toward ledge)</text>
+  <text x="435" y="124" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Best: Vertical escape, rooftops</text>
+
+  <!-- Sprint + Crouch -->
+  <rect x="520" y="60" width="170" height="70" rx="5" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
+  <text x="605" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">SPRINT + CROUCH/SLIDE</text>
+  <text x="605" y="96" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Open ground, stealth</text>
+  <text x="605" y="110" text-anchor="middle" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Shift (sprint) + Ctrl (crouch)</text>
+  <text x="605" y="124" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Best: Move between cover spots</text>
+
+  <!-- Escape Flow -->
+  <text x="40" y="160" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">POLICE ESCAPE FLOW</text>
+
+  <rect x="40" y="170" width="130" height="40" rx="20" fill="#3d1a1a" stroke="#cc4444" stroke-width="1"/>
+  <text x="105" y="195" text-anchor="middle" fill="#cc4444" font-family="Arial, sans-serif" font-size="11">POLICE SPOT YOU</text>
+
+  <text x="185" y="195" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="200" y="170" width="130" height="40" rx="20" fill="#2e2e1a" stroke="#cccc44" stroke-width="1"/>
+  <text x="265" y="188" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">SPRINT TO OBSTACLE</text>
+  <text x="265" y="203" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="8">Fence, wall, barrier</text>
+
+  <text x="345" y="195" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="360" y="170" width="130" height="40" rx="20" fill="#2e2e1a" stroke="#cccc44" stroke-width="1"/>
+  <text x="425" y="188" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">VAULT or WALL RUN</text>
+  <text x="425" y="203" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="8">Break line of sight</text>
+
+  <text x="505" y="195" text-anchor="middle" fill="#d4a843" font-family="Arial, sans-serif" font-size="14">-&gt;</text>
+
+  <rect x="520" y="170" width="170" height="40" rx="20" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
+  <text x="605" y="188" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">CLIMB TO ROOF</text>
+  <text x="605" y="203" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="8">Wait until heat drops 1 level</text>
+
+  <!-- Zone Specific Tips -->
+  <text x="40" y="235" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">ZONE-SPECIFIC ESCAPE ROUTES</text>
+
+  | Zone | Best Route | Difficulty |
+  |------|-----------|-----------|
+  <text x="50" y="255" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Urban streets:</text>
+  <text x="150" y="255" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Roof access via wall-run or climbing</text>
+  <text x="500" y="255" fill="#ccaa44" font-family="Arial, sans-serif" font-size="9">Medium</text>
+
+  <text x="50" y="270" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Industrial:</text>
+  <text x="150" y="270" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Container vaults + pipe climbs</text>
+  <text x="500" y="270" fill="#44cc88" font-family="Arial, sans-serif" font-size="9">Easy</text>
+
+  <text x="50" y="285" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Rural:</text>
+  <text x="150" y="285" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Tree line + terrain obstacles</text>
+  <text x="500" y="285" fill="#44cc88" font-family="Arial, sans-serif" font-size="9">Easy</text>
+
+  <text x="50" y="300" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Coastal:</text>
+  <text x="150" y="300" fill="#88cc88" font-family="Arial, sans-serif" font-size="9">Building-to-building jumps</text>
+  <text x="500" y="300" fill="#cc6644" font-family="Arial, sans-serif" font-size="9">Hard</text>
+
+  <!-- Why Parkour > Fighting -->
+  <text x="40" y="325" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">WHY PARKOUR BEATS FIGHTING (Community Consensus)</text>
+
+  <rect x="40" y="335" width="640" height="35" rx="4" fill="#16213e" stroke="#44cc88" stroke-width="1"/>
+  <text x="50" y="350" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">Fighting: Police + wanted level raid risk + ammo/health cost</text>
+  <text x="50" y="363" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">Parkour: 10-20 second escape + no wanted level increase + infinite reuse</text>
+</svg>

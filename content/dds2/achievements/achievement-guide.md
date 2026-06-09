@@ -12,6 +12,8 @@ Drug Dealer Simulator 2 has 39 Steam achievements (confirmed on the official Ste
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-achievement-guide.svg" "DDS2 Achievement Guide: 39 Verified Achievements" "720" >}}
+
 {{< section "All Achievements by Category" >}}
 
 Based on data from Steam Hunters and PlayTracker achievement tracking sites.

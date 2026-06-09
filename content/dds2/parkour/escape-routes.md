@@ -12,6 +12,8 @@ Police in DDS2 have a heat system similar to open-world crime games. Your wanted
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-parkour-escape.svg" "DDS2 Police Evasion: Wanted Levels and Escape Routes" "720" >}}
+
 {{< section "Wanted Level System" >}}
 
 Based on the DDS2 Fandom hideout page and community discussions:

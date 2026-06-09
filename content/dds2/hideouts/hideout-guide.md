@@ -12,6 +12,8 @@ Hideouts in DDS2 can be raided based on your wanted level and the hideout's visi
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-raid-defense.svg" "DDS2 Raid Defense: 3-Hideout Split Strategy" "720" >}}
+
 {{< section "How Raids Work" >}}
 
 The DDS2 Fandom hideout page confirms:

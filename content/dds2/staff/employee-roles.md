@@ -12,6 +12,8 @@ Not all staff roles are equally important at every stage. The optimal hire order
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-staff-system.svg" "DDS2 Employee Role Assignments: Optimal Staff Setup" "720" >}}
+
 {{< section "Role Breakdown" >}}
 
 **Dealers** handle customer interactions. The DDS2 Fandom wiki explains that once you hire a dealer and set them up in any territory, you can assign customers from that region to them. This is the first automation unlock and should be your priority.

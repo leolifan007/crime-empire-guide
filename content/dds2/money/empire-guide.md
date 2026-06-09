@@ -12,6 +12,8 @@ Scaling past $50,000 requires employees, multiple specialized hideouts, and terr
 
 {{< /callout >}}
 
+{{< diagram "diagrams/dds2-staff-system.svg" "DDS2 Staff System: Hire, Assign, and Automate" "720" >}}
+
 {{< section "Employee System" >}}
 
 Employees are unlocked through:
