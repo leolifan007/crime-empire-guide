@@ -1,6 +1,6 @@
 ---
-title: "DDS2 Late-Game Empire: Scaling from $50k to $1M"
-date: 2026-06-09T08:45:00+08:00
+title: "DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy"
+date: 2026-06-09T12:25:00+08:00
 draft: false
 game: dds2
 tag: MONEY
@@ -8,82 +8,54 @@ weight: 2
 ---
 
 {{< callout "info" >}}
-Hitting $50k in DDS2 means you have graduated from street dealer to mid-level cartel. Scaling beyond that requires automation, territory control, and a multi-location production pipeline. Here is the blueprint for reaching your first million.
+Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for weed, one for amphetamine, one for meth. Here is the verified path to a million-dollar operation.
 
 {{< /callout >}}
 
-{{< section "The Staff Economy" >}}
+{{< section "Employee System" >}}
 
-Staff are not a convenience -- they are a multiplier. Every employee costs $50-150/day in wages but generates $500-2,000/day in value if assigned correctly.
+Employees are unlocked through:
+- Notice boards (random spawn)
+- Influencer missions (limited uses per influencer)
+- Story progression
 
-| Staff Type | Unlock | Daily Cost | Value Generated |
-|-----------|--------|------------|-----------------|
-| Runner | $5k net worth | $50 | Delivers 10 orders/day |
-| Cook | $5k net worth | $80 | Processes 3 batches/day |
-| Guard | $15k net worth | $100 | Prevents raids (95% effective) |
-| Driver | $25k net worth | $150 | Moves product between hideouts |
-| Manager | $50k net worth | $200 | Auto-assigns tasks to other staff |
+The Steam FAQ guide covers "how to get more employees, from early-game strategies to unlocking advanced methods." Once hired, employees can be assigned to:
+- Dealers: Handle customer orders in assigned territories
+- Cooks: Automatic batch processing
+- Distributors: Manage supply chain between hideouts
 
-**The optimal hire order:**
+| Role | Function | Unlock Method |
+|------|----------|---------------|
+| Dealer | Sell to customers | Build distributor desk |
+| Cook | Auto-craft batches | Build lab upgrade |
+| Distributor | Move product between hideouts | Territory expansion |
 
-1. Guard (first purchase to protect existing assets)
-2. Cook (doubles production output)
-3. Runner (frees up your time for management)
-4. Driver (enables multi-location logistics)
-5. Manager (endgame, replaces manual task assignment)
+{{< section "Multi-Hideout Specialization" >}}
 
-{{< insight >}}Do not hire a Manager until you have at least 3 Cooks and 2 Runners. The Manager's value is coordination cost reduction, and with fewer than 5 staff the math does not work out. The $200/day wage eats into profits.{{< /insight >}}
+Reddit player strategies confirm the optimal mid-game layout:
 
-{{< section "Territory Expansion Map" >}}
+| Hideout | Product | Purpose | Police Risk |
+|---------|---------|---------|-------------|
+| Jungle/rural | Weed | Raw material, low heat | Low |
+| Callejon/industrial | Amphetamine | Processing, medium visibility | Medium |
+| Slavs Bay/coastal | Meth | High-value, high risk | High |
 
-Isla Sombra is divided into 6 territories. Each has different economics:
+{{< callout "warning" >}}Per the DDS2 Fandom wiki, hideout raid risk is affected by wanted level AND hideout visibility. A huge lab in a visible location is easier for police to detect. Keep your high-value production in less conspicuous hideouts.{{< /callout >}}
 
-| Territory | Entry Cost | Police Heat | Client Density | Best For |
-|-----------|-----------|-------------|---------------|----------|
-| Pueblo (starting) | Free | Low | High | Early game |
-| Playa Dorada | $15,000 | Medium | Medium | Mid game labs |
-| Industrial Zone | $30,000 | High | Low | Processing |
-| North Farms | $8,000 | Low | Low | Raw materials |
-| Downtown | $75,000 | Very High | Very High | Endgame sales |
-| Luxury District | $150,000 | Extreme | Low | Money laundering |
+{{< section "Territory Progression" >}}
 
-**Expansion strategy:** Do NOT expand to Downtown until you have 3+ guards and a dedicated processing lab. The police heat in Downtown is brutal -- one mistake costs you the entire territory investment.
-
-{{< section "Production Scaling Table" >}}
-
-| Setup | Investment | Daily Output | Daily Profit | ROI |
-|-------|-----------|-------------|-------------|-----|
-| Single lab, 1 cook | $5k | 3 batches | $2,700 | 2 days |
-| 2 labs, 2 cooks | $15k | 8 batches | $7,200 | 3 days |
-| 3 labs, 3 cooks, 1 driver | $40k | 15 batches | $13,500 | 4 days |
-| Full network (5 labs) | $120k | 30 batches | $27,000 | 6 days |
-
-{{< callout "warning" >}}
-Diminishing returns kick in after 3 labs. Police raid frequency increases with each active lab in your network. Each additional lab past 3 needs a dedicated guard at $100/day, eating into the marginal profit.
-{{< /callout >}}
-
-{{< section "Money Laundering: The Endgame Bottleneck" >}}
-
-When your daily income exceeds $15,000, you hit the money laundering cap. Raw cash in your pocket attracts police attention. You need to launder it through:
-
-1. **Real estate** -- Buy and flip properties (best return)
-2. **Car dealership** -- Purchase vehicles, resell through front business
-3. **Casino DLC** -- Gambling front, high risk but fast
-4. **Art gallery** -- Buy low, authenticate, sell high (slowest but safest)
-
-| Method | Speed | Loss % | Police Risk |
-|--------|-------|--------|-------------|
-| Real estate flip | Medium | 5% | Very Low |
-| Casino (DLC) | Fast | 15-30% | Very High |
-| Car dealership | Slow | 10% | Low |
-| Art gallery | Very Slow | 20% | Very Low |
-
-**The real estate strategy is mathematically superior.** Buy property in North Farms, renovate (costs 20% of purchase), resell for 40% profit. Each flip takes 3 in-game days but returns are consistent and police-proof.
+| Net Worth | Recommended Action | Income |
+|-----------|-------------------|--------|
+| $5k-15k | Buy second hideout, hire first employee | $500-1k/day |
+| $15k-50k | Third hideout, hire cook + dealer | $2-5k/day |
+| $50k-200k | Full staff, all territories unlocked | $10-20k/day |
+| $200k+ | Co-op expansion, casino DLC content | $20k+/day |
 
 <div class="resource-section">
-  <h2>Community Resources</h2>
+  <h2>Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="DDS2 Territory Guide" url="https://steamcommunity.com/app/1708850/guides" desc="Community territory heat maps" >}}
-    {{< resourcecard name="Casino DLC Review" url="https://store.steampowered.com/app/1708850/Drug_Dealer_Simulator_2/" desc="Official store page with DLC details" >}}
+    {{< resourcecard name="Steam FAQ Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3273716171" desc="Employee and progression guide" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="Hideout Location Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3277058404" desc="Pedro Alvarez Real Estate - all hideout locations with prices" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="DDS2 Steam Page" url="https://store.steampowered.com/app/1708850/Drug_Dealer_Simulator_2/" desc="39 achievements, 3-player co-op, dual currency" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>

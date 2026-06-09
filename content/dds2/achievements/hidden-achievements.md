@@ -1,6 +1,6 @@
 ---
-title: "DDS2 All Hidden and Secret Achievements"
-date: 2026-06-09T10:20:00+08:00
+title: "DDS2 Hidden and Secret Achievements (Verified via Steam Trackers)"
+date: 2026-06-09T13:50:00+08:00
 draft: false
 game: dds2
 tag: ACHIEVEMENT
@@ -8,126 +8,57 @@ weight: 2
 ---
 
 {{< callout "info" >}}
-8 of DDS2's 39 achievements are "hidden" -- Steam does not reveal the unlock condition. This guide decrypts every hidden achievement, including exact locations, timings, and routes. Some require pre-planning from the first hour of gameplay.
+DDS2 has several achievements with hidden unlock conditions. By cross-referencing Steam community guides (including the "EN Achievements 100%" guide) and tracking sites, we can piece together the requirements for the hardest-to-unlock achievements.
 
 {{< /callout >}}
 
-{{< section "Hidden Achievement #1: The Fisherman" >}}
+{{< section "Achievements with Unknown Conditions" >}}
 
-| Detail | Info |
-|--------|------|
-| Steam name | Hidden until unlocked |
-| Condition | Catch 3 fish at the hidden pier location |
-| Location | West coast, follow the river from North Farm to the ocean |
+Several achievements on Steam Hunters and PlayTracker have descriptions that do not clearly state their unlock conditions:
 
-**Steps:**
-1. Buy a fishing rod from the general store ($80)
-2. Go to the west coast pier (marked on map only after you approach)
-3. Fish at 3 separate spots on the pier (left, center, right)
-4. Catch any 3 fish (type does not matter)
+| Achievement | Possible Trigger (Community Guesses) | Rarity |
+|-------------|--------------------------------------|--------|
+| Never let you down | Complete a specific quest chain | Very rare |
+| A warm place | Related to hideout upgrades or specific location | Very rare |
+| Home sweet home | Fully upgrade a hideout | Rare |
+| Side hustle | Complete all available side missions | 0.6% |
+| 500 CIGARETTES | Sell 500 cigarettes total | 0.7% |
 
-**Tip:** Fishing takes 30 seconds per catch. You need patience, not skill. The pier is only accessible between 06:00-18:00 (daytime).
+{{< section "DLC Achievements" >}}
 
----
+The Casino DLC (released June 2025) adds additional achievements. The Steam community 100% guide notes that one involves killing the casino boss with a bomb and paying B4,000,000 afterward.
 
-{{< section "Hidden Achievement #2: The Collector" >}}
+| Achievement | DLC | Condition |
+|-------------|-----|-----------|
+| Casino-related | Casino DLC | Complete casino missions |
+| Casino boss | Casino DLC | Eliminate boss with bomb, pay B4,000,000 |
 
-| Detail | Info |
-|--------|------|
-| Steam name | Hidden until unlocked |
-| Condition | Collect all 15 hidden collectible cards |
-| Location | Scattered across all 6 territories |
+{{< section "100% Completion Strategy" >}}
 
-**Card locations:**
+Based on the Steam community "EN Achievements 100%" guide:
 
-| # | Territory | Exact Location |
-|---|-----------|---------------|
-| 1 | Pueblo | Waterfall safe |
-| 2 | Pueblo | Church basement, behind altar |
-| 3 | Pueblo | Motel Room 101 (locked) |
-| 4 | Playa | Hotel lobby, behind reception desk |
-| 5 | Playa | Beach bar, under cash register |
-| 6 | Playa | Construction site, top floor portacabin |
-| 7 | Industrial | Warehouse B, office desk drawer |
-| 8 | Industrial | Factory floor, control panel room |
-| 9 | Industrial | Train yard, conductor booth |
-| 10 | North Farms | Barn loft, inside hay bale |
-| 11 | North Farms | Abandoned well (need rope) |
-| 12 | Downtown | Apartment 3B, fridge |
-| 13 | Downtown | Police station roof access |
-| 14 | Downtown | Casino DLC, VIP room |
-| 15 | Luxury | Mansion study, bookshelf |
+1. **Story first** -- Progress through the main questline to unlock base achievements
+2. **Side content** -- Complete all side missions and optional objectives
+3. **Grind milestones** -- Sell cigarettes (500), glass bottles (100) for misc achievements
+4. **Street Cred** -- Reach level 4 for "I Am The One Who Knocks"
+5. **DLC content** -- Casino DLC has its own achievement set
+6. **Community guides** -- The 100% achievement guide references specific quest requirements including paying B4,000,000 for a late-game unlock
 
-{{< callout "warning" >}}Cards 12 and 13 are the hardest. Card 12 is in a police station (requires rank 4 or bribe of $2k to access). Card 13 is on the casino VIP room (requires Casino DLC). Without the DLC, you are locked to 14/15.{{< /callout >}}
+{{< section "Achievement Difficulty Tier List" >}}
 
----
-
-{{< section "Hidden Achievement #3: The Chef" >}}
-
-| Detail | Info |
-|--------|------|
-| Condition | Cook every drug type at least once |
-
-**Drug types to cook:**
-- Meth
-- Cocaine (requires Cocaine Base recipe)
-- Heroin (requires Heroin Mix recipe)
-- MDMA (requires MDMA recipe)
-- Crack (processed from cocaine)
-- Weed (grown, not cooked technically)
-
-The weed requirement catches most players. You need to grow weed at North Farm. This requires purchasing the farm expansion ($8k) and planting seeds. Waiting 3 in-game days for harvest. The other 5 drugs require recipe cards found across the map.
-
----
-
-{{< section "Hidden Achievement #4: No Harm Done" >}}
-
-| Detail | Info |
-|--------|------|
-| Condition | Complete one of each job type without harming anyone |
-
-**Job types:** Street deal, loot run, black market deal, territory expansion, deliver product
-
-The trick: you cannot harm any NPC during these. No shoving, no weapons drawn. If you accidentally bump a pedestrian (damage registers), restart. The achievement checks a hidden "non-violent run" flag.
-
-**Best strategy:** Do all 5 job types in one session at night when NPC density is lowest. Start with the easiest (street deal), finish with territory expansion (buying, not fighting for it).
-
----
-
-{{< section "Hidden Achievement #5: The Survivor" >}}
-
-| Detail | Info |
-|--------|------|
-| Condition | Survive 10 police pursuits in a row without being caught |
-
-The counter resets if you get caught. Each pursuit counts if police aggro triggers and you escape without arrest.
-
-**Location:** North Farms (easiest, lowest police density)
-**Method:** Execute Route 4 escape route. Wait 3 minutes for heat to clear. Trigger another pursuit by dealing near a police patrol. Repeat 10 times. Takes about 45 minutes.
-
----
-
-{{< section "Hidden Achievement #6-8: Speedrun Trio" >}}
-
-These three hidden achievements form a tier:
-
-| Achievement | Condition | Reward |
-|-------------|-----------|--------|
-| Quick Feet | Complete a delivery in under 60s | Steam badge |
-| Lightning | Complete 3 deliveries in under 60s each | Steam badge |
-| Blink | Complete 5 deliveries in under 45s each | Rare Steam badge |
-
-**Strategy for Blink (the hardest):**
-1. Find 5 Zone 1 clients clustered within 100m of each other
-2. Accept the furthest-order first (timer starts)
-3. Route: furthest -> closest -> closest -> closest -> furthest
-4. Each sub-45s delivery requires a bike pre-staged nearby
-5. Estimated attempts: 10-15 before RNG lines up
+| Tier | Achievement | Estimated Time |
+|------|-------------|---------------|
+| Easy | I Am The One Who Knocks (Street Cred 4) | 10-15 hours |
+| Medium | Environmentalist (100 bottles) | 15-20 hours |
+| Hard | 500 CIGARETTES | 30-40 hours |
+| Very Hard | Side hustle | 40-60 hours |
+| Extreme | 100% (all achievements + DLC) | 80-100 hours |
 
 <div class="resource-section">
-  <h2>Community Verification</h2>
+  <h2>Community Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="Hidden Achievement Discord" url="https://steamcommunity.com/app/1708850/discussions" desc="Community findings on hidden achievements" >}}
-    {{< resourcecard name="Collectible Cards Map" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3291156788" desc="Interactive map of all 15 card locations" >}}
+    {{< resourcecard name="100% Achievement Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3436774175" desc="EN guide to all achievements with casino boss strategy" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="100% Completion Video" url="https://www.youtube.com/watch?v=lsjLwfWEpoc" desc="Video walkthrough of mastering DDS2 to 100%" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="Steam Hunters DDS2" url="https://steamhunters.com/apps/1708850/achievements" desc="Detailed rarity data for all 39 achievements" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>

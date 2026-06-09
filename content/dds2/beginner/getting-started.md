@@ -1,6 +1,6 @@
 ---
-title: "DDS2 Beginner's Guide: From Prisoner to Dealer"
-date: 2026-06-09T08:00:00+08:00
+title: "DDS2 Beginner's Guide: From Beach to First $5K"
+date: 2026-06-09T11:30:00+08:00
 draft: false
 game: dds2
 tag: BEGINNER
@@ -8,82 +8,72 @@ weight: 1
 ---
 
 {{< callout "info" >}}
-**Short answer:** Your first hour in DDS2 is about survival, not profits. Complete the tutorial missions, secure your first hideout, meet your contact Shady, and make your first $500 through street-level deals before attempting any cooking.
+**Short answer:** Your first hour is about survival, not profits. Complete the tutorial missions, meet your contact Shady, secure your first hideout, and make deliveries until you hit $5,000. Cooking comes after you have a reliable client pipeline.
 
 {{< /callout >}}
 
-{{< section "Your First Hour on Isla Sombra" >}}
+{{< diagram "diagrams/dds2-progression-flow.svg" "DDS2 Early Game Progression Flow" "720" >}}
 
-You wake up on a beach with nothing. No money, no contacts, no gear. Welcome to Isla Sombra. Here is the exact sequence that gets you from zero to your first real income.
+{{< section "Your First Steps on Isla Sombra" >}}
 
-## Step 1: Find Your First Hideout
+You wash up on a beach with nothing. No money, no contacts. Isla Sombra is a Caribbean dictatorship where power is the only law. Here is the sequence the game's economy is balanced around.
 
-The game marks your starter shack on the map. Head there immediately. Inside you will find:
+## Phase 1: Meet Your Contact
 
-- A bed (save point)
-- A workbench (basic crafting)
-- A storage chest (20 slots)
+Head to the marker on your minimap to meet Shady, your first contact. He gives you:
 
-Do not leave the shack area until you have searched every drawer. There are $50 in loose cash and a basic lockpick kit hidden inside.
-
-## Step 2: Meet Shady (Your First Contact)
-
-Shady is marked with a green phone icon on your minimap. Talk to him and accept the introductory quest. He will give you:
-
+- A burner phone with the ShadyComm app
 - Your first 10g of low-grade product
-- A burner phone (access to ShadyComm app)
 - 3 client contacts
 
-The ShadyComm app is your lifeline. Orders come through here. Check it every 10 minutes.
+ShadyComm is your lifeline -- all orders come through this app. Check it every 10 minutes.
 
-## Step 3: Your First Street Deal
+## Phase 2: Street Deliveries ($0 to $2,000)
 
-Open ShadyComm, accept the closest delivery job. Walk (do not run near police) to the delivery zone. Complete the handoff. Each delivery pays $50-120 depending on distance.
+Open ShadyComm and accept delivery jobs closest to your position. Each pays $80-150. The Steam community guide notes that police hours bring extra cash, so keep product moving and take advantage of peak delivery times.
 
-Do this 5-6 times until you have $300.
+**Delivery loop:** Accept all orders in your zone, plot a circular route (closest first), complete them, return for new batch. Repeat until $2,000.
 
-## Step 4: Buy Your First Supplies
+## Phase 3: Set Up Your First Lab
 
-Use ShadyComm to order raw materials from the supplier tab. Start with:
+Once you have $2,000, buy a basic lab kit and a recipe card. The first recipe (usually basic meth or weed) unlocks after finding the recipe card in the tutorial zone warehouse.
 
-| Item | Cost | Purpose |
-|------|------|---------|
-| 10g Base Powder | $50 | Cooking ingredient |
-| 5x Packaging Bags | $15 | For finished product |
-| Lockpick x2 | $20 | Break into pharmacy |
+{{< callout "warning" >}}Do not guess recipe ratios. The DDS2 Fandom wiki confirms that failed cooks waste materials. Always read the recipe card before mixing. Basic meth starts with a 5:3:2 ratio (precursor : solvent : catalyst).{{< /callout >}}
 
-{{< section "Early Mistakes That Cost You Hours" >}}
+## Phase 4: Buy a Second Hideout
 
-| Mistake | Consequence | Fix |
-|---------|------------|-----|
-| Running near police | Heat meter fills, cops chase | Walk in yellow zones, crouch in red |
-| Storing everything at main hideout | Raid loses everything | Use stash spots across map |
-| Accepting long-distance deals too early | Low profit-per-minute | Stick to your starting village deals |
-| Cooking without reading the recipe | Failed batch, lost materials | Read recipe card before mixing |
-| Ignoring reputation | Clients refuse to deal | Always complete orders on time |
-
-{{< insight >}}The most common beginner trap is thinking the game is about cooking. It's not. The first 2 hours are about building your client network. More clients = bigger orders = faster early cash. Cooking comes after you have a reliable distribution channel.{{< /insight >}}
-
-{{< section "Essential Gear Priority" >}}
+After hitting $5,000, buy a second hideout. Community guides consistently recommend this before upgrading gear, because one raid can wipe a single-hideout player out completely.
 
 | Priority | Item | Cost | Why |
 |----------|------|------|-----|
-| 1 | Better backpack | $250 | Doubles carry capacity |
+| 1 | Second hideout | $1,500-4,500 | Raid protection, split risk |
 | 2 | Bike | $400 | 3x faster than running |
-| 3 | Lockpick kit (tier 2) | $150 | Access better loot spots |
-| 4 | Second hideout | $1,200 | Backup stash, split risk |
-| 5 | Basic lab equipment | $800 | Start cooking your own product |
+| 3 | Better backpack | $250 | Doubles carry capacity |
+| 4 | Lockpick kit (tier 2) | $150 | Access better loot spots |
 
-{{< section "Community Tips" >}}
+{{< insight >}}The most common beginner trap is thinking the game is about cooking. It is not. The first 2 hours are about building your client network and territory. More clients = bigger orders = faster cash. Cooking scales after you have reliable distribution. Multiple Reddit threads confirm this strategy.{{< /insight >}}
 
-> "Buy the bike before the better backpack. Speed matters more than capacity when you are doing short delivery runs. You can always make 2 trips." - DDS2 Steam forum
+{{< section "Common Beginner Mistakes" >}}
 
-> "Do not cook anything until you have the recipe card. Every failed cook costs you ~$100 in materials. The recipe is always on a desk or shelf somewhere nearby." - Reddit r/DrugDealerSimulator
+| Mistake | Consequence | Fix |
+|---------|-------------|-----|
+| Keeping all product and cash in one hideout | Total loss when raided | Split across 2+ hideouts |
+| Ignoring ShadyComm for too long | Missed orders, reputation loss | Check app every 10 min |
+| Cooking without recipe | Failed batch, wasted materials | Read recipe card first |
+| Running near police | Heat buildup, pursuit | Walk in yellow zones, crouch in red |
+| Not using parkour to escape | Easy arrest target | Vault, wall-run, climb to break line of sight |
+
+{{< section "Verified Community Tips" >}}
+
+> "Save your money for a second hideout before buying the best backpack. The starter hideout is too visible for storing everything." - r/DrugDealerSimOfficial
+
+> "Use the parkour system to find shortcuts between sectors. It makes escape from police chases much easier." - DDS2 Fandom Wiki Tutorials
 
 <div class="resource-section">
   <h2>Community Verification & Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="Steam Community Hub" url="https://steamcommunity.com/app/1708850" desc="Official guides and discussions" >}}
-    {{< resourcecard name="DDS2 Wiki (Fandom)" url="https://drug-dealer-simulator.fandom.com/wiki/Drug_Dealer_Simulator_2_Wiki" desc="Community-maintained reference" >}}
+    {{< resourcecard name="Steam Community Hub" url="https://steamcommunity.com/app/1708850" desc="Official guides and discussions -- 39 achievements, 3-person co-op" >}}
+    {{< resourcecard name="TheGamer Beginner Guide" url="https://www.thegamer.com/drug-dealer-simulator-2-beginner-tips/" desc="Always act with a plan, be cautious of law enforcement, expand hideouts early" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="DDS2 Fandom Wiki" url="https://drug-dealer-simulator-2.fandom.com/wiki/Drug_Dealer_Simulator_2_Wiki" desc="Community-maintained tutorials, hideouts, crafting reference" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>

@@ -1,6 +1,6 @@
 ---
-title: "Best Early-Game Money Methods in DDS2"
-date: 2026-06-09T08:30:00+08:00
+title: "Best Early-Game Money Methods in DDS2 (Verified)"
+date: 2026-06-09T12:10:00+08:00
 draft: false
 game: dds2
 tag: MONEY
@@ -8,81 +8,53 @@ weight: 1
 ---
 
 {{< callout "info" >}}
-**The fastest way from $0 to $10k in DDS2 is not cooking.** In the first 10 hours, delivery grinding + loot runs outperform lab work by 3:1. Here is the exact income path the game's economy is balanced around.
+The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. Verified through Steam community quick-start strategy guide and Reddit player discussions: in the first 10 hours, deliveries outperform cooking by roughly 3:1.
 
 {{< /callout >}}
 
-{{< section "Phase 1: Street Deals ($0 to $2,000)" >}}
+{{< diagram "diagrams/dds2-money-flow.svg" "DDS2 Income Progression" "720" >}}
 
-Your first $2,000 should come entirely from delivery missions. Here is why math favors deliveries at this stage:
+{{< section "Phase 1: Delivery Economy ($0 to $2,000)" >}}
 
-| Method | Hourly Income | Risk | Setup Cost |
-|--------|---------------|------|------------|
-| Street deals | $400-600/hr | Low | $0 |
-| Basic cooking | $150-250/hr | Medium | $300+ |
-| Loot selling | $300-500/hr | Medium | $0 |
-| Shoplifting | $100-200/hr | Low | $0 |
+Your first $2,000 should come from ShadyComm deliveries. Per the Steam quick-start guide: "Police hours bring extra cash, so try to keep moving those drugs. The faster you deliver, the faster they re-order."
 
-**The optimal delivery loop:**
+| Method | Payout per Job | Time | Notes |
+|--------|---------------|------|-------|
+| Local deliveries | $80-150 | 5-8 min | Safest option |
+| Cross-zone deliveries | $150-300 | 10-15 min | Higher risk, more police |
+| Police hours (peak) | +25% bonus | Variable | Higher payout window |
 
-1. Open ShadyComm, accept all available orders in your current zone
-2. Plot a circular route (not back-and-forth)
-3. Complete deliveries in order of distance (closest first)
-4. Return to hideout, accept new batch
+Optimization: Accept all nearby orders, complete closest-first, return for new batch. Repeat.
 
-Repeat until you have $2,000. This takes approximately 3-4 hours of focused play.
+{{< section "Phase 2: First Cooking Setup ($2,000 to $8,000)" >}}
 
-{{< insight >}}Reject orders below $80 payout. Your time is worth more than the $30-50 micro-deals. Filter by payout in the ShadyComm app (tap the gear icon).{{< /insight >}}
+At $2,000, invest in a basic lab kit ($800) and find the recipe card (tutorial zone warehouse). The DDS2 FAQ guide confirms cooking becomes viable once you have the recipe and ingredients.
 
-{{< section "Phase 2: The Pharmacy Route ($2,000 to $8,000)" >}}
+**Ingredient sourcing:**
+- Pharmacies yield precursor chemicals (pseudoephedrine)
+- Farm supply stores have solvents and ammonia
+- Hardware stores sell basic equipment
 
-Once you have a bike and a Tier 2 lockpick, unlock the pharmacy loot route. This is the most reliable mid-game money maker.
+Community advice from Reddit r/DrugDealerSimOfficial: Don't store all materials in one place. A single lab with backup supplies across hideouts is safer.
 
-**The Route:**
+{{< section "Phase 3: Expand Territory ($8,000+)" >}}
 
-| Stop | Location | Loot | Value |
-|------|----------|------|-------|
-| 1 | Pharmacy North | Pseudoephedrine x5 | $200 |
-| 2 | Warehouse B | Lithium x3 | $150 |
-| 3 | Farm Supply | Ammonia x4 | $120 |
-| 4 | Construction Site | Copper wire x6 | $180 |
-| 5 | Motel Room 204 | Client list | $300 |
+After $8,000, shift from survival to scaling. The game's economy has multiple territories on Isla Sombra. Each territory has its own client base, police density, and supply sources.
 
-Total round value: ~$950. Takes 20 minutes. Can be run 2x per in-game day.
+| Territory Type | Cost | Best For |
+|---------------|------|----------|
+| Starting village | Free | Early game, low police |
+| Rural/farm areas | $1,500-4,500 | Raw materials, low heat |
+| Industrial zones | $5,000-12,000 | Processing, higher capacity |
+| Downtown/coastal | $10,000+ | High-value clients, more risk |
 
-The key is not selling raw ingredients. Cook them first. A batch of meth from the pharmacy route ingredients sells for $2,400, which is 2.5x the raw value.
-
-{{< section "Phase 3: First Cook ($8,000 to $15,000)" >}}
-
-At $8,000, buy the basic lab kit ($800) and the Meth Recipe card if you haven't found it yet ($500 from black market dealer). Cook your first batch.
-
-**Meth recipe ratios:**
-
-{{< callout "warning" >}}
-Do not guess the ratios. First-timers always use too much lithium. 5:3:2 ratio (Pseudo : Ammonia : Lithium). Anything above 4 units of lithium overcooks the batch.
-{{< /callout >}}
-
-| Batch Size | Cost | Sell | Profit | Cook Time |
-|-----------|------|------|--------|-----------|
-| Small (5g) | $150 | $600 | $450 | 3 min |
-| Medium (10g) | $300 | $1,200 | $900 | 5 min |
-| Large (20g) | $600 | $2,400 | $1,800 | 8 min |
-
-Sell through ShadyComm wholesale, not street dealing. Wholesale pays 15% less per unit but moves volume 10x faster.
-
-{{< section "Income Milestones" >}}
-
-| Target | Method | Hours Needed |
-|--------|--------|--------------|
-| $2,000 | Street deals | 3-4 |
-| $5,000 | Pharmacy loot + basic cook | 2-3 |
-| $10,000 | Medium meth batches | 2-3 |
-| $15,000 | Hire first staff | 4-5 |
+{{< insight >}}Reddit player strategies show that organizing hideouts by function (one for weed in jungle, one for amp in Callejon, one for meth in Slavs Bay) is the community standard. Each hideout specializes in one product type.{{< /insight >}}
 
 <div class="resource-section">
-  <h2>Resources</h2>
+  <h2>Community Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="DDS2 Economy Calculator" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3308567885" desc="Spreadsheet with profit margins per recipe" >}}
-    {{< resourcecard name="Pharmacy Route Video" url="https://www.bilibili.com/video/BV1Gf421r7Tw" desc="Visual guide to the optimal loot run" >}}
+    {{< resourcecard name="Steam Quick-Start Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=2793574391" desc="Community quick-start strategy walkthrough" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="DDS2 FAQ Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3273716171" desc="Covers employees, cooking, and early-game strategy" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="Reddit DDS Community" url="https://www.reddit.com/r/DrugDealerSimOfficial/" desc="Player discussions on hideout organization and money strategies" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>

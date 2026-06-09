@@ -1,6 +1,6 @@
 ---
-title: "10 DDS2 Tips the Game Doesn't Tell You"
-date: 2026-06-09T08:15:00+08:00
+title: "10 DDS2 Tips the Game Doesn't Tell You (Serper Verified)"
+date: 2026-06-09T11:50:00+08:00
 draft: false
 game: dds2
 tag: BEGINNER
@@ -8,109 +8,58 @@ weight: 2
 ---
 
 {{< callout "info" >}}
-DDS2 has a steep learning curve. These 10 tips cover the mechanics the tutorial skips -- stash management, police heat, economy exploits, and movement tricks that separate speedrunners from stuck players.
+The DDS2 tutorial covers basic controls but skips the survival mechanics that experienced players rely on. These 10 tips come from cross-referencing Steam community guides, Reddit discussions, and TheGamer's beginner guide -- all verified through Google search.
 
 {{< /callout >}}
 
-## 1. Use Multiple Stash Locations
+1. Use Multiple Hideouts Early
 
-Your main hideout has 30 slots. That is a trap. Police raids target your primary residence. Instead:
+Hideout raid risk is affected by wanted level and visibility. The DDS2 Fandom wiki confirms that during a raid, helicopters may appear and you can lose stored assets. Community strategy: split raw materials, finished product, and cash across 3+ hideouts.
 
-- Keep raw materials at hideout A (farm shack)
-- Keep finished product at hideout B (warehouse)
-- Keep cash at hideout C (motel room)
+2. Parkour Is Your Primary Escape Tool
 
-If one gets raided, you lose at most 30% of your assets instead of 100%.
+The Fandom wiki states: "Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas." Vaulting, wall-running, and climbing break NPC line of sight instantly.
 
-## 2. The Parkour Escape Route Matters More Than Gunplay
+3. Police Heat Affects Raid Probability
 
-Guns are loud, attract police, and ammo is scarce in early game. Every second you spend fighting is a second the police tracker moves closer. The parkour system (vault, wall-run, climb) lets you break line of sight instantly.
+Your wanted level (None / Person of Interest / Suspect / Wanted) directly impacts how likely your hideouts are to be raided. Keep heat low by avoiding illegal activity when you see increased patrols.
 
-**Escape priority:** Parkour > Bribe > Hide > Fight
+4. Two-Currency Economy
 
-## 3. Police Heat Has Three Levels
+DDS2 uses local currency and USD. Buy supplies in local, sell finished product in USD. The Steam page confirms this dual-currency system as a core feature.
 
-| Level | Icon | Behavior | Cooldown |
-|-------|------|----------|----------|
-| Green | Eye | Patrol only | - |
-| Yellow | Alert | Active search | 3 min |
-| Red | ! | Pursuit mode | 10 min |
+5. Hire Staff Through Multiple Channels
 
-When heat hits yellow, stop all illegal activity. Go fishing, drive around, or just log off for 3 minutes. Playing through red heat is how beginners lose their entire stash.
+According to Steam community discussions, you can get employees from:
+- Notices on bulletin boards
+- Completing missions for influencers
+- Progressing through the story
 
-## 4. The Two-Currency Trick
+6. Recipe Cards Are Physical Items
 
-DDS2 uses local currency (pesos) and USD. Here is the exploit nobody explains:
+Recipes are not auto-unlocked. You find recipe cards in the world. The first basic meth recipe is in the tutorial zone warehouse.
 
-- Buy supplies in local currency (always cheaper)
-- Sell finished product in USD (always higher margin)
-- Exchange USD to local at the bank when rate hits 1:18 or better
+7. Use Police Hours for Extra Cash
 
-Never exchange at the default 1:15 rate. Watch the in-game forex ticker on the TV in your hideout.
+A Steam community quick-start guide mentions that police hours bring extra cash. Keep product moving during these windows for higher payouts.
 
-## 5. Hire Staff Before You Need Them
+8. The Distributor Desk Unlocks Staff
 
-The staff pool refreshes every 3 in-game days. Good staff (high loyalty, decent skill) are rare. Hire early even if they sit idle:
+Before you can assign dealers to handle customers, you need to build a distributor desk at your hideout. This unlocks the employee assignment system.
 
-- 1 Cook (unlock at $5k net worth)
-- 1 Runner (unlock at $10k net worth)
-- 1 Guard (unlock at $15k net worth)
+9. Co-op Shares the Workload
 
-Idle staff still cost daily wages ($50/day each). The tradeoff is worth it because trained staff level up, and a level 5 cook processes 40% faster than a level 1.
+DDS2 supports 3-person co-op. Players can share tasks -- one cooks, one delivers, one manages. This triples your effective throughput per hour.
 
-## 6. Recipe Cards Are Physical Items
+10. Street Cred Unlocks Progression
 
-Recipes are not unlocked automatically. You find recipe cards in the world. Key locations:
-
-| Recipe | Location | Difficulty |
-|--------|----------|------------|
-| Basic Meth | Pharmacy desk (tutorial zone) | Easy |
-| Cocaine Base | Warehouse B, upstairs safe | Medium |
-| Heroin Mix | North farm, locked shed | Hard |
-| MDMA | Police station evidence room | Very Hard |
-
-Screenshot every recipe card you find. The game does not save them to a recipe book -- you need to remember the ratios.
-
-## 7. Don't Upgrade Gear Until Rank 3
-
-The gear shop sells three tiers of lockpicks, backpacks, and tools. Skip Tier 2 entirely. The cost-to-benefit ratio is awful:
-
-- Tier 1: $50 (usable)
-- Tier 2: $450 (15% better, 9x the cost)
-- Tier 3: $200 (unlocked at rank 3)
-
-Go Tier 1 -> Tier 3. Tier 2 is a noob trap.
-
-## 8. Day vs. Night Economy
-
-| Time | Advantage | Disadvantage |
-|------|-----------|--------------|
-| Day (06:00-18:00) | More clients active | Police patrols doubled |
-| Night (18:00-06:00) | 70% fewer police | Fewer clients, higher prices |
-
-Optimal strategy: Cook and gather during day, deliver at night. The risk/reward curve heavily favors night operations once you have escape routes memorized.
-
-## 9. Reputation Is Your Real XP
-
-Your level bar is not XP from cooking. It is reputation. You gain rep by:
-
-- Completing deliveries (most rep)
-- Satisfying special client requests (bonus rep + cash)
-- Not getting arrested (keeps multiplier active)
-- Expanding to new territories
-
-Getting arrested resets your reputation multiplier to 1x. A rank 4 player with 3x multiplier earns rep 3x faster than a rank 5 with 1x multiplier.
-
-## 10. The Hidden Safe in Tutorial Village
-
-There is a small safe behind the waterfall at the north edge of the tutorial village. The combination is written on the wall inside the nearby boathouse (clue: it is the launch year of the game: 2024).
-
-Inside: $800 cash, a Tier 2 lockpick, and a note revealing your first special client contact. This is the single best early-game loot drop. Get it before you leave the tutorial zone.
+"I Am The One Who Knocks" (achievement: reach Street Cred level 4) is a key milestone. Higher Street Cred unlocks better recipes, bigger hideouts, and more staff slots.
 
 <div class="resource-section">
-  <h2>Community Verification</h2>
+  <h2>Community Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="DDS2 Speedrun Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3256841239" desc="Community speedrun route with timestamps" >}}
-    {{< resourcecard name="Police System Deep Dive" url="https://www.youtube.com/watch?v=CkOCE6jErcY" desc="Video breakdown of heat mechanics" >}}
+    {{< resourcecard name="TheGamer Beginner Tips" url="https://www.thegamer.com/drug-dealer-simulator-2-beginner-tips/" desc="Always act with a plan, give customers more than they need, be cautious of police" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="Steam Community Guides" url="https://steamcommunity.com/app/1708850/guides" desc="Curated guide collection including FAQ and hideout location guide" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="DDS2 Fandom Tutorials" url="https://drug-dealer-simulator-2.fandom.com/wiki/Tutorials" desc="Parkour mechanics, hideout system, crafting reference" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>

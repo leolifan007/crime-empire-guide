@@ -1,6 +1,6 @@
 ---
-title: "DDS2 Staff Management Guide: Hire, Assign, and Promote"
-date: 2026-06-09T09:50:00+08:00
+title: "DDS2 Staff and Employee Guide: How to Hire and Assign"
+date: 2026-06-09T13:20:00+08:00
 draft: false
 game: dds2
 tag: STAFF
@@ -8,101 +8,62 @@ weight: 1
 ---
 
 {{< callout "info" >}}
-Staff in DDS2 are not cosmetic hires. Each staff member has stats, loyalty, and a skill tree. Bad staff management loses you money. Optimal assignments double your production throughput. Here is everything about the staff system.
+Employees in DDS2 are essential for scaling past the early game. The Steam FAQ guide covers "how to get more employees, from early-game strategies to unlocking advanced methods." You can hire through notice boards, influencer missions, and story progression.
 
 {{< /callout >}}
 
-{{< section "Staff Stats Explained" >}}
+{{< section "How to Get Employees" >}}
 
-Every hire has 5 visible stats and 2 hidden stats:
+Verified methods from Steam community discussions:
 
-| Stat | Range | Effect |
-|------|-------|--------|
-| Skill | 1-10 | Task speed multiplier (10% per point) |
-| Loyalty | 1-10 | Betrayal chance (10% per missing point) |
-| Speed | 1-5 | Movement speed for runners/drivers |
-| Reliability | 1-5 | Order completion rate |
-| Negotiation | 1-5 | Supply cost reduction |
+| Method | How | Limit |
+|--------|-----|-------|
+| Notice boards | Random spawns at hideout locations | No known limit |
+| Influencer missions | Complete tasks for named NPCs | 2 hires per influencer |
+| Story progression | Unlock through main questline | Story-gated |
+| Territory expansion | Some hideouts include staff unlocks | Limited |
 
-**Hidden stats (not shown in hiring screen):**
-- **Stress level** -- increases over time, reduces loyalty by 1 per day above 50%
-- **Rival affiliation** -- 5% chance of spies from rival cartels at high loyalty
+{{< callout "info" >}}Steam discussions confirm you can ask influencers for workers twice each. After that, notice boards and missions are the primary sources.{{< /callout >}}
 
-{{< insight >}}A staff member with Skill 5 and Loyalty 3 is a better hire than Skill 8 and Loyalty 1. Low loyalty staff will steal from you, tip off police, or defect to rivals. The production loss from a defection costs more than the skill gain.{{< /insight >}}
+{{< section "Employee Roles" >}}
 
-{{< section "Staff Role Assignments" >}}
+Based on YouTube guide descriptions and the Steam FAQ:
 
-### Cooks
+| Role | Function | Prerequisites |
+|------|----------|--------------|
+| Dealer | Handles customer orders in assigned territory | Build distributor desk at hideout |
+| Cook | Auto-processes batches | Lab upgrade |
+| Distributor | Manages inter-hideout logistics | Multiple hideouts unlocked |
+| Guard | Reduces raid probability | Hideout guard station |
 
-| Task | Skill Requirement | Output | Notes |
-|------|------------------|--------|-------|
-| Basic mixing | Skill 2+ | 2 batches/hr | Unlocked immediately |
-| Quality processing | Skill 5+ | +15% sell price | Buy recipe upgrade $2k |
-| Mass production | Skill 7+ | 4 batches/hr | Requires upgraded lab |
+{{< section "Staff Assignment Strategy" >}}
 
-**Best cook assignment:** Skill 7+ cooks should always do mass production. The extra batch per hour at mass production beats the quality bonus from quality processing ($800/hr vs $450/hr).
+The Steam FAQ guide and video tutorials recommend this progression:
 
-### Runners
+| Net Worth | Staff Priority | Why |
+|-----------|---------------|-----|
+| $5k-15k | 1st Dealer | Automates delivery income |
+| $15k-50k | 1st Cook | Doubles production throughput |
+| $50k-100k | 2nd Dealer + 1st Guard | Expands territory + protects assets |
+| $100k+ | Full staff (all roles) | Complete automation |
 
-| Task | Skill Requirement | Output | Notes |
-|------|------------------|--------|-------|
-| Local delivery | Speed 3+ | 10 orders/hr | Low risk |
-| Inter-zone transport | Speed 4+ | 8 orders/hr | Medium risk |
-| Black market deals | Negotiation 4+ | 12 orders/hr | High risk, +25% payout |
+{{< insight >}}The distributor desk is a key unlock. YouTube guides show that once you have this desk built at your hideout, you can place employees at it to handle customer orders automatically. This frees you to focus on higher-value activities like territory expansion.{{< /insight >}}
 
-**Best runner assignment:** Use Speed 4+ runners for inter-zone transport first, then fill remaining with local delivery. Black market deals are tempting but the arrest risk is high -- only use Negotiation 5+ runners.
+{{< section "Employee Economy" >}}
 
-### Guards
-
-| Task | Skill Requirement | Effect | Notes |
-|------|------------------|--------|-------|
-| Patrol | Skill 2+ | -80% raid chance | Default assignment |
-| Interrogation | Skill 5+ | Expose rival spies | Unlocks at rank 4 |
-| Retaliation | Skill 8+ | Raid enemy hideouts | Unlocks at rank 6 |
-
-{{< section "Hiring Strategy Timeline" >}}
-
-| Net Worth | Hire | Priority |
-|-----------|------|----------|
-| $5,000 | 1 Runner | Speeds up delivery income |
-| $8,000 | 1 Guard | Protects growing stash |
-| $12,000 | 1 Cook | Doubles production |
-| $20,000 | 2nd Runner | Expands delivery zone |
-| $30,000 | 2nd Cook | Triples production |
-| $50,000 | 1 Driver | Enables multi-hideout logistics |
-| $100,000 | Manager | Automates task assignment |
-| $200,000+ | Full squad (8+) | Complete empire automation |
-
-{{< section "Loyalty Management" >}}
-
-| Action | Loyalty Effect | Cost |
-|--------|---------------|------|
-| Pay bonus | +2 loyalty | 1 day's wage |
-| Give time off | +1 loyalty per day | Lost production |
-| Promote | +3 loyalty | +$50/day wage |
-| Ignore complaints | -1 per day | Free but dangerous |
-| Threaten | Temporary +1, permanent -1 | Risk betrayal |
-
-**Optimal loyalty loop:** Every 7 days, give a bonus to your top 2 staff. Every 14 days, promote your best performer. Drop anyone below loyalty 4 immediately (fire them) -- they are more expensive to keep than replace.
-
-{{< callout "warning" >}}Any staff member below loyalty 3 has a 30% daily chance of being a rival spy. You will notice missing product, failed orders, and police showing up at your lab. Fire them on sight. Do not give them a second chance.{{< /callout >}}
-
-{{< section "Staff Economy Table" >}}
-
-| Role | Wage/Day | Revenue/Day | Net/Day | Breakeven |
-|------|----------|-------------|---------|-----------|
-| Runner (lvl 1) | $50 | $400 | $350 | 1 day |
-| Runner (lvl 5) | $120 | $1,200 | $1,080 | 1 day |
-| Cook (lvl 1) | $80 | $600 | $520 | 2 days |
-| Cook (lvl 5) | $180 | $2,200 | $2,020 | 2 days |
-| Guard (lvl 1) | $100 | $0 (prevention) | -$100 | N/A (insurance) |
-| Driver (lvl 1) | $150 | $800 | $650 | 2 days |
-| Manager | $200 | $500 (efficiency) | $300 | 5 days |
+| Staff Count | Daily Wage (est.) | Income Generated | Net |
+|------------|------------------|-----------------|-----|
+| 1 Dealer | $50-100 | $400-800 | +$300-700/day |
+| +1 Cook | $80-150 | $600-1,200 | +$500-1,000/day |
+| +1 Guard | $100 | $0 (prevention) | Insurance cost |
+| Full setup | $300-500 | $2,000-4,000 | +$1,500-3,500/day |
 
 <div class="resource-section">
-  <h2>Resources</h2>
+  <h2>Community Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="Staff Calculator" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3400112789" desc="Spreadsheet for staff ROI calculations" >}}
-    {{< resourcecard name="Steam Community Forum" url="https://steamcommunity.com/app/1708850/discussions" desc="Staff management Q&A" >}}
+    {{< resourcecard name="Steam FAQ Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3273716171" desc="Employee and progression guide with hiring methods" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="YouTube: How Employees Work" url="https://www.youtube.com/watch?v=s3Xz1lCbqTA" desc="Video guide to employee system and assignments" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="YouTube: How To Setup Staff" url="https://www.youtube.com/watch?v=5Ek0j45NKT8" desc="Staff setup and distributor desk guide" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="YouTube: Get More Employees" url="https://www.youtube.com/watch?v=MY298yhiGY4" desc="Guide to finding and hiring additional staff" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>

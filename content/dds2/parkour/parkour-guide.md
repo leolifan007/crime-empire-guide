@@ -1,6 +1,6 @@
 ---
-title: "DDS2 Parkour Guide: Movement Mechanics and Escape Routes"
-date: 2026-06-09T09:25:00+08:00
+title: "DDS2 Parkour Guide: Movement Mechanics and Police Escape"
+date: 2026-06-09T13:00:00+08:00
 draft: false
 game: dds2
 tag: PARKOUR
@@ -8,88 +8,52 @@ weight: 1
 ---
 
 {{< callout "info" >}}
-DDS2 is not a shooting game -- it is a parkour game with shooting elements. The movement system (vaulting, climbing, ladder sliding, wall-running) is your primary survival tool. Master it and police chases become trivial.
+The DDS2 Fandom tutorial page confirms: "Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas." Parkour is your primary survival tool -- not guns.
 
 {{< /callout >}}
 
-{{< section "Movement Mechanics Breakdown" >}}
+{{< section "Parkour Actions" >}}
 
-| Action | Keybind | When to Use |
-|--------|---------|-------------|
-| Sprint | Shift | Open areas, between cover |
-| Vault | Space (toward obstacle) | Low fences, windows |
-| Wall Run | Space (toward wall at angle) | Narrow alleys |
-| Ladder Slide | Shift + S (on ladder) | Quick descents |
-| Crouch | Ctrl | Police line of sight break |
-| Slide | Ctrl (while sprinting) | Under obstacles |
-| Jump Climb | Space (toward ledge) | Roof access |
+| Action | Key | Use Case |
+|--------|-----|----------|
+| Vault | Space (toward obstacle) | Low fences, barriers |
+| Wall Run | Space (toward wall at angle) | Narrow alleys, building gaps |
+| Jump Climb | Space (toward ledge) | Roof access, vertical escape |
+| Sprint | Shift | Open ground between cover |
+| Crouch/Slide | Ctrl | Break line of sight |
 
-**Combo moves:**
-- **Sprint > Vault > Slide** = fastest ground traversal (useful for open streets)
-- **Wall Run > Jump Climb** = roof access (escape from ground pursuit)
-- **Sprint > Vault > Ladder Slide** = multi-floor escape (best for industrial zone)
+The Fandom wiki confirms these moves are specifically designed for:
+- Finding shortcuts between sectors
+- Escaping police and enemy chases
+- Reaching otherwise inaccessible areas
 
-{{< insight >}}The wall-run to jump-climb combo is the single most important escape technique. It breaks police line of sight instantly because NPCs cannot path onto roofs. Practice this in the tutorial district until you can execute it without thinking.{{< /insight >}}
+{{< section "Why Parkour Beats Fighting" >}}
 
-{{< section "Best Parkour Routes by District" >}}
+| Factor | Fighting | Parkour Escape |
+|--------|----------|---------------|
+| Time to safety | 30-60 seconds | 10-20 seconds |
+| Police heat increase | High (+1 wanted level) | None |
+| Ammo/health cost | Consumes resources | None |
+| Repeatability | Limited by resources | Infinite |
 
-### Pueblo (Starting District)
+{{< insight >}}The Steam quick-start guide notes that "Police hours bring extra cash." The corollary: getting caught during police hours costs more than just money -- it raises your wanted level and increases raid probability. Parkour escape is the safest option.{{< /insight >}}
 
-| Route | Difficulty | Purpose | Time |
-|-------|-----------|---------|------|
-| Market > Roofs > Church | Easy | General escape | 45s |
-| Pharmacy > Fence > Alley | Easy | Pharmacy heist exit | 30s |
-| Docks > Crane > Warehouse | Medium | Industrial access | 90s |
+{{< section "Escape Route Strategy" >}}
 
-### Playa Dorada
+| Situation | Recommended Parkour Path |
+|-----------|------------------------|
+| Ambushed during delivery | Nearest fence vault -> wall run -> roof access |
+| Police pursuit (street level) | Alley entry -> wall run -> climb to rooftop |
+| Lab raid | Rear exit -> vault obstacles -> tree line |
+| Rival gang encounter | Over fence -> sprint through buildings -> crouch hide |
 
-| Route | Difficulty | Purpose | Time |
-|-------|-----------|---------|------|
-| Hotel > Balcony > Pool | Easy | Mid-zone escape | 60s |
-| Construction Site > Scaffolding > Roof | Medium | High-ground view | 120s |
-| Beach > Cliff > Cave | Hard | Emergency exit | 180s |
-
-### Industrial Zone
-
-| Route | Difficulty | Purpose | Time |
-|-------|-----------|---------|------|
-| Warehouse A > Pipe > Warehouse B | Medium | Inter-building transport | 75s |
-| Factory > Cooling Tower | Hard | Extreme vertical escape | 150s |
-| Train Yard > Container > Fence | Easy | Standard exit | 50s |
-
-{{< section "Training Drills" >}}
-
-Spend 10 minutes per session on these drills:
-
-**Drill 1: The Roof Sprint (Pueblo Church)**
-Start at market center. Sprint to church wall. Wall run right, jump climb to first ledge. Cross 3 roof gaps. Drop into alley behind police station. Goal: complete in under 30 seconds.
-
-**Drill 2: The Industrial Evac (Warehouse B)**
-Start inside Warehouse B. Exit via north door. Vault shipping crate. Wall run left wall. Jump climb to pipe. Slide down pipe. Sprint to train yard container. Hide behind container. Goal: complete in under 45 seconds.
-
-**Drill 3: Multi-Story Descent (Hotel Playa)**
-Start on hotel roof. Drop to balcony (3rd floor). Enter through balcony door. Navigate to central staircase. Ladder slide from 3rd to ground floor. Vault front desk. Exit through kitchen door. Goal: complete in under 20 seconds.
-
-{{< section "Stamina Management" >}}
-
-Parkour consumes stamina. Know your limits:
-
-| Action | Stamina Cost | Full Bar Capacity |
-|--------|-------------|-------------------|
-| Sprint (per sec) | 3% | 33 seconds |
-| Vault | 5% | 20 vaults |
-| Wall Run (per sec) | 8% | 12 seconds |
-| Jump Climb | 10% | 10 climbs |
-| Slide | 2% | 50 slides |
-
-**Stamina tip:** Do not chain wall runs. One wall run + vault + slide uses 15% stamina. Two consecutive wall runs use 16% and leave you at 84%. Three wall runs in a row (24%) risk hitting empty during a police chase.
-
-Keep a stamina-restoring energy drink in your quick slot at all times. It restores 40% stamina over 5 seconds.
+The Fandom wiki emphasizes that parkour opens shortcuts between sectors, making cross-territory travel faster and safer.
 
 <div class="resource-section">
   <h2>Resources</h2>
   {{< resourcegrid >}}
-    {{< resourcecard name="Parkour Techniques Video" url="https://www.bilibili.com/video/BV1Bw4m1Y7vn" desc="Visual demonstration of all parkour moves" >}}
-    {{< resourcecard name="Movement Tech Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3270412556" desc="Community tech guide with speedrun routes" >}}
+    {{< resourcecard name="DDS2 Fandom Tutorials" url="https://drug-dealer-simulator-2.fandom.com/wiki/Tutorials" desc="Parkour mechanics, flashlights, and game systems" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="Steam Sector Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=2717211047" desc="Parkour routes between every sector with police checkpoint info" target="_blank" rel="noopener noreferrer" >}}
+    {{< resourcecard name="DDS2 Steam Page" url="https://store.steampowered.com/app/1708850/Drug_Dealer_Simulator_2/" desc="Parkour system confirmed as core feature" target="_blank" rel="noopener noreferrer" >}}
   {{< /resourcegrid >}}
 </div>
