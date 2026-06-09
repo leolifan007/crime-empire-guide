@@ -12,8 +12,6 @@ The DDS2 tutorial covers basic controls but skips the survival mechanics that ex
 
 {{< /callout >}}
 
-{{< diagram "diagrams/dds2-progression-flow.svg" "DDS2 Early Game Progression: From Beach to First $5K" "720" >}}
-
 {{< section "Survival Tips" >}}
 
 {{< stepgroup >}}
