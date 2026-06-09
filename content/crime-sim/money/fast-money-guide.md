@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Fast Money Guide: Best Early-Game Methods"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [money, early-game, fast-cash, guide]
 weight: 1

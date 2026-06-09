@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Tools Guide: Every Item Explained"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [equipment, tools, guide]
 weight: 1

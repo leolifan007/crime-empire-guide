@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Tool Upgrades and Advanced Tools"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [equipment, tools, upgrades, advanced]
 weight: 2

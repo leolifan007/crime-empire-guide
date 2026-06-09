@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Gold Bars and Jewelry Economy (Update 1.3)"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [money, gold-bars, jewelry, update-1.3, economy]
 weight: 2

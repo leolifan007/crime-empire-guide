@@ -1,4 +1,4 @@
----
+﻿---
 title: "All Properties Ranked: Best Buy Order from Starter to Manor"
 date: 2026-06-09T02:10:00+08:00
 draft: false
@@ -58,7 +58,7 @@ The Manor requires completing the "Finishing the Job" quest before it becomes av
 
 {{< section "Buy Order Flowchart" >}}
 
-Apartment (free) → Bungalow ($6K) at Hustler → Barn ($25K) at Dealer → Warehouse ($50K) at Hoodlum V → Manor ($250K) at Kingpin
+Apartment (free) 鈫?Bungalow ($6K) at Hustler 鈫?Barn ($25K) at Dealer 鈫?Warehouse ($50K) at Hoodlum V 鈫?Manor ($250K) at Kingpin
 
 {{< insight >}}The single biggest mistake new players make is buying the Barn too early. You need $25K cash PLUS $5K for equipment PLUS ongoing ingredient costs. If buying the Barn leaves you with under $5K liquid cash, wait one more day of production.{{< /insight >}}
 

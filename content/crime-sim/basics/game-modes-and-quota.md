@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Game Modes and Quota System Explained"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [mechanics, modes, quota]
 weight: 2

@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator 4-Player Co-op Strategy Guide"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [coop, multiplayer, strategy, teamwork]
 weight: 1

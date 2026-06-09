@@ -1,8 +1,7 @@
----
+﻿---
 title: "Getting Started in Crime Simulator"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [beginner, tutorial]
 weight: 1

@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Achievement Guide Part 1: Easy to Medium Achievements"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [achievements, guide, steam, walkthrough]
 weight: 1

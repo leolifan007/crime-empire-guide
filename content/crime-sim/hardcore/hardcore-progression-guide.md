@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Hardcore Mode Progression: From Zero to Rank 6+"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [hardcore, progression, rank, endgame, strategy]
 weight: 2

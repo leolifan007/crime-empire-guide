@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Loot Selling Strategy: Maximize Every Heist"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [loot, selling, strategy, profit]
 weight: 2

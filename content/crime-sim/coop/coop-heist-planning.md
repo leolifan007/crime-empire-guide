@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Co-op Heist Planning: From Setup to Extraction"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [coop, heist, planning, teamwork, advanced]
 weight: 2

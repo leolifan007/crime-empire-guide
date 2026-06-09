@@ -1,4 +1,4 @@
----
+﻿---
 title: "Casino Blackjack and Ride the Bus: Fastest Money Multiplier"
 date: 2026-06-09T02:00:00+08:00
 draft: false
@@ -33,7 +33,7 @@ The casino at the north end of the map has three gambling games. Here is how the
 |-------|--------|----------------|--------|-------------|
 | Round 1 | Guess if card is Red or Black | 50% | 2x | 10% of bankroll |
 | Round 2 | If previous card was 8 or below, guess Higher | ~70% | 2x | Same bet |
-| Round 3 | If two cards are close (gap ≤ 3), skip. If gap > 3, guess | ~60-75% | 2x (total 8x) | Same bet |
+| Round 3 | If two cards are close (gap 鈮?3), skip. If gap > 3, guess | ~60-75% | 2x (total 8x) | Same bet |
 
 **Pro tip:** Cards 2-6: guess Higher. Cards 7-9: guess Higher but carefully. Cards 10-Ace: guess Lower. If the last card was the same value as a previous card, the gap analysis shifts -- factor in duplicates when calculating odds.
 

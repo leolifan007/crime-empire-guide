@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Achievement Guide Part 2: Hard Achievements"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [achievements, guide, steam, hard, endgame]
 weight: 2

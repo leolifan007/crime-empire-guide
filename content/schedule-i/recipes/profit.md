@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Drug Recipe Profit Rankings"
 date: 2026-06-08T00:00:00+08:00
 draft: false
@@ -8,7 +8,7 @@ weight: 1
 ---
 
 {{< callout "info" >}}
-**Short answer:** OG Kush 3-mix with {{< material "horse_semen" >}} + {{< material "mega_bean" >}} + {{< material "battery" >}} gives $136 profit per unit at rank Peddler III — best profit-per-effort before automation. If you have Chemists running and want max per-unit profit, build the Cocaine 9-mix at Kingpin: $717 net per unit.
+**Short answer:** OG Kush 3-mix with {{< material "horse_semen" >}} + {{< material "mega_bean" >}} + {{< material "battery" >}} gives $136 profit per unit at rank Peddler III 鈥?best profit-per-effort before automation. If you have Chemists running and want max per-unit profit, build the Cocaine 9-mix at Kingpin: $717 net per unit.
 {{< /callout >}}
 
 {{< diagram "diagrams/recipe-profit-chart.svg" "Recipe Profit Per Unit" "720" >}}
@@ -34,12 +34,12 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
     </div>
     <div class="step-metrics">
       <span class="metric-cost">Cost ~$6</span>
-      <span class="metric-arrow">→</span>
+      <span class="metric-arrow">鈫?/span>
       <span class="metric-sell">Sell ~$40</span>
-      <span class="metric-sep">·</span>
+      <span class="metric-sep">路</span>
       <span class="metric-profit">Profit ~$34</span>
     </div>
-    <p class="step-desc">Buy everything from Albert and the first gas station — no alternative at this rank.</p>
+    <p class="step-desc">Buy everything from Albert and the first gas station 鈥?no alternative at this rank.</p>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
   </div>
   <div class="step-panel">
     <div class="step-rank">
-      <span class="rank-name">Hustler I–III</span>
+      <span class="rank-name">Hustler I鈥揑II</span>
       <span class="rank-badge">Tier 2</span>
     </div>
     <div class="step-brew">
@@ -58,12 +58,12 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
     </div>
     <div class="step-metrics">
       <span class="metric-cost">Cost ~$8</span>
-      <span class="metric-arrow">→</span>
+      <span class="metric-arrow">鈫?/span>
       <span class="metric-sell">Sell ~$52</span>
-      <span class="metric-sep">·</span>
+      <span class="metric-sep">路</span>
       <span class="metric-profit">Profit ~$44</span>
     </div>
-    <p class="step-desc">Same ingredients as Hoodlum, one extra mix step. $2 more in ingredients, $12 more on the price tag — the easiest upgrade you'll ever make.</p>
+    <p class="step-desc">Same ingredients as Hoodlum, one extra mix step. $2 more in ingredients, $12 more on the price tag 鈥?the easiest upgrade you'll ever make.</p>
   </div>
 </div>
 
@@ -82,9 +82,9 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
     </div>
     <div class="step-metrics highlight">
       <span class="metric-cost">Cost $31</span>
-      <span class="metric-arrow">→</span>
+      <span class="metric-arrow">鈫?/span>
       <span class="metric-sell">Sell $167</span>
-      <span class="metric-sep">·</span>
+      <span class="metric-sep">路</span>
       <span class="metric-profit">Net <strong>$136</strong></span>
     </div>
     <p class="step-desc">Unlock {{< material "horse_semen" >}} and {{< material "mega_bean" >}} from the motel supplier. This single recipe funds your first bungalow. <strong>The biggest mid-game power spike.</strong></p>
@@ -98,7 +98,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
   </div>
   <div class="step-panel">
     <div class="step-rank">
-      <span class="rank-name">Dealer I–II</span>
+      <span class="rank-name">Dealer I鈥揑I</span>
       <span class="rank-badge">Tier 4</span>
     </div>
     <div class="step-brew">
@@ -106,12 +106,12 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
     </div>
     <div class="step-metrics">
       <span class="metric-cost">Cost $18</span>
-      <span class="metric-arrow">→</span>
+      <span class="metric-arrow">鈫?/span>
       <span class="metric-sell">Sell $145</span>
-      <span class="metric-sep">·</span>
+      <span class="metric-sep">路</span>
       <span class="metric-profit">Net <strong>$127</strong></span>
     </div>
-    <p class="step-desc">Transition from weed to {{< material "meth" >}}. Meth 4-mix: Chemists process 15% faster — this is your scaling inflection point.</p>
+    <p class="step-desc">Transition from weed to {{< material "meth" >}}. Meth 4-mix: Chemists process 15% faster 鈥?this is your scaling inflection point.</p>
   </div>
 </div>
 
@@ -129,12 +129,12 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
     </div>
     <div class="step-metrics highlight">
       <span class="metric-cost">Cost $38</span>
-      <span class="metric-arrow">→</span>
+      <span class="metric-arrow">鈫?/span>
       <span class="metric-sell">Sell $755</span>
-      <span class="metric-sep">·</span>
+      <span class="metric-sep">路</span>
       <span class="metric-profit">Net <strong>$717</strong></span>
     </div>
-    <p class="step-desc">Cocaine 9-mix: {{< material "banana" >}} → {{< material "motor_oil" >}} → {{< material "cuke" >}} → {{< material "paracetamol" >}} → {{< material "gasoline" >}} → {{< material "cuke" >}} → {{< material "battery" >}} → {{< material "horse_semen" >}} → {{< material "mega_bean" >}}. Setup ~$40,000. Sell price per unit: $755 (verified by community testing).</p>
+    <p class="step-desc">Cocaine 9-mix: {{< material "banana" >}} 鈫?{{< material "motor_oil" >}} 鈫?{{< material "cuke" >}} 鈫?{{< material "paracetamol" >}} 鈫?{{< material "gasoline" >}} 鈫?{{< material "cuke" >}} 鈫?{{< material "battery" >}} 鈫?{{< material "horse_semen" >}} 鈫?{{< material "mega_bean" >}}. Setup ~$40,000. Sell price per unit: $755 (verified by community testing).</p>
   </div>
 </div>
 
@@ -153,7 +153,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
     {{< recipe name1="og_kush" qty1="1x" name2="battery" qty2="1x" name3="horse_semen" qty3="1x" name4="mega_bean" qty4="1x" result="og_kush" rqty="1x" >}}
   </div>
   <div class="recipe-result">
-    <strong>Cost: $31 → Sell: $167 → 5.4x return.</strong> Two daisychained mixing stations. No special unlocks beyond Peddler III.
+    <strong>Cost: $31 鈫?Sell: $167 鈫?5.4x return.</strong> Two daisychained mixing stations. No special unlocks beyond Peddler III.
   </div>
 </div>
 
@@ -169,7 +169,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
   <div class="note-item">
     <span class="note-icon"></span>
     <div class="note-body">
-      <strong>Better than the alternative.</strong> Compare to Green Crack 6-mix at the same rank ($98 net) — this recipe wins by 38% more profit with half the mixing steps.
+      <strong>Better than the alternative.</strong> Compare to Green Crack 6-mix at the same rank ($98 net) 鈥?this recipe wins by 38% more profit with half the mixing steps.
     </div>
   </div>
 </div>
@@ -190,7 +190,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
 | {{< material "green_crack" >}} | 8-mix | $24 | $148 | $124 | Dealer I | 4 |
 
 <div class="insight-card">
-<p><strong>The real bottleneck.</strong> The ingredient cost gap between a Peddler III OG Kush 3-mix and a Kingpin Cocaine 9-mix is only <strong>$7</strong>. The sell price gap is <strong>$588</strong>. It is never ingredient cost — it is production speed, station count, and automation.</p>
+<p><strong>The real bottleneck.</strong> The ingredient cost gap between a Peddler III OG Kush 3-mix and a Kingpin Cocaine 9-mix is only <strong>$7</strong>. The sell price gap is <strong>$588</strong>. It is never ingredient cost 鈥?it is production speed, station count, and automation.</p>
 </div>
 
 </div>

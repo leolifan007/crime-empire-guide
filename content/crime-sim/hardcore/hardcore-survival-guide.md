@@ -1,8 +1,7 @@
----
+﻿---
 title: "Crime Simulator Hardcore Mode Survival Guide"
 date: 2026-06-09
-draft: false
-hidden: true
+draft: false
 game: crime-sim
 tags: [hardcore, survival, permadeath, guide]
 weight: 1
