@@ -179,3 +179,44 @@
 .back-to-top{position:fixed;bottom:32px;right:32px;z-index:999;width:48px;height:48px;border-radius:50%;background:rgba(231,76,60,.12);border:1.5px solid rgba(231,76,60,.25);color:#e74c3c;font-size:22px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .25s;opacity:0;pointer-events:none;backdrop-filter:blur(8px);box-shadow:0 4px 20px rgba(0,0,0,.3);font-family:var(--font-body)}
 .back-to-top.visible{opacity:1;pointer-events:auto}
 .back-to-top:hover{background:rgba(231,76,60,.2);transform:translateY(-3px);box-shadow:0 6px 25px rgba(231,76,60,.15)}
+
+/* ===== PER-GAME COLOR OVERRIDES ===== */
+
+/* DDS2 (Gold/Amber) */
+.game-dds2 .article-body th{background:rgba(212,168,67,8%);color:#d4a843}
+.game-dds2 .callout{border-left-color:#d4a843;background:rgba(212,168,67,4%)}
+.game-dds2 .callout strong{color:#d4a843}
+.game-dds2 .game-slot.result{background:rgba(212,168,67,8%)!important;border-color:rgba(212,168,67,.6)!important;box-shadow:0 0 20px rgba(212,168,67,.15),inset 0 0 15px rgba(212,168,67,.05)!important}
+.game-dds2 .game-slot.result::after{border-color:rgba(212,168,67,.25)}
+.game-dds2 .game-slot.result .game-name,.game-dds2 .game-slot.result .game-qty{color:#d4a843!important}
+.game-dds2 .game-slot.result .game-img{border-color:rgba(212,168,67,.4)!important;background:rgba(212,168,67,5%)!important}
+.game-dds2 .game-slot.result:hover{box-shadow:0 0 30px rgba(212,168,67,.25),inset 0 0 20px rgba(212,168,67,.08)!important}
+.game-dds2 .recipe-result{background:rgba(212,168,67,5%);border-color:rgba(212,168,67,.2);color:#d4a843}
+.game-dds2 .recipe-result::before{background:linear-gradient(90deg,transparent,#d4a843,transparent)}
+.game-dds2 .step-panel.highlight{background:rgba(212,168,67,2%)!important;border-color:rgba(212,168,67,.12)!important}
+.game-dds2 .step-panel.highlight .rank-name,.game-dds2 .step-panel.end .rank-name{color:#d4a843!important}
+.game-dds2 .step-metrics .metric-profit{color:#d4a843}
+.game-dds2 .step-brew .game-slot:hover{background:rgba(212,168,67,3%);border-color:rgba(212,168,67,.12)}
+.game-dds2 .step-plus{background:rgba(212,168,67,8%);color:#d4a843}
+.game-dds2 .rank-badge.gold{background:rgba(212,168,67,.12)!important;border-color:rgba(212,168,67,.2)!important;color:#d4a843!important}
+.game-dds2 .content-box.highlight{background:rgba(212,168,67,4%);border-color:rgba(212,168,67,.18)}
+.game-dds2 .article-tag{background:rgba(212,168,67,.12);color:#d4a843}
+.game-dds2 .section-content.highlight-box{background:rgba(212,168,67,3%);border-color:rgba(212,168,67,.15)}
+.game-dds2 .section-content.highlight-box::before{background:linear-gradient(90deg,transparent,#d4a843,transparent)}
+.game-dds2 .insight-card{background:rgba(212,168,67,3%);border-color:rgba(212,168,67,.12)}
+.game-dds2 .insight-card strong{color:#d4a843}
+.game-dds2 .resource-card:hover .resource-name{color:#d4a843}
+.game-dds2 .resource-card::after{background:linear-gradient(90deg,#d4a843,#f5d980)}
+
+/* Crime Sim (Blue) */
+.game-crime-sim .article-body th{background:rgba(52,152,219,8%);color:#3498db}
+.game-crime-sim .callout{border-left-color:#3498db;background:rgba(52,152,219,4%)}
+.game-crime-sim .callout strong{color:#3498db}
+.game-crime-sim .game-slot.result{background:rgba(52,152,219,8%)!important;border-color:rgba(52,152,219,.6)!important;box-shadow:0 0 20px rgba(52,152,219,.15),inset 0 0 15px rgba(52,152,219,.05)!important}
+.game-crime-sim .game-slot.result .game-name,.game-crime-sim .game-slot.result .game-qty{color:#3498db!important}
+.game-crime-sim .recipe-result{background:rgba(52,152,219,5%);border-color:rgba(52,152,219,.2);color:#3498db}
+.game-crime-sim .step-panel.highlight{background:rgba(52,152,219,2%)!important;border-color:rgba(52,152,219,.12)!important}
+.game-crime-sim .step-panel.highlight .rank-name,.game-crime-sim .step-panel.end .rank-name{color:#3498db!important}
+.game-crime-sim .step-metrics .metric-profit{color:#3498db}
+.game-crime-sim .step-plus{background:rgba(52,152,219,8%);color:#3498db}
+.game-crime-sim .article-tag{background:rgba(52,152,219,.12);color:#3498db}

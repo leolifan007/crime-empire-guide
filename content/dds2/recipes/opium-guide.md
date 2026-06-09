@@ -29,11 +29,11 @@ From the Datamine: each cutting agent modifies the final product's stats. The go
 |------|-------|-----|-----|-----|-----|----------|
 | 1 | Flour | 0.0 | - | - | - | Safe volume increase (baking base) |
 | 2 | Salt | 0.0 | - | - | - | Completely safe, no side effects |
-| 3 | Sugar | 0.0 | - | - | - | Safe, widely available |
+| 3 | {{< material dds2-sugar >}} Sugar | 0.0 | - | - | - | Safe, widely available |
 | 4 | Water | 0.0 | - | - | - | Base diluent, no effect |
 | 5 | Vinegar | 0.0 | - | - | - | Safe but limited use |
 | 6 | Soda (baking) | 0.1 | - | - | - | Minimal risk |
-| 7 | Ephedrine | 0.1 | - | - | - | Low toxicity source |
+| 7 | {{< material dds2-ephedrine >}} Ephedrine | 0.1 | - | - | - | Low toxicity source |
 | 8 | Cough Syrup | 0.0 | 1.01 | 0.1 | - | Boosts potency slightly |
 | 9 | Migraine Meds | 0.0 | 1.01 | 0.1 | - | Boosts potency slightly |
 | 10 | Ethanol | 0.2 | - | 0.1 | 1.05 | Risk-reward tradeoff |
@@ -46,10 +46,10 @@ The Datamine lists several intermediate compounds that can be used as cutting ba
 
 | Compound | TOX | POT | Effect |
 |----------|-----|-----|--------|
-| Amphetamine Salts | 0.85 | 1.03 | Risky but potent (STR: 1.1) |
-| Cannabis Powder (POT 0.95) | - | - | Expensive to use as cut |
-| Crack Lump | 0.5 | 1.04 | Moderate risk, STR: 1.6 |
-| Ephedrine Compound | 0.5 | 1.03 | Moderate risk, STR: 1.1 |
+| {{< material dds2-amphetamine >}} Amphetamine Salts | 0.85 | 1.03 | Risky but potent (STR: 1.1) |
+| {{< material dds2-indica >}} Cannabis Powder (POT 0.95) | - | - | Expensive to use as cut |
+| {{< material dds2-cocaine >}} Crack Lump | 0.5 | 1.04 | Moderate risk, STR: 1.6 |
+| {{< material dds2-phenyletylamine >}} Ephedrine Compound | 0.5 | 1.03 | Moderate risk, STR: 1.1 |
 
 {{< section "Profit Optimization Formula" >}}
 

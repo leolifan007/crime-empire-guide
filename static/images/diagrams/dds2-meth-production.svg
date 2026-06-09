@@ -1,89 +1,134 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400">
-  <rect width="720" height="400" fill="#1a1a2e" rx="8"/>
-  <text x="360" y="22" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Methamphetamine Production Flow (DDS2 Recipe)</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
+  </defs>
+  <rect width="720" height="400" fill="url(#bg)" rx="8"/>
+  
+  <rect x="0" y="0" width="720" height="34" fill="rgba(212,168,67,0.08)" rx="8"/>
+  <rect x="0" y="26" width="720" height="8" fill="rgba(212,168,67,0.08)"/>
+  <text x="360" y="22" text-anchor="middle" fill="#d4a843" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="0.5">METH PRODUCTION FLOW</text>
 
-  <!-- Step 1: Source Ingredients -->
-  <text x="40" y="48" fill="#d4a843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">INGREDIENTS</text>
+  <!-- ===== SUPPLY CHAIN: 3 columns ===== -->
+  
+  <!-- COL 1: Source ingredients -->
+  <rect x="30" y="50" width="200" height="175" rx="8" fill="rgba(212,168,67,0.02)" stroke="rgba(212,168,67,0.1)" stroke-width="1"/>
+  <rect x="30" y="50" width="200" height="24" rx="8" fill="rgba(212,168,67,0.06)"/>
+  <rect x="30" y="66" width="200" height="8"/>
+  <text x="130" y="66" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">RAW INGREDIENTS</text>
 
-  <rect x="40" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#44cc88" stroke-width="1.5"/>
-  <rect x="70" y="58" width="24" height="24" rx="3" fill="#4466aa" opacity="0.5"/>
-  <text x="80" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">EP</text>
-  <text x="100" y="78" fill="#44cc88" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Ephedrine</text>
-  <text x="100" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from pharmacy</text>
+  <!-- Ephedrine -->
+  <rect x="45" y="85" width="170" height="36" rx="6" fill="rgba(212,168,67,0.06)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
+  <circle cx="65" cy="103" r="11" fill="rgba(212,168,67,0.1)" stroke="#d4a843" stroke-width="0.8"/>
+  <text x="65" y="106" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">E</text>
+  <text x="85" y="99" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Ephedrine (base)</text>
+  <text x="85" y="114" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Purchase / farm</text>
 
-  <rect x="170" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#ccaa44" stroke-width="1.5"/>
-  <rect x="200" y="58" width="24" height="24" rx="3" fill="#aa6644" opacity="0.5"/>
-  <text x="210" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">HI</text>
-  <text x="230" y="78" fill="#ccaa44" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Iodoric Acid</text>
-  <text x="230" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from chem supplier</text>
+  <!-- Phenylethylamine -->
+  <rect x="45" y="128" width="170" height="36" rx="6" fill="rgba(212,168,67,0.06)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
+  <circle cx="65" cy="146" r="11" fill="rgba(212,168,67,0.1)" stroke="#d4a843" stroke-width="0.8"/>
+  <text x="65" y="149" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">P</text>
+  <text x="85" y="142" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="9">Phenylethylamine</text>
+  <text x="85" y="157" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Alternative base</text>
 
-  <rect x="300" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#cc6644" stroke-width="1.5"/>
-  <rect x="330" y="58" width="24" height="24" rx="3" fill="#cc4444" opacity="0.5"/>
-  <text x="340" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">ME</text>
-  <text x="360" y="78" fill="#cc6644" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Methylamine</text>
-  <text x="360" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from farm supply</text>
+  <!-- Chemicals -->
+  <rect x="45" y="171" width="170" height="36" rx="6" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.06)" stroke-width="0.8"/>
+  <circle cx="65" cy="189" r="11" fill="rgba(255,255,255,0.05)"/>
+  <text x="65" y="192" text-anchor="middle" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="9">C</text>
+  <text x="85" y="185" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="9">Chemicals (lab)</text>
+  <text x="85" y="200" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Acids / solvents</text>
 
-  <rect x="430" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#6644cc" stroke-width="1.5"/>
-  <rect x="460" y="58" width="24" height="24" rx="3" fill="#8866cc" opacity="0.5"/>
-  <text x="470" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">AM</text>
-  <text x="490" y="78" fill="#6644cc" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Ammonia</text>
-  <text x="490" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from hardware store</text>
+  <!-- ARROW 1 -->
+  <text x="248" y="145" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="20">--></text>
+  <text x="248" y="160" text-anchor="middle" fill="rgba(212,168,67,0.3)" font-family="Arial,sans-serif" font-size="8">cook</text>
 
-  <rect x="560" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#888888" stroke-width="1.5"/>
-  <rect x="590" y="58" width="24" height="24" rx="3" fill="#888888" opacity="0.5"/>
-  <text x="600" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">H2O</text>
-  <text x="620" y="78" fill="#888888" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Water</text>
-  <text x="620" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">low-tox base</text>
+  <!-- COL 2: Cooking process -->
+  <rect x="260" y="50" width="200" height="175" rx="8" fill="rgba(212,168,67,0.03)" stroke="#d4a843" stroke-width="1"/>
+  <rect x="260" y="50" width="200" height="24" rx="8" fill="rgba(212,168,67,0.08)"/>
+  <rect x="260" y="66" width="200" height="8"/>
+  <text x="360" y="66" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">CHEMISTRY PROCESS</text>
 
-  <!-- Arrow connecting step 1 to 2 -->
-  <line x1="360" y1="118" x2="360" y2="138" stroke="#d4a843" stroke-width="2"/>
-  <polygon points="355,138 365,138 360,145" fill="#d4a843"/>
+  <!-- Step 1 -->
+  <rect x="275" y="82" width="170" height="26" rx="4" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <circle cx="290" cy="95" r="8" fill="rgba(212,168,67,0.15)"/>
+  <text x="290" y="98" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="7" font-weight="bold">1</text>
+  <text x="305" y="99" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="9">Mix base + chemicals</text>
 
-  <!-- Step 2: Compound -->
-  <text x="40" y="155" fill="#d4a843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">COMPOUND</text>
+  <!-- Step 2 -->
+  <rect x="275" y="114" width="170" height="26" rx="4" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <circle cx="290" cy="127" r="8" fill="rgba(212,168,67,0.15)"/>
+  <text x="290" y="130" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="7" font-weight="bold">2</text>
+  <text x="305" y="131" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="9">Heat / cook batch</text>
 
-  <rect x="40" y="162" width="295" height="55" rx="5" fill="#2e2e1a" stroke="#cccc44" stroke-width="2"/>
-  <text x="187" y="182" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Methamphetamine Compound</text>
-  <text x="187" y="198" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Mix ephedrine + iodoric acid + methylamine + ammonia + water</text>
-  <text x="187" y="212" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">TOX: 0.3 | POT: 1.03 (DDS2 Datamine v2)</text>
+  <!-- Step 3 -->
+  <rect x="275" y="146" width="170" height="26" rx="4" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <circle cx="290" cy="159" r="8" fill="rgba(212,168,67,0.15)"/>
+  <text x="290" y="162" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="7" font-weight="bold">3</text>
+  <text x="305" y="163" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="9">Add cutting agents</text>
 
-  <line x1="345" y1="190" x2="365" y2="190" stroke="#d4a843" stroke-width="2"/>
-  <polygon points="365,185 365,195 372,190" fill="#d4a843"/>
+  <!-- Step 4 -->
+  <rect x="275" y="178" width="170" height="26" rx="4" fill="rgba(212,168,67,0.06)" stroke="#d4a843" stroke-width="0.8"/>
+  <circle cx="290" cy="191" r="8" fill="rgba(212,168,67,0.2)"/>
+  <text x="290" y="194" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="7" font-weight="bold">4</text>
+  <text x="305" y="195" fill="#d4a843" font-family="Arial,sans-serif" font-size="9" font-weight="bold">Package &amp; Label</text>
 
-  <!-- Step 3: Purify -->
-  <rect x="380" y="162" width="295" height="55" rx="5" fill="#1a1a3d" stroke="#4466cc" stroke-width="2"/>
-  <text x="527" y="182" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Purification Process</text>
-  <text x="527" y="198" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Heat + filter = Powdered Methamphetamine</text>
-  <text x="527" y="212" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">POT: 0.88 -> STR: 1.4 | TOX: 0.3</text>
+  <!-- Result tag -->
+  <text x="275" y="218" fill="rgba(212,168,67,0.2)" font-family="Arial,sans-serif" font-size="7">Purity affects sell price</text>
 
-  <!-- Arrow to cutting -->
-  <line x1="360" y1="225" x2="360" y2="245" stroke="#d4a843" stroke-width="2"/>
-  <polygon points="355,245 365,245 360,252" fill="#d4a843"/>
+  <!-- ARROW 2 -->
+  <text x="478" y="145" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="20">--></text>
+  <text x="478" y="160" text-anchor="middle" fill="rgba(212,168,67,0.3)" font-family="Arial,sans-serif" font-size="8">sell</text>
 
-  <!-- Step 4: Cut for profit -->
-  <text x="40" y="262" fill="#d4a843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">CUT (optional, increases profit)</text>
+  <!-- COL 3: Distribution -->
+  <rect x="490" y="50" width="200" height="175" rx="8" fill="rgba(68,204,68,0.02)" stroke="rgba(68,204,68,0.12)" stroke-width="1"/>
+  <rect x="490" y="50" width="200" height="24" rx="8" fill="rgba(68,204,68,0.05)"/>
+  <rect x="490" y="66" width="200" height="8"/>
+  <text x="590" y="66" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">SALES CHANNEL</text>
 
-  <rect x="40" y="270" width="140" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
-  <text x="110" y="290" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">+ Sugar (no toxicity)</text>
-  <text x="110" y="304" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">POT: 1.01</text>
+  <!-- Channel 1 -->
+  <circle cx="510" cy="99" r="12" fill="rgba(68,204,68,0.1)" stroke="#44cc44" stroke-width="1"/>
+  <text x="510" y="103" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">S</text>
+  <text x="530" y="97" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="9">Street Customers</text>
+  <text x="530" y="112" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Direct sales</text>
 
-  <rect x="190" y="270" width="140" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
-  <text x="260" y="290" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">+ Flour (no toxicity)</text>
-  <text x="260" y="304" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Best for volume</text>
+  <!-- Channel 2 -->
+  <circle cx="510" cy="129" r="12" fill="rgba(68,204,68,0.1)" stroke="#44cc44" stroke-width="1"/>
+  <text x="510" y="133" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">D</text>
+  <text x="530" y="127" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="9">Distributor Desk</text>
+  <text x="530" y="142" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Assign dealer</text>
 
-  <rect x="340" y="270" width="140" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
-  <text x="410" y="290" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">+ Salt (STR 1.05)</text>
-  <text x="410" y="304" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Lowest risk cut</text>
+  <!-- Channel 3 -->
+  <circle cx="510" cy="159" r="12" fill="rgba(68,204,68,0.1)" stroke="#44cc44" stroke-width="1"/>
+  <text x="510" y="163" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">E</text>
+  <text x="530" y="157" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="9">Export / Bulk</text>
+  <text x="530" y="172" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">High volume, lower margin</text>
 
-  <rect x="490" y="270" width="185" height="40" rx="4" fill="#1a1a3d" stroke="#4466cc" stroke-width="1"/>
-  <text x="582" y="288" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="10">+ Cough syrup (POT 1.01)</text>
-  <text x="582" y="303" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="9">Boosts potency + slightly addictive</text>
+  <!-- ===== BOTTOM: Cutting Agents table ===== -->
+  <rect x="30" y="240" width="660" height="145" rx="8" fill="rgba(212,168,67,0.02)" stroke="rgba(212,168,67,0.1)" stroke-width="1"/>
+  <rect x="30" y="240" width="660" height="24" rx="8" fill="rgba(212,168,67,0.05)"/>
+  <rect x="30" y="256" width="660" height="8"/>
+  <text x="360" y="258" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">RECOMMENDED CUTTING AGENTS</text>
 
-  <!-- Warning -->
-  <rect x="40" y="325" width="640" height="35" rx="4" fill="#3d1f1f" stroke="#cc4444" stroke-width="1"/>
-  <text x="360" y="342" text-anchor="middle" fill="#ff6666" font-family="Arial, sans-serif" font-size="10" font-weight="bold">WARNING: Avoid high-tox cutting agents (gasoline, methanol, washing powder - TOX: 0.7-0.9)</text>
-  <text x="360" y="355" text-anchor="middle" fill="#ff8888" font-family="Arial, sans-serif" font-size="9">High toxicity kills customers permanently, destroying profit long-term</text>
+  <!-- Agent 1 -->
+  <rect x="45" y="272" width="155" height="50" rx="6" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <text x="122" y="290" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">Caffeine</text>
+  <text x="122" y="308" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Cheapest, stable cut</text>
 
-  <!-- Data source -->
-  <text x="360" y="385" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Data: DDS2 Datamine v2 (drugdealersim.com) - 73 substances, cutting agents, and raw materials | Steam FAQ guide</text>
+  <!-- Agent 2 -->
+  <rect x="210" y="272" width="155" height="50" rx="6" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <text x="287" y="290" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">Sugar</text>
+  <text x="287" y="308" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Easy to source</text>
+
+  <!-- Agent 3 -->
+  <rect x="375" y="272" width="155" height="50" rx="6" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <text x="452" y="290" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">Flour</text>
+  <text x="452" y="308" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Bulk, low suspicion</text>
+
+  <!-- Agent 4 -->
+  <rect x="540" y="272" width="135" height="50" rx="6" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.08)" stroke-width="0.5"/>
+  <text x="607" y="290" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">Baking Soda</text>
+  <text x="607" y="308" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="8">Good for white powder</text>
+
+  <!-- Note -->
+  <text x="45" y="340" fill="rgba(255,255,255,0.2)" font-family="Arial,sans-serif" font-size="8">Tip: 3:1 cut ratio = 75% purity is optimal for price vs volume. More cut = lower sell price.</text>
+  <text x="45" y="355" fill="rgba(255,255,255,0.15)" font-family="Arial,sans-serif" font-size="7">Source: DrugDealerSim.com Wiki Datamine v2 (73 substances: 10 drugs, 25 cuts, 20 raw, 18 intermediates)</text>
 </svg>
