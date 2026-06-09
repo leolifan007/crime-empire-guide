@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <rect width="60" height="60" rx="6" fill="#2a1a3d"/>
+  <rect x="4" y="4" width="52" height="52" rx="4" fill="none" stroke="#cc66cc" stroke-width="1.5"/>
+  <circle cx="30" cy="30" r="16" fill="none" stroke="#aa44aa" stroke-width="1.5"/>
+  <circle cx="30" cy="30" r="10" fill="#aa44aa" opacity="0.4"/>
+  <circle cx="30" cy="30" r="4" fill="#cc66cc" opacity="0.6"/>
+  <text x="30" y="54" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="5">Meth</text>
+</svg>

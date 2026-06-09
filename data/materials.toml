@@ -1,8 +1,34 @@
 # Material icon name -> filename mapping
-# Maps short names to actual PNG files in static/images/game-icons/
-# REPLACE with your game's items
-#
-# Example:
-# iron = "iron-plate.png"
-# copper = "copper-plate.png"
-# wood = "wood-log.png"
+# Maps short names to actual files in static/images/game-icons/
+
+# Schedule I items
+addy = "addy.png"
+banana = "banana.png"
+battery = "battery.png"
+chili = "chili.png"
+cocaine = "cocaine.png"
+cuke = "cuke.png"
+donut = "donut.png"
+energy_drink = "energy_drink.png"
+flu_medicine = "flu_medicine.png"
+gasoline = "gasoline.png"
+granddaddy_purple = "granddaddy_purple.png"
+green_crack = "green_crack.png"
+horse_semen = "horse_semen.png"
+mega_bean = "mega_bean.png"
+meth = "meth.png"
+motor_oil = "motor_oil.png"
+mouth_wash = "mouth_wash.png"
+og_kush = "og_kush.png"
+paracetamol = "paracetamol.png"
+shroom = "shroom.png"
+sour_diesel = "sour_diesel.png"
+viagra = "viagra.png"
+
+# DDS2 items
+dds2-meth = "dds2-meth.svg"
+dds2-weed = "dds2-weed.svg"
+dds2-cocaine = "dds2-cocaine.svg"
+dds2-ephedrine = "dds2-ephedrine.svg"
+dds2-amphetamine = "dds2-amphetamine.svg"
+dds2-opium = "dds2-opium.svg"

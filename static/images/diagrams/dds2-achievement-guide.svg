@@ -1,69 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320">
-  <rect width="720" height="320" fill="#1a1a2e" rx="8"/>
-  <text x="360" y="25" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DDS2 Achievement Guide: 39 Steam Achievements Verified</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340">
+  <rect width="720" height="340" fill="#1a1a2e" rx="8"/>
+  <text x="360" y="22" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">39 Steam Achievements (Steam Verified)</text>
 
-  <!-- Achievement Categories -->
-  <text x="40" y="50" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">ACHIEVEMENT CATEGORIES (Steam Page: 39 total)</text>
+  <!-- Category boxes -->
+  <rect x="40" y="35" width="200" height="75" rx="5" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
+  <text x="140" y="55" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="11" font-weight="bold">STORY ACHIEVEMENTS</text>
+  <line x1="55" y1="60" x2="225" y2="60" stroke="#44cc88" stroke-width="0.5" opacity="0.5"/>
+  <text x="140" y="76" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">I Am The One Who Knocks (Street Cred 4)</text>
+  <text x="140" y="90" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">The Kingpin (Max Cred) - Easier to unlock</text>
 
-  <!-- Story -->
-  <rect x="40" y="60" width="200" height="90" rx="5" fill="#16213e" stroke="#44cc88" stroke-width="2"/>
-  <text x="140" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">STORY PROGRESSION</text>
-  <line x1="55" y1="85" x2="225" y2="85" stroke="#44cc88" stroke-width="0.5" opacity="0.5"/>
-  <text x="140" y="100" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">I Am The One Who Knocks</text>
-  <text x="140" y="114" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Street Cred level 4</text>
-  <text x="140" y="128" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">The Kingpin - Max Street Cred</text>
-  <text x="140" y="142" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Side hustle (0.6% unlock rate)</text>
+  <rect x="260" y="35" width="200" height="75" rx="5" fill="#16213e" stroke="#cccc44" stroke-width="2"/>
+  <text x="360" y="55" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="11" font-weight="bold">MISC ACHIEVEMENTS</text>
+  <line x1="275" y1="60" x2="445" y2="60" stroke="#cccc44" stroke-width="0.5" opacity="0.5"/>
+  <text x="360" y="76" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Environmentalist (12.6% - sell 100 bottles)</text>
+  <text x="360" y="90" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">500 CIGARETTES (0.7%) - Side hustle (0.6%)</text>
 
-  <!-- Misc -->
-  <rect x="260" y="60" width="200" height="90" rx="5" fill="#16213e" stroke="#cccc44" stroke-width="2"/>
-  <text x="360" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">COLLECTIBLE / MISC</text>
-  <line x1="275" y1="85" x2="445" y2="85" stroke="#cccc44" stroke-width="0.5" opacity="0.5"/>
-  <text x="360" y="100" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Environmentalist (12.6% unlock)</text>
-  <text x="360" y="114" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Sell 100 glass bottles</text>
-  <text x="360" y="128" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">500 CIGARETTES (0.7%)</text>
-  <text x="360" y="142" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Never let you down, A warm place</text>
+  <rect x="480" y="35" width="200" height="75" rx="5" fill="#16213e" stroke="#cc6644" stroke-width="2"/>
+  <text x="580" y="55" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="11" font-weight="bold">CASINO DLC</text>
+  <line x1="495" y1="60" x2="665" y2="60" stroke="#cc6644" stroke-width="0.5" opacity="0.5"/>
+  <text x="580" y="76" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Kill casino boss with bomb</text>
+  <text x="580" y="90" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Pay B4,000,000</text>
 
-  <!-- DLC -->
-  <rect x="480" y="60" width="200" height="90" rx="5" fill="#16213e" stroke="#cc6644" stroke-width="2"/>
-  <text x="580" y="80" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">CASINO DLC</text>
-  <line x1="495" y1="85" x2="665" y2="85" stroke="#cc6644" stroke-width="0.5" opacity="0.5"/>
-  <text x="580" y="100" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Kill casino boss with bomb</text>
-  <text x="580" y="114" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Pay B4,000,000</text>
-  <text x="580" y="128" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Post-launch update content</text>
-  <text x="580" y="142" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Additional achievements</text>
+  <!-- Rarity visualization -->
+  <text x="40" y="135" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Rarity (Steam Unlock %)</text>
 
-  <!-- Rarity Data -->
-  <text x="40" y="175" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">ACHIEVEMENT RARITY (Steam Hunters & PlayTracker Data)</text>
+  <rect x="40" y="145" width="180" height="20" rx="3" fill="#1a3d1a"/>
+  <text x="130" y="159" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="9">Environmentalist (12.6%)</text>
 
-  <rect x="40" y="185" width="200" height="45" rx="4" fill="#2e1a1a" stroke="#ff4444" width="1"/>
-  <text x="140" y="202" text-anchor="middle" fill="#ff6666" font-family="Arial, sans-serif" font-size="10">RAREST (&lt;1% unlock)</text>
-  <text x="140" y="218" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Side hustle (0.6%), 500 CIG (0.7%)</text>
+  <rect x="40" y="170" width="40" height="20" rx="3" fill="#3d3d1a"/>
+  <text x="60" y="184" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="9">(0.7%)</text>
 
-  <rect x="260" y="185" width="200" height="45" rx="4" fill="#2e2e1a" stroke="#cccc44" width="1"/>
-  <text x="360" y="202" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">MOST COMMON MISC</text>
-  <text x="360" y="218" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">Environmentalist (12.6%)</text>
+  <rect x="80" y="170" width="30" height="20" rx="3" fill="#3d1a1a"/>
+  <text x="95" y="184" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="9">(0.6%)</text>
 
-  <rect x="480" y="185" width="200" height="45" rx="4" fill="#1a2e1a" stroke="#44cc88" width="1"/>
-  <text x="580" y="202" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">EASIEST UNLOCK</text>
-  <text x="580" y="218" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="9">I Am The One Who Knocks (Street Cred 4)</text>
+  <!-- Difficulty tier -->
+  <text x="40" y="215" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Difficulty Tier List</text>
 
-  <!-- Difficulty Tier -->
-  <text x="40" y="255" fill="#d4a843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">COMPLETION DIFFICULTY TIER LIST</text>
+  <rect x="40" y="225" width="120" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1.5"/>
+  <text x="100" y="242" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="11" font-weight="bold">EASY</text>
+  <text x="100" y="258" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Street Cred 4: 10-15h</text>
 
-  <rect x="40" y="265" width="100" height="20" rx="3" fill="#1a3d1a"/>
-  <text x="90" y="280" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">EASY (10-15h)</text>
+  <rect x="170" y="225" width="120" height="40" rx="4" fill="#2e3d1a" stroke="#88cc44" stroke-width="1.5"/>
+  <text x="230" y="242" text-anchor="middle" fill="#88cc44" font-family="Arial, sans-serif" font-size="11" font-weight="bold">MEDIUM</text>
+  <text x="230" y="258" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">100 bottles: 15-20h</text>
 
-  <rect x="150" y="265" width="110" height="20" rx="3" fill="#2e3d1a"/>
-  <text x="205" y="280" text-anchor="middle" fill="#88cc44" font-family="Arial, sans-serif" font-size="10">MEDIUM (15-20h)</text>
+  <rect x="300" y="225" width="120" height="40" rx="4" fill="#3d3d1a" stroke="#cccc44" stroke-width="1.5"/>
+  <text x="360" y="242" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="11" font-weight="bold">HARD</text>
+  <text x="360" y="258" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">500 cigs: 30-40h</text>
 
-  <rect x="270" y="265" width="100" height="20" rx="3" fill="#3d3d1a"/>
-  <text x="320" y="280" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="10">HARD (30-40h)</text>
+  <rect x="430" y="225" width="120" height="40" rx="4" fill="#3d1a1a" stroke="#cc6644" stroke-width="1.5"/>
+  <text x="490" y="242" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="11" font-weight="bold">VERY HARD</text>
+  <text x="490" y="258" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Side hustle: 40-60h</text>
 
-  <rect x="380" y="265" width="120" height="20" rx="3" fill="#3d1a1a"/>
-  <text x="440" y="280" text-anchor="middle" fill="#cc6644" font-family="Arial, sans-serif" font-size="10">VERY HARD (40-60h)</text>
+  <rect x="560" y="225" width="120" height="40" rx="4" fill="#4d0a0a" stroke="#ff4444" stroke-width="1.5"/>
+  <text x="620" y="242" text-anchor="middle" fill="#ff4444" font-family="Arial, sans-serif" font-size="11" font-weight="bold">EXTREME</text>
+  <text x="620" y="258" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">100% complete: 80-100h</text>
 
-  <rect x="510" y="265" width="110" height="20" rx="3" fill="#4d0a0a"/>
-  <text x="565" y="280" text-anchor="middle" fill="#ff4444" font-family="Arial, sans-serif" font-size="10">100% (80-100h)</text>
-
-  <text x="360" y="310" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Sources: Steam Community, Steam Hunters, TrueAchievements (28 console), PlayTracker</text>
+  <!-- Bottom note -->
+  <rect x="40" y="280" width="640" height="45" rx="4" fill="#16213e" stroke="#555555" stroke-width="1"/>
+  <text x="360" y="297" text-anchor="middle" fill="#aaaaaa" font-family="Arial, sans-serif" font-size="10">Source: Steam Community (39 achievements), Steam Hunters (unlock %), TrueAchievements (console: 28/1000G), PlayTracker</text>
+  <text x="360" y="313" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">100% Guide: steamcommunity.com/sharedfiles/filedetails/?id=3436774175</text>
 </svg>

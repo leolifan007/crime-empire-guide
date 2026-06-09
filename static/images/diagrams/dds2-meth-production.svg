@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400">
+  <rect width="720" height="400" fill="#1a1a2e" rx="8"/>
+  <text x="360" y="22" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Methamphetamine Production Flow (DDS2 Recipe)</text>
+
+  <!-- Step 1: Source Ingredients -->
+  <text x="40" y="48" fill="#d4a843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">INGREDIENTS</text>
+
+  <rect x="40" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#44cc88" stroke-width="1.5"/>
+  <rect x="70" y="58" width="24" height="24" rx="3" fill="#4466aa" opacity="0.5"/>
+  <text x="80" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">EP</text>
+  <text x="100" y="78" fill="#44cc88" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Ephedrine</text>
+  <text x="100" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from pharmacy</text>
+
+  <rect x="170" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#ccaa44" stroke-width="1.5"/>
+  <rect x="200" y="58" width="24" height="24" rx="3" fill="#aa6644" opacity="0.5"/>
+  <text x="210" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">HI</text>
+  <text x="230" y="78" fill="#ccaa44" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Iodoric Acid</text>
+  <text x="230" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from chem supplier</text>
+
+  <rect x="300" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#cc6644" stroke-width="1.5"/>
+  <rect x="330" y="58" width="24" height="24" rx="3" fill="#cc4444" opacity="0.5"/>
+  <text x="340" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">ME</text>
+  <text x="360" y="78" fill="#cc6644" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Methylamine</text>
+  <text x="360" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from farm supply</text>
+
+  <rect x="430" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#6644cc" stroke-width="1.5"/>
+  <rect x="460" y="58" width="24" height="24" rx="3" fill="#8866cc" opacity="0.5"/>
+  <text x="470" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">AM</text>
+  <text x="490" y="78" fill="#6644cc" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Ammonia</text>
+  <text x="490" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">from hardware store</text>
+
+  <rect x="560" y="55" width="120" height="55" rx="4" fill="#16213e" stroke="#888888" stroke-width="1.5"/>
+  <rect x="590" y="58" width="24" height="24" rx="3" fill="#888888" opacity="0.5"/>
+  <text x="600" y="73" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">H2O</text>
+  <text x="620" y="78" fill="#888888" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Water</text>
+  <text x="620" y="93" fill="#888888" font-family="Arial, sans-serif" font-size="9">low-tox base</text>
+
+  <!-- Arrow connecting step 1 to 2 -->
+  <line x1="360" y1="118" x2="360" y2="138" stroke="#d4a843" stroke-width="2"/>
+  <polygon points="355,138 365,138 360,145" fill="#d4a843"/>
+
+  <!-- Step 2: Compound -->
+  <text x="40" y="155" fill="#d4a843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">COMPOUND</text>
+
+  <rect x="40" y="162" width="295" height="55" rx="5" fill="#2e2e1a" stroke="#cccc44" stroke-width="2"/>
+  <text x="187" y="182" text-anchor="middle" fill="#cccc44" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Methamphetamine Compound</text>
+  <text x="187" y="198" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Mix ephedrine + iodoric acid + methylamine + ammonia + water</text>
+  <text x="187" y="212" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">TOX: 0.3 | POT: 1.03 (DDS2 Datamine v2)</text>
+
+  <line x1="345" y1="190" x2="365" y2="190" stroke="#d4a843" stroke-width="2"/>
+  <polygon points="365,185 365,195 372,190" fill="#d4a843"/>
+
+  <!-- Step 3: Purify -->
+  <rect x="380" y="162" width="295" height="55" rx="5" fill="#1a1a3d" stroke="#4466cc" stroke-width="2"/>
+  <text x="527" y="182" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Purification Process</text>
+  <text x="527" y="198" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Heat + filter = Powdered Methamphetamine</text>
+  <text x="527" y="212" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">POT: 0.88 -> STR: 1.4 | TOX: 0.3</text>
+
+  <!-- Arrow to cutting -->
+  <line x1="360" y1="225" x2="360" y2="245" stroke="#d4a843" stroke-width="2"/>
+  <polygon points="355,245 365,245 360,252" fill="#d4a843"/>
+
+  <!-- Step 4: Cut for profit -->
+  <text x="40" y="262" fill="#d4a843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">CUT (optional, increases profit)</text>
+
+  <rect x="40" y="270" width="140" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
+  <text x="110" y="290" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">+ Sugar (no toxicity)</text>
+  <text x="110" y="304" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">POT: 1.01</text>
+
+  <rect x="190" y="270" width="140" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
+  <text x="260" y="290" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">+ Flour (no toxicity)</text>
+  <text x="260" y="304" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Best for volume</text>
+
+  <rect x="340" y="270" width="140" height="40" rx="4" fill="#1a3d1a" stroke="#44cc88" stroke-width="1"/>
+  <text x="410" y="290" text-anchor="middle" fill="#44cc88" font-family="Arial, sans-serif" font-size="10">+ Salt (STR 1.05)</text>
+  <text x="410" y="304" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="8">Lowest risk cut</text>
+
+  <rect x="490" y="270" width="185" height="40" rx="4" fill="#1a1a3d" stroke="#4466cc" stroke-width="1"/>
+  <text x="582" y="288" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="10">+ Cough syrup (POT 1.01)</text>
+  <text x="582" y="303" text-anchor="middle" fill="#4466cc" font-family="Arial, sans-serif" font-size="9">Boosts potency + slightly addictive</text>
+
+  <!-- Warning -->
+  <rect x="40" y="325" width="640" height="35" rx="4" fill="#3d1f1f" stroke="#cc4444" stroke-width="1"/>
+  <text x="360" y="342" text-anchor="middle" fill="#ff6666" font-family="Arial, sans-serif" font-size="10" font-weight="bold">WARNING: Avoid high-tox cutting agents (gasoline, methanol, washing powder - TOX: 0.7-0.9)</text>
+  <text x="360" y="355" text-anchor="middle" fill="#ff8888" font-family="Arial, sans-serif" font-size="9">High toxicity kills customers permanently, destroying profit long-term</text>
+
+  <!-- Data source -->
+  <text x="360" y="385" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="9">Data: DDS2 Datamine v2 (drugdealersim.com) - 73 substances, cutting agents, and raw materials | Steam FAQ guide</text>
+</svg>
