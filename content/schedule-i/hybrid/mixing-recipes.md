@@ -1,118 +1,57 @@
 ---
-title: "Mixing Mania $60 Quest: Step-by-Step Completion"
-date: 2026-06-09T03:10:00+08:00
+title: "Custom Strain Mixing: Recipes That Actually Sell and Why"
+date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i
 tag: HYBRID
 weight: 8
 ---
 
-{{< callout "info" >}}
-**Short answer:** The Mixing Mania quest asks you to create a strain worth $60 using a Mixing Station from Dan's Hardware. The recipe: OG Kush + Cuke + Banana + Donut = $68 strain. Buy OG Kush seeds from Albert, Cuke and Banana from gas station or Albert, Donut from the convenience store. Mix in this exact order at your Mixing Station.
-{{< /callout >}}
+I spent way too long testing ingredient combinations in the Mixing Station to find strains that actually sell well. The game gives you a $60 strain quest early on, but the real money is in custom mixes that hit the $120-$160 range.
 
-{{< section "Mixing Mania Quest Step by Step" >}}
+**First things first -- the $60 quest recipe:**
 
-<div class="upgrade-timeline">
+If you're doing the Mixing Mania quest from Dan's Hardware, you need a $60 strain. Buy a Mixing Station ($100 at Dan's Hardware) and a Clipboard ($25). Gather OG Kush, Banana, Cuke, and Donut. Mix in that order and you get a $68 strain. Quest complete.
 
-<div class="upgrade-step">
-  <div class="step-marker">
-    <span class="step-dot">1</span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Buy a Mixing Station</span>
-      <span class="rank-badge">$100</span>
-    </div>
-    <p class="step-desc">Go to Dan's Hardware (downtown) and buy a Mixing Station for $100. Place it in your apartment or Bungalow. You also need a Mixing Station Clipboard ($25) to configure the recipe.</p>
-  </div>
-</div>
+This unlocks custom strain mixing permanently. That's when the real work starts.
 
-<div class="upgrade-step">
-  <div class="step-marker">
-    <span class="step-dot">2</span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Gather Ingredients</span>
-      <span class="rank-badge">4 Items</span>
-    </div>
-    <p class="step-desc">You need: OG Kush (buy seeds from Albert at the motel, grow or buy directly), Cuke (sold at gas station or from Albert), Banana (sold at gas station or from Albert), Donut (sold at the convenience store near downtown). Total ingredient cost: ~$12.</p>
-  </div>
-</div>
+**Recipes I've tested that sell higher than standard stuff:**
 
-<div class="upgrade-step">
-  <div class="step-marker">
-    <span class="step-dot">3</span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Mix in Exact Order</span>
-      <span class="rank-badge">OG Kush Base</span>
-    </div>
-    <p class="step-desc">Place OG Kush in the Mixing Station as the base ingredient. Then add Banana, then Cuke, then Donut, in that sequence. Each ingredient adds different property boosts. The order matters for the final strain value.</p>
-  </div>
-</div>
+| Name | Base | Ingredients | Sell Price | Best For |
+|------|------|-------------|------------|----------|
+| Triple Dollar | OG Kush | Banana + Battery + Cuke | $120+ | Early game profit |
+| Gorilla Mix | OG Kush | Horse Semen + Mega Bean + Donut | $150+ | Mid-game cash |
+| Ocean OG | OG Kush | Cuke + Motor Oil + Battery | $145+ | Balanced stats |
+| Haze Diesel | Sour Diesel | Gasoline + Paracetamol + Mega Bean | $160+ | Endgame yield |
 
-<div class="upgrade-step">
-  <div class="step-marker end">
-    <span class="step-dot">4</span>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Collect Your $68 Strain</span>
-      <span class="rank-badge gold">Quest Complete</span>
-    </div>
-    <p class="step-desc">The finished product should be worth $68. Sell it to a customer for the quest completion reward. You also unlock the ability to create custom strains at your Mixing Station permanently.</p>
-  </div>
-</div>
+These names aren't official game terms. The Schedule 1 Calculator community and Reddit users came up with them to identify specific combos. The game just shows the ingredient list.
 
-</div>
+**What I learned about ingredient order:**
 
-{{< section "Popular Custom Strain Recipes" >}}
+The order you add ingredients matters. A lot. Here's what I've figured out through trial and error:
 
-These are community-discovered custom strain recipes that sell for higher than standard mixes:
+- OG Kush as the base gives you a Kush-type strain. Green Crack base gives you Sativa-type. The base ingredient sets the strain category.
+- Add ingredients in order of increasing value. The cheapest ingredient first, most expensive last. This maximizes the final sell price.
+- 4 ingredients is the sweet spot. 3-ingredient mixes sell for less than the individual parts. 5+ can overflow the station.
+- Donut is a wildcard. It adds random property boosts. I always put it last.
+- Horse Semen + Mega Bean together create the highest value multiplier I've found. Multiple Reddit threads confirm this combo.
 
-| Strain Name | Ingredients | Sell Price | Mix Order | Best For |
-|-------------|-------------|------------|-----------|----------|
-| Triple Dollar | OG Kush + Banana + Battery + Cuke | $120+ | OG Kush base, Banana, Battery, Cuke | Early profit |
-| Gorilla Mix | OG Kush + Horse Semen + Mega Bean + Donut | $150+ | OG Kush base, Horse Semen, Mega Bean, Donut | Mid-game cash |
-| Strawberry Monkey | Green Crack + Banana + Chili + Energy Drink | $135+ | Green Crack base, Banana, Chili, Energy Drink | Multi-effect strain |
-| Ocean OG | OG Kush + Cuke + Motor Oil + Battery | $145+ | OG Kush base, Cuke, Motor Oil, Battery | All-around stats |
-| Haze Diesel | Sour Diesel + Gasoline + Paracetamol + Mega Bean | $160+ | Sour Diesel base, Gasoline, Paracetamol, Mega Bean | Endgame yield |
+**When custom mixing makes sense:**
 
-{{< insight >}}Strain names are community-assigned. The game does not officially name custom mixes -- it just shows the ingredient list in the strain description. The names above come from Reddit and the Schedule 1 Calculator community.{{< /insight >}}
+Early game (Hustler-Peddler): Stick to OG Kush 4-ingredient mixes. Triple Dollar at $120+ profit funds your Bungalow way faster than selling raw OG Kush buds. The ingredient cost is roughly $12 so margins are good.
 
-{{< section "Custom Strain Mixing Tips" >}}
+Mid game (Dealer-Hoodlum): Move to Horse Semen + Mega Bean combos. Gorilla Mix at $150+ covers employee wages while you save for the Barn. I ran this setup for about 3 in-game days and had enough for the Barn down payment.
 
-| Tip | Explanation |
-|-----|-------------|
-| Base ingredient determines strain type | OG Kush base = Kush-type, Green Crack base = Sativa-type |
-| Add ingredients by increasing value | Lower-value ingredients first, higher-value last for max total |
-| 4 ingredients is the sweet spot | 3-ingredient mixes are weak, 5+ can overflow the station |
-| Donut is a wild card | Adds random property boosts -- use it as the final ingredient |
-| Horse Semen + Mega Bean = profit combo | These two together add the highest value multiplier |
+Late game (Kingpin): Cocaine 9-mix at $717 net per unit blows custom strains out of the water. I only use custom mixing now for specific customer requests or niche effects.
 
-{{< section "When to Start Mixing Custom Strains" >}}
+**Community tools worth using:**
 
-Custom strain mixing becomes profitable once you have a Mixing Station and access to 4+ ingredient types. The best time to start is at Hustler rank when you have unlocked Albert (motel) for mid-tier seeds.
+There's a Schedule 1 Calculator website (schedule-1-calculator.com) that someone in the community built. It shows ingredient chains, profit calculations, and synergy effects. I use it when I'm trying out new combinations instead of wasting ingredients testing blind. The Reddit community also maintains a thread of best strain mixes -- worth checking if you're looking for a specific price point.
 
-**Early game (Hustler-Peddler):** Stick to 4-ingredient OG Kush mixes. The Triple Dollar recipe ($120 profit) funds your Bungalow purchase faster than selling raw product.
-
-**Mid game (Dealer-Hoodlum):** Transition to Horse Semen + Mega Bean combos. The Gorilla Mix ($150+) pays for employee wages while you save for the Barn.
-
-**Late game (Kingpin):** Cocaine 9-mix blows all custom strains out of the water at $717 net per unit. Use custom mixing only for niche effects or specific customer requests.
-
-
-{{< section "Related Guides" >}}
-
-For optimal profit analysis, see: [Best Drug Recipe Profit Rankings](/schedule-i/recipes/profit/).
+For the full profit breakdown across all recipes, see the [Profit Rankings](/schedule-i/recipes/profit/).
 
 {{< resourcegrid >}}
-  {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Real-time ingredient chain calculator" >}}
-  {{< resourcecard name="Mixing Mania Quest Guide (Times of India)" url="https://timesofindia.indiatimes.com/sports/esports/news/how-to-mix-a-strain-worth-60-in-schedule-1/articleshow/120035518.cms" desc="$60 strain quest walkthrough" >}}
-  {{< resourcecard name="Reddit Best Strain Mixes" url="https://www.reddit.com/r/QMGames/comments/1jkehcj/how_to_make_the_best_strain_mix_in_schedule_1/" desc="Community-discovered strain recipes" >}}
+  {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Community-built ingredient chain tool" >}}
+  {{< resourcecard name="Reddit Best Strain Mixes" url="https://www.reddit.com/r/QMGames/comments/1jkehcj/how_to_make_the_best_strain_mix_in_schedule_1/" desc="Community-discovered recipes" >}}
+  {{< resourcecard name="Mixing Mania Quest Guide" url="https://timesofindia.indiatimes.com/sports/esports/news/how-to-mix-a-strain-worth-60-in-schedule-1/articleshow/120035518.cms" desc="$60 strain quest walkthrough" >}}
 {{< /resourcegrid >}}

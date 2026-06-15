@@ -1,61 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Expansion on Crime Empire Guide</title><link>https://crimempire.com/schedule-i/expansion/</link><description>Recent content in Expansion on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Jun 2026 04:10:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/schedule-i/expansion/index.xml" rel="self" type="application/rss+xml"/><item><title>Map Zones and Key Locations: Complete Area Guide</title><link>https://crimempire.com/schedule-i/expansion/map-zones-guide/</link><pubDate>Tue, 09 Jun 2026 04:10:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/expansion/map-zones-guide/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Schedule 1 map has 5 main zones: Downtown, Motel Area, Industrial Zone, Docks, and Highway (Casino). Each zone has different suppliers, police density, and available properties. Downtown and Motel are safe for early game. Industrial and Docks are mid-to-late game zones. The Highway zone has the casino and is most active at night.&lt;/div&gt;
-
-&lt;h2 class="section-heading"&gt;Zone-by-Zone Breakdown&lt;/h2&gt;
-
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Zone&lt;/th&gt;
- &lt;th&gt;Police Density&lt;/th&gt;
- &lt;th&gt;Properties&lt;/th&gt;
- &lt;th&gt;Suppliers&lt;/th&gt;
- &lt;th&gt;Best Time&lt;/th&gt;
- &lt;th&gt;Risk Level&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Downtown&lt;/td&gt;
- &lt;td&gt;High (2 patrols + 1 station)&lt;/td&gt;
- &lt;td&gt;Apartment (free)&lt;/td&gt;
- &lt;td&gt;Dan Samwell (shop)&lt;/td&gt;
- &lt;td&gt;Day&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Motel/Westville&lt;/td&gt;
- &lt;td&gt;Low (1 patrol)&lt;/td&gt;
- &lt;td&gt;Bungalow ($6K)&lt;/td&gt;
- &lt;td&gt;Albert Hoover&lt;/td&gt;
- &lt;td&gt;Any&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Industrial&lt;/td&gt;
- &lt;td&gt;Medium (1 patrol)&lt;/td&gt;
- &lt;td&gt;Barn ($25K)&lt;/td&gt;
- &lt;td&gt;Shirley Watts, Fungal Phil&lt;/td&gt;
- &lt;td&gt;Day&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Docks&lt;/td&gt;
- &lt;td&gt;Medium (1 night patrol)&lt;/td&gt;
- &lt;td&gt;Docks Warehouse ($50K)&lt;/td&gt;
- &lt;td&gt;Salvador Moreno&lt;/td&gt;
- &lt;td&gt;Night (6PM-6AM)&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Highway/North&lt;/td&gt;
- &lt;td&gt;Low (1 patrol)&lt;/td&gt;
- &lt;td&gt;None&lt;/td&gt;
- &lt;td&gt;Casino, vending machines&lt;/td&gt;
- &lt;td&gt;Night&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 class="section-heading"&gt;Downtown Zone&lt;/h2&gt;
-
-&lt;p&gt;The starting area. Contains:&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expansion on Crime Empire Guide</title>
+    <link>http://localhost:1313/schedule-i/expansion/</link>
+    <description>Recent content in Expansion on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2026 04:10:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/schedule-i/expansion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map Zones and Key Locations: Complete Area Guide</title>
+      <link>http://localhost:1313/schedule-i/expansion/map-zones-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 04:10:00 +0800</pubDate>
+      <guid>http://localhost:1313/schedule-i/expansion/map-zones-guide/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Schedule 1 map has 5 main zones: Downtown, Motel Area, Industrial Zone, Docks, and Highway (Casino). Each zone has different suppliers, police density, and available properties. Downtown and Motel are safe for early game. Industrial and Docks are mid-to-late game zones. The Highway zone has the casino and is most active at night.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Zone-by-Zone Breakdown&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Zone&lt;/th&gt;&#xA;          &lt;th&gt;Police Density&lt;/th&gt;&#xA;          &lt;th&gt;Properties&lt;/th&gt;&#xA;          &lt;th&gt;Suppliers&lt;/th&gt;&#xA;          &lt;th&gt;Best Time&lt;/th&gt;&#xA;          &lt;th&gt;Risk Level&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Downtown&lt;/td&gt;&#xA;          &lt;td&gt;High (2 patrols + 1 station)&lt;/td&gt;&#xA;          &lt;td&gt;Apartment (free)&lt;/td&gt;&#xA;          &lt;td&gt;Dan Samwell (shop)&lt;/td&gt;&#xA;          &lt;td&gt;Day&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Motel/Westville&lt;/td&gt;&#xA;          &lt;td&gt;Low (1 patrol)&lt;/td&gt;&#xA;          &lt;td&gt;Bungalow ($6K)&lt;/td&gt;&#xA;          &lt;td&gt;Albert Hoover&lt;/td&gt;&#xA;          &lt;td&gt;Any&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Industrial&lt;/td&gt;&#xA;          &lt;td&gt;Medium (1 patrol)&lt;/td&gt;&#xA;          &lt;td&gt;Barn ($25K)&lt;/td&gt;&#xA;          &lt;td&gt;Shirley Watts, Fungal Phil&lt;/td&gt;&#xA;          &lt;td&gt;Day&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Docks&lt;/td&gt;&#xA;          &lt;td&gt;Medium (1 night patrol)&lt;/td&gt;&#xA;          &lt;td&gt;Docks Warehouse ($50K)&lt;/td&gt;&#xA;          &lt;td&gt;Salvador Moreno&lt;/td&gt;&#xA;          &lt;td&gt;Night (6PM-6AM)&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Highway/North&lt;/td&gt;&#xA;          &lt;td&gt;Low (1 patrol)&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;          &lt;td&gt;Casino, vending machines&lt;/td&gt;&#xA;          &lt;td&gt;Night&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Downtown Zone&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;The starting area. Contains:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

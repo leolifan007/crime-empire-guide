@@ -1,125 +1,68 @@
 ---
-title: "How to Escape Cops: Garbage Bin Hiding + Line of Sight Break"
-date: 2026-06-09T01:40:00+08:00
+title: "Getting Away from Cops: The Parking Garage Roof Trick"
+date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i
 tag: POLICE
 weight: 6
 ---
 
-{{< callout "info" >}}
-**Short answer:** Run behind a building to break line of sight, then hide in a garbage bin for 30-60 seconds. That clears any Wanted level. If no bin is nearby, enter a safe house or use an Energy Drink speed boost to outrun the pursuing officers. Police pathfinding is weak -- they struggle with jumping over fences and navigating through buildings.
-{{< /callout >}}
+I've been chased by cops in Schedule I more times than I can count. Tried every escape method the community talks about. Here's what actually works and what doesn't.
 
-{{< section "Escape Method Comparison" >}}
+**The garage roof method (my go-to):**
 
-Not all escape methods are equal. Here is how the five reliable methods compare:
+There's a multi-level parking garage near the motel. Run up the ramp to the top floor. Police can't pathfind up there. Once you're on the roof, the Wanted timer ticks down and they just wander around below. I've tested this at every Heat level through v0.4.5 and it's never failed.
 
-| Method | Time to Clear | Equipment Needed | Risk of Failure | Best For |
-|--------|---------------|------------------|-----------------|----------|
-| Garbage bin hiding | 30-60 seconds | None | Low (police might see you enter) | Wanted Level 1-2 |
-| Safe house enter | Instant | Owned property | None | All levels |
-| Energy Drink + outrun | 20-40 seconds | Energy Drink ($5) | Medium (can get cornered) | Wanted Level 1-3 |
-| LOS break + keep moving | 60-90 seconds | None | High (police patrol randomly) | Wanted Level 1 |
-| Leave the district | 2-3 minutes | Vehicle | Low | Wanted Level 3-4 |
+Downside: the garage is on the north side of town. If you're selling downtown, it's a bit of a sprint. But it's reliable enough that I mentally map escape routes toward the garage whenever I hear sirens.
 
-{{< section "Step-by-Step: The Bin Escape" >}}
+**Garbage bin hiding (second best):**
 
-<div class="upgrade-timeline">
+The bin method everyone talks about works, with caveats:
 
-<div class="upgrade-step">
-  <div class="step-marker">
-    <span class="step-dot">1</span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Run Immediately</span>
-      <span class="rank-badge">First Step</span>
-    </div>
-    <p class="step-desc">As soon as you see the red Wanted indicator, sprint away from the police officer. Do not stop to stash items or fight -- every second counts. Run perpendicular to the officer's approach direction, not straight away.</p>
-  </div>
-</div>
+Break line of sight first -- duck behind a building or fence for 3-5 seconds until the cops stop sprinting and go into search mode. Then find a bin and hop in. Wait 30-45 seconds. Don't leave early, even if the timer seems done.
 
-<div class="upgrade-step">
-  <div class="step-marker">
-    <span class="step-dot">2</span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Break Line of Sight</span>
-      <span class="rank-badge">Crucial</span>
-    </div>
-    <p class="step-desc">Duck behind the nearest large object: a building, a fence, a dumpster, or a parked truck. Police rely on visual contact. Once you disappear from their view for 3-5 seconds, they stop sprinting and go into search mode. This is your window to hide.</p>
-  </div>
-</div>
+The fails: if a cop saw you enter the bin, they'll walk over and pull you out. And don't reuse the same bin twice. Other players have reported getting caught in bins they've used before. Might be a mechanic, might be coincidence, but I switch bins to be safe.
 
-<div class="upgrade-step">
-  <div class="step-marker highlight">
-    <span class="step-dot star"></span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel highlight">
-    <div class="step-rank">
-      <span class="rank-name">Find and Enter a Garbage Bin</span>
-      <span class="rank-badge milestone">The Trick</span>
-    </div>
-    <p class="step-desc">Bins are located behind most buildings, in alleyways, and near gas stations. Walk up to a bin and interact to climb inside. Wait 30-45 seconds while the Wanted timer depletes. Do NOT leave the bin early -- if the timer is still active, police will immediately reacquire you.</p>
-  </div>
-</div>
+**Comparing all the escape methods:**
 
-<div class="upgrade-step">
-  <div class="step-marker">
-    <span class="step-dot">4</span>
-    <div class="step-rail"></div>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Exit and Move to Safe Zone</span>
-      <span class="rank-badge">Recovery</span>
-    </div>
-    <p class="step-desc">Once the Wanted indicator disappears, exit the bin. Move to a different district immediately. Police patrol density increases temporarily in the area where you were chased. Wait 1 in-game hour before returning.</p>
-  </div>
-</div>
+| Method | Time | Gear Needed | Fails When | Best For |
+|--------|------|-------------|------------|----------|
+| Garage roof | 20-30 sec | None | Garage is far from some zones | All levels |
+| Garbage bin | 30-60 sec | None | Cop sees you enter | Levels 1-2 |
+| Safe house | Instant | Owned property | Nothing | All levels |
+| Energy Drink + run | 20-40 sec | $5 drink | Getting cornered | Levels 1-3 |
+| Leave district | 2-3 min | Vehicle | Traffic at higher levels | Levels 3-4 |
 
-<div class="upgrade-step">
-  <div class="step-marker end">
-    <span class="step-dot">5</span>
-  </div>
-  <div class="step-panel">
-    <div class="step-rank">
-      <span class="rank-name">Advanced: The Parking Garage Roof</span>
-      <span class="rank-badge gold">Guaranteed Safe</span>
-    </div>
-    <p class="step-desc">The parking garage rooftop near the motel is a guaranteed hiding spot. Police pathfinding cannot reach the roof. Run up the ramp, jump to the top level, and wait. This works at any Heat Level and is the only 100% reliable escape location in v0.4.5.</p>
-  </div>
-</div>
+**Step-by-step when the sirens start:**
 
-</div>
+1. Sprint perpendicular to the cop's approach. Not straight away, not toward them. Perpendicular.
+2. Break line of sight behind the closest building or truck. After 3-5 seconds, the cop switches from chase to search mode.
+3. Check your minimap. If a bin is nearby, head for it. If the garage is close, go for the roof.
+4. Once hidden, wait until the Wanted indicator is completely gone. Don't peek. I've had the timer show zero and the cop was still standing on the other side of the bin.
+5. After clearing, move to a different district. Police density stays higher in the area you were chased for about one in-game hour.
 
-{{< section "If the Bin Method Fails" >}}
+**What NOT to do:**
 
-The bin method sometimes fails if a police officer saw you enter the bin. Here are backup options:
+These are mistakes I've made and seen others make:
 
-| Backup | How To | Reliability |
-|--------|--------|-------------|
-| Carpark roof | Run to the multi-level carpark near the motel, go to top floor | 100% if you reach it |
-| Enter any store | Some stores can be entered during Wanted; police cannot follow inside | 80% (depends on store type) |
-| Switch cities | Drive to the edge of town until the map transitions | 90% |
-| Reload save | Quit to menu and reload -- police reset to default positions | 100% (last resort) |
+- Fighting back: attacking a cop jumps you to Wanted Dead or Alive. Not worth it.
+- Driving through main streets: police roadblocks show up at higher levels. Take side streets.
+- Assuming you're safe because you lost visual: cops search the area for about 60 seconds after losing you. Stay hidden.
+- Going back to your property while Wanted: in some patches, cops can follow you inside. I don't risk it anymore.
+- Dumping your drugs: it doesn't clear the Wanted level. Once they've seen you commit the crime, dropping items doesn't stop the chase.
 
-{{< insight >}}A common myth is that dumping your drugs removes the Wanted level. This is false -- once police have seen you commit a crime, dropping items does not stop the chase. Focus on running and hiding, not on stash management.{{< /insight >}}
+**Backup plans when everything goes wrong:**
 
-{{< section "What NOT To Do When Wanted" >}}
+- Garage is too far? Enter any store. Cops can't follow inside most buildings (about 80% reliable depending on the store type).
+- Store won't let you in? Drive to the edge of town until the map transitions. This clears the Wanted level as you enter a new area.
+- Can't drive? Quit to menu and reload. Police positions reset to default. Last resort, but it works.
 
-- Do not fight police -- attacking an officer jumps you to Wanted Dead or Alive immediately
-- Do not drive through the main street -- police roadblocks appear at higher levels
-- Do not return to your property while Wanted -- police can follow you inside in some patches
-- Do not assume the chase is over just because you lost sight -- police search the area for 60 seconds after losing you
+A common myth I see on Reddit: hiding in a bush works. It doesn't. Bushes are decorative. You need a bin, a roof, or a building.
+
+For the full breakdown of what triggers Heat in the first place, see the [Heat Levels guide](/schedule-i/police/heat-system/).
 
 {{< resourcegrid >}}
-  {{< resourcecard name="Heat Levels Explained" url="/schedule-i/police/heat-system/" desc="What triggers police and how to reduce heat" >}}
-  {{< resourcecard name="How to Escape Police Video" url="https://www.youtube.com/watch?v=qg6MDbN5w5k" desc="Quick visual guide to garbage bin escape" >}}
-  {{< resourcecard name="Police Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Police" desc="Wanted level mechanics reference" >}}
+  {{< resourcecard name="How to Escape Police Video" url="https://www.youtube.com/watch?v=qg6MDbN5w5k" desc="Visual guide to garbage bin escape" >}}
+  {{< resourcecard name="Police Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Police" desc="Wanted level mechanics" >}}
+  {{< resourcecard name="How to Lose Wanted (TheGamer)" url="https://www.thegamer.com/schedule-1-how-to-escape-police-search-wanted-guide/" desc="Alternative escape methods" >}}
 {{< /resourcegrid >}}

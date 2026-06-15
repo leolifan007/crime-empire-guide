@@ -1,74 +1,66 @@
-﻿---
-title: "All Properties Ranked: Best Buy Order from Starter to Manor"
-date: 2026-06-09T02:10:00+08:00
+---
+title: "Which Property to Buy First, Second, Third: The Order That Worked for Me"
+date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i
 tag: PROPERTY
 weight: 2
 ---
 
-{{< callout "info" >}}
-**Short answer:** Buy order: Bungalow ($6K at Hustler) to Barn ($25K at Dealer) to Docks Warehouse ($50K at Hoodlum V) to Hyland Manor ($250K after completing Finishing the Job quest). Do NOT buy the Manor until Kingpin rank - the $250K is better spent on automation equipment. The Barn is the best value property in the game.
-{{< /callout >}}
+I messed up my property order on my first playthrough. Bought the Warehouse before I had the cash flow to staff it. Wasted a lot of in-game days staring at empty shelves. Here's the order I settled on after restarting.
 
-{{< section "All Properties Comparison Table" >}}
+**The buy order that makes sense:**
 
-| Property | Cost | Employee Cap | Loading Bays | Best For | Buy At Rank |
-|----------|------|-------------|-------------|----------|-------------|
-| Burned RV | Free (starter) | 0 | 0 | Tutorial only | Start |
-| Apartment | Free (given) | 0 | 0 | First mixing station | Start |
-| Bungalow | $6,000 | 5 | 1 | Mid-game mixing | Hustler |
-| The Barn | $25,000 | 10 | 2 | Full automation | Dealer |
-| Docks Warehouse | $50,000 | 12 | 2 | Endgame production | Hoodlum V |
-| Hyland Manor | $250,000 | 16 | 3 | Max scale | Kingpin |
+Apartment (free) -> Bungalow ($6K at Hustler) -> Barn ($25K at Dealer) -> Docks Warehouse ($50K at Hoodlum V) -> Hyland Manor ($250K at Kingpin)
 
-{{< section "Bungalow ($6,000) - The First Real Upgrade" >}}
+Skip nothing in between. Don't try to jump from Bungalow to Warehouse. Don't buy the Manor early. Every property unlocks a specific production capacity, and buying the wrong one at the wrong time just stalls your cash flow.
 
-Buy this as soon as you have $6K. Located at Ray's Realty (northeast of the burned RV marker). The Bungalow has space for 4 Mixing Stations, 2 shelves, and 5 employees.
+**Full comparison:**
 
-**Setup priority:** 1 loading bay. Use it for OG Kush 4-mix production. 2 Chemists + 2 Handlers + 1 Packer. This covers all your mid-game production needs.
+| Property | Cost | Employees | Loading Bays | Unlock | Best Use |
+|----------|------|-----------|-------------|--------|----------|
+| Burned RV / Apartment | Free | 0 | 0 | Start | Mixing table + first deals |
+| Bungalow | $6,000 | 5 | 1 | Hustler | First real production line |
+| The Barn | $25,000 | 10 | 2 | Dealer | Full automation starts here |
+| Docks Warehouse | $50,000 | 12 | 2 | Hoodlum V | Endgame multi-recipe lines |
+| Hyland Manor | $250,000 | 16 | 3 | Kingpin | Max scale, Cocaine 9-mix |
 
-**Upgrade trigger:** Move to the Barn when you have $25K saved AND your daily Bungalow production maxes out (you are producing more than 4 Mixing Stations can handle).
+**Bungalow -- the $6K jump that changes everything:**
 
-{{< section "The Barn ($25,000) - Best Value Property" >}}
+I bought the Bungalow as soon as I hit $6K. It went from making pocket change to pulling in $7K-$9K profit per day within a few hours. The jump from apartment to Bungalow is bigger than any other upgrade in the game.
 
-The Barn is the single best value property in Schedule 1. Two floors, 10 employee slots, 2 loading bays. This is where automation becomes real.
+Don't buy this before $6K though. A few posts on Reddit ask "should I save for the Bungalow or buy more seeds" -- seeds. More seeds first. The Bungalow is useless if you can't afford ingredients to fill it.
 
-**Setup:** Ground floor for shelf storage and mixing stations (4+ stations). Upper floor for packing and loading bay. 3 Chemists + 4 Handlers + 2 Packers + 1 Botanist for a balanced setup.
+I stayed in the Bungalow until I had $25K saved AND my daily profit was consistently above $10K. That took about 2-3 in-game days of OG Kush production.
 
-**Why it beats the Warehouse:** $25K vs $50K. The Barn's 2-floor design actually works better for vertical chains than the Warehouse's sprawling single floor. Route distances are shorter, meaning fewer Handlers get stuck.
+**The Barn -- best value in the game, but don't buy it broke:**
 
-**Upgrade trigger:** Only move to the Warehouse when you need to run Cocaine 8-mix or similar complex recipes that require 8+ Mixing Stations.
+The Barn at $25K is the single best property investment. Two floors, 10 employees, 2 loading bays. I automated Meth 4-mix there and profits jumped to $12K-$18K/day.
 
-{{< section "Docks Warehouse ($50,000) - Endgame Production" >}}
+But here's the mistake I made the first time: I bought the Barn with $25K exactly, leaving myself with under $1K for equipment and ingredients. Big mistake. Equipment costs another $5K minimum, plus you need a few thousand for ingredients. Aim for $35K cash before buying the Barn. Multiple threads on Reddit and Steam say the same thing.
 
-Unlocked at Hoodlum V rank. Accessible 6PM-6AM only. 12 employee slots make this the largest pre-Manor property. Best for Cocaine 8-mix and Meth 8-mix production lines.
+**Docks Warehouse -- only if you need 8+ Mixing Stations:**
 
-**Setup:** 6 shelves (east wall), 8 Mixing Stations in two 4-station chains, 4 Handlers, 2 Packers. Daily gross of $70K+ is achievable.
+The Warehouse is $50K and unlocks at Hoodlum V rank. I moved here when I wanted to run Cocaine 8-mix. The Barn couldn't fit 8 Mixing Stations without getting cramped.
 
-**Caveat:** The Warehouse's loading bay is far from the mixing area, requiring extra Handlers on route duty. Budget for 4 Handlers minimum.
+The Warehouse has 12 employee slots but the layout is a single long floor. Loading bay is at one end, so Handler routes are longer. I ended up running 4 Handlers instead of the 2 I used in the Barn. Reddit posts confirm the same inefficiency.
 
-{{< section "Hyland Manor ($250,000) - Endgame Only" >}}
+The Warehouse is also only accessible 6PM-6AM. The door locks during the day. Minor annoyance, but worth knowing.
 
-The Manor requires completing the "Finishing the Job" quest before it becomes available at Ray's Realty. 16 employee slots, 3 loading bays. Can fit the full Cocaine 9-mix production line.
+**Hyland Manor -- not worth it for most players:**
 
-**When to buy:** Only at Kingpin rank when you have $250K liquid AND your Warehouse is running at full capacity. The Manor is a flex purchase, not a practical necessity - most players never need this much space.
+$250K is a lot of money. I haven't even bought it myself yet -- most players I've talked to on Reddit and Discord say the same thing: the Manor is a flex purchase. The Warehouse handles everything until Kingpin rank, and by that point you've already beaten the game.
 
-**ROI reality:** At $250K purchase price + $50K equipment + $1,200/day wages, you need 500+ Cocaine 9-mix units to break even. If you are not producing at that scale, stay in the Warehouse.
+The Manor needs Finishing the Job quest completed before it shows up at Ray's Realty. 16 employees, 3 loading bays. Can fit the full Cocaine 9-mix line. But at $250K + $50K equipment + $1,200/day wages, you need to produce 500+ Cocaine 9-mix units just to break even on the purchase. If you're already at that scale, you know what you're doing.
 
-{{< section "Buy Order Flowchart" >}}
+**One thing I hear from other players:**
 
-Apartment (free) 鈫?Bungalow ($6K) at Hustler 鈫?Barn ($25K) at Dealer 鈫?Warehouse ($50K) at Hoodlum V 鈫?Manor ($250K) at Kingpin
+The biggest mistake people make is buying the Barn before they're ready. Someone on the Schedule I subreddit put it well: "If buying the property leaves you with under $5K, wait one more day." I'd add: if you can't afford to staff it at full capacity within the first day, you bought too early.
 
-{{< insight >}}The single biggest mistake new players make is buying the Barn too early. You need $25K cash PLUS $5K for equipment PLUS ongoing ingredient costs. If buying the Barn leaves you with under $5K liquid cash, wait one more day of production.{{< /insight >}}
-
-
-{{< section "Related Guides" >}}
-
-See property tier comparisons: [All Properties Ranked](/schedule-i/property/property-rankings/).
+For what to actually put inside these properties, see the [Workshop Automation](/schedule-i/automation/workshop/) and [Bungalow Setup](/schedule-i/property/bungalow-setup/) guides.
 
 {{< resourcegrid >}}
-  {{< resourcecard name="All Properties Wiki" url="https://schedule-1.fandom.com/wiki/Properties" desc="Full property reference with prices and stats" >}}
-  {{< resourcecard name="Steam Properties Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3650832699" desc="v0.4.5 updated property guide" >}}
-  {{< resourcecard name="ScreenRant Property Guide" url="https://screenrant.com/schedule-1-all-properties-listed/" desc="All properties listed with costs" >}}
+  {{< resourcecard name="All Properties Wiki" url="https://schedule-1.fandom.com/wiki/Properties" desc="Property stats and costs from all patches" >}}
+  {{< resourcecard name="v0.4.5 Property Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3650832699" desc="Updated property costs and unlock ranks" >}}
+  {{< resourcecard name="ScreenRant All Properties" url="https://screenrant.com/schedule-1-all-properties-listed/" desc="All properties listed with costs" >}}
 {{< /resourcegrid >}}

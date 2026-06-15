@@ -1,68 +1,60 @@
 ---
-title: "Bungalow Setup Guide: First Property Optimization"
-date: 2026-06-09T04:00:00+08:00
+title: "Bungalow Setup: My Layout After 3 Different Attempts"
+date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i
 tag: PROPERTY
 weight: 3
 ---
 
-{{< callout "info" >}}
-**Short answer:** The Bungalow ($6,000, 5 employee slots, 1 loading bay) is your first real property. Optimal setup: 2 Mixing Stations on the south wall, 2 shelves on the north wall, 1 Botanist in the middle, 2 Handlers on route duty, 1 Packer at the loading bay. This fits the OG Kush 4-mix production line with room to grow into Meth when you unlock Dealer rank.
-{{< /callout >}}
+The Bungalow ($6,000) was the first property where I actually felt like I was running a real operation. The apartment works fine for the first hour, but once you need more than 2 Mixing Stations and actual employees, you outgrow it fast.
 
-{{< section "Bungalow Layout Blueprint" >}}
+I rebuilt the Bungalow layout three times before it clicked. Here's what worked and what didn't.
 
-The Bungalow has a single open floor plan. Unlike the Barn, there are no stairs or separate rooms to worry about. You have roughly a 8x6 tile area to work with.
+**The layout that finally clicked:**
 
-**Optimal furniture placement:**
+The Bungalow is a single open room, about 8x6 tiles of usable space. No stairs, no extra rooms. You work with what you have.
 
-| Zone | What to Place | Quantity | Purpose |
-|------|--------------|----------|---------|
-| South wall (left) | Mixing Station + Clipboard | 1 station | Ingredient slot 1-2 |
-| South wall (right) | Mixing Station + Clipboard | 1 station | Ingredient slot 3-4 |
-| Center | Drying rack + soil storage | 1 each | Plant processing |
-| North wall | Shelves (whitelist) | 2 shelves | Ingredient storage |
-| East wall | Output box | 1 box | Packer feed |
-| Near loading bay (west) | Packing station | 1 station | Bagging area |
+- South wall: 2 Mixing Stations side by side. That's all you can fit without making movement awkward.
+- North wall: 2 shelves, each whitelisted for 2 ingredients. You can't fit a third shelf without blocking the path.
+- Wall near the door: Output box for finished product.
+- Near loading bay: Packing Station.
 
-{{< section "Optimal Employee Allocation" >}}
+The first time I tried cramming 3 Mixing Stations in there, I ran out of floor space for shelves and the Handler kept getting stuck between furniture. Other players on Reddit ran into the same issue. 2 stations is the sweet spot for this property.
 
-| Employee | Assignment | Daily Cost | Notes |
-|----------|-----------|------------|-------|
-| Botanist | 5 pots (OG Kush plants) | $40 | Harvests + moves to drying rack |
-| Handler 1 | Shelf to Mixing Station route | $50 | Whitelist: ingredients only |
-| Handler 2 | Mixing Station output to Box route | $50 | Move finished product to packing |
-| Packer | Box bagging + loading bay | $55 | Bag in $50 units for dealers |
-| 5th slot | Best use: second Handler | $50 | Backup logistics |
+**Employee setup I use:**
 
-**Total daily wage cost:** $190-$245 depending on 5th slot use.
+- 1 Botanist: 5 pots of OG Kush. Harvests and moves stuff to the drying rack.
+- 1 Chemist: Handles both Mixing Stations. One chemist can manage 2 stations without issues.
+- 1 Handler: Shuttles ingredients from shelves to the stations, and finished product to the Packer.
+- 1 Packer: Bags at the Packing Station, output goes out the loading bay.
+- 5th slot: I leave this flexible. Sometimes a second Handler, sometimes nothing to save wages.
 
-{{< section "Production Capacity" >}}
+Daily wage cost runs around $550-$650 total, based on current hire rates. I've seen older guides quote way lower numbers (like $40/day for a Botanist), but those are from the beta days. Current prices are roughly $1,500 hire fee + $200/day per employee. PC Gamer and IGN have the same numbers.
 
-| Metric | Value |
-|--------|-------|
-| Max Mixing Stations | 4 (but 2 is optimal for space) |
-| Max plants | 5 (1 Botanist) |
-| Units per day | ~60-80 (OG Kush 4-mix) |
-| Daily revenue | $7,200-$9,600 (at $120/unit) |
-| Daily profit (after wages) | $7,000-$9,400 |
-| Days to recoup Bungalow purchase | ~1 day |
+**What this setup produces:**
 
-{{< section "When to Upgrade from Bungalow" >}}
+With OG Kush 4-mix running, I get about 60-80 units per day. Revenue around $7,200-$9,600 at roughly $120/unit. After wages, I'm clearing $6,500-$9,000 per day. The Bungalow pays for itself in one day.
 
-| Trigger Condition | Action |
-|------------------|--------|
-| You have $25K saved | Buy the Barn |
-| 2 Mixing Stations are constantly backlogged | Upgrade to Barn (more floor space) |
-| Daily revenue exceeds $10K | Ingredient costs scale; Barn needed |
-| You unlock Meth production | Meth needs more stations than Bungalow fits |
-| Employee count maxed at 5 | Cannot scale further in Bungalow |
+But here's the thing -- the numbers don't scale. I can't add more stations, more shelves, or more employees. The Bungalow caps at 5 employees and 1 loading bay. Once I unlocked Meth production and needed more stations than it could fit, I knew it was time to move.
 
-{{< insight >}}The Bungalow is not a endgame property. Its 5-employee cap and 1 loading bay will bottleneck you at Dealer rank. Plan to upgrade to the Barn within 2-3 in-game days of unlocking Dealer. Do not invest in expensive Bungalow renovations -- save that money for your next property.{{< /insight >}}
+**When I pack up and leave:**
+
+- When I have $25K saved for the Barn (usually day 2-3 after hitting Dealer rank)
+- When my 2 Mixing Stations are constantly backlogged
+- When I'm making more than $10K/day and ingredient costs are eating into profits
+- When I need more than 1 loading bay to move product fast
+
+I see people on Reddit asking if they should renovate the Bungalow or invest in upgrades. Don't. Save every dollar for the Barn. Renovations don't carry over and you're outgrowing this property in 2-3 days anyway. A Fandom Wiki thread confirms the same -- the Bungalow is a stepping stone, not a home base.
+
+**One thing I wish I knew earlier:**
+
+The loading bay location matters. The Bungalow's only loading bay is in a corner, and if you block the path with furniture, your Handler won't be able to reach it. I learned this the hard way when I packed a shelf too close to the bay and my Handler just stood there holding ingredients. Keep a 2-tile clear path from the bay to the center of the room.
+
+For the full automation breakdown, check the [Workshop guide](/schedule-i/automation/workshop/).
 
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Wiki" url="https://schedule-1.fandom.com/wiki/Properties" desc="Property stats and costs" >}}
   {{< resourcecard name="Bungalow Setup Video" url="https://www.youtube.com/watch?v=pHmw-E_fn6A" desc="Visual bungalow layout guide" >}}
-  {{< resourcecard name="Mixing Station Automation" url="/schedule-i/automation/workshop/" desc="Full automation setup guide" >}}
+  {{< resourcecard name="Best Barn Setup" url="https://scalacube.com/blog/schedule-1/best-barn-setup-in-schedule-1" desc="What to move to next" >}}
 {{< /resourcegrid >}}

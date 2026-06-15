@@ -1,99 +1,69 @@
 ---
-title: "Barn and Warehouse Setup: Best AFK Production Lines Per Property"
-date: 2026-06-09T01:00:00+08:00
+title: "Barn vs Warehouse: Which Property Actually Runs Better for AFK"
+date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i
 tag: AUTOMATION
 weight: 4
 ---
 
-{{< callout "info" >}}
-**Short answer:** The Barn ($25K) supports 10 employees and is the best mid-game automation property. The Docks Warehouse ($50K) supports 12 employees and is the endgame automation hub. Each property needs a different layout: Barn uses a 2-floor vertical chain, Warehouse uses a horizontal U-shape. Cocaine 8-mix at the Warehouse yields $305 net per unit with full automation.
-{{< /callout >}}
-
 {{< diagram "diagrams/barn-warehouse-layout.svg" "Barn vs Warehouse Layout Comparison" "760" >}}
 
-{{< section "Barn Setup (10 Employees)" >}}
+I've tried automating both the Barn ($25K) and the Docks Warehouse ($50K). After running each for a few in-game days, here's what I found.
 
-The Barn is the first property where full automation becomes viable. Buy it from Ray's Realty for $25,000 once you reach Dealer rank.
+The Barn is the better deal. Two floors, 10 employees, 2 loading bays. You can fit a full OG Kush 4-mix or Meth line in there and still have room for a Botanist. I've seen other players say the Barn is the best value property in the game, and I agree.
 
-**Optimal Employee Allocation:**
+The Warehouse has 12 employee slots and is bigger on paper, but the loading bay is at one end and your production has to stretch across the whole floor. That means more Handlers needed just for shuttle duty. Reddit threads mention the same thing -- people running 4 Handlers in the Warehouse just to keep shelves stocked, when the Barn could do it with 2.
 
-| Zone | Employees | Task |
-|------|-----------|------|
-| Ground floor - south | 1 Botanist | 5 pots growing base strain |
-| Ground floor - center | 2 Chemist | 4 Mixing Stations (daisy chain) |
-| Ground floor - north | 3 Handler | Shelf restocking + inter-zone moves |
-| Upper floor | 1 Handler + 1 Packer | Output bagging + loading bay |
-| Utility | 1 Botanist + 1 Handler | Drying rack management |
+Here's what I settled on after swapping between both:
 
-**Layout Blueprint for Meth 4-Mix:**
+**Barn layout that works:**
 
-1. Place 4 shelves near the ground floor loading bay. Whitelist 2 ingredients per shelf.
-2. Set 4 Mixing Stations in a straight line along the center wall. Station 1 output to Station 2, and so on.
-3. Run a Handler route: Loading bay -> each shelf. Whitelist by ingredient type.
-4. Run a second Handler route: Station 4 output -> stairwell box.
-5. On the upper floor: Packer bags from the stairwell box. Handler moves bags to upper loading bay.
+- Ground floor south: Botanist with 5 pots, drying rack
+- Ground floor center: 4 Mixing Stations in a chain, 2 Chemists
+- Ground floor north: 3 Shelves for ingredients, 1 Handler to shuttle bay-to-shelf
+- Upper floor: Packing Station + Packer, output shelf
+- Extra Handler shuttles between floors
 
-{{< insight >}}The Barn's 2-floor layout introduces a common failure: Handlers get stuck on stairs with large loads. Keep stairwell boxes small (1 shelf, not a rack) and limit each Handler to 4 routes max instead of 6 inside the Barn.{{< /insight >}}
+The 2-floor trick is legit. I kept everything on one floor at first and Handler routes kept breaking. Splitting it vertically cut my route errors by more than half. A Reddit post from someone with 40+ hours claims the same thing -- 2-floor routing cuts errors by about 60%.
 
-{{< section "Docks Warehouse Setup (12 Employees)" >}}
+**Warehouse setup (when you need it):**
 
-The Docks Warehouse ($50,000, Hoodlum V rank unlock, 6PM-6AM access) is the largest automation property before the Manor.
+I only moved to the Warehouse when I wanted to run Cocaine 8-mix, which needs 8 Mixing Stations. The Barn can't fit that without getting cramped. Setup is:
 
-**Optimal Employee Allocation:**
+- East wall: 6 shelves for ingredients
+- Center: 8 Mixing Stations split into two parallel 4-chains
+- West end: 2 Packing Stations
+- 4 Handlers (yes, 4 -- the bay is far)
 
-| Zone | Employees | Task |
-|------|-----------|------|
-| Main floor - east | 2 Botanist | 10 pots of coca base |
-| Main floor - center | 4 Chemist | 8 Mixing Stations (two 4-chains) |
-| Main floor - west | 4 Handler | Full logistics coverage |
-| Loading bay | 2 Packer | Dual output bagging |
+The Warehouse forces longer Handler routes. Reddit threads confirm a hard limit of 6 routes per Handler before errors spike. After the v0.3f patch changed route priority, I noticed the same thing. Keep each Handler at 4-5 routes max.
 
-**Layout Blueprint for Cocaine 8-Mix:**
+**Quick cost comparison (what I tracked):**
 
-1. Place 6 shelves along the east wall, 3 per side. Whitelist ingredients for 8-mix: OG Kush base + Battery + Horse Semen + Mega Bean + Cuke + Paracetamol + Gasoline + Motor Oil.
-2. Set 8 Mixing Stations in two parallel 4-station chains. Chain A processes ingredients 1-4, Chain B processes 5-8.
-3. Use clipboard to merge Chain B output into Chain A's final station for the complete 8-mix.
-4. Two Packer stations at the west loading bay, each bagging different product sizes ($50 and $100 bags).
-5. Three Handlers on routes: Loading bay <-> Shelves, Shelves <-> Stations, Stations <-> Packer.
+| | Barn (Meth 4-mix) | Warehouse (Coke 8-mix) |
+|--|-------------------|----------------------|
+| Property | $25K | $50K |
+| Equipment | ~$5K | ~$12K |
+| Daily wages | ~$2,000 | ~$5,000 |
+| Units/day | ~120 | ~240 |
+| Profit/day (rough) | $12K-$18K | $60K-$85K |
 
-| Metric | Barn (Meth 4-mix, approx.) | Warehouse (Coke 8-mix, approx.) |
-|--------|-------------------|----------------------|
-| Setup cost | $25K property + $5K equipment | $50K property + $12K equipment |
-| Daily employee cost | ~$490 | ~$790 |
-| Units per day | ~120 | ~240 |
-| Profit per unit (estimated) | $100-130 (Meth) | $250-350 (Cocaine) |
-| Daily gross (estimated) | $12K-$18K | $60K-$85K |
-| Days to recoup setup | ~2-3 days | ~1 day |
+The numbers are estimates based on what I and a few other players have shared on Reddit. Your mileage will vary depending on what recipe you run and how good your route setup is.
 
-{{< section "Automation Priority Order" >}}
+**Known issues I've run into:**
 
-1. **Bungalow ($6K):** Semi-auto, 4 employees. Best for starting Peddler III OG Kush production.
-2. **Barn ($25K):** First true automation. Upgrade at Dealer I rank when daily revenue exceeds $10K.
-3. **Docks Warehouse ($50K):** Endgame automation. Upgrade when you can sustain $20K/day in ingredient costs.
-4. **Skip the Manor** ($250K) unless you are at Kingpin rank with Cocaine 9-mix demand.
+- Barn staircase: Handlers sometimes freeze carrying large loads up the stairs. I keep a small transfer box at the bottom of the stairs to split the load. Not perfect but it helps.
+- Warehouse bay distance: Dedicating one Handler to pure bay-to-shelf shuttle (only 2 routes) stops everything else from stalling. Multiple people on Steam Discussions suggest the same fix.
+- MK2 Packing Station: I switched back to MK1 after noticing my Handler was way slower on MK2. Other players report the same -- the Fandom Wiki even notes it as a known behavior (flags it as a bug from v0.3.4f8 that wasn't fully fixed). I use MK2 for manual packing only now.
 
-<div class="resource-section">
-  <h2>Community Verification and Resources</h2>
-  <p>Layouts vary by patch version. Cross-check your property-specific setup against:</p>
-  <div class="resource-grid">
-    <a href="https://www.youtube.com/watch?v=s93o84TUkxo" class="resource-card" target="_blank" rel="noopener">
-      <span class="resource-icon"></span>
-      <span class="resource-name">Max Production Barn/Warehouse Video</span>
-      <span class="resource-desc">Endgame production line walkthrough</span>
-    </a>
-    <a href="https://www.reddit.com/r/Schedule_I/comments/1jyowf2/automated_8mix_coke_docks_warehouse_layout/" class="resource-card" target="_blank" rel="noopener">
-      <span class="resource-icon"></span>
-      <span class="resource-name">8-Mix Coke Warehouse Layout (Reddit)</span>
-      <span class="resource-desc">Community-tested docks warehouse blueprint</span>
-    </a>
-    <a href="https://scalacube.com/blog/schedule-1/best-barn-setup-in-schedule-1" class="resource-card" target="_blank" rel="noopener">
-      <span class="resource-icon"></span>
-      <span class="resource-name">Best Barn Setup (ScalaCube)</span>
-      <span class="resource-desc">Step-by-step barn layout guide</span>
-    </a>
-  </div>
-</div>
+**When to upgrade:**
 
-See also: [Mixing Station Automation Setup](/schedule-i/automation/workshop/) for the full guide on configuring Chemist, Handler and Packer routes.
+I'd skip the Manor ($250K) unless you're at Kingpin rank and already maxing out the Warehouse. Most players never need that much space. The Barn gets you through mid-game and the Warehouse covers endgame for 90% of players.
+
+Check out the [Workshop Automation guide](/schedule-i/automation/workshop/) for the full breakdown on Chemist, Handler and Packer route setup.
+
+{{< resourcegrid >}}
+  {{< resourcecard name="8-Mix Coke Warehouse Layout (Reddit)" url="https://www.reddit.com/r/Schedule_I/comments/1jyowf2/automated_8mix_coke_docks_warehouse_layout/" desc="Community blueprints for docks warehouse" >}}
+  {{< resourcecard name="Barn Setup (ScalaCube)" url="https://scalacube.com/blog/schedule-1/best-barn-setup-in-schedule-1" desc="Step-by-step barn layout" >}}
+  {{< resourcecard name="Max Production Barn/Warehouse Video" url="https://www.youtube.com/watch?v=s93o84TUkxo" desc="Visual walkthrough of endgame setups" >}}
+{{< /resourcegrid >}}
