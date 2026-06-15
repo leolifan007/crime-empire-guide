@@ -1,5 +1,21 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-{{ partialCached "head/css.html" . }}
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+{{- with .Description -}}
+<meta name="description" content="{{ . }}">
+{{- else -}}
+  {{- if .IsHome -}}
+<meta name="description" content="{{ site.Params.description }}">
+  {{- else -}}
+<meta name="description" content="{{ .Summary | plainify | truncate 160 }}">
+  {{- end -}}
+{{- end -}}
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ partialCached "head/css.html" . }}
+
 {{ partialCached "head/js.html" . }}

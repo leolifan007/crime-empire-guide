@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
-  <rect width="60" height="60" rx="6" fill="#1a2e1a"/>
-  <rect x="4" y="4" width="52" height="52" rx="4" fill="none" stroke="#44cc88" stroke-width="1.5"/>
-  <path d="M30 12 L38 26 L30 22 L22 26 Z" fill="#44cc88" opacity="0.5"/>
-  <path d="M18 30 Q30 22 42 30" fill="none" stroke="#66dd88" stroke-width="1.5"/>
-  <path d="M22 38 L30 30 L38 38" fill="none" stroke="#44cc88" stroke-width="1.5"/>
-  <text x="30" y="54" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="5">Weed</text>
-</svg>
