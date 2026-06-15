@@ -1,26 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Automation on Crime Empire Guide</title>
-    <link>http://localhost:1313/schedule-i/automation/</link>
-    <description>Recent content in Automation on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:15:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/schedule-i/automation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Workshop Automation: 3 Proven Configurations Tested</title>
-      <link>http://localhost:1313/schedule-i/automation/workshop/</link>
-      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
-      <guid>http://localhost:1313/schedule-i/automation/workshop/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The community agrees 1 Chemist handles 2 Mixing Stations, and MK1 Packaging Stations run 2x faster than MK2 when staffed. Below are 3 tested production line configurations for early, mid, and late game, with real cost breakdowns and known bottleneck fixes from 100+ hours of community testing.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/images/diagrams/automation-flow.svg&#34; alt=&#34;Automation Employee Flow Diagram&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;760&#34;&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Three Tested Production Configurations&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;Each configuration below was verified against community reports (Reddit, Steam Discussions, Fandom Wiki). Costs reflect v0.4+ patch pricing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Barn and Warehouse Setup: Best AFK Production Lines Per Property</title>
-      <link>http://localhost:1313/schedule-i/automation/barn-and-warehouse/</link>
-      <pubDate>Tue, 09 Jun 2026 01:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/schedule-i/automation/barn-and-warehouse/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Barn ($25K) supports 10 employees and is the best mid-game automation property. The Docks Warehouse ($50K) supports 12 employees and is the endgame automation hub. Each property needs a different layout: Barn uses a 2-floor vertical chain, Warehouse uses a horizontal U-shape. Cocaine 8-mix at the Warehouse yields $305 net per unit with full automation.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/images/diagrams/barn-warehouse-layout.svg&#34; alt=&#34;Barn vs Warehouse Layout Comparison&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;760&#34;&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Barn Setup (10 Employees)&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;The Barn is the first property where full automation becomes viable. Buy it from Ray&#39;s Realty for $25,000 once you reach Dealer rank.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automation on Crime Empire Guide</title><link>https://crimempire.com/schedule-i/automation/</link><description>Recent content in Automation on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Jun 2026 12:15:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/schedule-i/automation/index.xml" rel="self" type="application/rss+xml"/><item><title>Workshop Automation: 3 Proven Configurations Tested</title><link>https://crimempire.com/schedule-i/automation/workshop/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/automation/workshop/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The community agrees 1 Chemist handles 2 Mixing Stations, and MK1 Packaging Stations run 2x faster than MK2 when staffed. Below are 3 tested production line configurations for early, mid, and late game, with real cost breakdowns and known bottleneck fixes from 100+ hours of community testing.&lt;/div&gt;
+
+&lt;img src="https://crimempire.com/images/diagrams/automation-flow.svg" alt="Automation Employee Flow Diagram" class="schema-diagram" loading="lazy" width="760"&gt;
+
+&lt;h2 class="section-heading"&gt;Three Tested Production Configurations&lt;/h2&gt;
+
+&lt;p&gt;Each configuration below was verified against community reports (Reddit, Steam Discussions, Fandom Wiki). Costs reflect v0.4+ patch pricing.&lt;/p&gt;</description></item><item><title>Barn vs Warehouse: Which Property Actually Runs Better for AFK</title><link>https://crimempire.com/schedule-i/automation/barn-and-warehouse/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/automation/barn-and-warehouse/</guid><description>&lt;img src="https://crimempire.com/images/diagrams/barn-warehouse-layout.svg" alt="Barn vs Warehouse Layout Comparison" class="schema-diagram" loading="lazy" width="760"&gt;
+
+&lt;p&gt;I've tried automating both the Barn ($25K) and the Docks Warehouse ($50K). After running each for a few in-game days, here's what I found.&lt;/p&gt;
+&lt;p&gt;The Barn is the better deal. Two floors, 10 employees, 2 loading bays. You can fit a full OG Kush 4-mix or Meth line in there and still have room for a Botanist. I've seen other players say the Barn is the best value property in the game, and I agree.&lt;/p&gt;</description></item></channel></rss>

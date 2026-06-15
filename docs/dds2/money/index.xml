@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Money on Crime Empire Guide</title>
-    <link>http://localhost:1313/dds2/money/</link>
-    <description>Recent content in Money on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:25:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/dds2/money/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best Early-Game Money Methods in DDS2 (Verified)</title>
-      <link>http://localhost:1313/dds2/money/early-money/</link>
-      <pubDate>Tue, 09 Jun 2026 12:10:00 +0800</pubDate>
-      <guid>http://localhost:1313/dds2/money/early-money/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. Verified through Steam community quick-start strategy guide and Reddit player discussions: in the first 10 hours, deliveries outperform cooking by roughly 3:1.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/images/diagrams/dds2-money-flow.svg&#34; alt=&#34;DDS2 Income Progression&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Phase 1: Delivery Economy ($0 to $2,000)&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;Your first $2,000 should come from ShadyComm deliveries. Per the Steam quick-start guide: &amp;quot;Police hours bring extra cash, so try to keep moving those drugs. The faster you deliver, the faster they re-order.&amp;quot;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy</title>
-      <link>http://localhost:1313/dds2/money/empire-guide/</link>
-      <pubDate>Tue, 09 Jun 2026 12:25:00 +0800</pubDate>
-      <guid>http://localhost:1313/dds2/money/empire-guide/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for cannabis &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/game-icons/dds2-indica.png&#34; alt=&#34;dds2-indica&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;span class=&#34;game-name&#34;&gt;Dds2 indica&lt;/span&gt;&#xA;&lt;/span&gt;, one for amphetamine &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/game-icons/dds2-amphetamine.png&#34; alt=&#34;dds2-amphetamine&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;span class=&#34;game-name&#34;&gt;Dds2&lt;/span&gt;&#xA;&lt;/span&gt;, one for meth &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/game-icons/dds2-meth.png&#34; alt=&#34;dds2-meth&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;span class=&#34;game-name&#34;&gt;Dds2 meth&lt;/span&gt;&#xA;&lt;/span&gt;. Here is the verified path to a million-dollar operation.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;http://localhost:1313/images/diagrams/dds2-staff-system.svg&#34; alt=&#34;DDS2 Staff System: Hire, Assign, and Automate&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Employee System&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;Employees are unlocked through:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Notice boards (random spawn)&lt;/li&gt;&#xA;&lt;li&gt;Influencer missions (limited uses per influencer)&lt;/li&gt;&#xA;&lt;li&gt;Story progression&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The Steam FAQ guide covers &amp;quot;how to get more employees, from early-game strategies to unlocking advanced methods.&amp;quot; Once hired, employees can be assigned to:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Money on Crime Empire Guide</title><link>https://crimempire.com/dds2/money/</link><description>Recent content in Money on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Jun 2026 12:25:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/dds2/money/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Early-Game Money Methods in DDS2 (Verified)</title><link>https://crimempire.com/dds2/money/early-money/</link><pubDate>Tue, 09 Jun 2026 12:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/money/early-money/</guid><description>&lt;div class="callout"&gt;The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. Verified through Steam community quick-start strategy guide and Reddit player discussions: in the first 10 hours, deliveries outperform cooking by roughly 3:1.&lt;/div&gt;
+
+&lt;img src="https://crimempire.com/images/diagrams/dds2-money-flow.svg" alt="DDS2 Income Progression" class="schema-diagram" loading="lazy" width="720"&gt;
+
+&lt;h2 class="section-heading"&gt;Phase 1: Delivery Economy ($0 to $2,000)&lt;/h2&gt;
+
+&lt;p&gt;Your first $2,000 should come from ShadyComm deliveries. Per the Steam quick-start guide: &amp;quot;Police hours bring extra cash, so try to keep moving those drugs. The faster you deliver, the faster they re-order.&amp;quot;&lt;/p&gt;</description></item><item><title>DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy</title><link>https://crimempire.com/dds2/money/empire-guide/</link><pubDate>Tue, 09 Jun 2026 12:25:00 +0800</pubDate><guid>https://crimempire.com/dds2/money/empire-guide/</guid><description>&lt;div class="callout"&gt;Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for cannabis &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/dds2-indica.png" alt="dds2-indica" class="game-img" loading="lazy"&gt;
+&lt;span class="game-name"&gt;Dds2 indica&lt;/span&gt;
+&lt;/span&gt;, one for amphetamine &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/dds2-amphetamine.png" alt="dds2-amphetamine" class="game-img" loading="lazy"&gt;
+&lt;span class="game-name"&gt;Dds2&lt;/span&gt;
+&lt;/span&gt;, one for meth &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/dds2-meth.png" alt="dds2-meth" class="game-img" loading="lazy"&gt;
+&lt;span class="game-name"&gt;Dds2 meth&lt;/span&gt;
+&lt;/span&gt;. Here is the verified path to a million-dollar operation.&lt;/div&gt;
+
+&lt;img src="https://crimempire.com/images/diagrams/dds2-staff-system.svg" alt="DDS2 Staff System: Hire, Assign, and Automate" class="schema-diagram" loading="lazy" width="720"&gt;
+
+&lt;h2 class="section-heading"&gt;Employee System&lt;/h2&gt;
+
+&lt;p&gt;Employees are unlocked through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Notice boards (random spawn)&lt;/li&gt;
+&lt;li&gt;Influencer missions (limited uses per influencer)&lt;/li&gt;
+&lt;li&gt;Story progression&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Steam FAQ guide covers &amp;quot;how to get more employees, from early-game strategies to unlocking advanced methods.&amp;quot; Once hired, employees can be assigned to:&lt;/p&gt;</description></item></channel></rss>
