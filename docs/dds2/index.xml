@@ -1,12 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Drug Dealer Simulator 2 Guides on Crime Empire Guide</title>
-    <link>http://localhost:1313/dds2/</link>
-    <description>Recent content in Drug Dealer Simulator 2 Guides on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/dds2/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Drug Dealer Simulator 2 Guides on Crime Empire Guide</title><link>https://crimempire.com/dds2/</link><description>Recent content in Drug Dealer Simulator 2 Guides on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 18:28:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/dds2/index.xml" rel="self" type="application/rss+xml"/><item><title>DDS2 Endgame Guide: What to Do After Maxing Everything</title><link>https://crimempire.com/dds2/endgame/endgame-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/endgame/endgame-guide/</guid><description>&lt;p&gt;Once you have maxed out your Street Cred, staffed all roles, unlocked every recipe, and built hideouts across all islands, what is left to do in DDS2? The endgame offers several directions: achievement hunting, Casino DLC content, co-op challenges, and self-imposed goals. This guide covers everything available after the main progression is complete.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Endgame activities ranked by engagement:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Activity&lt;/th&gt;
+ &lt;th&gt;Time Investment&lt;/th&gt;
+ &lt;th&gt;Difficulty&lt;/th&gt;
+ &lt;th&gt;Reward&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;100% achievement completion&lt;/td&gt;
+ &lt;td&gt;80-100 hours&lt;/td&gt;
+ &lt;td&gt;Very Hard&lt;/td&gt;
+ &lt;td&gt;Steam achievements, bragging rights&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Casino DLC content&lt;/td&gt;
+ &lt;td&gt;20-30 hours&lt;/td&gt;
+ &lt;td&gt;High&lt;/td&gt;
+ &lt;td&gt;New zone, gambling mechanics, achievements&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Co-op challenge runs&lt;/td&gt;
+ &lt;td&gt;Variable&lt;/td&gt;
+ &lt;td&gt;Medium-High&lt;/td&gt;
+ &lt;td&gt;Shared progression, faster grinding&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Self-imposed challenges&lt;/td&gt;
+ &lt;td&gt;Unlimited&lt;/td&gt;
+ &lt;td&gt;Varies&lt;/td&gt;
+ &lt;td&gt;Personal satisfaction&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Territory domination&lt;/td&gt;
+ &lt;td&gt;10-20 hours&lt;/td&gt;
+ &lt;td&gt;Medium&lt;/td&gt;
+ &lt;td&gt;Full map control, max income&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;1. 100% achievement completion:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Map and Island Guide: All Locations, POIs, and Fast Travel Routes</title><link>https://crimempire.com/dds2/map/map-island-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/map/map-island-guide/</guid><description>&lt;p&gt;Isla Sombra in DDS2 consists of multiple islands, each with its own characteristics, client base, police density, and available resources. Understanding the map layout is essential for efficient travel, territory planning, and supply chain management. This guide covers every accessible island, key points of interest, and the fastest travel routes between them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Island overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Based on the community maps on Miraheze and Kanka, there are 7 major island zones:&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Island&lt;/th&gt;
+ &lt;th&gt;Unlock Order&lt;/th&gt;
+ &lt;th&gt;Best For&lt;/th&gt;
+ &lt;th&gt;Police Density&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Small Island&lt;/td&gt;
+ &lt;td&gt;Starting zone&lt;/td&gt;
+ &lt;td&gt;Tutorial, early deliveries, no police&lt;/td&gt;
+ &lt;td&gt;None&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Archipelago&lt;/td&gt;
+ &lt;td&gt;First expansion&lt;/td&gt;
+ &lt;td&gt;General operations, restaurant district&lt;/td&gt;
+ &lt;td&gt;Low&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Callejon&lt;/td&gt;
+ &lt;td&gt;Mid-game&lt;/td&gt;
+ &lt;td&gt;Processing, industrial equipment, gang territory&lt;/td&gt;
+ &lt;td&gt;Medium&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Jungle&lt;/td&gt;
+ &lt;td&gt;Mid-game&lt;/td&gt;
+ &lt;td&gt;Cannabis growing, raw materials&lt;/td&gt;
+ &lt;td&gt;Low&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Slavs Bay&lt;/td&gt;
+ &lt;td&gt;Late-game&lt;/td&gt;
+ &lt;td&gt;High-end production (meth, cocaine)&lt;/td&gt;
+ &lt;td&gt;High&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Paraiso Peninsular&lt;/td&gt;
+ &lt;td&gt;Late-game&lt;/td&gt;
+ &lt;td&gt;Endgame operations, high-value clients&lt;/td&gt;
+ &lt;td&gt;High&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Bahia De Oro&lt;/td&gt;
+ &lt;td&gt;Endgame&lt;/td&gt;
+ &lt;td&gt;Casino DLC area, premium clients&lt;/td&gt;
+ &lt;td&gt;Very High&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The islands are gated by Street Cred level and story progression. You cannot access Callejon until you have completed sufficient missions in Archipelago. Similarly, Slavs Bay and later areas require higher Street Cred.&lt;/p&gt;</description></item><item><title>DDS2 Reputation Guide: Street Cred Leveling and Fast Strategies</title><link>https://crimempire.com/dds2/reputation/reputation-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/reputation/reputation-guide/</guid><description>&lt;p&gt;The reputation system in DDS2, called &amp;quot;Street Cred,&amp;quot; controls what you can unlock. Higher Street Cred levels unlock better recipes, larger hideout upgrades, more staff slots, higher-value customer tiers, and access to restricted areas. The achievement &amp;quot;I Am The One Who Knocks&amp;quot; requires Street Cred level 4. This guide covers how the system works and the fastest ways to level up.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How Street Cred works:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Street Cred is separate from your wanted level. Wanted level is police heat that decays with time. Street Cred is your reputation in the criminal underworld that permanently increases. You cannot lose Street Cred through normal gameplay -- only arrests can potentially reduce it. The system has multiple levels, and each level requires more experience than the last.&lt;/p&gt;</description></item><item><title>DDS2 Vehicle and Boat Guide: Best Purchases, Upgrades, and Customization</title><link>https://crimempire.com/dds2/vehicles/vehicle-boat-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/vehicles/vehicle-boat-guide/</guid><description>&lt;p&gt;Vehicles in DDS2 are essential for efficient travel between islands. The starter boat is slow and has limited fuel capacity. Upgrading to faster vehicles with larger fuel tanks dramatically improves your delivery speed and territory reach. Based on community guides from Steam and the Miraheze wiki, this guide covers all vehicles, their stats, prices, and which to buy at each stage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why vehicles matter:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Walking between islands takes 15-30 minutes each way. A basic boat cuts this to 5 minutes. A car or upgraded boat can cross the map in 2-3 minutes. Time saved on travel is time spent on production and sales. The right vehicle choice can increase your effective income by 50% or more.&lt;/p&gt;</description></item></channel></rss>

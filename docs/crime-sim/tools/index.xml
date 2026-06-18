@@ -1,26 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tools on Crime Empire Guide</title>
-    <link>http://localhost:1313/crime-sim/tools/</link>
-    <description>Recent content in Tools on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/crime-sim/tools/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crime Simulator Tools Guide: Every Item Explained</title>
-      <link>http://localhost:1313/crime-sim/tools/complete-tools-guide/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crime-sim/tools/complete-tools-guide/</guid>
-      <description>&lt;p&gt;I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything.&lt;/p&gt;&#xA;&lt;p&gt;Prioritize the lockpick set first. It replaces the noisy crowbar on most locked doors and pays for itself within 2-3 heists.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tool overview:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Crime Simulator has a growing arsenal of tools for breaking in, disabling security, and escaping. Tools break with use and must be repaired or replaced. Choosing the right tool for each job is the difference between a clean score and an arrest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Tool Upgrades and Advanced Tools</title>
-      <link>http://localhost:1313/crime-sim/tools/tool-upgrades-and-advanced/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crime-sim/tools/tool-upgrades-and-advanced/</guid>
-      <description>&lt;p&gt;Basic tools get the job done, but upgraded versions save time, reduce noise, and fail less often. I went from breaking a lockpick every 2-3 heists to going 10+ on the professional set.&lt;/p&gt;&#xA;&lt;p&gt;The Master Key from Update 1.3 is the best late-game tool investment I have unlocked. It opens most standard locks instantly, dramatically speeding up heists.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tool quality tiers:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tier&lt;/th&gt;&#xA;          &lt;th&gt;Example&lt;/th&gt;&#xA;          &lt;th&gt;Break Rate&lt;/th&gt;&#xA;          &lt;th&gt;Repair Cost&lt;/th&gt;&#xA;          &lt;th&gt;Unlock&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Basic&lt;/td&gt;&#xA;          &lt;td&gt;Basic Lockpick&lt;/td&gt;&#xA;          &lt;td&gt;High&lt;/td&gt;&#xA;          &lt;td&gt;~$100-200&lt;/td&gt;&#xA;          &lt;td&gt;Starting shop&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Standard&lt;/td&gt;&#xA;          &lt;td&gt;Standard Lockpick&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;~$200-350&lt;/td&gt;&#xA;          &lt;td&gt;Rank 2-3&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Professional&lt;/td&gt;&#xA;          &lt;td&gt;Pro Lockpick Set&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;          &lt;td&gt;~$400-600&lt;/td&gt;&#xA;          &lt;td&gt;Rank 4-5&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Premium&lt;/td&gt;&#xA;          &lt;td&gt;Master Key (1.3)&lt;/td&gt;&#xA;          &lt;td&gt;Very Low&lt;/td&gt;&#xA;          &lt;td&gt;~$800+&lt;/td&gt;&#xA;          &lt;td&gt;1.3 content&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Higher tiers unlock larger sweet spots on lockpicking mini-games and generate less noise.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/tools/</link><description>Recent content in Tools on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator Tools Guide: Every Item Explained</title><link>https://crimempire.com/crime-sim/tools/complete-tools-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/tools/complete-tools-guide/</guid><description>&lt;p&gt;I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything.&lt;/p&gt;
+&lt;p&gt;Prioritize the lockpick set first. It replaces the noisy crowbar on most locked doors and pays for itself within 2-3 heists.&lt;/p&gt;
+&lt;h2 id="tool-overview"&gt;Tool Overview&lt;/h2&gt;
+&lt;p&gt;Crime Simulator has a growing arsenal of tools for breaking in, disabling security, and escaping. Tools break with use and must be repaired or replaced. Choosing the right tool for each job is the difference between a clean score and an arrest.&lt;/p&gt;</description></item><item><title>Crime Simulator Tool Upgrades and Advanced Tools</title><link>https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/</guid><description>&lt;p&gt;Basic tools get the job done, but upgraded versions save time, reduce noise, and fail less often. I went from breaking a lockpick every 2-3 heists to going 10+ on the professional set.&lt;/p&gt;
+&lt;p&gt;The Master Key from Update 1.3 is the best late-game tool investment I have unlocked. It opens most standard locks instantly, dramatically speeding up heists.&lt;/p&gt;
+&lt;h2 id="tool-quality-tiers"&gt;Tool Quality Tiers&lt;/h2&gt;
+&lt;p&gt;Each tool type has multiple quality tiers. Higher tiers are more expensive but break less often and work faster.&lt;/p&gt;</description></item></channel></rss>

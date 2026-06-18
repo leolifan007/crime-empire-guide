@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Co-op Guide on Crime Empire Guide</title>
-    <link>http://localhost:1313/crime-sim/coop/</link>
-    <description>Recent content in Co-op Guide on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/crime-sim/coop/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crime Simulator 4-Player Co-op Strategy Guide</title>
-      <link>http://localhost:1313/crime-sim/coop/coop-strategy-guide/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crime-sim/coop/coop-strategy-guide/</guid>
-      <description>&lt;p&gt;I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. But without coordination, co-op is chaos.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The fastest role setup I have used:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;1 Lockpick (entry) + 1 Lookout (perimeter) + 1 Hauler (loot) + 1 Driver (escape). Rotate roles every 2-3 runs so everyone stays flexible.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Co-op Heist Planning: From Setup to Extraction</title>
-      <link>http://localhost:1313/crime-sim/coop/coop-heist-planning/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crime-sim/coop/coop-heist-planning/</guid>
-      <description>&lt;p&gt;The best co-op heists I have been on were planned before anyone left the hideout. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Before leaving the hideout, we confirm:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Target selected from job board or free-roam&lt;/li&gt;&#xA;&lt;li&gt;Security level assessed (locks, NPCs, alarms)&lt;/li&gt;&#xA;&lt;li&gt;Required tools confirmed for each team member&lt;/li&gt;&#xA;&lt;li&gt;Entry point identified (front, back, roof, window)&lt;/li&gt;&#xA;&lt;li&gt;Extraction point agreed (vehicle, alley, rooftop)&lt;/li&gt;&#xA;&lt;li&gt;Role assignments confirmed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Target selection:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Co-op Guide on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/coop/</link><description>Recent content in Co-op Guide on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/coop/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator 4-Player Co-op Strategy Guide</title><link>https://crimempire.com/crime-sim/coop/coop-strategy-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/coop/coop-strategy-guide/</guid><description>&lt;p&gt;I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. But without coordination, co-op is chaos.&lt;/p&gt;
+&lt;h2 id="the-optimal-role-setup"&gt;The Optimal Role Setup&lt;/h2&gt;
+&lt;p&gt;The fastest role setup I have used: 1 Lockpick + 1 Lookout + 1 Hauler + 1 Driver. Rotate roles every 2-3 runs so everyone stays flexible.&lt;/p&gt;</description></item><item><title>Crime Simulator Co-op Heist Planning: From Setup to Extraction</title><link>https://crimempire.com/crime-sim/coop/coop-heist-planning/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/coop/coop-heist-planning/</guid><description>&lt;p&gt;The best co-op heists I have been on were planned before anyone left the hideout. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.&lt;/p&gt;
+&lt;h2 id="pre-heist-briefing-checklist"&gt;Pre-Heist Briefing Checklist&lt;/h2&gt;
+&lt;p&gt;Before leaving the hideout, we confirm every item on this list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Target selected from job board or free-roam&lt;/li&gt;
+&lt;li&gt;Security level assessed (locks, NPCs, alarms)&lt;/li&gt;
+&lt;li&gt;Required tools confirmed for each team member&lt;/li&gt;
+&lt;li&gt;Entry point identified (front, back, roof, window)&lt;/li&gt;
+&lt;li&gt;Extraction point agreed (vehicle, alley, rooftop)&lt;/li&gt;
+&lt;li&gt;Role assignments confirmed&lt;/li&gt;
+&lt;li&gt;Communication channel set (in-game voice or Discord)&lt;/li&gt;
+&lt;li&gt;Hard extraction limit agreed (time limit for aborting)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="pro-tip"&gt;Assign a team leader for each heist. One person makes the call to abort. If everyone has veto power, you get indecision. I have seen teams lose 15 minutes arguing over whether to push or pull. A single decision-maker prevents this.&lt;/div&gt;
+
+&lt;h2 id="target-selection"&gt;Target Selection&lt;/h2&gt;
+&lt;p&gt;Not all houses are worth hitting in co-op. The payout from a single large house split 4 ways is sometimes less than running two medium houses simultaneously.&lt;/p&gt;</description></item></channel></rss>
