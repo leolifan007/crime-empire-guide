@@ -1,138 +1,117 @@
-﻿---
+---
 title: "Crime Simulator 4-Player Co-op Strategy Guide"
 date: 2026-06-09
-draft: false
+lastmod: 2026-06-18
+draft: false
+
 game: crime-sim
 tags: [coop, multiplayer, strategy, teamwork]
 weight: 1
 description: "Master 4-player co-op in Crime Simulator with role assignments, communication tactics, and coordinated heist strategies that beat quotas faster than solo play."
 ---
 
+I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. But without coordination, co-op is chaos.
+
+## The Optimal Role Setup
+
+The fastest role setup I have used: 1 Lockpick + 1 Lookout + 1 Hauler + 1 Driver. Rotate roles every 2-3 runs so everyone stays flexible.
+
+| Role | Primary Job | Required Tool | Backup Tool |
+|------|------------|---------------|-------------|
+| Lockpick | Open doors silently, disable alarms | Lockpick set (standard+) | Crowbar |
+| Lookout | Watch patrol routes, call out NPCs | Flashlight, sleeping gas | Smoke bomb |
+| Hauler | Carry high-value items, service requests | Large backpack, cable ties | Extra pockets |
+| Driver | Park vehicle, monitor police, escape | Vehicle, radio scanner | Map of alleys |
+
+### Lockpick
+Best lockpick and hacking tools, opens all doors, handles electronic security. This is the most technical role -- you need to be fast and silent with the lockpick mini-game. If the Lockpick takes more than 20 seconds per door, the team loses efficiency.
+
+### Lookout
+Watches patrol routes, monitors police radio, warns team of approaching NPCs. The Lookout rarely touches loot. Their job is to keep everyone else safe. I assign this role to the player with the best map awareness.
+
+### Hauler
+Largest inventory capacity, prioritizes high-value items, services item requests. The Hauler follows callouts from other team members. When the Lockpick finds a laptop, the Hauler comes to grab it. This prevents duplicate looting and wasted movement.
+
+### Driver
+Stays near exit, parks vehicle for quick escape, handles police evasion. The Driver role is the most underrated. A good driver prevents wipes. When I play Driver, the rest of the team can focus on looting instead of worrying about escape routes.
+
 {{< callout "info" >}}
-In 4-player co-op, the fastest setup is: 1 Lockpick (entry), 1 Lookout (perimeter), 1 Hauler (loot collection), 1 Driver (escape). Rotate roles every 2-3 runs for flexibility.
+The Driver should position the vehicle with the engine facing the escape route, lights off. When the team calls extraction, the Driver can be moving within 3 seconds. I have seen teams lose their entire haul because the Driver needed to turn the car around first.
 {{< /callout >}}
 
-## Why Co-op Changes Everything
+## Communication That Works
 
-Crime Simulator supports up to 4 players in co-op. While solo play is viable, co-op doubles payout potential and dramatically reduces risk. More players mean more eyes on security, faster looting, and bigger scores.
+### Before the heist:
+- Agree on target and difficulty
+- Assign roles and confirm tool check
+- Set a hard extraction limit (time-based or loot-based)
+- Identify primary and backup extraction points
 
-But without coordination, co-op can be chaotic and counterproductive.
+### During the heist:
+- Call out NPC positions using compass directions ("NPC north side, heading east")
+- Confirm doors are clear before advancing ("Door 2 clear, moving to 3")
+- Call "hot" for police alert and "cold" for all clear
+- Call "loot" when you find high-value items for the Hauler
+- Call "abort" if extraction limit is reached or police are incoming
 
-## Role Assignments
+### After the heist:
+- Meet at pre-arranged extraction point
+- Do not sell loot individually
+- Pool at the hideout and split later
+- Debrief what went well and what did not
 
-Assign roles before each heist for maximum efficiency:
+{{< insight >}}
+I have seen teams argue over loot distribution when selling individually. The solution is simple: pool everything at the hideout, sell together, split equally. We use a spreadsheet to track who contributed what for transparency. With a consistent group this becomes routine after 2-3 runs.
+{{< /insight >}}
 
-### Lockpick (Entry Specialist)
-- Best lockpick and hacking tools
-- Opens all doors for the team
-- Handles electronic security
-- Carries the Master Key (if unlocked)
+## Quota Scaling in Co-op
 
-### Lookout (Security)
-- Watches patrol routes
-- Monitors police radio
-- Warns team of approaching NPCs
-- Carries sleeping gas for emergency neutralization
+The quota scales with player count, but payout scales faster. A coordinated 4-player team can clear 3-4x the loot of the same number playing solo.
 
-### Hauler (Loot Specialist)
-- Largest inventory capacity
-- Prioritizes high-value items
-- Services item requests (keeps requested items)
-- Uses cable ties on subdued NPCs
-
-### Driver (Extraction)
-- Stays near exit point
-- Parks vehicle for quick escape
-- Carries backup tools for the team
-- Handles police evasion if team is cornered
-
-{{< callout "tip" >}}
-The Driver role is the most underrated. A good driver prevents wipes by having a clean escape route. If your driver is good, you never need to fight your way out.
-{{< /callout >}}
-
-## Communication Protocol
-
-Effective co-op communication follows a simple protocol:
-
-**Before the heist (hideout):**
-- Agree on target house(s)
-- Assign roles
-- Check everyone has required tools
-- Set a hard limit (time or risk level) for extraction
-
-**During the heist:**
-- Call out NPC positions immediately
-- Confirm each door is clear before advancing
-- Use countdowns for coordinated actions
-- Call "hot" for police alert, "cold" for all clear
-
-**After the heist:**
-- Meet at a pre-arranged extraction point
-- Do not sell loot individually -- pool and split at hideout
-- Plan next target while selling
+| Players | Quota Multiplier | Loot Potential | Best Approach |
+|:-------:|:----------------:|:--------------:|---------------|
+| 2 | 1.5x | 2-3x solo | Pair up per house |
+| 3 | 2x | 3-4x solo | Split + decoy |
+| 4 | 2.5x | 4-5x solo | Full role assignments |
 
 ## Advanced Tactics
 
 ### Split and Conquer
+Works well with 3+ players. Each player takes a different floor or wing of the house. The Hauler follows the callouts and picks up the best items. The Lookout stays central and monitors all approaches.
 
-In 2+ player games, splitting up can clear a house faster:
-
-- Player A takes the ground floor
-- Player B takes the upper floor
-- Player C works the basement
-
-Each player calls out loot locations so the Hauler prioritizes pickups.
-
-### Decoy
-
-One player intentionally distracts security while the team loots. The decoy:
-- Creates noise outside the house
-- Leads police on a chase
-- Uses sleeping gas on external patrols
-- Retreats once the team signals "clear"
-
-The decoy takes the highest risk but the payoff is a completely unbothered looting experience for the rest of the team.
+### Decoy Strategy
+One player distracts security while the team loots. The decoy creates noise outside (smashes a window, triggers a car alarm), leads police on a chase, then retreats when the team signals clear. High risk, but the payoff is a completely unbothered looting experience.
 
 ### Multi-House Chains
+Once your team is coordinated, chain 3-4 houses in one outing. Hit house A, drop loot at a safe spot, hit house B, repeat. This triples loot-per-run but requires good communication. Best done with all 4 players because you can leave one person as a mobile stash guard.
 
-Once your team is coordinated, chain 3-4 houses in a single outing:
+## Co-op Difficulty Matrix
 
-1. Hit house A (low security, quick)
-2. Drop loot at a safe spot
-3. Hit house B (medium security)
-4. Drop again
-5. Hit house C (high security if team is ready)
-6. Collect all drops and extract
+| House Type | Risk Level | Recommended Team | Expected Loot |
+|------------|:----------:|:----------------:|:-------------:|
+| Small suburban | Low | 2 players | $500-$800 |
+| Medium two-floor | Medium | 3 players | $1,000-$1,500 |
+| Large high-security | High | 4 players, full gear | $2,000-$4,000 |
+| Heist target | Very High | 4 players, max gear | $3,000-$6,000 |
 
-This method triples loot-per-run but requires strong communication and a safe intermediate drop point.
+## Practical Example: Team Coordination
 
-## Co-op Quota Pacing
+Here is how a 4-player team handled a large high-security house:
 
-In co-op, quotas scale based on the number of players:
+The Lockpick opened the back door in 12 seconds. The Lookout immediately spotted a patrol heading toward the house and called "NPC approaching from north, 30 meters." Everyone froze in place. After 20 seconds the NPC passed, the Lookout called "cold" and the Lockpick advanced.
 
-| Players | Quota Multiplier | Recommended Strategy |
-|---------|-----------------|---------------------|
-| 2 | 1.5x | Pair up per house |
-| 3 | 2x | Split + decoy |
-| 4 | 2.5x | Full role assignments |
+Inside, the Hauler grabbed a laptop ($300) from the ground floor office while the Lockpick moved upstairs. The Lockpick found a safe and called for the Hauler. The Hauler brought the drill and opened it, finding $800 in cash and a gold bar. Total haul: $1,500 from one house in 8 minutes.
 
-The quota scales but payout potential scales faster. A well-coordinated 4-player team can clear 3-4x the loot of the same number of solo players.
+The Driver was waiting at the extraction point. The team was back at the hideout within 12 minutes total.
 
-{{< insight >}}
-Co-op loot can be shared through the hideout stash. If one player has all the lockpick skills and another has all the hacking skills, they complement each other. Share tools in the stash so the team has access to all tool types without everyone buying everything.
-{{< /insight >}}
+## Related Guides
 
-## Common Co-op Mistakes
-
-- **No role assignment before heist** -- wastes time inside
-- **Splitting loot unevenly** -- causes friction, use a shared stash
-- **One player going Rambo** -- alerting police while team is inside
-- **No extraction plan** -- getting caught separately after the heist
-- **Not sharing tools** -- duplicating tool costs across the team
-
----
+- [Co-op Heist Planning](/crime-sim/coop/coop-heist-planning/) -- detailed planning and extraction protocols
+- [Complete Tools Guide](/crime-sim/tools/complete-tools-guide/) -- tool breakdown for each role
+- [Police System Guide](/crime-sim/police/police-system-guide/) -- evasion and detection mechanics
 
 {{< resourcegrid >}}
   {{< resourcecard name="Crime Simulator Steam Page" url="https://store.steampowered.com/app/2737070/Crime_Simulator/" desc="Official game page with co-op features" >}}
   {{< resourcecard name="Steam Community Discussions" url="https://steamcommunity.com/app/2737070/discussions/" desc="Multiplayer tips and team recruitment" >}}
+  {{< resourcecard name="Understanding Game Modes" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3506289284" desc="Community guide on gameplay basics" >}}
 {{< /resourcegrid >}}
