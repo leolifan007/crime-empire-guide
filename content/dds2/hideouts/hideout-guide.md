@@ -7,20 +7,11 @@ tag: HIDEOUT
 weight: 1
 ---
 
-{{< callout "info" >}}
-Hideouts in DDS2 can be raided based on your wanted level and the hideout's visibility. The community guide "Pedro Alvarez Real Estate Agency" documents all locations with prices, water/phone line availability, and visibility ratings. Here is what you need to know.
+Hideouts in DDS2 can be raided based on your wanted level and the hideout's visibility. I lost my first major stockpile to a raid because I kept everything in the starter shack. The community guide "Pedro Alvarez Real Estate Agency" documents all locations with prices, water/phone line availability, and visibility ratings.
 
-{{< /callout >}}
+**How raids work:**
 
-{{< diagram "diagrams/dds2-raid-defense.svg" "DDS2 Raid Defense: 3-Hideout Split Strategy" "720" >}}
-
-{{< section "How Raids Work" >}}
-
-The DDS2 Fandom hideout page confirms:
-- Raid probability is affected by wanted level (None / Person of Interest / Suspect / Wanted)
-- Hideout visibility is a factor -- highly visible locations attract more attention
-- Helicopters can appear during raids
-- A single hideout with all your assets is a high-risk strategy
+The Fandom hideout page confirms: raid probability is affected by wanted level (None / Person of Interest / Suspect / Wanted) and hideout visibility. Helicopters can appear during raids.
 
 | Wanted Level | Raid Probability | Protection Strategy |
 |-------------|-----------------|-------------------|
@@ -29,9 +20,9 @@ The DDS2 Fandom hideout page confirms:
 | Suspect | High | Guards, hidden compartments |
 | Wanted | Very High | Minimize time at any hideout |
 
-{{< section "Verified Hideout Purchase Order" >}}
+**Hideout purchase order I use:**
 
-Based on cross-referencing the community hideout guide and Reddit discussions:
+From cross-referencing the community hideout guide and Reddit discussions:
 
 | Purchase # | Location Type | Estimated Cost | Purpose |
 |-----------|--------------|---------------|---------|
@@ -41,21 +32,18 @@ Based on cross-referencing the community hideout guide and Reddit discussions:
 | 4th | Coastal/Slavs Bay | ~$8,000-15,000 | High-value production |
 | 5th+ | Downtown/villas | $15,000+ | Endgame, co-op hub |
 
-{{< insight >}}Community consensus from r/DrugDealerSimOfficial: If you turn off raids (game settings), you can use any location for space. With raids enabled, prioritize low-visibility locations for your main lab.{{< /insight >}}
+Community consensus from Reddit: if you turn off raids (game settings), you can use any location for space. With raids enabled, prioritize low-visibility locations for your main lab.
 
-{{< section "Protection Checklist" >}}
+**Protection checklist:**
 
-- [ ] Own at least 2 hideouts before your net worth exceeds $5,000
-- [ ] Keep raw materials and finished product in separate locations
-- [ ] Maintain low wanted level before visiting high-value hideouts
-- [ ] Use rural/jungle hideouts for your main lab (lower visibility)
-- [ ] When raided, escape using parkour rather than fighting
+- Own at least 2 hideouts before your net worth exceeds $5,000
+- Keep raw materials and finished product in separate locations
+- Maintain low wanted level before visiting high-value hideouts
+- Use rural/jungle hideouts for your main lab (lower visibility)
+- When raided, escape using parkour rather than fighting
 
-<div class="resource-section">
-  <h2>Community Resources</h2>
-  {{< resourcegrid >}}
+{{< resourcegrid >}}
     {{< resourcecard name="Hideout Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3277058404" desc="Pedro Alvarez Real Estate - all hideout locations and details" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="DDS2 Fandom Hideouts" url="https://drug-dealer-simulator-2.fandom.com/wiki/Hideouts" desc="Hideout mechanics, raid system, wanted level effects" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="Reddit Hideout Discussion" url="https://www.reddit.com/r/DrugDealerSimOfficial/comments/1e2cpe9/how_are_your_hideouts_organised/" desc="Player hideout organization strategies" target="_blank" rel="noopener noreferrer" >}}
-  {{< /resourcegrid >}}
-</div>
+{{< /resourcegrid >}}

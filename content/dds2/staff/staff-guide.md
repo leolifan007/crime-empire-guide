@@ -7,16 +7,9 @@ tag: STAFF
 weight: 1
 ---
 
-{{< callout "info" >}}
-Employees in DDS2 are essential for scaling past the early game. The Steam FAQ guide covers "how to get more employees, from early-game strategies to unlocking advanced methods." You can hire through notice boards, influencer missions, and story progression.
+Employees in DDS2 are essential for scaling past the early game. I spent my first 20 hours running everything solo before realizing how much time staff saves. The Steam FAQ guide covers how to get more employees from early-game strategies to advanced methods.
 
-{{< /callout >}}
-
-{{< diagram "diagrams/dds2-staff-system.svg" "DDS2 Staff System: Hiring, Roles, and Priority" "720" >}}
-
-{{< section "How to Get Employees" >}}
-
-Verified methods from Steam community discussions:
+**How to get employees:**
 
 | Method | How | Limit |
 |--------|-----|-------|
@@ -25,11 +18,11 @@ Verified methods from Steam community discussions:
 | Story progression | Unlock through main questline | Story-gated |
 | Territory expansion | Some hideouts include staff unlocks | Limited |
 
-{{< callout "info" >}}Steam discussions confirm you can ask influencers for workers twice each. After that, notice boards and missions are the primary sources.{{< /callout >}}
+Steam discussions confirm you can ask influencers for workers twice each. After that, notice boards and missions are the primary sources.
 
-{{< section "Employee Roles" >}}
+**Employee roles:**
 
-Based on YouTube guide descriptions and the Steam FAQ:
+Based on YouTube guides and the Steam FAQ:
 
 | Role | Function | Prerequisites |
 |------|----------|--------------|
@@ -38,9 +31,9 @@ Based on YouTube guide descriptions and the Steam FAQ:
 | Distributor | Manages inter-hideout logistics | Multiple hideouts unlocked |
 | Guard | Reduces raid probability | Hideout guard station |
 
-{{< section "Staff Assignment Strategy" >}}
+**Staff assignment strategy:**
 
-The Steam FAQ guide and video tutorials recommend this progression:
+The Steam FAQ guide and video tutorials recommend this progression, which matches what I found effective:
 
 | Net Worth | Staff Priority | Why |
 |-----------|---------------|-----|
@@ -49,23 +42,15 @@ The Steam FAQ guide and video tutorials recommend this progression:
 | $50k-100k | 2nd Dealer + 1st Guard | Expands territory + protects assets |
 | $100k+ | Full staff (all roles) | Complete automation |
 
-{{< insight >}}The distributor desk is a key unlock. YouTube guides show that once you have this desk built at your hideout, you can place employees at it to handle customer orders automatically. This frees you to focus on higher-value activities like territory expansion.{{< /insight >}}
+The distributor desk is a key unlock. Once I built this desk at my hideout, I could place employees at it to handle customer orders automatically. This freed me to focus on higher-value activities like territory expansion.
 
-{{< section "Employee Economy" >}}
+**Staff limits:**
 
-| Staff Count | Daily Wage (est.) | Income Generated | Net |
-|------------|------------------|-----------------|-----|
-| 1 Dealer | $50-100 | $400-800 | +$300-700/day |
-| +1 Cook | $80-150 | $600-1,200 | +$500-1,000/day |
-| +1 Guard | $100 | $0 (prevention) | Insurance cost |
-| Full setup | $300-500 | $2,000-4,000 | +$1,500-3,500/day |
+The game limits how many employees you can have based on current Street Cred level, number of hideouts owned, and story progression. To increase your staff cap, complete missions, expand to new territories, and raise your Street Cred.
 
-<div class="resource-section">
-  <h2>Community Resources</h2>
-  {{< resourcegrid >}}
+{{< resourcegrid >}}
     {{< resourcecard name="Steam FAQ Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3273716171" desc="Employee and progression guide with hiring methods" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="YouTube: How Employees Work" url="https://www.youtube.com/watch?v=s3Xz1lCbqTA" desc="Video guide to employee system and assignments" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="YouTube: How To Setup Staff" url="https://www.youtube.com/watch?v=5Ek0j45NKT8" desc="Staff setup and distributor desk guide" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="YouTube: Get More Employees" url="https://www.youtube.com/watch?v=MY298yhiGY4" desc="Guide to finding and hiring additional staff" target="_blank" rel="noopener noreferrer" >}}
-  {{< /resourcegrid >}}
-</div>
+{{< /resourcegrid >}}

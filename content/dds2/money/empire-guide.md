@@ -7,24 +7,16 @@ tag: MONEY
 weight: 2
 ---
 
-{{< callout "info" >}}
-Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for cannabis {{< material dds2-indica >}}, one for amphetamine {{< material dds2-amphetamine >}}, one for meth {{< material dds2-meth >}}. Here is the verified path to a million-dollar operation.
+Scaling past $50,000 requires employees, multiple specialized hideouts, and territory control. The DDS2 community on Reddit organizes by product type: one hideout for cannabis, one for amphetamine, one for meth. I use this approach and it works.
 
-{{< /callout >}}
+**Employee system:**
 
-{{< diagram "diagrams/dds2-staff-system.svg" "DDS2 Staff System: Hire, Assign, and Automate" "720" >}}
+Employees are unlocked through notice boards (random spawn), influencer missions (limited uses per influencer), and story progression.
 
-{{< section "Employee System" >}}
-
-Employees are unlocked through:
-- Notice boards (random spawn)
-- Influencer missions (limited uses per influencer)
-- Story progression
-
-The Steam FAQ guide covers "how to get more employees, from early-game strategies to unlocking advanced methods." Once hired, employees can be assigned to:
-- Dealers: Handle customer orders in assigned territories
-- Cooks: Automatic batch processing
-- Distributors: Manage supply chain between hideouts
+Once hired, employees can be assigned to:
+- Dealers: handle customer orders in assigned territories
+- Cooks: automatic batch processing
+- Distributors: manage supply chain between hideouts
 
 | Role | Function | Unlock Method |
 |------|----------|---------------|
@@ -32,24 +24,20 @@ The Steam FAQ guide covers "how to get more employees, from early-game strategie
 | Cook | Auto-craft batches | Build lab upgrade |
 | Distributor | Move product between hideouts | Territory expansion |
 
-{{< section "Multi-Hideout Specialization" >}}
+**Multi-hideout specialization:**
 
-Reddit player strategies confirm the optimal mid-game layout:
+Reddit player strategies confirm the optimal mid-game layout I use:
 
 | Hideout | Product | Purpose | Police Risk |
 |---------|---------|---------|-------------|
-| Jungle | {{< material dds2-indica >}} Cannabis | Grow, low heat | Low |
-| Callejon | {{< material dds2-amphetamine >}} Amphetamine | Processing | Medium |
-| Slavs Bay | {{< material dds2-meth >}} Meth | High-end cooking | High |
-| Coast | {{< material dds2-opium >}} Opium | Endgame scaling | Medium |
-|---------|---------|---------|-------------|
-| Jungle/rural | Weed | Raw material, low heat | Low |
-| Callejon/industrial | Amphetamine | Processing, medium visibility | Medium |
-| Slavs Bay/coastal | Meth | High-value, high risk | High |
+| Jungle | Cannabis | Grow, low heat | Low |
+| Callejon | Amphetamine | Processing | Medium |
+| Slavs Bay | Meth | High-end cooking | High |
+| Coast | Opium | Endgame scaling | Medium |
 
-{{< callout "warning" >}}Per the DDS2 Fandom wiki, hideout raid risk is affected by wanted level AND hideout visibility. A huge lab in a visible location is easier for police to detect. Keep your high-value production in less conspicuous hideouts.{{< /callout >}}
+Per the Fandom wiki, hideout raid risk is affected by wanted level AND hideout visibility. A huge lab in a visible location is easier to detect. I keep high-value production in less conspicuous hideouts.
 
-{{< section "Territory Progression" >}}
+**Territory progression:**
 
 | Net Worth | Recommended Action | Income |
 |-----------|-------------------|--------|
@@ -58,11 +46,8 @@ Reddit player strategies confirm the optimal mid-game layout:
 | $50k-200k | Full staff, all territories unlocked | $10-20k/day |
 | $200k+ | Co-op expansion, casino DLC content | $20k+/day |
 
-<div class="resource-section">
-  <h2>Resources</h2>
-  {{< resourcegrid >}}
+{{< resourcegrid >}}
     {{< resourcecard name="Steam FAQ Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3273716171" desc="Employee and progression guide" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="Hideout Location Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3277058404" desc="Pedro Alvarez Real Estate - all hideout locations with prices" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="DDS2 Steam Page" url="https://store.steampowered.com/app/1708850/Drug_Dealer_Simulator_2/" desc="39 achievements, 3-player co-op, dual currency" target="_blank" rel="noopener noreferrer" >}}
-  {{< /resourcegrid >}}
-</div>
+{{< /resourcegrid >}}

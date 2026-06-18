@@ -1,35 +1,368 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made | Crime Empire Guide</title><meta name=description content="I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here's what I …"><link rel=canonical href=https://crimempire.com/schedule-i/money/casino-strategy/><base href=https://crimempire.com/><script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0HZEQS7C2"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-Z0HZEQS7C2")</script><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel=stylesheet><link rel=stylesheet href=/css/main.min.47f13101ce41280c019f910702f8709152d6335012db868123bfddd09e79788f.css integrity="sha256-R/ExAc5BKAwBn5EHAvhwkVLWM1AS24aBI7/d0J55eI8=" crossorigin=anonymous></head><body><header class=site-header><a href=/ class=site-logo><span class=logo-icon>CE</span> CRIME EMPIRE</a><div class=nav-links><a href=/schedule-i/ class=nav-btn>Schedule I</a>
-<a href=/dds2/ class=nav-btn>Drug Dealer Simulator 2</a>
-<a href=/crime-sim/ class=nav-btn>Crime Simulator</a></div><button class=mobile-nav-toggle onclick=toggleMobileNav() aria-label="Toggle navigation"><div class=hamburger-icon><span></span>
-<span></span>
-<span></span></div></button></header><div class=page-wrap><section class="section-hero game-schedule-i"><div class=section-hero-gradient></div><div class=section-hero-content><h1>Schedule I</h1><p class=section-hero-tagline>Drug Empire Simulator</p></div></section><div class=single-wrap><nav class=breadcrumb><a href=/>Home</a>
-<span class=sep>/</span>
-<a href=/schedule-i/>Schedule I</a>
-<span class=sep>/</span>
-<a href=/schedule-i/money/>Money</a>
-<span class=sep>/</span>
-<span class=current>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</span></nav><div class="cat-nav game-schedule-i"><a href=/schedule-i/automation/ class=cat-nav-btn>Automation
-</a><a href=/schedule-i/expansion/ class=cat-nav-btn>Expansion
-</a><a href=/schedule-i/hybrid/ class=cat-nav-btn>Hybrid Guide
-</a><a href=/schedule-i/money/ class="cat-nav-btn active">Money
-</a><a href=/schedule-i/npc/ class=cat-nav-btn>NPC Guide
-</a><a href=/schedule-i/patch/ class=cat-nav-btn>Patch Updates
-</a><a href=/schedule-i/police/ class=cat-nav-btn>Police System
-</a><a href=/schedule-i/property/ class=cat-nav-btn>Property
-</a><a href=/schedule-i/recipes/ class=cat-nav-btn>Recipes</a></div><div class=single-layout><aside class="guide-sidebar game-schedule-i"><div class=sidebar-header><h3>Money</h3><span class=sidebar-count>2 articles</span></div><div class=sidebar-list><a href=/schedule-i/money/casino-strategy/ class="sidebar-item active"><span class=sidebar-title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</span>
-</a><a href=/schedule-i/money/speedrun/ class=sidebar-item><span class=sidebar-title>$10K in First Hour: Delivery and Trash Dumping Route</span></a></div></aside><main class=single-main><article class=single-article><div class=article-header><div class="article-tag money">MONEY</div><h1>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</h1><div class=article-meta><span>Updated: Jun 15, 2026</span></div></div><div class="article-body game-schedule-i"><p>I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here's what I found.</p><p><strong>Ride the Bus pays better than Blackjack.</strong></p><p>Reddit community analysis pegs Ride the Bus at roughly +25% expected value per hand, compared to Blackjack's -0.5% (even with perfect play). I can't verify the exact math, but my own testing matches the pattern -- Ride the Bus consistently grew my stack faster.</p><p>The reason is the multiplier structure. Three correct guesses in a row pays 8x your bet. With save-scumming (save before you start, reload if you lose big), there's no real downside.</p><p><strong>Ride the Bus strategy I use:</strong></p><table><thead><tr><th>Card Range</th><th>My Guess</th><th>Why</th></tr></thead><tbody><tr><td>2 through 6</td><td>Higher</td><td>Statistically safe, 70%+ chance</td></tr><tr><td>7 through 9</td><td>Higher (cautious)</td><td>Risky range, 50-60%</td></tr><tr><td>10 through Ace</td><td>Lower</td><td>Safe bet, face cards skew lower</td></tr></tbody></table><p>Round 1 is a 50/50 color guess. Rounds 2 and 3 get better odds if you're paying attention. If the gap between two drawn cards is 3 or less (like a 7 then an 8), the odds drop. Skip that round and cash out if the 8x multiplier is already in play.</p><p>I start with $1,000 and bet 10% of my bankroll per round. Bet smaller on the color guess (first round), same bet on rounds 2 and 3. If I hit an 8x payout, I'm up to $8,000 and I go home to save.</p><p><strong>Blackjack basic strategy (if you prefer cards):</strong></p><p>I play Blackjack less often, but when I do, I use standard basic strategy:</p><ul><li>Hard 10 or 11: Double down (especially if dealer shows a low card)</li><li>Hard 12-16: Stand if dealer shows 2-6, Hit if dealer shows 7+</li><li>Hard 17+: Always stand</li><li>Soft 18: Stand vs dealer 2-6, Hit vs 9-Ace</li><li>Pairs: Always split Aces and 8s. Never split 10s.</li><li>Never take insurance. It's a sucker bet. The math doesn't work out over time.</li></ul><p>TheGamer and Fandom Wiki cover the same Blackjack rules I verified.</p><p><strong>Save-scumming is the real strategy:</strong></p><p>Here's the routine I settled on:</p><ol><li>Save at my property before going to the casino</li><li>Go to the casino between 4PM and 5AM (closed outside those hours)</li><li>Start with $1,000-$2,000 on Ride the Bus</li><li>If I turn $1K into $5K+, go home and save</li><li>If I bust, reload the save and try again</li><li>Stop when I hit $20K-$30K and use that money for the Barn</li></ol><p>The first time I tried this, I turned $1,000 into $22,000 in about 30 minutes of real time. Reloaded saves twice after bad streaks. Second time I had worse luck and walked away with $8K after 45 minutes. It's not consistent per-round, but with save-scumming you can't lose money long-term.</p><p><strong>When to stop:</strong></p><p>The casino is a tool, not your main income. Once you have $20K-$30K, you should be buying the Barn ($25K) and setting up automation. Casino money is fast but unreliable. Automation money is slower but consistent. Use the casino to jumpstart your mid-game, then switch to production.</p><p>I see posts on Reddit asking "how to make millions at the casino" and honestly, save-scumming to $1M would take hours of reloading. At that point you'd make more money running a Barn for the same amount of time.</p><p><strong>One thing the casino nerfed:</strong></p><p>Earlier patches made the games slightly tighter. As of v0.4.5, save-scumming still works but the minigame odds feel a bit more restricted than launch. Ride the Bus is still the best per-unit-time game according to community testing. The casino is north of main town, near the highway overpass -- no entry fee or rank requirement.</p><p>For the comparison with drug production income, see the <a href=/schedule-i/recipes/profit/>Profit Rankings</a>.</p><div class=resource-section><h2>Community Verification & Resources</h2><p>Data values may shift with patches. Cross-check against community resources before building your strategy.</p><div class=resource-grid><a href=https://schedule-1.fandom.com/wiki/Casino class=resource-card target=_blank rel=noopener><span class=resource-name>Casino Wiki (Fandom)</span>
-<span class=resource-desc>Game rules and payout tables</span>
-</a><a href=https://www.reddit.com/r/Schedule_I/comments/1jogce7/infinite_money_at_the_casino/ class=resource-card target=_blank rel=noopener><span class=resource-name>Reddit Infinite Money Guide</span>
-<span class=resource-desc>Community Ride the Bus strategy</span>
-</a><a href=https://scalacube.com/blog/schedule-1/schedule-1-casino-guide class=resource-card target=_blank rel=noopener><span class=resource-name>ScalaCube Casino Guide</span>
-<span class=resource-desc>Casino walkthrough with odds</span></a></div></div></div></article><nav class=article-nav><a href=/schedule-i/money/speedrun/ class=nav-prev><span class=nav-direction>Previous Article</span>
-<span class=nav-title>$10K in First Hour: Delivery and Trash Dumping Route</span></a></nav><div class=back-section><a href=/schedule-i/money/ class=back-btn>Back to Money</a></div></main></div></div></div><div class=mobile-overlay id=mobileOverlay onclick=toggleMobileNav()></div><nav class=mobile-drawer id=mobileDrawer><a href=/ class=mobile-nav-btn onclick=toggleMobileNav()><span class=nav-dot style="background:var(--gold);box-shadow:0 0 8px rgba(212,168,67,.4)"></span>
-Home</a><div class=mobile-drawer-divider></div><a href=/schedule-i/ class=mobile-nav-btn onclick=toggleMobileNav()><span class="nav-dot dot-schedule-i"></span>
-Schedule I
-</a><a href=/dds2/ class=mobile-nav-btn onclick=toggleMobileNav()><span class="nav-dot dot-dds2"></span>
-Drug Dealer Simulator 2
-</a><a href=/crime-sim/ class=mobile-nav-btn onclick=toggleMobileNav()><span class="nav-dot dot-crime-sim"></span>
-Crime Simulator</a></nav><div class="ad-container ad-leaderboard"><script>atOptions={key:"8a64481667ac37c7fd4592dc642d9545",format:"iframe",height:90,width:728,params:{}}</script><script src=https://www.highperformanceformat.com/8a64481667ac37c7fd4592dc642d9545/invoke.js></script></div><footer class=site-footer><div class=footer-links><a href=/schedule-i/>Schedule I</a>
-<a href=/dds2/>Drug Dealer Simulator 2</a>
-<a href=/crime-sim/>Crime Simulator</a></div><p class=copyright>&copy; 2026 Crime Empire Guide (Unofficial). This site is not affiliated with the game developers. All game content and materials are trademarks and copyrights of their respective owners.</p></footer><script async data-cfasync=false src=https://pl29689389.effectivecpmnetwork.com/c2cbc8f761fa97ece6317f351a3b7705/invoke.js></script><div id=container-c2cbc8f761fa97ece6317f351a3b7705></div><script src=https://pl29689390.effectivecpmnetwork.com/a6/8b/b4/a68bb489bc1addcb65d86ec8c9d49ff0.js></script><script src=/js/main.js></script><div id=cookie-banner class=cookie-banner><div class=cookie-banner-content><p>We use cookies to deliver advertisements and analyse site traffic. <a href=#>Privacy Policy</a>.</p><button onclick=acceptCookies() class=cookie-accept>Accept All</button></div></div><button id=backToTop class=back-to-top onclick=scrollToTop() aria-label="Back to top">&#8593;</button>
-<script>function scrollToTop(){window.scrollTo({top:0,behavior:"smooth"})}window.addEventListener("scroll",function(){var e=document.getElementById("backToTop");window.scrollY>400?e.classList.add("visible"):e.classList.remove("visible")})</script><script>function acceptCookies(){localStorage.setItem("cookie_consent","accepted"),document.getElementById("cookie-banner").style.display="none"}document.addEventListener("DOMContentLoaded",function(){localStorage.getItem("cookie_consent")&&(document.getElementById("cookie-banner").style.display="none")})</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made | Crime Empire Guide</title>
+  <meta name="description" content="I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here&#39;s what I …">
+  <link rel="canonical" href="http://localhost:1313/schedule-i/money/casino-strategy/">
+  <base href="http://localhost:1313/">
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0HZEQS7C2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Z0HZEQS7C2');
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="site-logo">
+    <span class="logo-icon">CE</span> CRIME EMPIRE
+  </a>
+  <div class="nav-links">
+    
+    
+    <a href="/schedule-i/" class="nav-btn">Schedule I</a>
+    
+    
+    
+    <a href="/dds2/" class="nav-btn">Drug Dealer Simulator 2</a>
+    
+    
+    
+    <a href="/crime-sim/" class="nav-btn">Crime Simulator</a>
+    
+    
+  </div>
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation">
+    <div class="hamburger-icon">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </button>
+</header>
+
+<div class="page-wrap">
+  
+
+
+
+
+
+
+
+
+
+
+
+<section class="section-hero game-schedule-i">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>Schedule I</h1>
+    <p class="section-hero-tagline">Drug Empire Simulator</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+
+  
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <a href="/schedule-i/">Schedule I</a>
+    <span class="sep">/</span>
+    <a href="/schedule-i/money/">Money</a>
+    <span class="sep">/</span>
+    <span class="current">Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</span>
+  </nav>
+
+  
+  <div class="cat-nav game-schedule-i">
+    
+    <a href="/schedule-i/automation/" class="cat-nav-btn ">
+      Automation
+    </a>
+    
+    <a href="/schedule-i/expansion/" class="cat-nav-btn ">
+      Expansion
+    </a>
+    
+    <a href="/schedule-i/hybrid/" class="cat-nav-btn ">
+      Hybrid Guide
+    </a>
+    
+    <a href="/schedule-i/money/" class="cat-nav-btn active">
+      Money
+    </a>
+    
+    <a href="/schedule-i/npc/" class="cat-nav-btn ">
+      NPC Guide
+    </a>
+    
+    <a href="/schedule-i/patch/" class="cat-nav-btn ">
+      Patch Updates
+    </a>
+    
+    <a href="/schedule-i/police/" class="cat-nav-btn ">
+      Police System
+    </a>
+    
+    <a href="/schedule-i/property/" class="cat-nav-btn ">
+      Property
+    </a>
+    
+    <a href="/schedule-i/recipes/" class="cat-nav-btn ">
+      Recipes
+    </a>
+    
+  </div>
+
+  <div class="single-layout">
+
+    
+    <aside class="guide-sidebar game-schedule-i">
+      <div class="sidebar-header">
+        <h3>Money</h3>
+        <span class="sidebar-count">2 articles</span>
+      </div>
+      <div class="sidebar-list">
+        
+        <a href="/schedule-i/money/casino-strategy/" class="sidebar-item active">
+          <span class="sidebar-title">Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</span>
+        </a>
+        
+        <a href="/schedule-i/money/speedrun/" class="sidebar-item ">
+          <span class="sidebar-title">$10K in First Hour: Delivery and Trash Dumping Route</span>
+        </a>
+        
+      </div>
+    </aside>
+
+    
+    <main class="single-main">
+      <article class="single-article">
+        <div class="article-header">
+          <div class="article-tag money">MONEY</div>
+          <h1>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</h1>
+          <div class="article-meta">
+            <span>Updated: Jun 15, 2026</span>
+          </div>
+        </div>
+        <div class="article-body game-schedule-i">
+          <p>I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here's what I found.</p>
+<p><strong>Ride the Bus pays better than Blackjack.</strong></p>
+<p>Reddit community analysis pegs Ride the Bus at roughly +25% expected value per hand, compared to Blackjack's -0.5% (even with perfect play). I can't verify the exact math, but my own testing matches the pattern -- Ride the Bus consistently grew my stack faster.</p>
+<p>The reason is the multiplier structure. Three correct guesses in a row pays 8x your bet. With save-scumming (save before you start, reload if you lose big), there's no real downside.</p>
+<p><strong>Ride the Bus strategy I use:</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Card Range</th>
+          <th>My Guess</th>
+          <th>Why</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>2 through 6</td>
+          <td>Higher</td>
+          <td>Statistically safe, 70%+ chance</td>
+      </tr>
+      <tr>
+          <td>7 through 9</td>
+          <td>Higher (cautious)</td>
+          <td>Risky range, 50-60%</td>
+      </tr>
+      <tr>
+          <td>10 through Ace</td>
+          <td>Lower</td>
+          <td>Safe bet, face cards skew lower</td>
+      </tr>
+  </tbody>
+</table>
+<p>Round 1 is a 50/50 color guess. Rounds 2 and 3 get better odds if you're paying attention. If the gap between two drawn cards is 3 or less (like a 7 then an 8), the odds drop. Skip that round and cash out if the 8x multiplier is already in play.</p>
+<p>I start with $1,000 and bet 10% of my bankroll per round. Bet smaller on the color guess (first round), same bet on rounds 2 and 3. If I hit an 8x payout, I'm up to $8,000 and I go home to save.</p>
+<p><strong>Blackjack basic strategy (if you prefer cards):</strong></p>
+<p>I play Blackjack less often, but when I do, I use standard basic strategy:</p>
+<ul>
+<li>Hard 10 or 11: Double down (especially if dealer shows a low card)</li>
+<li>Hard 12-16: Stand if dealer shows 2-6, Hit if dealer shows 7+</li>
+<li>Hard 17+: Always stand</li>
+<li>Soft 18: Stand vs dealer 2-6, Hit vs 9-Ace</li>
+<li>Pairs: Always split Aces and 8s. Never split 10s.</li>
+<li>Never take insurance. It's a sucker bet. The math doesn't work out over time.</li>
+</ul>
+<p>TheGamer and Fandom Wiki cover the same Blackjack rules I verified.</p>
+<p><strong>Save-scumming is the real strategy:</strong></p>
+<p>Here's the routine I settled on:</p>
+<ol>
+<li>Save at my property before going to the casino</li>
+<li>Go to the casino between 4PM and 5AM (closed outside those hours)</li>
+<li>Start with $1,000-$2,000 on Ride the Bus</li>
+<li>If I turn $1K into $5K+, go home and save</li>
+<li>If I bust, reload the save and try again</li>
+<li>Stop when I hit $20K-$30K and use that money for the Barn</li>
+</ol>
+<p>The first time I tried this, I turned $1,000 into $22,000 in about 30 minutes of real time. Reloaded saves twice after bad streaks. Second time I had worse luck and walked away with $8K after 45 minutes. It's not consistent per-round, but with save-scumming you can't lose money long-term.</p>
+<p><strong>When to stop:</strong></p>
+<p>The casino is a tool, not your main income. Once you have $20K-$30K, you should be buying the Barn ($25K) and setting up automation. Casino money is fast but unreliable. Automation money is slower but consistent. Use the casino to jumpstart your mid-game, then switch to production.</p>
+<p>I see posts on Reddit asking &quot;how to make millions at the casino&quot; and honestly, save-scumming to $1M would take hours of reloading. At that point you'd make more money running a Barn for the same amount of time.</p>
+<p><strong>One thing the casino nerfed:</strong></p>
+<p>Earlier patches made the games slightly tighter. As of v0.4.5, save-scumming still works but the minigame odds feel a bit more restricted than launch. Ride the Bus is still the best per-unit-time game according to community testing. The casino is north of main town, near the highway overpass -- no entry fee or rank requirement.</p>
+<p>For the comparison with drug production income, see the <a href="/schedule-i/recipes/profit/">Profit Rankings</a>.</p>
+<div class="resource-section">
+  <h2>Community Verification &amp; Resources</h2>
+  <p>Data values may shift with patches. Cross-check against community resources before building your strategy.</p>
+  <div class="resource-grid">
+    
+  <a href="https://schedule-1.fandom.com/wiki/Casino" class="resource-card" target="_blank" rel="noopener">
+    <span class="resource-name">Casino Wiki (Fandom)</span>
+    <span class="resource-desc">Game rules and payout tables</span>
+  </a>
+  <a href="https://www.reddit.com/r/Schedule_I/comments/1jogce7/infinite_money_at_the_casino/" class="resource-card" target="_blank" rel="noopener">
+    <span class="resource-name">Reddit Infinite Money Guide</span>
+    <span class="resource-desc">Community Ride the Bus strategy</span>
+  </a>
+  <a href="https://scalacube.com/blog/schedule-1/schedule-1-casino-guide" class="resource-card" target="_blank" rel="noopener">
+    <span class="resource-name">ScalaCube Casino Guide</span>
+    <span class="resource-desc">Casino walkthrough with odds</span>
+  </a>
+
+  </div>
+</div>
+
+        </div>
+      </article>
+
+      <nav class="article-nav">
+        
+        <a href="/schedule-i/money/speedrun/" class="nav-prev">
+          <span class="nav-direction">Previous Article</span>
+          <span class="nav-title">$10K in First Hour: Delivery and Trash Dumping Route</span>
+        </a>
+        
+        
+      </nav>
+
+      <div class="back-section">
+        <a href="/schedule-i/money/" class="back-btn">Back to Money</a>
+      </div>
+    </main>
+  </div>
+</div>
+
+
+</div>
+
+
+<div class="mobile-overlay" id="mobileOverlay" onclick="toggleMobileNav()"></div>
+<nav class="mobile-drawer" id="mobileDrawer">
+  <a href="/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot" style="background:var(--gold);box-shadow:0 0 8px rgba(212,168,67,.4)"></span>
+    Home
+  </a>
+  <div class="mobile-drawer-divider"></div>
+  
+  
+  <a href="/schedule-i/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-schedule-i"></span>
+    Schedule I
+  </a>
+  
+  
+  
+  <a href="/dds2/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-dds2"></span>
+    Drug Dealer Simulator 2
+  </a>
+  
+  
+  
+  <a href="/crime-sim/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-crime-sim"></span>
+    Crime Simulator
+  </a>
+  
+  
+</nav>
+
+
+<div class="ad-container ad-leaderboard">
+<script>
+  atOptions = {
+    'key' : '8a64481667ac37c7fd4592dc642d9545',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/8a64481667ac37c7fd4592dc642d9545/invoke.js"></script>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-links">
+    
+    
+    <a href="/schedule-i/">Schedule I</a>
+    
+    
+    
+    <a href="/dds2/">Drug Dealer Simulator 2</a>
+    
+    
+    
+    <a href="/crime-sim/">Crime Simulator</a>
+    
+    
+  </div>
+  <p class="copyright">&copy; 2026 Crime Empire Guide (Unofficial). This site is not affiliated with the game developers. All game content and materials are trademarks and copyrights of their respective owners.</p>
+</footer>
+
+
+<script async="async" data-cfasync="false" src="https://pl29689389.effectivecpmnetwork.com/c2cbc8f761fa97ece6317f351a3b7705/invoke.js"></script>
+<div id="container-c2cbc8f761fa97ece6317f351a3b7705"></div>
+<script src="https://pl29689390.effectivecpmnetwork.com/a6/8b/b4/a68bb489bc1addcb65d86ec8c9d49ff0.js"></script>
+
+<script src="/js/main.js"></script>
+
+
+<div id="cookie-banner" class="cookie-banner">
+  <div class="cookie-banner-content">
+    <p>We use cookies to deliver advertisements and analyse site traffic. <a href="#">Privacy Policy</a>.</p>
+    <button onclick="acceptCookies()" class="cookie-accept">Accept All</button>
+  </div>
+</div>
+
+<button id="backToTop" class="back-to-top" onclick="scrollToTop()" aria-label="Back to top">&#8593;</button>
+<script>
+function scrollToTop() {
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+window.addEventListener('scroll', function() {
+  var btn = document.getElementById('backToTop');
+  if (window.scrollY > 400) { btn.classList.add('visible'); } else { btn.classList.remove('visible'); }
+});
+</script>
+<script>
+function acceptCookies() {
+  localStorage.setItem('cookie_consent', 'accepted');
+  document.getElementById('cookie-banner').style.display = 'none';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  if (localStorage.getItem('cookie_consent')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+});
+</script>
+
+</body>
+</html>

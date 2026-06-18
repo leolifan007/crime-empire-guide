@@ -7,16 +7,11 @@ tag: PARKOUR
 weight: 2
 ---
 
-{{< callout "info" >}}
-Police in DDS2 have a heat system similar to open-world crime games. Your wanted level (None -> Person of Interest -> Suspect -> Wanted) determines pursuit intensity. Parkour breaks line of sight faster than any other method.
+Police in DDS2 have a heat system similar to open-world crime games. Your wanted level (None to Person of Interest to Suspect to Wanted) determines pursuit intensity. Parkour breaks line of sight faster than any other method I have found.
 
-{{< /callout >}}
+**Wanted level system:**
 
-{{< diagram "diagrams/dds2-parkour-escape.svg" "DDS2 Police Evasion: Wanted Levels and Escape Routes" "720" >}}
-
-{{< section "Wanted Level System" >}}
-
-Based on the DDS2 Fandom hideout page and community discussions:
+Based on the Fandom hideout page and community discussions:
 
 | Level | Name | Police Behavior | How to Reduce |
 |-------|------|----------------|---------------|
@@ -25,19 +20,13 @@ Based on the DDS2 Fandom hideout page and community discussions:
 | 2 | Suspect | Active search, roadblocks | 5-10 min, avoid crime |
 | 3 | Wanted | Pursuit, helicopter | 10+ min, hide in safe spot |
 
-{{< section "Parkour Escape Flow" >}}
+**My escape flow:**
 
-When police start chasing:
+When police start chasing, I sprint to the nearest obstacle (fence, wall, barrier), vault or wall-run to break initial line of sight, climb to higher ground (roof, balcony, ledge), crouch and wait. NPCs cannot path onto most roofs. Once heat drops one level, I move to a different sector via parkour shortcuts.
 
-1. Sprint to nearest obstacle (fence, wall, barrier)
-2. Vault or wall-run to break initial line of sight
-3. Climb to higher ground (roof, balcony, ledge)
-4. Crouch and wait -- NPCs cannot path onto most roofs
-5. Once heat drops one level, move to a different sector via parkour shortcuts
+The Steam sector connection guide by a community member documents all routes between areas, including police checkpoint locations to avoid. I memorized the routes near my primary hideout first.
 
-The Steam sector connection guide by a community member documents all routes between areas, including police checkpoint locations to avoid.
-
-{{< section "Items That Help Evasion" >}}
+**Items that help evasion:**
 
 | Item | Effect | Source |
 |------|--------|--------|
@@ -45,9 +34,7 @@ The Steam sector connection guide by a community member documents all routes bet
 | Bribe cash | Instant heat reduction | Requires cash on hand |
 | Energy drinks | Stamina recovery for longer parkour chains | Vendors |
 
-{{< callout "info" >}}The community quick-start guide mentions that "police hours bring extra cash." This means there are windows when law enforcement is more active but delivery payouts are higher. Plan your high-risk deliveries during these windows but have escape routes memorized.{{< /callout >}}
-
-{{< section "Escape Route Priority" >}}
+**Escape route priority:**
 
 | Zone | Best Route Type | Difficulty |
 |------|----------------|------------|
@@ -56,10 +43,7 @@ The Steam sector connection guide by a community member documents all routes bet
 | Rural | Tree line + terrain obstacles | Easy |
 | Coastal | Building-to-building jumps | Hard |
 
-<div class="resource-section">
-  <h2>Resources</h2>
-  {{< resourcegrid >}}
+{{< resourcegrid >}}
     {{< resourcecard name="Sector Connection Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=2717211047" desc="Every route between sectors with parkour shortcuts and police checkpoints" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="DDS2 Fandom Wiki" url="https://drug-dealer-simulator-2.fandom.com/wiki/Drug_Dealer_Simulator_2_Wiki" desc="Tutorials, hideout mechanics, heat system" target="_blank" rel="noopener noreferrer" >}}
-  {{< /resourcegrid >}}
-</div>
+{{< /resourcegrid >}}

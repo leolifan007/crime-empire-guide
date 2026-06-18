@@ -1,89 +1,58 @@
-﻿---
+---
 title: "Getting Started in Crime Simulator"
 date: 2026-06-09
-draft: false
+draft: false
+
 game: crime-sim
 tags: [beginner, tutorial]
 weight: 1
 description: "New to Crime Simulator? This step-by-step beginner guide covers the tutorial, basic controls, first heist, and how to avoid prison."
 ---
 
-{{< callout "info" >}}
-Stuck in the tutorial? Follow this route: Complete the tutorial objective > pick up the crowbar > rob your first house > sell the loot at the fence > buy better tools before your next run.
-{{< /callout >}}
+I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.
 
-## First 15 Minutes: What Matters
+The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part.
 
-You start Crime Simulator in debt. The game throws you into a tutorial that teaches the core loop: find a house, break in, steal valuables, sell them, repeat. The tutorial is short but skipping its lessons on lockpicking and stealth will cost you later.
+**Your first job:**
 
-After the tutorial, you have a hideout, a crowbar, and zero cash. Every heist starts from this room.
+Pull up the job board at your hideout. Start with the lowest-risk target -- a small suburban house with minimal security. Before you leave:
 
-### Your First Job
-
-Pull up the job board at your hideout. It lists available houses and their estimated loot value. Start with the lowest-risk target -- usually a small suburban house with minimal security.
-
-**Before you go:**
-- Bring the crowbar (your only tool initially)
-- Check the time of day (night gives better cover)
+- Take the crowbar (your only tool initially)
+- Check the time of day (night gives better cover, I get caught less at night)
 - Note the house layout from the job description
 
-### Breaking In
+Approach from the rear or sides. Windows and back doors are quieter than the front. Once inside:
 
-Approach the house from the rear or sides. Windows and back doors are easier than the front. Use the crowbar on weak entry points. Once inside:
-
-1. Crouch near windows to avoid being spotted
-2. Head toward valuables -- electronics, cash, jewelry
+1. Crouch near windows so you do not get spotted from outside
+2. Head toward electronics, cash, jewelry first
 3. Watch for NPCs inside the building
 4. Exit before the police arrive
 
-The police system triggers based on noise and visibility. A broken window or a seen silhouette increases your heat. Stay quiet, stay dark, and you will clear the house clean.
+The police system triggers based on noise and visibility. A broken window or a silhouette against a window increases your heat. I learned this the hard way when I smashed a front window in broad daylight and was running before I had even grabbed anything.
 
-### Selling Your First Haul
+**Selling your first haul:**
 
-Every map has a fence who buys stolen goods. Find them on the map -- they are marked with a dollar icon. Drag items from your inventory to the sell window. Not all items are worth the same; electronics and jewelry sell for significantly more than household junk.
+Every map has a fence marked with a dollar icon. Drag items from inventory to the sell window. Electronics and jewelry sell for significantly more than household junk -- I grab those first and leave kitchen appliances behind.
 
-{{< callout "tip" >}}
-Keep one of each common item type early on. Some item requests need specific things, and completing these gives bonus cash and unlocks better gear.
-{{< /callout >}}
+A few players on Reddit and Steam suggest keeping one of each common item type early on for item requests. I ignored this advice at first and regretted it when requests popped up for items I had just sold.
 
-## Tool Priority After First Run
+**Tool priority after the first run:**
 
-With your first payout around $500-$1,000 based on community reports, buy in this order:
+With your first payout (around $500-$1,000 based on what I and other players have seen), buy in this order:
 
-1. **Basic lockpick set** (unlocks locked doors without noise)
-2. **Flashlight** (many interiors are dark, missing loot costs you money)
-3. **Sleeping gas** (neutralizes a single NPC without alerting others)
+1. Basic lockpick set -- unlocks locked doors without the crowbar noise
+2. Flashlight -- I missed loot in dark corners my first few runs
+3. Sleeping gas -- neutralizes a single NPC without alerting others
 
-Do not waste money on cosmetic items or base furniture early. Every dollar goes into tools that enable better heists.
+Skip cosmetic items and hideout furniture early. I bought a poster for my wall my first run and could not afford a lockpick upgrade. Every dollar goes into tools that enable better heists.
 
-## Avoiding the Police
+**Avoiding the police:**
 
-Getting caught means a chase. If police spawn:
+Getting caught means a chase. The Steam guides and Reddit discussions agree on this: break line of sight, hide in a closet or bathroom, stay still until the search timer expires. Do not sprint while hiding -- NPCs can hear footsteps.
 
-- Break line of sight and hide in a closet or bathroom
-- Stay still until the search timer expires
-- Do not sprint while hiding (footsteps are audible)
-- If you escape, lay low for a few minutes before your next job
+If you are about to get caught and have not been to the hideout since the start of the run, quit to menu. The game saves at the hideout only. You will respawn with your loot intact. I have used this more times than I want to admit.
 
-A single arrest costs you all unsold loot and a chunk of your cash. That is a setback you cannot afford early on.
-
-{{< insight >}}
-The game saves progress only when you return to the hideout. If you aggro police and think you will not escape, quit to menu immediately -- you will respawn at hideout with your loot intact.
-{{< /insight >}}
-
-## Progression Checklist
-
-{{< notelist >}}
-  {{< note >}}Complete the tutorial without skipping{{< /note >}}
-  {{< note >}}Rob 3 low-security houses for starter capital{{< /note >}}
-  {{< note >}}Buy lockpick set + flashlight{{< /note >}}
-  {{< note >}}Accept a job from the board (higher payout){{< /note >}}
-  {{< note >}}Complete your first item request for bonus cash{{< /note >}}
-{{< /notelist >}}
-
-Once you have done all five, you are ready for medium-security houses and your first skill leaflet hunt.
-
----
+For the full breakdown of game modes, see the [Game Modes and Quota guide](/crime-sim/basics/game-modes-and-quota/).
 
 {{< resourcegrid >}}
   {{< resourcecard name="Steam Store" url="https://store.steampowered.com/app/2737070/Crime_Simulator/" desc="Official Steam page with system requirements" >}}

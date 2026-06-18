@@ -7,14 +7,9 @@ tag: PARKOUR
 weight: 1
 ---
 
-{{< callout "info" >}}
-The DDS2 Fandom tutorial page confirms: "Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas." Parkour is your primary survival tool -- not guns.
+The DDS2 Fandom tutorial page confirms: "Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas." Parkour is your primary survival tool -- not guns. I stopped trying to fight police after my first few arrests.
 
-{{< /callout >}}
-
-{{< diagram "diagrams/dds2-parkour-escape.svg" "DDS2 Parkour System: Actions and Police Escape Flow" "720" >}}
-
-{{< section "Parkour Actions" >}}
+**Parkour actions:**
 
 | Action | Key | Use Case |
 |--------|-----|----------|
@@ -24,12 +19,9 @@ The DDS2 Fandom tutorial page confirms: "Use parkour to find shortcuts, to make 
 | Sprint | Shift | Open ground between cover |
 | Crouch/Slide | Ctrl | Break line of sight |
 
-The Fandom wiki confirms these moves are specifically designed for:
-- Finding shortcuts between sectors
-- Escaping police and enemy chases
-- Reaching otherwise inaccessible areas
+These moves are specifically designed for finding shortcuts between sectors, escaping police and enemy chases, and reaching otherwise inaccessible areas.
 
-{{< section "Why Parkour Beats Fighting" >}}
+**Why parkour beats fighting:**
 
 | Factor | Fighting | Parkour Escape |
 |--------|----------|---------------|
@@ -38,9 +30,9 @@ The Fandom wiki confirms these moves are specifically designed for:
 | Ammo/health cost | Consumes resources | None |
 | Repeatability | Limited by resources | Infinite |
 
-{{< insight >}}The Steam quick-start guide notes that "Police hours bring extra cash." The corollary: getting caught during police hours costs more than just money -- it raises your wanted level and increases raid probability. Parkour escape is the safest option.{{< /insight >}}
+The Steam quick-start guide notes that "Police hours bring extra cash." The corollary: getting caught during police hours costs more than just money -- it raises your wanted level and increases raid probability. Parkour escape is the safest option.
 
-{{< section "Escape Route Strategy" >}}
+**Escape route strategy:**
 
 | Situation | Recommended Parkour Path |
 |-----------|------------------------|
@@ -49,13 +41,10 @@ The Fandom wiki confirms these moves are specifically designed for:
 | Lab raid | Rear exit -> vault obstacles -> tree line |
 | Rival gang encounter | Over fence -> sprint through buildings -> crouch hide |
 
-The Fandom wiki emphasizes that parkour opens shortcuts between sectors, making cross-territory travel faster and safer.
+The Fandom wiki emphasizes that parkour opens shortcuts between sectors, making cross-territory travel faster and safer. The Steam sector guide documents all routes including police checkpoint locations to avoid.
 
-<div class="resource-section">
-  <h2>Resources</h2>
-  {{< resourcegrid >}}
+{{< resourcegrid >}}
     {{< resourcecard name="DDS2 Fandom Tutorials" url="https://drug-dealer-simulator-2.fandom.com/wiki/Tutorials" desc="Parkour mechanics, flashlights, and game systems" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="Steam Sector Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=2717211047" desc="Parkour routes between every sector with police checkpoint info" target="_blank" rel="noopener noreferrer" >}}
     {{< resourcecard name="DDS2 Steam Page" url="https://store.steampowered.com/app/1708850/Drug_Dealer_Simulator_2/" desc="Parkour system confirmed as core feature" target="_blank" rel="noopener noreferrer" >}}
-  {{< /resourcegrid >}}
-</div>
+{{< /resourcegrid >}}

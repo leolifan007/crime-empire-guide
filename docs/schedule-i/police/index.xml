@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Police System on Crime Empire Guide</title><link>https://crimempire.com/schedule-i/police/</link><description>Recent content in Police System on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Jun 2026 12:15:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/schedule-i/police/index.xml" rel="self" type="application/rss+xml"/><item><title>Heat System: What Actually Triggers Police (and What Doesn't)</title><link>https://crimempire.com/schedule-i/police/heat-system/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/police/heat-system/</guid><description>&lt;p&gt;The Heat system in Schedule I isn't complicated once you understand what the game actually tracks. I spent my first few hours paranoid about police, hiding every time I saw a blue dot. Turns out I was overthinking it.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How Heat actually works:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;There's no hidden &amp;quot;heat number.&amp;quot; It's a Wanted status that escalates based on what the police &lt;em&gt;see&lt;/em&gt; you do. The game uses line-of-sight detection -- if a cop can't see you commit the crime, it doesn't count. Simple as that.&lt;/p&gt;</description></item><item><title>Getting Away from Cops: The Parking Garage Roof Trick</title><link>https://crimempire.com/schedule-i/police/evasion/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/police/evasion/</guid><description>&lt;p&gt;I've been chased by cops in Schedule I more times than I can count. Tried every escape method the community talks about. Here's what actually works and what doesn't.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The garage roof method (my go-to):&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;There's a multi-level parking garage near the motel. Run up the ramp to the top floor. Police can't pathfind up there. Once you're on the roof, the Wanted timer ticks down and they just wander around below. I've tested this at every Heat level through v0.4.5 and it's never failed.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Police System on Crime Empire Guide</title>
+    <link>http://localhost:1313/schedule-i/police/</link>
+    <description>Recent content in Police System on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jun 2026 12:15:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/schedule-i/police/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heat System: What Actually Triggers Police (and What Doesn&#39;t)</title>
+      <link>http://localhost:1313/schedule-i/police/heat-system/</link>
+      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
+      <guid>http://localhost:1313/schedule-i/police/heat-system/</guid>
+      <description>&lt;p&gt;The Heat system in Schedule I isn&#39;t complicated once you understand what the game actually tracks. I spent my first few hours paranoid about police, hiding every time I saw a blue dot. Turns out I was overthinking it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;How Heat actually works:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;There&#39;s no hidden &amp;quot;heat number.&amp;quot; It&#39;s a Wanted status that escalates based on what the police &lt;em&gt;see&lt;/em&gt; you do. The game uses line-of-sight detection -- if a cop can&#39;t see you commit the crime, it doesn&#39;t count. Simple as that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Away from Cops: The Parking Garage Roof Trick</title>
+      <link>http://localhost:1313/schedule-i/police/evasion/</link>
+      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
+      <guid>http://localhost:1313/schedule-i/police/evasion/</guid>
+      <description>&lt;p&gt;I&#39;ve been chased by cops in Schedule I more times than I can count. Tried every escape method the community talks about. Here&#39;s what actually works and what doesn&#39;t.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The garage roof method (my go-to):&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;There&#39;s a multi-level parking garage near the motel. Run up the ramp to the top floor. Police can&#39;t pathfind up there. Once you&#39;re on the roof, the Wanted timer ticks down and they just wander around below. I&#39;ve tested this at every Heat level through v0.4.5 and it&#39;s never failed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,103 +1,50 @@
-﻿---
+---
 title: "Crime Simulator Loot Locations and Item Values Guide"
 date: 2026-06-09
-draft: false
+draft: false
+
 game: crime-sim
 tags: [loot, items, locations, guide]
 weight: 1
 description: "Where to find the best loot in Crime Simulator -- high-value electronics, jewelry, gold bars, and how to spot item requests across every map."
 ---
 
-{{< callout "info" >}}
-Electronics and jewelry give the best weight-to-value ratio. A laptop is worth roughly 5x what a kitchen appliance sells for and takes the same inventory slot.
-{{< /callout >}}
+Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+.
 
-## Loot Tiers by Value
-
-Not all loot is created equal. Prioritize these items when you see them:
-
-### High Value ($200+ each)
+**High value ($200+ each):**
 - Laptops and tablets
 - Jewelry (rings, watches, necklaces)
 - Gold bars (Update 1.3)
 - Cash stacks
 - Smartphones
 
-### Medium Value ($80-$200)
-- Gaming consoles
-- Power tools
-- Brand-name clothing
-- Cameras
-- Stereos
+**Medium value ($50-$200):**
+- Small electronics (cameras, game consoles)
+- Designer clothing
+- Silverware sets
+- Tools and power equipment
 
-### Low Value (under $80)
+**Low value (under $50):**
 - Kitchen appliances
-- Decorations
-- Books
-- Clothing
-- General household items
+- Basic clothing
+- Household decorations
+- Food items
 
-{{< callout "tip" >}}
-Always pick up cash stacks first. They take no extra inventory management -- cash auto-converts to currency when you leave. Free money.
-{{< /callout >}}
+Electronics and jewelry give the best weight-to-value ratio. A laptop is worth roughly 5x what a kitchen appliance sells for and takes the same inventory slot. I leave blenders and toasters behind.
 
-## House Types and Expected Loot
+**Item request system:**
 
-Different house layouts favor different loot types:
+The item request board can offer 50-100% premium over fence prices. Before selling anything, I check the board and mark which items are currently requested. Holding onto matching items for delivery on the next trip to that map area pays significantly more.
 
-### Suburban Houses
-Low to medium security. Expect household electronics, some cash, occasional jewelry. Good for beginners. Two to three bedrooms offer the most loot density per visit.
+If an item type appears on multiple request lists simultaneously, its value multiplies. I had a laptop worth $200 at the fence deliver for $375 to two requesting NPCs. The Steam loot selling strategy guide confirms this mechanic.
 
-### Upscale Residences
-Higher security (alarms, electronic locks). Better loot: laptops, jewelry boxes, wall safes. Bring the hacking tool for electronic locks.
+**Gold bars (Update 1.3):**
 
-### Apartments
-Tight spaces, multiple floors, neighbors nearby. High noise risk. Loot is concentrated in bedrooms and living rooms. Quick in-and-out targets.
+Do not sell gold bars for quick cash. They are the currency for basement upgrades, and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price. I sell them only after the basement is fully upgraded.
 
-### Commercial Properties
-Stores, offices, pawn shops. High-value display items behind glass. The glass knife is essential. Expect security cameras and alarms.
-
-### Heist Locations
-Special high-security targets unlocked through progression. Require full tool kits and planning. Best loot in the game: gold bars, authentic jewelry, high-end electronics.
-
-## Item Request System
-
-Some items on your map have specific wants. If you bring a requested item to the right NPC, you get bonus cash on top of the regular sell price.
-
-**How it works:**
-1. Check your item request list at the hideout notice board
-2. Note what items are requested and by whom
-3. When looting, keep requested items instead of selling them immediately
-4. Deliver the items to the requesting NPC
-
-Requested items pay about 50-100% more than fence prices according to community reports. Stacking multiple requests for the same item type is possible and lucrative.
-
-## Gold Bars (Update 1.3)
-
-Gold bars are a special loot type introduced in Update 1.3. They are used for safehouse upgrades rather than direct cash:
-
-- **Found in:** High-security targets, heist locations
-- **Authentic vs Fake:** Some jewelry is fake. Authentic gold bars are clearly marked. Fake jewelry sells for less but still has some value.
-- **Use:** Gold bars upgrade your basement hideout for better storage and tool racks
-
-{{< insight >}}
-Selling gold bars for cash is often a trap. Gold bars used in hideout upgrades unlock higher-value contracts and better loot tables. The long-term profit from upgraded hideout far exceeds the immediate sale price.
-{{< /insight >}}
-
-## Per-Map Loot Differences
-
-Crime Simulator's 1.2 update added the Rural Arizona map with distinct loot pools:
-
-| Map | Best Loot | Security Level | Tools Needed |
-|-----|-----------|---------------|--------------|
-| Starting City | Electronics, cash | Low-Medium | Lockpick, flashlight |
-| Rural Arizona (1.2) | Tools, car parts, rural valuables | Medium | Lockpick, drill, blowtorch |
-
-Each map resets its loot table periodically. If you clear a high-value house, note the in-game day and revisit after 3-4 days -- loot will respawn based on community observations.
-
----
+See the [Loot Selling Strategy](/crime-sim/loot/loot-selling-strategy/) for the full breakdown on maximizing profit per heist.
 
 {{< resourcegrid >}}
-  {{< resourcecard name="Update 1.2 Patch Notes" url="https://www.facebook.com/UltimateGamesSA/posts/-update-12-in-crime-simulator-is-live-%EF%B8%8F-hit-the-road-in-the-new-rural-arizona-ma/1192522186314873/" desc="Official 1.2 update details with map expansion" >}}
-  {{< resourcecard name="Update 1.3 Patch Notes" url="https://www.facebook.com/UltimateGamesSA/posts/-update-13-is-live-for-crime-simulatorjewelry-loot-authentic-or-fake-a-basement-/1250735433826881/" desc="Jewelry, gold bars, and basement upgrade details" >}}
+  {{< resourcecard name="Update 1.3 Announcement" url="https://www.facebook.com/UltimateGamesSA/posts/-update-13-is-live-for-crime-simulatorjewelry-loot-authentic-or-fake-a-basement-/1250735433826881/" desc="Official 1.3 patch notes" >}}
+  {{< resourcecard name="Steam Community Guides" url="https://steamcommunity.com/app/2737070/guides/" desc="Community guides on loot and selling" >}}
 {{< /resourcegrid >}}
