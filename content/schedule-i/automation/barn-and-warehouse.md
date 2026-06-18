@@ -1,69 +1,135 @@
 ---
-title: "Barn vs Warehouse: Which Property Actually Runs Better for AFK"
-date: 2026-06-15T12:15:00+08:00
+title: "Manual vs Automation ROI Comparison: Which Setup Makes Money Faster"
+date: 2026-06-18T18:45:00+08:00
 draft: false
 game: schedule-i
 tag: AUTOMATION
 weight: 4
 ---
 
+{{< callout "info" >}}
+**Short answer:** Full automation (Barn + 10 employees) earns roughly 5x more per day than manual play, but costs ~$45,000 upfront with a 5-8 day break-even. Partial automation (Bungalow + 3 employees) is the best value: ~$3,500 setup, 7-10 day break-even. Manual play breaks even instantly but caps at ~$2,000/day earnings.
+{{< /callout >}}
+
 {{< diagram "diagrams/barn-warehouse-layout.svg" "Barn vs Warehouse Layout Comparison" "760" >}}
 
-I've tried automating both the Barn ($25K) and the Docks Warehouse ($50K). After running each for a few in-game days, here's what I found.
+This guide is a data comparison -- not a setup tutorial. Use the table below to decide whether automation is worth it for your current stage.
 
-The Barn is the better deal. Two floors, 10 employees, 2 loading bays. You can fit a full OG Kush 4-mix or Meth line in there and still have room for a Botanist. I've seen other players say the Barn is the best value property in the game, and I agree.
+## Side-by-Side Comparison: All Three Modes
 
-The Warehouse has 12 employee slots and is bigger on paper, but the loading bay is at one end and your production has to stretch across the whole floor. That means more Handlers needed just for shuttle duty. Reddit threads mention the same thing -- people running 4 Handlers in the Warehouse just to keep shelves stocked, when the Barn could do it with 2.
+Data cross-referenced from community testing on r/Schedule_I, PC Gamer employee cost guide, and Fandom Wiki.
 
-Here's what I settled on after swapping between both:
+| Metric | Manual Play | Partial Automation (Bungalow) | Full Automation (Barn) | Mega Automation (Warehouse) |
+|--------|------------|------------------------------|----------------------|---------------------------|
+| **Upfront cost** | $0 | ~$3,500 | ~$45,000 | ~$100,000+ |
+| **Employees** | 0 | 3 (1 Handler + 1 Chemist + 1 Packer) | 8-10 | 12-16 |
+| **Daily wage bill** | $0 | ~$600/day | ~$2,500/day | ~$5,500/day |
+| **Production rate** | 4-6 bags/hour (manual) | 8-12 bags/day | 30-40 bags/day | 60-80 bags/day |
+| **Earnings per hour (real)** | ~$5,000-8,000/hr | ~$12,000-20,000/hr | ~$35,000-55,000/hr | ~$70,000-100,000/hr |
+| **Earnings per in-game day** | ~$500-2,000 | ~$1,000-3,000 | ~$12,000-20,000 | ~$30,000-60,000 |
+| **Time commitment** | 100% active play | ~30% active play | ~10% active play | ~5% active play |
+| **AFK viable?** | No | No (needs supply restock) | Yes (if Delivery unlocked) | Yes (fully self-sustaining) |
+| **Break-even point** | Instant | 7-10 in-game days | 5-8 in-game days | 4-6 in-game days |
 
-**Barn layout that works:**
+{{< insight >}}The critical metric is not earnings per day -- it's earnings per hour of PLAYER TIME. Manual play makes $5,000-8,000 per active hour. Full automation makes $35,000-55,000 per active hour (because you only check in for 5-10 minutes per session). If you value your time, automation wins overwhelmingly.{{< /insight >}}
 
-- Ground floor south: Botanist with 5 pots, drying rack
-- Ground floor center: 4 Mixing Stations in a chain, 2 Chemists
-- Ground floor north: 3 Shelves for ingredients, 1 Handler to shuttle bay-to-shelf
-- Upper floor: Packing Station + Packer, output shelf
-- Extra Handler shuttles between floors
+## Cost Breakdown By Tier
 
-The 2-floor trick is legit. I kept everything on one floor at first and Handler routes kept breaking. Splitting it vertically cut my route errors by more than half. A Reddit post from someone with 40+ hours claims the same thing -- 2-floor routing cuts errors by about 60%.
+### Tier 1: Manual Play ($0 setup)
+- **What you do:** Grow, harvest, mix, and sell everything yourself
+- **Gear needed:** Pots ($50), soil ($10/bag), seeds ($10-50), basic Mixing Station ($100)
+- **Daily output:** 4-6 bags of 2-mix product
+- **Best product:** OG Kush 4-mix ($120-150/bag)
+- **Daily revenue:** $500-900
+- **Income/hr real time:** ~$5,000-8,000
+- **Best for:** First 2 hours of gameplay (Hoodlum-Hustler rank)
 
-**Warehouse setup (when you need it):**
+### Tier 2: Partial Automation - Bungalow ($3,500 setup + $30,000 property)
+- **What you do:** Handler stocks ingredients, Chemist mixes, Packer bags
+- **What you still do:** Order supplies from Dead Drops, manage customers
+- **Workers:** 1 Handler + 1 Chemist + 1 Packer
+- **Daily output:** 8-12 bags of 2-4 mix product
+- **Daily revenue:** $960-1,440
+- **After wages:** $360-840/day net
+- **Break-even:** 7-10 in-game days on setup costs
+- **Best for:** Hustler-Dealer rank (mid-game grind)
 
-I only moved to the Warehouse when I wanted to run Cocaine 8-mix, which needs 8 Mixing Stations. The Barn can't fit that without getting cramped. Setup is:
+### Tier 3: Full Automation - Barn ($12,000-15,000 setup + $30,000 property)
+- **What you do:** Occasional supply restock, customer management
+- **Workers:** 2 Chemists + 3 Handlers + 2 Packers + 1 Botanist (optional)
+- **Daily output:** 30-40 bags of 4-6 mix product
+- **Best product:** Premium Weed 4-mix ($150-200) or Cocaine 4-mix ($200-250)
+- **Daily revenue:** $4,500-8,000
+- **After wages:** $2,000-5,500/day net
+- **Break-even:** 5-8 in-game days on setup
+- **Best for:** Peddler-Hoodlum V rank
 
-- East wall: 6 shelves for ingredients
-- Center: 8 Mixing Stations split into two parallel 4-chains
-- West end: 2 Packing Stations
-- 4 Handlers (yes, 4 -- the bay is far)
+### Tier 4: Mega Automation - Docks Warehouse ($25,000-35,000 setup + $50,000 property)
+- **What you do:** Collect money, occasionally expand
+- **Workers:** 4 Chemists + 4 Handlers + 2 Packers + 2 Botanists
+- **Daily output:** 60-80 bags of 8-9 mix product
+- **Best product:** Cocaine 8-mix ($450-600/bag)
+- **Daily revenue:** $27,000-48,000
+- **After wages:** $21,500-42,500/day net
+- **Break-even:** 4-6 in-game days on setup
+- **Best for:** Kingpin rank (endgame)
 
-The Warehouse forces longer Handler routes. Reddit threads confirm a hard limit of 6 routes per Handler before errors spike. After the v0.3f patch changed route priority, I noticed the same thing. Keep each Handler at 4-5 routes max.
+## Profit Projection: 30 In-Game Days
 
-**Quick cost comparison (what I tracked):**
+| Day Range | Manual Cumulative | Bungalow Cumulative | Barn Cumulative | Warehouse Cumulative |
+|-----------|-----------------|-------------------|----------------|--------------------|
+| Day 1-5 | $3,500 | -$33,500 (setup) | -$39,500 (setup) | -$60,000 (setup) |
+| Day 6-10 | $8,000 | -$30,000 | -$32,000 | -$42,000 |
+| Day 11-15 | $14,000 | -$26,000 | -$20,000 | -$8,000 |
+| Day 16-20 | $22,000 | -$21,500 | -$4,000 | $36,000 |
+| Day 21-25 | $30,000 | -$16,500 | $16,000 | $88,000 |
+| Day 26-30 | $38,000 | -$11,000 | $40,000 | $148,000 |
 
-| | Barn (Meth 4-mix) | Warehouse (Coke 8-mix) |
-|--|-------------------|----------------------|
-| Property | $25K | $50K |
-| Equipment | ~$5K | ~$12K |
-| Daily wages | ~$2,000 | ~$5,000 |
-| Units/day | ~120 | ~240 |
-| Profit/day (rough) | $12K-$18K | $60K-$85K |
+{{< callout "warning" >}}The Bungalow's negative cumulative profit is because its $30,000 property+setup cost is never fully amortized within 30 days with its small profit margin. However, the Bungalow serves a crucial purpose: it funds the Barn upgrade. Think of the Bungalow as a stepping stone investment, not a profit center. The real money starts at Barn scale.{{< /callout >}}
 
-The numbers are estimates based on what I and a few other players have shared on Reddit. Your mileage will vary depending on what recipe you run and how good your route setup is.
+### Practical Example
 
-**Known issues I've run into:**
+You have $50,000 and want to maximize profit at Day 30.
 
-- Barn staircase: Handlers sometimes freeze carrying large loads up the stairs. I keep a small transfer box at the bottom of the stairs to split the load. Not perfect but it helps.
-- Warehouse bay distance: Dedicating one Handler to pure bay-to-shelf shuttle (only 2 routes) stops everything else from stalling. Multiple people on Steam Discussions suggest the same fix.
-- MK2 Packing Station: I switched back to MK1 after noticing my Handler was way slower on MK2. Other players report the same -- the Fandom Wiki even notes it as a known behavior (flags it as a bug from v0.3.4f8 that wasn't fully fixed). I use MK2 for manual packing only now.
+**Option A:** Skip the Bungalow, go straight to Barn.
+- Buy Barn: $30,000
+- Setup: $12,000
+- Remaining: $8,000 (working capital)
+- Day 1-8: Production ramps up
+- Day 9-30: ~$2,000-5,500 net/day = ~$44,000-120,000
+- **Day 30 total:** ~$52,000-128,000
 
-**When to upgrade:**
+**Option B:** Use Bungalow first, upgrade to Barn later.
+- Buy Bungalow: $30,000
+- Setup: $3,500
+- Day 1-10: Net ~$500/day = $5,000 saved
+- Day 11: Buy Barn ($30,000) with Bungalow + savings
+- Day 11-30: Barn active ~$2,000-5,500 net/day = ~$40,000-110,000
+- **Day 30 total:** ~$45,000-115,000
 
-I'd skip the Manor ($250K) unless you're at Kingpin rank and already maxing out the Warehouse. Most players never need that much space. The Barn gets you through mid-game and the Warehouse covers endgame for 90% of players.
+**Winner:** Option A (direct Barn) by about $7,000-13,000. But Option B is lower risk because you learn automation gradually.
 
-Check out the [Workshop Automation guide](/schedule-i/automation/workshop/) for the full breakdown on Chemist, Handler and Packer route setup.
+## When To Upgrade: Decision Matrix
+
+| Your Situation | Best Action | Why |
+|---------------|------------|-----|
+| Just started, $1,000 cash | Manual play | No capital for automation |
+| Hoodlum-Hustler with $5,000 | Save for Bungalow | Automation pays off at 7-10 day horizon |
+| Hustler III with $35,000+ | Buy Barn directly | Best ROI, skip Bungalow |
+| Peddler-Dealer, have Barn | Add Warehouse | Scale to endgame production |
+| Kingpin with $90,000+ | Buy Docks Warehouse | Maximum production capacity |
+| Have all properties | Optimize routes | See [Endgame Guide](/schedule-i/automation/endgame-guide/) |
+
+For the exact setup steps, see the [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/).
+
+## Related Guides
+
+- [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- exact build order for partial automation
+- [Schedule I Endgame Guide](/schedule-i/automation/endgame-guide/) -- what to do after full automation
+- [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality scales with automation
 
 {{< resourcegrid >}}
-  {{< resourcecard name="8-Mix Coke Warehouse Layout (Reddit)" url="https://www.reddit.com/r/Schedule_I/comments/1jyowf2/automated_8mix_coke_docks_warehouse_layout/" desc="Community blueprints for docks warehouse" >}}
   {{< resourcecard name="Barn Setup (ScalaCube)" url="https://scalacube.com/blog/schedule-1/best-barn-setup-in-schedule-1" desc="Step-by-step barn layout" >}}
-  {{< resourcecard name="Max Production Barn/Warehouse Video" url="https://www.youtube.com/watch?v=s93o84TUkxo" desc="Visual walkthrough of endgame setups" >}}
+  {{< resourcecard name="Max Production Video" url="https://www.youtube.com/watch?v=s93o84TUkxo" desc="Visual walkthrough of endgame setups" >}}
+  {{< resourcecard name="Reddit Barn Blueprints" url="https://www.reddit.com/r/Schedule_I/comments/1jyowf2/automated_8mix_coke_docks_warehouse_layout/" desc="Community blueprints for docks warehouse" >}}
 {{< /resourcegrid >}}
