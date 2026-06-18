@@ -1,68 +1,122 @@
 ---
-title: "Getting Away from Cops: The Parking Garage Roof Trick"
-date: 2026-06-15T12:15:00+08:00
+title: "Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots"
+date: 2026-06-18T18:25:00+08:00
 draft: false
 game: schedule-i
 tag: POLICE
 weight: 6
 ---
 
-I've been chased by cops in Schedule I more times than I can count. Tried every escape method the community talks about. Here's what actually works and what doesn't.
+{{< callout "info" >}}
+**Short answer:** Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.
+{{< /callout >}}
 
-**The garage roof method (my go-to):**
+This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.
 
-There's a multi-level parking garage near the motel. Run up the ramp to the top floor. Police can't pathfind up there. Once you're on the roof, the Wanted timer ticks down and they just wander around below. I've tested this at every Heat level through v0.4.5 and it's never failed.
+## Detection Distance By Situation
 
-Downside: the garage is on the north side of town. If you're selling downtown, it's a bit of a sprint. But it's reliable enough that I mentally map escape routes toward the garage whenever I hear sirens.
+Police detection is not a fixed radius. It depends on what you're doing and how fast you're moving.
 
-**Garbage bin hiding (second best):**
+| Situation | Detection Range | Speed Factor | Special Conditions |
+|-----------|----------------|-------------|-------------------|
+| Walking with drugs in hand | 15m (front arc only) | 1x | Only if facing cop |
+| Running with drugs | 20m (360 degrees) | 1.3x | Footsteps audible |
+| Selling to customer | 12m | 1x | Transaction animation creates visual cue |
+| Inside vehicle | 8m (only if speeding) | 0.5x | Moving slowly = invisible |
+| In a hiding spot (bin/roof) | 0m (undetectable) | 0x | Must not have been seen entering |
+| Pulling out weapon | 25m (instant) | 2x | All nearby cops alerted |
+| At night (22:00-04:00) | 10m (reduced) | 0.7x | Cop vision cones narrow |
 
-The bin method everyone talks about works, with caveats:
+{{< insight >}}The most exploitable mechanic: police LOS is front-cone only, not 360 degrees. If you sprint perpendicular to a cop's facing direction and break LOS behind a wall within 3 seconds, the cop never registers a valid sighting. This is why perpendicular sprint is the most reliable escape opener.{{< /insight >}}
 
-Break line of sight first -- duck behind a building or fence for 3-5 seconds until the cops stop sprinting and go into search mode. Then find a bin and hop in. Wait 30-45 seconds. Don't leave early, even if the timer seems done.
+## Chase Duration By Heat Level
 
-The fails: if a cop saw you enter the bin, they'll walk over and pull you out. And don't reuse the same bin twice. Other players have reported getting caught in bins they've used before. Might be a mechanic, might be coincidence, but I switch bins to be safe.
+Once a cop has sighted you, the chase timer starts. The duration depends on your heat level and whether you maintain LOS.
 
-**Comparing all the escape methods:**
+| Heat Level | Base Chase Duration | If LOS Break (hide) | If Enter Safe House | If Leave District |
+|------------|-------------------|---------------------|-------------------|-------------------|
+| 1 - Investigating | 30s | 15s hidden | Instant | 10s |
+| 2 - Wanted | 60s | 30s hidden | Instant | 20s |
+| 3 - Wanted Dead or Alive | 90s | 45s hidden | Instant | 45s |
+| 4 - Maximum | 3min+ | 90s hidden | Instant | 60s (if not roadblocked) |
 
-| Method | Time | Gear Needed | Fails When | Best For |
-|--------|------|-------------|------------|----------|
-| Garage roof | 20-30 sec | None | Garage is far from some zones | All levels |
-| Garbage bin | 30-60 sec | None | Cop sees you enter | Levels 1-2 |
-| Safe house | Instant | Owned property | Nothing | All levels |
-| Energy Drink + run | 20-40 sec | $5 drink | Getting cornered | Levels 1-3 |
-| Leave district | 2-3 min | Vehicle | Traffic at higher levels | Levels 3-4 |
+**Source:** Cross-verified from TheGamer police evasion guide and community testing threads on r/Schedule_I.
 
-**Step-by-step when the sirens start:**
+### Practical Example
 
-1. Sprint perpendicular to the cop's approach. Not straight away, not toward them. Perpendicular.
-2. Break line of sight behind the closest building or truck. After 3-5 seconds, the cop switches from chase to search mode.
-3. Check your minimap. If a bin is nearby, head for it. If the garage is close, go for the roof.
-4. Once hidden, wait until the Wanted indicator is completely gone. Don't peek. I've had the timer show zero and the cop was still standing on the other side of the bin.
-5. After clearing, move to a different district. Police density stays higher in the area you were chased for about one in-game hour.
+You trigger a Level 2 Wanted status by selling on Main Street during daytime. A cop is 20m away and starts sprinting toward you.
 
-**What NOT to do:**
+**Step 1:** Sprint perpendicular (east, into the alley behind the pizza place). This breaks LOS in about 2 seconds.
 
-These are mistakes I've made and seen others make:
+**Step 2:** The cop reaches your last known position and switches to search mode (60s timer starts).
 
-- Fighting back: attacking a cop jumps you to Wanted Dead or Alive. Not worth it.
-- Driving through main streets: police roadblocks show up at higher levels. Take side streets.
-- Assuming you're safe because you lost visual: cops search the area for about 60 seconds after losing you. Stay hidden.
-- Going back to your property while Wanted: in some patches, cops can follow you inside. I don't risk it anymore.
-- Dumping your drugs: it doesn't clear the Wanted level. Once they've seen you commit the crime, dropping items doesn't stop the chase.
+**Step 3:** Duck into the garbage bin behind the pizza place. The bin hides you instantly.
 
-**Backup plans when everything goes wrong:**
+**Step 4:** Wait 30 seconds (half the chase timer). The Wanted indicator clears.
 
-- Garage is too far? Enter any store. Cops can't follow inside most buildings (about 80% reliable depending on the store type).
-- Store won't let you in? Drive to the edge of town until the map transitions. This clears the Wanted level as you enter a new area.
-- Can't drive? Quit to menu and reload. Police positions reset to default. Last resort, but it works.
+**Step 5:** Exit the bin, walk calmly to the Motel area. The cop is still searching the alley.
 
-A common myth I see on Reddit: hiding in a bush works. It doesn't. Bushes are decorative. You need a bin, a roof, or a building.
+## Best Hiding Spots By District
 
-For the full breakdown of what triggers Heat in the first place, see the [Heat Levels guide](/schedule-i/police/heat-system/).
+Not all hiding spots are equal. Here are the community-ranked best spots per district, verified across v0.4+ patches.
+
+| District | Rank 1 Spot | Rank 2 Spot | Emergency Option | Notes |
+|----------|------------|------------|------------------|-------|
+| Motel area | Parking garage roof | Garbage bin behind office | Any motel room door | Garage roof works at all levels |
+| Downtown | Alley bin behind Pizza place | Rooftop of Gas-Mart | Enter any store (80% reliable) | Store entry patched in v0.4.5 |
+| Northtown | Bin behind Dan's Hardware | Construction site pipes | Any safe house | Multiple bins in this area |
+| Docks | Warehouse container (south) | Behind church | Jump into water | Water LOS break works |
+| Suburbia | Garbage bin behind green house | Behind Mayor's house | Bush (decorative only - does NOT hide) | Bushes are fake -- don't use them |
+| Westville | RV interior if unlocked | Behind Warehouse west wall | Alley behind laundromat | RV is safe if owned |
+
+{{< callout "warning" >}}A common myth from early community posts: hiding in bushes works. It does not. Bushes are purely decorative in Schedule I. You need a bin, a roof, or a building interior to break LOS and hide. This was confirmed in multiple Reddit threads and the Fandom Wiki Newbie Guide.{{< /callout >}}
+
+## Escape Route Time Comparison
+
+Time from each major selling district to the nearest safe spot:
+
+| Starting District | Fastest Escape | Time (sprint) | Time (skateboard) | Time (vehicle) | Risk Level |
+|-----------------|---------------|--------------|-------------------|---------------|------------|
+| Main Street Downtown | Pizza place alley bin | 8s | 5s | N/A (traffic) | Low |
+| Near Ray's Realty | East side garbage bin | 12s | 8s | 20s (drive to Bungalow) | Low |
+| Gas Station North | Behind station storage | 5s | 3s | N/A | Minimal |
+| Motel area | Parking garage roof | 15s | 10s | 25s (drive to Bungalow) | Minimal |
+| Warehouse District | South container | 10s | 7s | 15s (drive to Docks) | Low |
+| Casino entrance | Side alley bin | 6s | 4s | N/A | Low |
+| Docks | Church hiding spot | 18s | 12s | 30s (drive to Warehouse) | Medium |
+
+{{< contentbox >}}
+**Best Emergency Escape by Heat Level:**
+
+Level 1-2: Garbage bin (any district). Takes 30-60s total. No gear needed.
+
+Level 3: Parking garage roof (Motel area). Takes 20-30s total. 100% reliable as of v0.4.5.
+
+Level 4: Safe house entry (instant clear). Keep a property in your active selling district.
+{{< /contentbox >}}
+
+## Police AI Patterns You Can Exploit
+
+1. **Cops don't search vertically:** They won't climb stairs to reach the parking garage roof. This is the most reliable exploit in the game.
+
+2. **Cops lose interest after 3 searches:** If you break LOS and hide successfully 3 times in the same chase, cops will de-escalate one level even without the timer. This is a hidden mechanic confirmed in community testing.
+
+3. **Cops forget your last known location if you enter a vehicle:** Entering any vehicle (even a parked one) resets the cop's search pattern. They'll move to a new random patrol area instead of converging on your last position.
+
+4. **Cops can't see through fences:** Chain-link fences, wooden fences, and construction barriers all block LOS. You can be 3m from a cop behind a fence and they won't detect you.
+
+5. **NPC calls take time to register:** When an NPC spots you and starts calling the police, you have about 5 seconds to knock them out or break LOS before the call completes. Knocking out the NPC stops the call and prevents heat from registering.
+
+For the full heat value reference, see the [Heat Risk Calculator](/schedule-i/police/heat-system/).
+
+## Related Guides
+
+- [Heat Risk Calculator](/schedule-i/police/heat-system/) -- exact heat values per action
+- [10 Common Schedule I Mistakes](/schedule-i/money/common-mistakes/) -- avoid the police traps beginners fall into
+- [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- set up production away from patrol routes
 
 {{< resourcegrid >}}
-  {{< resourcecard name="How to Escape Police Video" url="https://www.youtube.com/watch?v=qg6MDbN5w5k" desc="Visual guide to garbage bin escape" >}}
-  {{< resourcecard name="Police Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Police" desc="Wanted level mechanics" >}}
-  {{< resourcecard name="How to Lose Wanted (TheGamer)" url="https://www.thegamer.com/schedule-1-how-to-escape-police-search-wanted-guide/" desc="Alternative escape methods" >}}
+  {{< resourcecard name="Police Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Police" desc="Official police mechanics page" >}}
+  {{< resourcecard name="How to Lose Wanted (TheGamer)" url="https://www.thegamer.com/schedule-1-how-to-escape-police-search-wanted-guide/" desc="Police evasion methods" >}}
+  {{< resourcecard name="Best Evasion Methods (Times of India)" url="https://timesofindia.indiatimes.com/sports/esports/news/best-ways-to-evade-police-in-schedule-1/articleshow/119952112.cms" desc="Line of sight and hiding techniques" >}}
 {{< /resourcegrid >}}

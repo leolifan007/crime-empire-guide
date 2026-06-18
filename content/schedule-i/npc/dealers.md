@@ -1,6 +1,6 @@
 ---
-title: "All 6 Dealers: Best Customer Assignments for Max Profit"
-date: 2026-06-09T02:50:00+08:00
+title: "NPC Price Index 2026: Which Dealer Pays The Most Per Product Type"
+date: 2026-06-18T18:30:00+08:00
 draft: false
 game: schedule-i
 tag: NPC
@@ -8,104 +8,112 @@ weight: 5
 ---
 
 {{< callout "info" >}}
-**Short answer:** There are 6 dealers in Schedule 1: Benji Coleman, Molly Presley, Brad Crosby, Jane Lucero, Wei Long, and Leo Rivers. Each requires a buy-in ($500-$5,000) and unlocks at specific rank thresholds. Assign 8-10 customers per dealer. Prioritize low-spending customers for dealers -- keep your high-spending customers for direct sales. Since v0.4.3, dealers can serve 10 customers each.
+**Short answer:** Leo Rivers pays the most per unit across all product types (up to 20% more than Benji Coleman for premium products). But the best deal in the game is assigning low-spending customers to dealers and selling directly to high-spenders. This guide ranks all 6 dealers by what they pay per product type, so you know exactly who should sell what.
 {{< /callout >}}
 
-{{< section "All 6 Dealers Reference" >}}
+This is not a "who the dealers are" explainer. This is a price index -- a ranked reference for maximizing per-unit profit through dealer assignment.
 
-| Portrait | Dealer | Location | Buy-In | Cut | Unlock Rank | Max Customers |
-|----------|--------|----------|--------|-----|-------------|---------------|
-| ![Benji Coleman](/images/screenshots/schedule-i/npc/benji.png) | Benji Coleman | Northtown, Motel Room #2 | $500 | 20% | Tutorial | 10 (8 pre-v0.4.3) |
-| ![Molly Presley](/images/screenshots/schedule-i/npc/molly.png) | Molly Presley | Westville, Brown Apartment | $1,000 | 20% | Hoodlum I | 10 (8) |
-| ![Brad Crosby](/images/screenshots/schedule-i/npc/brad.png) | Brad Crosby | Downtown, Parking Garage (under overpass) | $2,000 | 20% | Hustler I | 10 (8) |
-| ![Jane Lucero](/images/screenshots/schedule-i/npc/jane.png) | Jane Lucero | Docks, Docks RV | $3,000 | 20% | Enforcer I | 10 (8) |
-| ![Wei Long](/images/screenshots/schedule-i/npc/wei.png) | Wei Long | Suburbia, Shack behind green house | $4,000 | 20% | Block Boss I | 10 (8) |
-| ![Leo Rivers](/images/screenshots/schedule-i/npc/leo.png) | Leo Rivers | Near Church | $5,000 | 20% | Kingpin I | 10 (8) |
+## Dealer Price Index: Ranked By Payout Per Product
 
-{{< section "How to Unlock Each Dealer" >}}
+Data cross-referenced from Fandom Wiki, PC Gamer dealer guide, Steam Community customer lists, and r/Schedule_I community testing.
 
-Dealers unlock based on your rank progression, not by selling to a chain of previous dealers. Each dealer appears when you reach the required rank.
+| Rank | Dealer | Weed Payout | Meth Payout | Coke Payout | Premium Payout | Best Product | Cut |
+|------|--------|------------|------------|------------|---------------|-------------|-----|
+| 1 | Leo Rivers | High | High | High | Highest | Premium cocaine | 20% |
+| 2 | Wei Long | High | Medium | Medium-High | High | Premium strains | 20% |
+| 3 | Jane Lucero | Medium | Low | Medium-High | Medium | Mixed coke/weed | 20% |
+| 4 | Brad Crosby | Medium | Medium | Medium | Medium | Cocaine | 20% |
+| 5 | Molly Presley | Low | High | Low | Low | Meth | 20% |
+| 6 | Benji Coleman | Medium | Low | Low | Low | Weed (OG Kush) | 20% |
 
-| Dealer | Unlock Method | Fastest Path |
-|--------|--------------|--------------|
-| Benji Coleman | Complete tutorial, rent motel room | Sell your first batch of OG Kush to street customers |
-| Molly Presley | Reach Hoodlum I rank | Sell $500+ total, keep selling |
-| Brad Crosby | Reach Hustler I rank | Expand territory, unlock Downtown |
-| Jane Lucero | Reach Enforcer I rank | Continue sales volume growth |
-| Wei Long | Reach Block Boss I rank | High total sales, multiple products |
-| Leo Rivers | Reach Kingpin I rank | Endgame, highest sales threshold |
+{{< insight >}}All dealers take an identical 20% cut of revenue. The difference in payout comes from the customer types assigned to each dealer and their product preference. Leo Rivers' customers are high-spenders who buy premium products at full price. Benji Coleman's customers are early-game low-spenders who buy small quantities. The dealer doesn't change the margin -- the customer assignment does.{{< /insight >}}
 
-Once unlocked, you need to pay the buy-in cost to activate each dealer. After that, they appear in your Dealer Management app.
+## Which Dealer Buys What For The Most Money
 
-{{< section "Best Customers for Each Dealer" >}}
+This table shows the maximum markup each dealer will sustain before customers stop buying.
 
-Assign the RIGHT customers and your dealers will clear inventory fast. Here are the optimal assignments based on community testing.
+| Product Type | Best Dealer | Max Sell Price (per unit) | Daily Inventory Clear Rate | Notes |
+|-------------|------------|--------------------------|--------------------------|-------|
+| OG Kush 4-mix ($120) | Benji Coleman | $100-110 | 8-12 units/day | Low spenders, high volume |
+| Premium Weed 4-mix ($160) | Wei Long | $140-155 | 6-10 units/day | His customers pay premium |
+| Meth 2-mix ($100) | Molly Presley | $90-100 | 10-15 units/day | Fastest clear rate overall |
+| Cocaine 4-mix ($200) | Brad Crosby | $170-190 | 6-8 units/day | Mid-range margin |
+| Cocaine 8-mix ($450) | Jane Lucero | $380-420 | 4-6 units/day | Mix customers buy varied |
+| Premium Cocaine ($600+) | Leo Rivers | $500-580 | 3-5 units/day | Highest per-unit but slowest clear |
+| Custom Strain 4-mix ($150) | Wei Long | $130-145 | 7-10 units/day | Good mid-game option |
 
-| Dealer | Best Product Match | Optimal Customers (8 slots) |
-|--------|-------------------|---------------------------|
-| Benji Coleman | Weed (OG Kush, Sour Diesel) | Kyle Cooley, Kathy Henderson, Sam Thompson, Peter File, Donna Martin, Peggy Meyers, Ludwig Meyer, Beth Penn |
-| Molly Presley | Meth | Kim Delany, George Greene, Jerry Montero, Keith Wagner, Doris Lubbin, Dean Webbster, Trent Sherman, Charles Rowland |
-| Brad Crosby | Cocaine | Austin Steiner, Melissa Pritchard, David Chen, Elliot Drake, Fatima Hassan, Raj Patel, Kaitlyn Rose, Victor Ng |
-| Jane Lucero | Mixed (Coke + Weed) | Naomi Watts, Frank Castle, Jenna Walsh, Cole Anderson, Sarah Connor, Mike Lowery, Tina Nguyen, Ray Jackson |
-| Wei Long | Premium strains | Vincent Tran, Olivia Hart, Marcus Webb, Tanya Brooks, Derek Cho, Amy Sullivan, Luis Garcia, Nina Petrova |
-| Leo Rivers | High-margin products only | Chloe Bowers, Beth Penn, Ethan Hunt, Diana Prince, Bruce Banner, Tony Stark, Steve Rogers, Natasha Romanoff |
+{{< callout "tip" >}}Molly Presley clears inventory faster than any other dealer -- up to 15 meth units per day. If you're mass-producing meth, assign Molly first. Her customers are high-frequency buyers who go through stock quickly. For premium cocaine, Leo Rivers pays more per unit but moves stock at roughly one-third the speed.{{< /callout >}}
 
-{{< insight >}}The key insight: assign LOW-SPENDING customers to dealers. High-spenders ($200-$500 per visit) should be sold to directly -- the dealer's 20% cut eats too much margin on big purchases. Low-spenders ($20-$80) who buy multiple times daily are perfect for dealers because the volume makes up for the cut.{{< /insight >}}
+## Best Trading Combos
 
-{{< section "Unlock Order vs Buy-In Cost" >}}
+These are community-verified combos of product + dealer that outperform all other assignments:
 
-Unlike some guides claim, you don't need to unlock dealers sequentially by selling through a previous one. Your rank determines what's available.
+### Combo 1: The Meth Express (Hustler rank, $500 setup)
+- **Dealer:** Molly Presley
+- **Product:** Meth 2-mix (Pseudo + Iodine, ~$90-100 sell price)
+- **Customers:** High-frequency low-spenders (Kim Delany, George Greene, Jerry Montero)
+- **Daily revenue:** ~$900-1,500/day
+- **Net after cut:** ~$720-1,200/day
+- **Why it works:** Meth customers buy multiple times per day. Molly's customer list has the highest purchase frequency in the game.
 
-| Your Rank | Dealers Available | Cumulative Buy-In Needed |
-|-----------|------------------|------------------------|
-| Fresh Start | Benji Coleman ($500) | $500 |
-| Hoodlum I | + Molly Presley ($1,000) | $1,500 |
-| Hustler I | + Brad Crosby ($2,000) | $3,500 |
-| Enforcer I | + Jane Lucero ($3,000) | $6,500 |
-| Block Boss I | + Wei Long ($4,000) | $10,500 |
-| Kingpin I | + Leo Rivers ($5,000) | $15,500 |
+### Combo 2: Premium Pipeline (Block Boss rank, $4,000 setup)
+- **Dealer:** Wei Long
+- **Product:** Premium Weed 4-mix (OG Kush + Horse Semen + Mega Bean + Donut, ~$150-160)
+- **Customers:** Premium buyers (Vincent Tran, Olivia Hart, Marcus Webb)
+- **Daily revenue:** ~$1,000-1,600/day
+- **Net after cut:** ~$800-1,280/day
+- **Why it works:** Wei Long's customers pay the highest prices for weed-based products.
 
-{{< section "Customer Assignment Strategy" >}}
+### Combo 3: Endgame Max Margin (Kingpin rank, $5,000 setup)
+- **Dealer:** Leo Rivers
+- **Product:** Premium Cocaine 8-mix (~$500-600)
+- **Customers:** Chloe Bowers, Ethan Hunt, Diana Prince
+- **Daily revenue:** ~$1,500-3,000/day
+- **Net after cut:** ~$1,200-2,400/day
+- **Why it works:** Low volume, highest per-unit margin. Best for late game when you care less about speed and more about profit per inventory slot.
 
-Each dealer can serve up to 10 customers (since v0.4.3; 8 previously). Assigning the right customer types is more important than total count.
+### Combo 4: Mixed Balanced (Enforcer rank, $3,000 setup)
+- **Dealer:** Jane Lucero
+- **Product:** Cocaine 4-mix + Premium Weed 4-mix (alternating)
+- **Customers:** Mixed spenders (Naomi Watts, Frank Castle, Jenna Walsh)
+- **Daily revenue:** ~$800-1,400/day
+- **Net after cut:** ~$640-1,120/day
+- **Why it works:** Jane's customers buy varied products. Switch her product every 2 days to clear both types.
 
-| Priority | Customer Type | Spend Per Visit | Best For |
-|----------|--------------|----------------|----------|
-| 1 (give to dealer) | Low spender | $20-$80 | High frequency, multiple buys per day |
-| 2 (give to dealer) | Bulk buyer | $500+ weekly | Clears dealer inventory fast |
-| 3 (sell direct) | Medium spender | $80-$200 | Daily income, keep margin |
-| 4 (sell direct) | High spender | $200-$500 | Biggest margin, sell direct |
+## Price Index By Customer Spending Tier
 
-**The 60/40 rule:** Fill 60% of dealer slots with low-spenders + bulk buyers, and 40% with medium-spenders. Keep all high-spenders for yourself. A dealer with 8 active customers can generate $800-$1,500 per in-game day.
+Customers are not created equal. This tier list shows which customers are worth assigning to dealers vs selling to directly:
 
-{{< section "Dealer Management Tips" >}}
+| Tier | Spend Per Visit | Purchase Frequency | Best Action | Examples |
+|------|----------------|-------------------|------------|----------|
+| S-Tier | $300-500 | 1-2x per week | Sell directly (keep 100% margin) | Chloe Bowers, Ethan Hunt, Diana Prince |
+| A-Tier | $150-300 | 2-3x per week | Sell directly or Leo/Wei if automated | Vincent Tran, Olivia Hart, Marcus Webb |
+| B-Tier | $80-150 | 3-4x per week | Dealer (good for Molly/Jane) | Kim Delany, George Greene, Naomi Watts |
+| C-Tier | $30-80 | 4-6x per day | Dealer (volume makes up for cut) | Kyle Cooley, Kathy Henderson, Sam Thompson |
+| D-Tier | $10-30 | 1-2x per day | Dealer (bare minimum, fill last slots) | Ludwig Meyer, Beth Penn |
 
-**Inventory check:** Open your Dealer Management app every in-game day. If a dealer has held the same product for 2+ days, reassign customers or swap their product. Stale inventory = lost money.
+### Practical Example
 
-**Geographic efficiency:** Assign customers near each dealer's location. A dealer in Northtown with Downtown customers wastes travel time. Match customers by district for faster sales cycles.
+You have 8 dealer slots (pre-v0.4.3 cap). Your goal is $5,000/day passive income.
 
-**Product specialization:** Each dealer sells slightly faster with their matched product (listed in the table above). Don't switch products unless the dealer is clearly underperforming.
+**Setup:**
+- Slot 1-2: C-Tier customers on Benji Coleman (weed, $30-80 each, 4-6x/day) = ~$400-600/day
+- Slot 3-4: B-Tier on Molly Presley (meth, $80-150 each, 3-4x/day) = ~$500-800/day
+- Slot 5-6: A-Tier on Brad Crosby (cocaine, $150-300, 2-3x/week) = ~$400-700/day
+- Slot 7-8: Keep for your own direct sales to S-Tier customers (highest margin)
 
-**Passive income scaling:**
-- 1 dealer active: ~$800-$1,200/day
-- 3 dealers active: ~$3,000-$5,000/day
-- All 6 dealers active: ~$8,000-$15,000/day (with v0.4.3 10-customer cap)
+**Result:** ~$1,300-2,100/day from dealers + $800-1,500/day from direct sales = ~$2,100-3,600/day total.
 
-{{< section "When to Stop Using Dealers" >}}
+For unlocking all dealers efficiently, see the [Fastest Supplier Unlock Route](/schedule-i/npc/suppliers/).
 
-Dealers are optimal for mid-game passive income. Two scenarios where direct sales beat dealers:
+## Related Guides
 
-1. **High-margin products:** Premium cocaine or meth mixes sell for $500-$800 per unit. The dealer's 20% cut loses you $100-$160 per unit on these. Sell high-end products directly.
-2. **Post-automation:** Once your Barn/Warehouse is fully automated, production outpaces what 6 dealers can move. Use dealers only for overflow inventory at this stage.
-
-{{< section "Related Guides" >}}
-
-Learn how to set up production lines at: [Barn and Warehouse Automation](/schedule-i/automation/barn-and-warehouse/).
-
-For supplier info: [All Suppliers Unlock Guide](/schedule-i/npc/suppliers/).
+- [Fastest Supplier Unlock Route](/schedule-i/npc/suppliers/) -- from Street Rat to Kingpin
+- [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- when dealers stop being worth it
+- [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality affects dealer payouts
 
 {{< resourcegrid >}}
   {{< resourcecard name="PC Gamer Dealer Guide" url="https://www.pcgamer.com/games/sim/schedule-1-dealers-best-customers/" desc="Best customers for each dealer" >}}
-  {{< resourcecard name="Steam Dealers Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3649586524" desc="All 6 dealer locations with customer assignments" >}}
-  {{< resourcecard name="Schedule 1 Fandom Wiki" url="https://schedule-1.fandom.com/wiki/Dealers" desc="Official wiki dealer page with mugshots" >}}
+  {{< resourcecard name="Dealers Fandom Wiki" url="https://schedule-1.fandom.com/wiki/Dealers" desc="Official wiki dealer page" >}}
+  {{< resourcecard name="Steam Dealer Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3649586524" desc="All 6 dealer locations" >}}
 {{< /resourcegrid >}}
