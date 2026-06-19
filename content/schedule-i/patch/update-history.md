@@ -53,7 +53,7 @@ weight: 7
 
 {{< section "What Players Want in Future Updates" >}}
 
-Based on Reddit (r/Schedule_I) and Steam Community discussions, the most requested features include new map expansion, police raid system, and more employee types. The developer TVGS has not announced a specific roadmap.
+Based on Reddit (r/Schedule_I) and Steam Community discussions, the most requested features include new map expansion, police raid system, and more employee types. For the current recipe meta after these patches, see the [Best Drug Recipe Profit Rankings](/schedule-i/recipes/profit/). The developer TVGS has not announced a specific roadmap.
 
 {{< section "Related Guides" >}}
 

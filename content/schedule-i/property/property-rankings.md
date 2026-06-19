@@ -31,11 +31,11 @@ I bought the Bungalow as soon as I hit $6K. It went from making pocket change to
 
 Don't buy this before $6K though. A few posts on Reddit ask "should I save for the Bungalow or buy more seeds" -- seeds. More seeds first. The Bungalow is useless if you can't afford ingredients to fill it.
 
-I stayed in the Bungalow until I had $25K saved AND my daily profit was consistently above $10K. That took about 2-3 in-game days of OG Kush production.
+I stayed in the Bungalow until I had $25K saved AND my daily profit was consistently above $10K. That took about 2-3 in-game days of [OG Kush production](/schedule-i/recipes/triple-dollar-strain/).
 
 **The Barn -- best value in the game, but don't buy it broke:**
 
-The Barn at $25K is the single best property investment. Two floors, 10 employees, 2 loading bays. I automated Meth 4-mix there and profits jumped to $12K-$18K/day.
+The Barn at $25K is the single best property investment. Two floors, 10 employees, 2 loading bays. I automated the [Meth 4-mix](/schedule-i/recipes/profit/) there and profits jumped to $12K-$18K/day.
 
 But here's the mistake I made the first time: I bought the Barn with $25K exactly, leaving myself with under $1K for equipment and ingredients. Big mistake. Equipment costs another $5K minimum, plus you need a few thousand for ingredients. Aim for $35K cash before buying the Barn. Multiple threads on Reddit and Steam say the same thing.
 

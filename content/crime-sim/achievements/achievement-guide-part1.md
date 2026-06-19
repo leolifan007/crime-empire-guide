@@ -57,7 +57,7 @@ Ranking up is the core progression loop. The rank determines which tools, zones,
 | Legendary | Reach Rank 25 | ~8 hr |
 
 {{< callout "tip" >}}
-Fastest rank-up strategy: focus on completing item request lists. Each completed list gives roughly 2x the rank XP of a normal job. Check the request board at your hideout before every run and prioritize those items.
+Fastest rank-up strategy: focus on completing item request lists. See the [Getting Started guide](/crime-sim/basics/getting-started/) for a full walkthrough of the first 30 minutes. Each completed list gives roughly 2x the rank XP of a normal job. Check the request board at your hideout before every run and prioritize those items.
 {{< /callout >}}
 
 Rank 4 (Apprentice) unlocks the tool upgrade shop. Rank 8 (Professional) unlocks a second job district. Rank 16 (Master) gives access to alarm-disabling tools.
@@ -75,7 +75,7 @@ Rank 4 (Apprentice) unlocks the tool upgrade shop. Rank 8 (Professional) unlocks
 | Collector | Own 1 of each tool type at hideout | Buy all tool tiers once unlocked |
 
 {{< insight >}}
-**Hoarder** is the most delayed of this group. The requirement is $25K total loot value stored at your hideout (not cash). Focus on electronics (laptops, tablets) and jewelry -- they have the best value-to-slot ratio. Gold bars are best but rare. Check kitchen counters and bedroom drawers first.
+**Hoarder** is the most delayed of this group. The requirement is $25K total loot value stored at your hideout (not cash). Focus on electronics (laptops, tablets) and jewelry -- they have the best value-to-slot ratio. The [loot locations guide](/crime-sim/loot/loot-locations-and-values/) has exact house-by-house breakdowns. Gold bars are best but rare. Check kitchen counters and bedroom drawers first.
 {{< /insight >}}
 
 For **Master thief** (100 items), I recommend a Completionist mode run. Since there is no time pressure, you can methodically clear every container in each house. A single large house has 15-25 lootable items. Hit 5-6 houses and you are done.

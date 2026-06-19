@@ -57,7 +57,7 @@ Hardcore locks difficulty to Master. Quotas are active with the same 3-day timer
 - The final score is doubled compared to Standard
 
 {{< callout "warning" >}}
-Do not start Hardcore until you have completed at least one full Standard run to Rank 20+. Hardcore demands complete map knowledge, memorized tool upgrade costs, and reliable alarm-disabling routes. Most new players fail their first Hardcore attempt within the first 3 quotas.
+Do not start Hardcore until you have completed at least one full Standard run to Rank 20+. Hardcore demands complete map knowledge, memorized tool upgrade costs, and reliable alarm-disabling routes. Most new players fail their first [Hardcore attempt](/crime-sim/hardcore/hardcore-survival-guide/) within the first 3 quotas.
 {{< /callout >}}
 
 **Hardcore survival checklist (before attempting):**

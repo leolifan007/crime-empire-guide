@@ -50,7 +50,7 @@ weight: 8
 |-----------|-------------|------------|-----|
 | $500 | $0 | Buy OG Kush seeds + soil | First grow cycle |
 | $2,000 | $2,000 | Buy mixing station from Dan's Hardware | Unlock mixing for higher profit |
-| $6,000 | $6,000 | Buy Bungalow from Ray's Realty | More space, unlock employees |
+| $6,000 | $6,000 | [Buy Bungalow](/schedule-i/property/bungalow-setup/) from Ray's Realty | More space, unlock employees |
 
 {{< section "Trash Dumping: Complete Guide" >}}
 
@@ -71,7 +71,7 @@ Vending machines in public areas can be smashed for cash and a free energy drink
 
 **Best vending machines:** Gas station (north), near bleachers, at the parking lot. Avoid the one near the police station.
 
-{{< insight >}}Combining all three methods (deliveries + trash + vending) can net you $10K in the first hour of play. This is enough to skip the grind and jump straight into mixing station setup at the Bungalow.{{< /insight >}}
+{{< insight >}}Combining all three methods (deliveries + trash + vending) can net you $10K in the first hour of play. This is enough to skip the grind and jump straight into [mixing station setup](/schedule-i/recipes/profit/) at the Bungalow.{{< /insight >}}
 
 {{< resourcegrid >}}
   {{< resourcecard name="ScalaCube Money Guide" url="https://scalacube.com/blog/schedule-1/how-to-make-money-fast-in-schedule-1" desc="Early game money-making methods" >}}

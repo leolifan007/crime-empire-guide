@@ -30,7 +30,7 @@ The starting area. Contains:
 - **Convenience Store** (central). Donuts and basic items.
 - **Gas Station** (north edge). Fuel, Energy Drinks, basic ingredients.
 
-**Selling strategy:** High police density makes downtown risky for street dealing. Use this zone for shopping and property purchases only. Do your street sales in the Motel area.
+**Selling strategy:** High police density makes downtown risky for street dealing. Check the [Heat System guide](/schedule-i/police/heat-system/) for zone-specific heat limits. Use this zone for shopping and property purchases only. Do your street sales in the Motel area.
 
 {{< section "Motel Area (East)" >}}
 
@@ -40,7 +40,7 @@ The best early-game zone. Contains:
 - **Trash spawns:** 3-4 bags behind motel, restock daily
 - **Parking garage:** rooftop hiding spot (police escape)
 
-**Selling strategy:** Lowest police density in the game. Perfect for street dealing and dealer assignments. Buy the Bungalow here first.
+**Selling strategy:** Lowest police density in the game. Perfect for street dealing and [dealer assignments](/schedule-i/npc/dealers/). [Buy the Bungalow](/schedule-i/property/bungalow-setup/) here first.
 
 {{< section "Industrial Zone (North)" >}}
 

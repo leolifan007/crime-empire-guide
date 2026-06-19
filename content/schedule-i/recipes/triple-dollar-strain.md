@@ -19,7 +19,7 @@ weight: 2
 | Banana | Gas station or Albert | ~$2 | Adds yield boost |
 | Battery | Dan's Hardware | ~$3 | Adds potency multiplier |
 | Cuke | Gas station or Albert | ~$2 | Adds stability |
-| **Total** | | **~$10** | **Sell price: $120+** |
+| **Total** | | **~$10** | **Sell price: $120+** | See [recipe profit rankings](/schedule-i/recipes/profit/) for comparison |
 
 {{< section "Popular Custom Strains" >}}
 
@@ -42,13 +42,13 @@ Note: Strain sell prices vary based on mix order and market. Use schedule-1-calc
 4. Place a Mixing Station ($100 from Dan's Hardware)
 5. Insert ingredients in order: OG Kush -> Banana -> Battery -> Cuke
 6. Collect the finished strain ($120+ sell value)
-7. Sell to a high-spending customer for max return
+7. [Sell to a high-spending customer](/schedule-i/npc/dealers/) for max return
 
 {{< section "Why Triple Dollar is So Popular" >}}
 
 The Triple Dollar recipe exploded on TikTok and Reddit because it hits the sweet spot between accessibility and profit:
 - All 4 ingredients are available by Hustler rank
-- No special NPC farming required (unlike Horse Semen)
+- No special NPC farming required (unlike Horse Semen, details in [Bungalow automation setup](/schedule-i/automation/workshop/))
 - 4 ingredients = fits in a single Mixing Station chain
 - $110+ profit per unit beats most 6-ingredient mixes at the same rank
 

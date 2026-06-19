@@ -80,11 +80,11 @@ Hire 1 Handler (unlocked at Hustler I). Set up exactly 4 routes:
 
 - **Wage:** ~$200/day (hire fee: ~$1,500 + $100 per existing employee)
 - **Route limit:** Keep at 4 routes max. Community testing shows route errors spike above 6 routes. With 4 routes, error rate is near zero.
-- **Bottleneck alert:** The Bungalow's limited shelf space means you can only stock 2 ingredient types per shelf. Keep recipes to 2-3 ingredients max.
+- **Bottleneck alert:** The Bungalow's limited shelf space means you can only stock 2 ingredient types per shelf. Keep recipes to 2-3 ingredients max. For the most profitable combos that fit this constraint, check the [community mixing guide](/schedule-i/hybrid/mixing-recipes/).
 
 ## Step 8: Set Up Delivery Supply (Day 5+)
 
-Use Albert Hoover's Delivery app (unlocked at max relationship) to auto-supply your shelves.
+Use [Albert Hoover's Delivery app](/schedule-i/npc/suppliers/) (unlocked at max relationship) to auto-supply your shelves.
 
 - **Order sizes:** 15-20 units per delivery (lasts 3-4 in-game days at 8-12 bags/day production)
 - **Cost:** ~$200-300 per delivery

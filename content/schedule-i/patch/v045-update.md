@@ -39,7 +39,7 @@ The Big Sprinkler is the most impactful addition in v0.4.5. It replaces the basi
 
 **Before v0.4.5:** Botanists were the bottleneck in automation setups. One Botanist could water 5 pots but spent most of their time walking between pots. The basic sprinkler required one activation per plant.
 
-**After v0.4.5:** One Big Sprinkler waters 4 plants. A single Botanist with 2 Big Sprinklers can now manage 8 plants (max for most properties) in the same time they previously managed 4-5.
+**After v0.4.5:** One Big Sprinkler waters 4 plants. A single Botanist with 2 Big Sprinklers can now manage 8 plants (max for most properties, like the [Barn](/schedule-i/automation/barn-and-warehouse/)) in the same time they previously managed 4-5.
 
 **Other changes:**
 - Reorder feature reduces delivery management time by ~30%
@@ -74,7 +74,7 @@ Based on patch notes and community verification, the Anniversary update did NOT 
 - Recipe formulas or ingredient values
 - Dealer buy-in costs or mechanics
 
-This makes v0.4.5 a quality-of-life patch rather than a balance patch. Most existing strategies remain valid.
+This makes v0.4.5 a quality-of-life patch rather than a balance patch. Most existing strategies remain valid, including the [profit rankings](/schedule-i/recipes/profit/) and automation setups.
 
 
 {{< section "Related Guides" >}}
