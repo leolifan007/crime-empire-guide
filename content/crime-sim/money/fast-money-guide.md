@@ -12,7 +12,7 @@ description: "Need cash fast in Crime Simulator? These proven money-making metho
 
 The fastest first $1,000 I found: complete the tutorial, grab the crowbar, rob the nearest low-security house, sell electronics at the fence, buy a lockpick set. Repeat with better entry on house number two. Took me about 20 minutes of real time.
 
-The early game is about capital accumulation. Every dollar goes back into tools that enable better heists. I wasted my first payout on hideout decorations and regretted it for the next hour.
+If the tutorial skipped the basics, the [getting started guide](/crime-sim/basics/getting-started/) covers the full first-heist checklist. The early game is about capital accumulation. Every dollar goes back into tools that enable better heists. I wasted my first payout on hideout decorations and regretted it for the next hour.
 
 ## Early Game Money Loop (First Hour)
 
@@ -27,6 +27,8 @@ The early game is about capital accumulation. Every dollar goes back into tools 
 - Jewelry -- $100-$800 per piece (rare early on)
 - Small valuables (watches, silverware) -- $40-$100
 - Everything else -- grab only if you have empty slots
+
+A full value tier list is in the [loot locations and values guide](/crime-sim/loot/loot-locations-and-values/).
 
 **Step 4: Sell at the fence, buy a lockpick set and flashlight.** The lockpick set pays for itself within two heists. The flashlight prevents you from missing high-value items in dark corners -- I have found laptops on dark shelves I would have walked past without one.
 

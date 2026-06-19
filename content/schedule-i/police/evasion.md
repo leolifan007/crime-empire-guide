@@ -44,7 +44,7 @@ Once a cop has sighted you, the chase timer starts. The duration depends on your
 
 ### Practical Example
 
-You trigger a Level 2 Wanted status by selling on Main Street during daytime. A cop is 20m away and starts sprinting toward you.
+You trigger a Level 2 Wanted status by selling on Main Street during daytime — exactly the situation the [common mistakes guide](/schedule-i/money/common-mistakes/) warns about. A cop is 20m away and starts sprinting toward you.
 
 **Step 1:** Sprint perpendicular (east, into the alley behind the pizza place). This breaks LOS in about 2 seconds.
 

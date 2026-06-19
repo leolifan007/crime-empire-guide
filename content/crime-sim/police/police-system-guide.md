@@ -11,6 +11,8 @@ description: "Complete guide to the Crime Simulator police AI system -- how dete
 
 The police system in Crime Simulator is the primary fail state. Understanding exactly how it works -- what triggers it, how fast police respond, and how to evade them -- is the difference between a clean score and a deleted save in Hardcore mode.
 
+The [common mistakes guide](/crime-sim/beginner/common-mistakes/) shows the specific police traps new players fall into.
+
 ## How Police Detection Works
 
 Police are triggered by a heat system. Every action you take generates heat. When your heat reaches a threshold, police are called.
@@ -23,6 +25,8 @@ Police are triggered by a heat system. Every action you take generates heat. Whe
 - Sprinting in view of neighbors (moderate heat)
 - Making noise near patrol routes (moderate heat)
 - Leaving doors open (low heat over time)
+
+Your tool choice directly affects heat generation -- the [tools guide](/crime-sim/tools/complete-tools-guide/) ranks each tool by noise level.
 
 **Heat-reducing actions:**
 - Staying still in darkness (slow reduction)

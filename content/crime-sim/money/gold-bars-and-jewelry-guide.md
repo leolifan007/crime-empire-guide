@@ -10,7 +10,7 @@ weight: 2
 description: "Update 1.3 overhauled Crime Simulator's economy with gold bars, authentic vs fake jewelry, and basement upgrades. Here is how the new system works and how to profit."
 ---
 
-Do not sell gold bars for quick cash. I made this mistake on my first 1.3 playthrough and regretted it when I realized gold bars are the currency for hideout basement upgrades -- and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price.
+Do not sell gold bars for quick cash. I made this mistake on my first 1.3 playthrough and regretted it when I realized gold bars are the currency for hideout basement upgrades -- and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price. The [safe houses guide](/crime-sim/hideouts/safe-houses-guide/) has a full breakdown of what each upgrade costs.
 
 ## What Changed in Update 1.3
 
@@ -19,7 +19,7 @@ Update 1.3 introduced a parallel economy system that fundamentally changes how y
 - Gold bars -- new resource for hideout basement upgrades
 - Jewelry loot -- authentic and fake variants with different values
 - Basement hideout expansion -- upgradeable with gold bars
-- PvP competition modes -- new income stream with risk
+- PvP competition modes -- new income stream with risk. For consistent early cash before diving into PvP, the [fast money guide](/crime-sim/money/fast-money-guide/) outlines the safest routes.
 - Master Key -- premium tool for instant lock opening
 - New loot locations with expanded map areas
 

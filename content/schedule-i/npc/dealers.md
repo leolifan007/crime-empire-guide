@@ -11,7 +11,7 @@ weight: 5
 **Short answer:** Leo Rivers pays the most per unit across all product types (up to 20% more than Benji Coleman for premium products). But the best deal in the game is assigning low-spending customers to dealers and selling directly to high-spenders. This guide ranks all 6 dealers by what they pay per product type, so you know exactly who should sell what.
 {{< /callout >}}
 
-This is not a "who the dealers are" explainer. This is a price index -- a ranked reference for maximizing per-unit profit through dealer assignment.
+This is not a "who the dealers are" explainer. This is a price index -- a ranked reference for maximizing per-unit profit through dealer assignment. For the actual products to assign, check the [recipe profit rankings](/schedule-i/recipes/profit/) to pick the highest-margin items per dealer tier.
 
 ## Dealer Price Index: Ranked By Payout Per Product
 
@@ -50,7 +50,7 @@ These are community-verified combos of product + dealer that outperform all othe
 
 ### Combo 1: The Meth Express (Hustler rank, $500 setup)
 - **Dealer:** Molly Presley
-- **Product:** Meth 2-mix (Pseudo + Iodine, ~$90-100 sell price)
+- **Product:** Meth 2-mix (Pseudo + Iodine, ~$90-100 sell price) — once your dealers are assigned, the [endgame guide](/schedule-i/automation/endgame-guide/) covers how to scale supply across all six simultaneously.
 - **Customers:** High-frequency low-spenders (Kim Delany, George Greene, Jerry Montero)
 - **Daily revenue:** ~$900-1,500/day
 - **Net after cut:** ~$720-1,200/day

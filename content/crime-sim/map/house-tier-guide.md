@@ -9,7 +9,7 @@ weight: 3
 description: "Complete Crime Simulator map guide -- every district ranked by difficulty and loot value, house types explained, and how to choose the right target for your skill level."
 ---
 
-Crime Simulator has multiple districts, each with different house types, security levels, and loot potential. Knowing which district to target at each stage of the game saves you time and reduces risk.
+Crime Simulator has multiple districts, each with different house types, security levels, and loot potential. Knowing which district to target at each stage of the game saves you time and reduces risk. The [getting started guide](/crime-sim/basics/getting-started/) explains the first-run decisions before you reach these districts.
 
 ## District Overview
 
@@ -18,6 +18,8 @@ Crime Simulator has multiple districts, each with different house types, securit
 | Starter Town | Apprentice | Low | $100-$300 | 45-60 seconds |
 | Suburban | Rank 3 | Medium | $300-$600 | 30-45 seconds |
 | Industrial | Rank 6 | Medium-High | $400-$800 | 60-90 seconds |
+
+For exact loot types per district, cross-reference the [loot locations guide](/crime-sim/loot/loot-locations-and-values/).
 | Downtown | Rank 10 | High | $600-$1,200 | 20-30 seconds |
 | Heist Locations | Rank 12+ | Very High | $1,000-$3,000 | 15-25 seconds |
 

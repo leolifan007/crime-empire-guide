@@ -12,7 +12,7 @@ description: "Stop selling loot at the wrong time. Learn the optimal selling str
 
 Most new players sell every item they find to the nearest fence immediately. I did this for my first few hours and left a lot of money on the table.
 
-The fastest way from zero to quota (what I settled on): stack item requests, sell duplicate skill leaflets before basic loot, and never fence high-value items at the same fence twice in one day -- prices drop.
+The fastest way from zero to quota (what I settled on): stack item requests, sell duplicate skill leaflets before basic loot, and never fence high-value items at the same fence twice in one day -- prices drop. The [skill leaflets guide](/crime-sim/skills/skill-leaflets-guide/) explains which leaflets to keep versus sell.
 
 ## The Four Rules of Loot Selling
 
@@ -20,7 +20,7 @@ The fastest way from zero to quota (what I settled on): stack item requests, sel
 
 The item request system offers 50-100% premium over fence prices. Before selling anything, I check the request board, mark requested items, and keep them in stash. Deliver on the next visit to that map area.
 
-If an item appears on multiple request lists simultaneously, its value multiplies. A laptop worth $200 at the fence could net $350-$400 if delivered to two requesting NPCs.
+If an item appears on multiple request lists simultaneously, its value multiplies. A laptop worth $200 at the fence could net $350-$400 if delivered to two requesting NPCs. The [fast money guide](/crime-sim/money/fast-money-guide/) ranks which runs yield the best request-compatible loot.
 
 {{< callout "tip" >}}
 Keep a dedicated stash section for request items. I organize mine by item type so I can grab-and-deliver quickly. Electronics in one stack, jewelry in another. This saves 5-10 minutes of sorting every run.

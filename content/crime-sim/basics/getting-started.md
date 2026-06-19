@@ -12,7 +12,7 @@ description: "New to Crime Simulator? This step-by-step beginner guide covers th
 
 I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.
 
-The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part.
+The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part. See the [tools guide](/crime-sim/tools/complete-tools-guide/) for a breakdown of each tool's pick difficulty.
 
 ## Your First Job
 
@@ -38,6 +38,8 @@ The police system triggers based on noise and visibility. A broken window or a s
 - Using the crowbar on doors (loud tool use)
 - Being spotted by NPCs (residents call police)
 - Triggering alarms (security systems in higher-tier houses)
+
+For a complete breakdown of detection ranges and response timers, see the [police system guide](/crime-sim/police/police-system-guide/).
 - Sprinting in the open where neighbors can see you
 
 **What is safe:**

@@ -29,13 +29,13 @@ I bought a poster for my wall during my first run. It cost $200 and did nothing 
 
 The item request board offers 50-100% premium over fence prices. I spent my first 2 hours selling everything to the nearest fence and losing out on hundreds of dollars per run.
 
-**Solution:** Check the request board before every heist. Store matching items in your hideout. Deliver on your next visit to that map area. Keep 2-3 common request items (laptops, jewelry, smartphones) in storage at all times.
+**Solution:** Check the request board before every heist. Store matching items in your hideout. The [loot selling strategy](/crime-sim/loot/loot-selling-strategy/) explains how to stack requests for maximum profit. Deliver on your next visit to that map area. Keep 2-3 common request items (laptops, jewelry, smartphones) in storage at all times.
 
 ## Mistake 4: Using the Crowbar on Every Door
 
 The crowbar is loud. Every door you crowbar has a chance of alerting NPCs and triggering a police response. I lost my first Hardcore run to crowbar noise.
 
-**Solution:** Buy a lockpick set as your first tool purchase. Use it on every door. Only use the crowbar for breaking crates or as an absolute last resort. The lockpick set pays for itself within 2-3 heists.
+**Solution:** Buy a lockpick set as your first tool purchase. The [tools guide](/crime-sim/tools/complete-tools-guide/) compares every tool option so you know exactly what to buy next. Use it on every door. Only use the crowbar for breaking crates or as an absolute last resort. The lockpick set pays for itself within 2-3 heists.
 
 | Tool | Noise Level | Police Risk | Best Use |
 |------|:-----------:|:-----------:|----------|

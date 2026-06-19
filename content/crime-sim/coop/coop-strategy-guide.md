@@ -10,7 +10,7 @@ weight: 1
 description: "Master 4-player co-op in Crime Simulator with role assignments, communication tactics, and coordinated heist strategies that beat quotas faster than solo play."
 ---
 
-I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. But without coordination, co-op is chaos.
+I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. The [fast money guide](/crime-sim/money/fast-money-guide/) covers early cash methods I still use between co-op sessions. But without coordination, co-op is chaos.
 
 ## The Optimal Role Setup
 
@@ -18,6 +18,8 @@ The fastest role setup I have used: 1 Lockpick + 1 Lookout + 1 Hauler + 1 Driver
 
 | Role | Primary Job | Required Tool | Backup Tool |
 |------|------------|---------------|-------------|
+
+If your team lacks a specific tool, the [skill leaflets guide](/crime-sim/skills/skill-leaflets-guide/) shows which perks compensate for missing gear.
 | Lockpick | Open doors silently, disable alarms | Lockpick set (standard+) | Crowbar |
 | Lookout | Watch patrol routes, call out NPCs | Flashlight, sleeping gas | Smoke bomb |
 | Hauler | Carry high-value items, service requests | Large backpack, cable ties | Extra pockets |

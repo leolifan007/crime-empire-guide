@@ -39,7 +39,7 @@ This is the highest-impact endgame goal. Once all 4 suppliers reach Delivery sta
 - Fungal Phil: 7-10 more Dead Drop orders ($500-700)
 - Salvador Moreno: 10-13 more Dead Drop orders ($1,000-1,600)
 
-**Strategy:** Place Dead Drop orders during downtime (when your automation is running and you have nothing to do). Order the cheapest item from each. Pay debt immediately. Repeat every in-game day until done.
+**Strategy:** Place Dead Drop orders during downtime (when your automation is running and you have nothing to do). Follow the [supplier unlock route](/schedule-i/npc/suppliers/) if you're not maxed yet -- it minimizes wasted orders. Order the cheapest item from each. Pay debt immediately. Repeat every in-game day until done.
 
 ## Goal 2: Unlock All 6 Dealers
 

@@ -10,14 +10,14 @@ weight: 2
 description: "Plan every co-op heist like a pro. This guide covers target selection, gear prep, entry routes, loot prioritization, and clean extraction for 4-player teams."
 ---
 
-The best co-op heists I have been on were planned before anyone left the hideout. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.
+The best co-op heists I have been on were planned before anyone left the hideout. If your hideout storage is a mess, the [safe houses guide](/crime-sim/hideouts/safe-houses-guide/) explains how to organize loot efficiently. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.
 
 ## Pre-Heist Briefing Checklist
 
 Before leaving the hideout, we confirm every item on this list:
 
 - Target selected from job board or free-roam
-- Security level assessed (locks, NPCs, alarms)
+- Security level assessed (locks, NPCs, alarms) — the [tools guide](/crime-sim/tools/complete-tools-guide/) lists which gear you need for each security tier.
 - Required tools confirmed for each team member
 - Entry point identified (front, back, roof, window)
 - Extraction point agreed (vehicle, alley, rooftop)

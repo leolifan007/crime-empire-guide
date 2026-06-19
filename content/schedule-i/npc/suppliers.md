@@ -8,7 +8,7 @@ weight: 4
 ---
 
 {{< callout "info" >}}
-**Short answer:** Unlock Albert Hoover immediately (available from start). Befriend Elizabeth Homley or Kevin Oakley to unlock Shirley Watts and Fungal Phil simultaneously. Reach higher ranks for Salvador Moreno. The fastest route: place Dead Drop orders for the cheapest items first to build relationship, then scale up. Minimum total cost to unlock all four: roughly $8,000 in Dead Drop orders plus rank progression.
+**Short answer:** Unlock Albert Hoover immediately (available from start). Befriend Elizabeth Homley or Kevin Oakley to unlock Shirley Watts and Fungal Phil simultaneously. Reach higher ranks for Salvador Moreno. The fastest route: place Dead Drop orders for the cheapest items first to build relationship, then scale up. Minimum total cost to unlock all four: roughly $8,000 in Dead Drop orders plus rank progression. If you're still short on cash, our [$10K in First Hour guide](/schedule-i/money/speedrun/) covers how to raise capital fast.
 {{< /callout >}}
 
 This is an optimized unlock route -- not a list of who the suppliers are. Follow this order and you'll unlock delivery (the max relationship perk) faster than random ordering.

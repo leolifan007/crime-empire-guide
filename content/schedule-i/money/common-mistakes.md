@@ -19,7 +19,7 @@ These mistakes are based on real player reports from r/Schedule_I, Steam Communi
 
 **Why it hurts:** Main Street has 2 patrol cars and 1 walking cop during daytime (08:00-18:00). A single sale in view of a cop triggers a chase that costs you 30-90 seconds plus potential lost inventory if caught.
 
-**The fix:** Sell in the Motel area during daytime (zero patrols, confirmed in all patches v0.3 through v0.4.5). Move to higher-traffic zones only at night (22:00-04:00). The 30-second walk to the Motel area saves you more time than you lose in travel.
+**The fix:** Sell in the Motel area during daytime (zero patrols, confirmed in all patches v0.3 through v0.4.5). The [zone guide](/schedule-i/expansion/map-zones-guide/) breaks down police density by district. Move to higher-traffic zones only at night (22:00-04:00). The 30-second walk to the Motel area saves you more time than you lose in travel.
 
 ## Mistake 2: Selling All Product Types at Once
 
@@ -37,7 +37,7 @@ These mistakes are based on real player reports from r/Schedule_I, Steam Communi
 
 **Why it hurts:** Only Dead Drop orders build relationship with suppliers. Meeting in person or buying directly does NOT progress the relationship bar. Without building relationship, you're stuck with 10-item order limits and 30-minute delivery times forever.
 
-**The fix:** Place 1-2 Dead Drop orders EVERY in-game day until the supplier reaches max relationship. Order the cheapest item (OG Kush seeds at $10 for Albert Hoover) -- order value doesn't affect relationship gain, only order count does. Once Delivery unlocks, switch to bulk orders.
+**The fix:** Place 1-2 Dead Drop orders EVERY in-game day until the supplier reaches max relationship. The [fastest supplier unlock route](/schedule-i/npc/suppliers/) shows the exact order count needed for each supplier. Order the cheapest item (OG Kush seeds at $10 for Albert Hoover) -- order value doesn't affect relationship gain, only order count does. Once Delivery unlocks, switch to bulk orders.
 
 ## Mistake 4: Using MK2 Packing Stations With Handlers
 

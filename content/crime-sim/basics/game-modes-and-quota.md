@@ -8,7 +8,7 @@ weight: 2
 description: "Complete breakdown of Crime Simulator's three game modes -- Standard, Hardcore, Completionist -- plus the quota system mechanics, difficulty scaling, and which mode to pick for your playstyle."
 ---
 
-Crime Simulator has three game modes. The differences are significant -- mode choice determines how punishing the quota is, whether you can die permanently, and how much time you have to explore. Pick the wrong mode and you will restart more than necessary.
+Crime Simulator has three game modes. The differences are significant -- mode choice determines how punishing the quota is, whether you can die permanently, and how much time you have to explore. Pick the wrong mode and you will restart more than necessary. See the [getting started guide](/crime-sim/basics/getting-started/) to decide which mode pairs best with your first run.
 
 ## Mode Comparison
 
@@ -22,6 +22,8 @@ Crime Simulator has three game modes. The differences are significant -- mode ch
 | Fence prices | 100% | ~80% | 100% |
 | Final score bonus | 1x | 2x | N/A |
 | Best for | Learning the game | Challenge runs | Achievements |
+
+The [hardcore progression guide](/crime-sim/hardcore/hardcore-progression-guide/) maps out what to expect if you jump straight into the hardest mode.
 
 ## Standard Mode
 

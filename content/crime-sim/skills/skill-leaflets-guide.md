@@ -9,7 +9,7 @@ weight: 3
 description: "Complete list of all skill leaflets in Crime Simulator, where to find them, and the best priority order for unlocking them to maximize your progression."
 ---
 
-Skill leaflets are the backbone of progression in Crime Simulator. Unlike tools that you buy with cash, skill leaflets must be found during heists and then activated with skill points earned from ranking up. Choosing the right leaflet priority can save you dozens of hours.
+Skill leaflets are the backbone of progression in Crime Simulator. Unlike tools that you buy with cash, skill leaflets must be found during heists and then activated with skill points earned from ranking up. Choosing the right leaflet priority can save you dozens of hours. The [tool upgrades guide](/crime-sim/tools/tool-upgrades-and-advanced/) covers which tools pair best with each leaflet set.
 
 ## How Skill Leaflets Work
 
@@ -17,7 +17,7 @@ Each skill leaflet unlocks a permanent ability or upgrade. To activate a leaflet
 - The leaflet item (found during heists)
 - One skill point (earned by ranking up)
 
-You can find duplicate leaflets. Once you have learned a skill, duplicate leaflets sell for approximately $300-$500 at the fence -- a decent income source, especially in the early game.
+You can find duplicate leaflets. Once you have learned a skill, duplicate leaflets sell for approximately $300-$500 at the fence -- a decent income source, especially in the early game. The [fast money guide](/crime-sim/money/fast-money-guide/) shows how leaflets fit into your early cash loop.
 
 {{< callout "info" >}}
 Never sell a leaflet you have not read yet. Even if it seems low priority, reading it first costs nothing. If you sell it before reading, you might never find that leaflet again for 20+ runs. I made this mistake with Tool Maintenance and regretted it for hours.

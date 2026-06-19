@@ -10,7 +10,7 @@ weight: 1
 description: "Where to find the best loot in Crime Simulator -- high-value electronics, jewelry, gold bars, and how to spot item requests across every map."
 ---
 
-Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently.
+Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently. The [loot selling strategy](/crime-sim/loot/loot-selling-strategy/) shows how to turn those items into double the fence price.
 
 ## Loot Value Tiers
 
@@ -91,7 +91,7 @@ I prioritize houses with confirmed electronics based on job board intel. If a jo
 
 ## Gold Bars (Update 1.3)
 
-Do not sell gold bars for quick cash. They are the currency for basement upgrades, and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price. I sell them only after the basement is fully upgraded.
+Do not sell gold bars for quick cash. They are the currency for basement upgrades, and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price. The [gold bars economy guide](/crime-sim/money/gold-bars-and-jewelry-guide/) has the full breakdown. I sell them only after the basement is fully upgraded.
 
 Gold bars are found exclusively in high-security targets, heist locations, and rare loot boxes. They are heavy (take 2 inventory slots) so plan your route accordingly. If you find one early in a run, stash it at your hideout immediately -- getting arrested with a gold bar in your inventory means losing it permanently.
 

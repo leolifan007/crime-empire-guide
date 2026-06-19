@@ -10,7 +10,7 @@ weight: 2
 description: "Part 2 of the Crime Simulator achievement guide. Covers the hardest 30 achievements including challenges, speed milestones, and rare conditions."
 ---
 
-These are the achievements that took me real effort to unlock. Some require multiple playthroughs or very specific conditions. I would not attempt them until you have completed Standard mode and understand all the mechanics.
+These are the achievements that took me real effort to unlock. Some require multiple playthroughs or very specific conditions. I would not attempt them until you have completed Standard mode and understand all the mechanics. If you have not started yet, the [getting started guide](/crime-sim/basics/getting-started/) covers the basics.
 
 ## Challenge Achievements (15)
 
@@ -26,7 +26,7 @@ Challenges are optional objectives that appear during runs. Completing them in s
 | Heavy hitter | Complete 3 destruction challenges | Medium | Break doors, windows, containers |
 | All-rounder | Complete one of each challenge type | Very Hard | Plan route for stealth + destruction + speed |
 
-For "All-rounder," I used a large house with multiple approaches. Ground floor for stealth, basement for destruction, upstairs for time-based tasks. One house can satisfy all challenge types if you plan your route.
+For "All-rounder," I used a large house with multiple approaches. Ground floor for stealth, basement for destruction, upstairs for time-based tasks. One house can satisfy all challenge types if you plan your route. The [house tier guide](/crime-sim/map/house-tier-guide/) helps you pick a target with the right room variety.
 
 {{< callout "tip" >}}
 Challenge achievements are easiest to stack. Pick a large suburban house and plan three challenge types in advance. Enter silently for stealth, smash containers for destruction, and sprint between rooms for speed. I got "Insane victory" and "Silent but deadly" in the same run.
@@ -34,7 +34,7 @@ Challenge achievements are easiest to stack. Pick a large suburban house and pla
 
 ## Speed Achievements (5)
 
-These have strict time requirements. I found "Speed runner" the easiest -- choose a small apartment, grab 2 items, exit. Took me about 90 seconds.
+These have strict time requirements. I found "Speed runner" the easiest -- choose a small apartment, grab 2 items, exit. Took me about 90 seconds. A full [tool upgrade](/crime-sim/tools/tool-upgrades-and-advanced/) speeds this up considerably -- faster lockpicks, quieter entry.
 
 | Achievement | Requirement | Strategy |
 |-------------|-------------|----------|

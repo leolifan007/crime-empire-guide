@@ -18,9 +18,9 @@ Endless mode was added in Update 1.1. Key mechanics:
 - **No quota deadlines** -- quotas exist but never expire
 - **Loot respawns daily** -- houses reset with new loot every game day
 - **Full progression** -- ranks, tools, skills, and upgrades all carry over
-- **Death penalty** -- same as Standard mode (lose carried loot, keep rank/upgrades)
+- **Death penalty** -- same as Standard mode (lose carried loot, keep rank/upgrades) -- the [hardcore survival guide](/crime-sim/hardcore/hardcore-survival-guide/) explains how to avoid fatal mistakes even in forgiving modes.
 - **Police system** -- police AI behaves the same as Standard mode
-- **Difficulty selection** -- choose Casual, Normal, Pro, or Master difficulty
+- **Difficulty selection** -- choose Casual, Normal, Pro, or Master difficulty. The [police system guide](/crime-sim/police/police-system-guide/) is essential reading for higher difficulties where detection is stricter.
 
 | Feature | Endless Mode | Standard Mode |
 |---------|:------------:|:-------------:|

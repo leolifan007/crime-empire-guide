@@ -65,7 +65,7 @@ The northern highway has the casino and several vending machines. No properties 
 
 {{< section "Related Guides" >}}
 
-See also: [Map Zones and Key Locations](/schedule-i/expansion/map-zones-guide/) for finding ingredient sources and [All Properties Ranked](/schedule-i/property/property-rankings/) for upgrade timing.
+See also: [All Properties Ranked](/schedule-i/property/property-rankings/) for upgrade timing.
 
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3650832699" desc="v0.4.5 property guide" >}}
