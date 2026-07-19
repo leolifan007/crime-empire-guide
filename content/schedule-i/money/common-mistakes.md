@@ -120,6 +120,9 @@ For precise heat values per action, see the [Heat Risk Calculator](/schedule-i/p
 - [Police AI Behavior: Complete Breakdown](/schedule-i/police/evasion/) -- detection distances and escapes
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how to price correctly
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- when automation pays off
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- the #1 mistake is rushing the property before it's ready
+- [Profit Rankings](/schedule-i/recipes/profit/) -- using low-tier recipes when better options are unlocked
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- zone-specific mistakes and safe selling areas
 
 {{< resourcegrid >}}
   {{< resourcecard name="7 Biggest Mistakes (Reddit)" url="https://www.reddit.com/r/Schedule_I/comments/1jz7t60/7_biggest_mistakes_i_made_in_schedule_1/" desc="Player-reported mistakes and fixes" >}}

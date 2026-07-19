@@ -118,6 +118,9 @@ For detailed strain pricing, see [Best Strain By Game Stage](/schedule-i/hybrid/
 - [10 Common Schedule I Mistakes](/schedule-i/money/common-mistakes/) -- avoid the quality traps
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- automation + quality = max profit
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- highest value strains to apply quality to
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- how quality settings interact with property automation
+- [Profit Rankings](/schedule-i/recipes/profit/) -- baseline profit without quality to compare against
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- quality scaling at Barn/Warehouse automation scale
 
 {{< resourcegrid >}}
   {{< resourcecard name="Quality Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Quality" desc="Official quality mechanics page" >}}

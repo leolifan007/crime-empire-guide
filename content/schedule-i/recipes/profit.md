@@ -195,6 +195,14 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
 
 </div>
 
+## Related Guides
+
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- property layout to run your first staffed mixing operation
+- [Workshop Automation](/schedule-i/automation/workshop/) -- full 8-step blueprint for Bungalow automation with profit rankings
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the easiest high-profit recipe to start with before grinding rank
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- scaling beyond the Bungalow to Kingpin-level production
+- [Mixing Recipes](/schedule-i/hybrid/mixing-recipes/) -- advanced custom strain crafting and mix optimization
+
 <div class="resource-section">
   <h2>Community Verification &amp; Resources</h2>
   <p>Recipe values shift with every patch. The data above reflects v0.4 (April 2026). Before building a production line around a specific recipe, cross-check against:</p>

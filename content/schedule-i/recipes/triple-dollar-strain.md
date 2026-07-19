@@ -63,6 +63,13 @@ The Triple Dollar recipe exploded on TikTok and Reddit because it hits the sweet
 
 Once all 4 ingredients are available, the recipe generates $110+ profit per unit with zero special conditions or hard-to-find NPCs.
 
+## Related Guides
+
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit table for all recipes at every rank
+- [Mixing Recipes](/schedule-i/hybrid/mixing-recipes/) -- custom strain crafting mechanics and advanced mix optimization
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- which property to use Triple Dollar in after unlocking Peddler I
+- [Dealers](/schedule-i/npc/dealers/) -- where to sell for maximum return on Triple Dollar units
+
 {{< resourcegrid >}}
   {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Real-time ingredient chain calculator" >}}
   {{< resourcecard name="Best Strain Mix (Reddit)" url="https://www.reddit.com/r/QMGames/comments/1jkehcj/how_to_make_the_best_strain_mix_in_schedule_1/" desc="Community-discovered strain recipes" >}}

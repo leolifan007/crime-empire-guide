@@ -15,7 +15,7 @@ I rebuilt the Bungalow layout three times before it clicked. Here's what worked 
 
 The Bungalow is a single open room, about 8x6 tiles of usable space. No stairs, no extra rooms. You work with what you have.
 
-- South wall: 2 [Mixing Stations](/schedule-i/recipes/profit/) side by side. Once they're in, you'll want to know which recipes give the best return for that floor space.
+- South wall: 2 [Mixing Stations](/schedule-i/recipes/profit/) side by side. Once they're in, you'll want to know which recipes give the best return for that floor space. The [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) hits $120+ per unit with only 4 ingredients -- fits perfectly in a 2-station Bungalow layout.
 - North wall: 2 shelves, each whitelisted for 2 ingredients. You can't fit a third shelf without blocking the path.
 - Wall near the door: Output box for finished product.
 - Near loading bay: Packing Station.
@@ -34,7 +34,7 @@ Daily wage cost runs around $550-$650 total, based on current hire rates. I've s
 
 **What this setup produces:**
 
-With OG Kush 4-mix running, I get about 60-80 units per day. Revenue around [$7,200-$9,600](/schedule-i/money/quality-profit-guide/) at roughly $120/unit. I wrote a separate breakdown on how to push that per-unit price higher by adjusting product quality. After wages, I'm clearing $6,500-$9,000 per day. The Bungalow pays for itself in one day.
+With OG Kush 4-mix running, I get about 60-80 units per day. Revenue around [$7,200-$9,600](/schedule-i/money/quality-profit-guide/) at roughly $120/unit. If you want to push per-unit price beyond $120, the [quality profit guide](/schedule-i/money/quality-profit-guide/) covers product quality settings that dealers pay a premium for. I wrote a separate breakdown on how to push that per-unit price higher by adjusting product quality. After wages, I'm clearing $6,500-$9,000 per day. The Bungalow pays for itself in one day.
 
 But here's the thing -- the numbers don't scale. I can't add more stations, more shelves, or more employees. The Bungalow caps at 5 employees and 1 loading bay. Once I unlocked Meth production and needed more stations than it could fit, I knew it was time to move.
 
@@ -51,10 +51,18 @@ I see people on Reddit asking if they should renovate the Bungalow or invest in 
 
 The loading bay location matters. The Bungalow's only loading bay is in a corner, and if you block the path with furniture, your Handler won't be able to reach it. I learned this the hard way when I packed a shelf too close to the bay and my Handler just stood there holding ingredients. Keep a 2-tile clear path from the bay to the center of the room.
 
-For the full automation breakdown, check the [Workshop guide](/schedule-i/automation/workshop/).
+For the full automation breakdown, check the [Workshop guide](/schedule-i/automation/workshop/). Once your Bungalow hits capacity, the [Property Rankings guide](/schedule-i/property/property-rankings/) shows exactly when to move up to the Barn ($25K) vs staying put.
 
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Wiki" url="https://schedule-1.fandom.com/wiki/Properties" desc="Property stats and costs" >}}
   {{< resourcecard name="Bungalow Setup Video" url="https://www.youtube.com/watch?v=pHmw-E_fn6A" desc="Visual bungalow layout guide" >}}
   {{< resourcecard name="Best Barn Setup" url="https://scalacube.com/blog/schedule-1/best-barn-setup-in-schedule-1" desc="What to move to next" >}}
 {{< /resourcegrid >}}
+
+## Related Guides
+
+- [Workshop Automation Blueprint](/schedule-i/automation/workshop/) -- full step-by-step Bungalow automation walkthrough
+- [Property Rankings](/schedule-i/property/property-rankings/) -- when to upgrade and which properties come next
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- highest-profit recipe to run in your 2-station layout
+- [Quality Profit Guide](/schedule-i/money/quality-profit-guide/) -- push per-unit price above $120 with quality settings
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- scaling up after outgrowing the Bungalow

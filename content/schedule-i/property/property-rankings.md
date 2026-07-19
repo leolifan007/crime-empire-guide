@@ -59,6 +59,13 @@ The biggest mistake people make is buying the Barn before they're ready. Someone
 
 For what to actually put inside these properties, see the [Workshop Automation](/schedule-i/automation/workshop/) and [Bungalow Setup](/schedule-i/property/bungalow-setup/) guides.
 
+## Related Guides
+
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- detailed Bungalow layout and employee setup
+- [Workshop Automation](/schedule-i/automation/workshop/) -- full 8-step automation blueprint for Bungalow and beyond
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the go-to recipe to run in your first staffed property
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full recipe list with per-gram profit to choose what to produce at each property tier
+
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Wiki" url="https://schedule-1.fandom.com/wiki/Properties" desc="Property stats and costs from all patches" >}}
   {{< resourcecard name="v0.4.5 Property Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3650832699" desc="Updated property costs and unlock ranks" >}}

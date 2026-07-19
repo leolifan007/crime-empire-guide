@@ -111,6 +111,9 @@ For unlocking all dealers efficiently, see the [Fastest Supplier Unlock Route](/
 - [Fastest Supplier Unlock Route](/schedule-i/npc/suppliers/) -- from Street Rat to Kingpin
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- when dealers stop being worth it
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality affects dealer payouts
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- where to assign dealers for maximum efficiency
+- [Profit Rankings](/schedule-i/recipes/profit/) -- which recipes your dealers should be selling
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- dealer spawn locations and zone-specific dealer types
 
 {{< resourcegrid >}}
   {{< resourcecard name="PC Gamer Dealer Guide" url="https://www.pcgamer.com/games/sim/schedule-1-dealers-best-customers/" desc="Best customers for each dealer" >}}

@@ -102,6 +102,9 @@ For the full ranked list of community-discovered strains, see [Top 10 Community 
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- ranked with ingredient lists
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality affects strain value
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- when to scale up production
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit for every strain tier
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the easiest high-value strain to calculate first
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- which property to use for each growth stage
 
 {{< resourcegrid >}}
   {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Real-time ingredient chain calculator" >}}

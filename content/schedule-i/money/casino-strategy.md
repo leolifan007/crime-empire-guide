@@ -65,6 +65,14 @@ Earlier patches made the games slightly tighter. As of [v0.4.5](/schedule-i/patc
 
 For the comparison with drug production income, see the [Profit Rankings](/schedule-i/recipes/profit/).
 
+## Related Guides
+
+- [Profit Rankings](/schedule-i/recipes/profit/) -- how casino earnings compare to drug production income
+- [Speedrun Guide](/schedule-i/money/speedrun/) -- alternative fast-money route if you prefer no gambling
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- casino location and surrounding area details
+- [v0.4.5 Update](/schedule-i/patch/v045-update/) -- patch notes covering casino odds changes
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- avoid the money traps that cost new players the most
+
 {{< resourcegrid >}}
   {{< resourcecard name="Casino Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Casino" desc="Game rules and payout tables" >}}
   {{< resourcecard name="Reddit Infinite Money Guide" url="https://www.reddit.com/r/Schedule_I/comments/1jogce7/infinite_money_at_the_casino/" desc="Community Ride the Bus strategy" >}}

@@ -73,6 +73,14 @@ Vending machines in public areas can be smashed for cash and a free energy drink
 
 {{< insight >}}Combining all three methods (deliveries + trash + vending) can net you $10K in the first hour of play. This is enough to skip the grind and jump straight into [mixing station setup](/schedule-i/recipes/profit/) at the Bungalow.{{< /insight >}}
 
+## Related Guides
+
+- [Casino Strategy](/schedule-i/money/casino-strategy/) -- alternative fast-money method using gambling instead of deliveries
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- what to do with your first $6K after the speedrun
+- [Profit Rankings](/schedule-i/recipes/profit/) -- the mixing setup to build after leaving the RV
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- map details for locating trash and vending machine routes
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- avoid the traps that undo early-game money gains
+
 {{< resourcegrid >}}
   {{< resourcecard name="ScalaCube Money Guide" url="https://scalacube.com/blog/schedule-1/how-to-make-money-fast-in-schedule-1" desc="Early game money-making methods" >}}
   {{< resourcecard name="PCGamesN Money Guide" url="https://www.pcgamesn.com/schedule-1/money" desc="Overcharging and cutting middleman strategies" >}}

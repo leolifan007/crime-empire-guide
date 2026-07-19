@@ -129,6 +129,10 @@ For efficiency comparisons, see [Manual vs Automation ROI Comparison](/schedule-
 - [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- starting your automation journey
 - [NPC Price Index 2026](/schedule-i/npc/dealers/) -- endgame dealer assignments
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- max profit strains for endgame
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit table for endgame Cocaine 9-mix
+- [Property Rankings](/schedule-i/property/property-rankings/) -- endgame property progression and Hyland Manor purchase guide
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- endgame zones (Docks) and dealer locations
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- avoid the expensive endgame mistakes that waste your progress
 
 {{< resourcegrid >}}
   {{< resourcecard name="Endgame Ideas (Reddit)" url="https://www.reddit.com/r/Schedule_I/comments/1lw2w12/endgame_ideas/" desc="Community endgame discussion" >}}

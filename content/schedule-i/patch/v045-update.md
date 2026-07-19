@@ -81,6 +81,14 @@ This makes v0.4.5 a quality-of-life patch rather than a balance patch. Most exis
 
 See all version changes in: [Schedule 1 Complete Update History](/schedule-i/patch/update-history/).
 
+## Related Guides
+
+- [Schedule 1 Complete Update History](/schedule-i/patch/update-history/) -- full version timeline from v0.1 to v0.4.5
+- [Profit Rankings](/schedule-i/recipes/profit/) -- v0.4.5 made no recipe changes; existing profit rankings still valid
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- Big Sprinkler boosts Barn automation efficiency by 50-75%
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- how the Big Sprinkler changes your Bungalow grow operation
+- [Heat System](/schedule-i/police/heat-system/) -- police behavior unchanged in v0.4.5; current evasion tactics remain valid
+
 {{< resourcegrid >}}
   {{< resourcecard name="v0.4.5 Patch Notes (IGN)" url="https://www.ign.com/wikis/schedule-1/Schedule_1_v0.4.5_Anniversary_Update_Patch_Notes" desc="Full patch notes for Anniversary Update" >}}
   {{< resourcecard name="Patch Notes (PatchBot)" url="https://patchbot.io/games/schedule-i" desc="All Schedule 1 patch notes in one place" >}}

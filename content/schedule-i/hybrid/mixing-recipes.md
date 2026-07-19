@@ -160,7 +160,11 @@ For detailed ingredient effect reference, see the [Strain Calculator](/schedule-
 
 - [Best Strain By Game Stage](/schedule-i/hybrid/strain-calculator/) -- decision table for early/mid/late game
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality multiplies strain value
-- [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- set up production for these strains
+- [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) --
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit table for all mix tiers
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the most-searched custom recipe to try first
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- where to set up your first mixing operation
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- ingredient sourcing by zone and supplier locations set up production for these strains
 
 {{< resourcegrid >}}
   {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Real-time ingredient chain calculator" >}}

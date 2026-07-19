@@ -49,7 +49,7 @@ Mid-game zone, unlocked at Dealer rank. Contains:
 - **Shirley Watts' stash:** West face of Warehouse
 - **Fungal Phil's stash:** Behind Gas-Mart
 
-**Selling strategy:** Medium police density. Use dealers here instead of street selling. The Barn's 2-floor layout takes time to optimize.
+**Selling strategy:** Medium police density. Use dealers here instead of street selling. The [Barn](/schedule-i/automation/barn-and-warehouse/)'s 2-floor layout takes time to optimize.
 
 {{< section "Docks (Far East)" >}}
 
@@ -66,6 +66,16 @@ The northern highway has the casino and several vending machines. No properties 
 {{< section "Related Guides" >}}
 
 See also: [All Properties Ranked](/schedule-i/property/property-rankings/) for upgrade timing.
+
+## Related Guides
+
+- [Heat System](/schedule-i/police/heat-system/) -- police density per zone and heat risk by district
+- [Police Evasion](/schedule-i/police/evasion/) -- escape routes and hiding spots in each zone
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- the Bungalow is in the Motel area, the best early-game zone
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- the Barn is in Industrial Zone, mid-game property
+- [Dealers](/schedule-i/npc/dealers/) -- zone-specific dealer spawns and locations
+- [Casino Strategy](/schedule-i/money/casino-strategy/) -- casino zone (Highway North) gambling guide
+- [All Properties Ranked](/schedule-i/property/property-rankings/) -- which zones to prioritize for property purchases
 
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3650832699" desc="v0.4.5 property guide" >}}
