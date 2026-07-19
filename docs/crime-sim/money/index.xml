@@ -1,14 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Money on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/money/</link><description>Recent content in Money on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/money/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator Fast Money Guide: Best Early-Game Methods</title><link>https://crimempire.com/crime-sim/money/fast-money-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/money/fast-money-guide/</guid><description>&lt;p&gt;The fastest first $1,000 I found: complete the tutorial, grab the crowbar, rob the nearest low-security house, sell electronics at the fence, buy a lockpick set. Repeat with better entry on house number two. Took me about 20 minutes of real time.&lt;/p&gt;
-&lt;p&gt;The early game is about capital accumulation. Every dollar goes back into tools that enable better heists. I wasted my first payout on hideout decorations and regretted it for the next hour.&lt;/p&gt;</description></item><item><title>Crime Simulator Gold Bars and Jewelry Economy (Update 1.3)</title><link>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</guid><description>&lt;p&gt;Do not sell gold bars for quick cash. I made this mistake on my first 1.3 playthrough and regretted it when I realized gold bars are the currency for hideout basement upgrades -- and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price.&lt;/p&gt;
-&lt;h2 id="what-changed-in-update-13"&gt;What Changed in Update 1.3&lt;/h2&gt;
-&lt;p&gt;Update 1.3 introduced a parallel economy system that fundamentally changes how you should think about loot:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Gold bars -- new resource for hideout basement upgrades&lt;/li&gt;
-&lt;li&gt;Jewelry loot -- authentic and fake variants with different values&lt;/li&gt;
-&lt;li&gt;Basement hideout expansion -- upgradeable with gold bars&lt;/li&gt;
-&lt;li&gt;PvP competition modes -- new income stream with risk&lt;/li&gt;
-&lt;li&gt;Master Key -- premium tool for instant lock opening&lt;/li&gt;
-&lt;li&gt;New loot locations with expanded map areas&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="gold-bars-the-basement-currency"&gt;Gold Bars: The Basement Currency&lt;/h2&gt;
-&lt;p&gt;Found in high-security targets, heist locations, and rare loot boxes. Gold bars are heavy and take multiple inventory slots. They are used exclusively for basement upgrades.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Money on Crime Empire Guide</title>
+    <link>https://crimempire.com/crime-sim/money/</link>
+    <description>Recent content in Money on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://crimempire.com/crime-sim/money/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crime Simulator Fast Money Guide: Best Early-Game Methods</title>
+      <link>https://crimempire.com/crime-sim/money/fast-money-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/money/fast-money-guide/</guid>
+      <description>&lt;p&gt;The fastest first $1,000 I found: complete the tutorial, grab the crowbar, rob the nearest low-security house, sell electronics at the fence, buy a lockpick set. Repeat with better entry on house number two. Took me about 20 minutes of real time.&lt;/p&gt;&#xA;&lt;p&gt;If the tutorial skipped the basics, the &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; covers the full first-heist checklist. The early game is about capital accumulation. Every dollar goes back into tools that enable better heists. I wasted my first payout on hideout decorations and regretted it for the next hour.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Gold Bars and Jewelry Economy (Update 1.3)</title>
+      <link>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</guid>
+      <description>&lt;p&gt;Do not sell gold bars for quick cash. I made this mistake on my first 1.3 playthrough and regretted it when I realized gold bars are the currency for hideout basement upgrades -- and those upgrades unlock higher-value contracts that pay back 5x the gold&#39;s fence price. The &lt;a href=&#34;https://crimempire.com/crime-sim/hideouts/safe-houses-guide/&#34;&gt;safe houses guide&lt;/a&gt; has a full breakdown of what each upgrade costs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-changed-in-update-13&#34;&gt;What Changed in Update 1.3&lt;/h2&gt;&#xA;&lt;p&gt;Update 1.3 introduced a parallel economy system that fundamentally changes how you should think about loot:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

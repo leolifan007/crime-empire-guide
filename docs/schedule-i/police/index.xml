@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Police System on Crime Empire Guide</title><link>https://crimempire.com/schedule-i/police/</link><description>Recent content in Police System on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 18:25:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/schedule-i/police/index.xml" rel="self" type="application/rss+xml"/><item><title>Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</title><link>https://crimempire.com/schedule-i/police/heat-system/</link><pubDate>Thu, 18 Jun 2026 18:20:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/police/heat-system/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Quick answer:&lt;/strong&gt; Selling drugs in view of a cop = Low heat (Investigating level). Assaulting an NPC = Medium heat. Pulling out a weapon = High heat (Wanted level). Hitting a cop = Maximum heat (Wanted Dead or Alive instantly). Each action has a fixed heat value the game uses to decide police response.&lt;/div&gt;
-
-&lt;p&gt;This guide is a reference tool -- not an explainer. Bookmark it. Use it before every sale.&lt;/p&gt;</description></item><item><title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</title><link>https://crimempire.com/schedule-i/police/evasion/</link><pubDate>Thu, 18 Jun 2026 18:25:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/police/evasion/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.&lt;/div&gt;
-
-&lt;p&gt;This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Police System on Crime Empire Guide</title>
+    <link>https://crimempire.com/schedule-i/police/</link>
+    <description>Recent content in Police System on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 18:25:00 +0800</lastBuildDate>
+    <atom:link href="https://crimempire.com/schedule-i/police/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</title>
+      <link>https://crimempire.com/schedule-i/police/heat-system/</link>
+      <pubDate>Thu, 18 Jun 2026 18:20:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/police/heat-system/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Quick answer:&lt;/strong&gt; Selling drugs in view of a cop = Low heat (Investigating level). Assaulting an NPC = Medium heat. Pulling out a weapon = High heat (Wanted level). Hitting a cop = Maximum heat (Wanted Dead or Alive instantly). Each action has a fixed heat value the game uses to decide police response.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This guide is a reference tool -- not an explainer. Bookmark it. Use it before every sale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</title>
+      <link>https://crimempire.com/schedule-i/police/evasion/</link>
+      <pubDate>Thu, 18 Jun 2026 18:25:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/police/evasion/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loot Guide on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/loot/</link><description>Recent content in Loot Guide on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/loot/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator Loot Locations and Item Values Guide</title><link>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</guid><description>&lt;p&gt;Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently.&lt;/p&gt;
-&lt;h2 id="loot-value-tiers"&gt;Loot Value Tiers&lt;/h2&gt;
-&lt;p&gt;Crime Simulator loot falls into three broad value tiers. Memorize these so you never waste a slot on low-value junk.&lt;/p&gt;</description></item><item><title>Crime Simulator Loot Selling Strategy: Maximize Every Heist</title><link>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</guid><description>&lt;p&gt;Most new players sell every item they find to the nearest fence immediately. I did this for my first few hours and left a lot of money on the table.&lt;/p&gt;
-&lt;p&gt;The fastest way from zero to quota (what I settled on): stack item requests, sell duplicate skill leaflets before basic loot, and never fence high-value items at the same fence twice in one day -- prices drop.&lt;/p&gt;
-&lt;h2 id="the-four-rules-of-loot-selling"&gt;The Four Rules of Loot Selling&lt;/h2&gt;
-&lt;h3 id="rule-1-item-requests-first"&gt;Rule 1: Item Requests First&lt;/h3&gt;
-&lt;p&gt;The item request system offers 50-100% premium over fence prices. Before selling anything, I check the request board, mark requested items, and keep them in stash. Deliver on the next visit to that map area.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loot Guide on Crime Empire Guide</title>
+    <link>https://crimempire.com/crime-sim/loot/</link>
+    <description>Recent content in Loot Guide on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://crimempire.com/crime-sim/loot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crime Simulator Loot Locations and Item Values Guide</title>
+      <link>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</guid>
+      <description>&lt;p&gt;Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently. The &lt;a href=&#34;https://crimempire.com/crime-sim/loot/loot-selling-strategy/&#34;&gt;loot selling strategy&lt;/a&gt; shows how to turn those items into double the fence price.&lt;/p&gt;&#xA;&lt;h2 id=&#34;loot-value-tiers&#34;&gt;Loot Value Tiers&lt;/h2&gt;&#xA;&lt;p&gt;Crime Simulator loot falls into three broad value tiers. Memorize these so you never waste a slot on low-value junk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Loot Selling Strategy: Maximize Every Heist</title>
+      <link>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</guid>
+      <description>&lt;p&gt;Most new players sell every item they find to the nearest fence immediately. I did this for my first few hours and left a lot of money on the table.&lt;/p&gt;&#xA;&lt;p&gt;The fastest way from zero to quota (what I settled on): stack item requests, sell duplicate skill leaflets before basic loot, and never fence high-value items at the same fence twice in one day -- prices drop. The &lt;a href=&#34;https://crimempire.com/crime-sim/skills/skill-leaflets-guide/&#34;&gt;skill leaflets guide&lt;/a&gt; explains which leaflets to keep versus sell.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

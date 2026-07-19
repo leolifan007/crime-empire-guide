@@ -1,958 +1,432 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GAME Guide - No Fluff, Just Fixes on Crime Empire Guide</title><link>https://crimempire.com/</link><description>Recent content in GAME Guide - No Fluff, Just Fixes on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 19:10:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/index.xml" rel="self" type="application/rss+xml"/><item><title>DDS2 Endgame Guide: What to Do After Maxing Everything</title><link>https://crimempire.com/dds2/endgame/endgame-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/endgame/endgame-guide/</guid><description>&lt;p&gt;Once you have maxed out your Street Cred, staffed all roles, unlocked every recipe, and built hideouts across all islands, what is left to do in DDS2? The endgame offers several directions: achievement hunting, Casino DLC content, co-op challenges, and self-imposed goals. This guide covers everything available after the main progression is complete.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Endgame activities ranked by engagement:&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Activity&lt;/th&gt;
- &lt;th&gt;Time Investment&lt;/th&gt;
- &lt;th&gt;Difficulty&lt;/th&gt;
- &lt;th&gt;Reward&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;100% achievement completion&lt;/td&gt;
- &lt;td&gt;80-100 hours&lt;/td&gt;
- &lt;td&gt;Very Hard&lt;/td&gt;
- &lt;td&gt;Steam achievements, bragging rights&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Casino DLC content&lt;/td&gt;
- &lt;td&gt;20-30 hours&lt;/td&gt;
- &lt;td&gt;High&lt;/td&gt;
- &lt;td&gt;New zone, gambling mechanics, achievements&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Co-op challenge runs&lt;/td&gt;
- &lt;td&gt;Variable&lt;/td&gt;
- &lt;td&gt;Medium-High&lt;/td&gt;
- &lt;td&gt;Shared progression, faster grinding&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Self-imposed challenges&lt;/td&gt;
- &lt;td&gt;Unlimited&lt;/td&gt;
- &lt;td&gt;Varies&lt;/td&gt;
- &lt;td&gt;Personal satisfaction&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Territory domination&lt;/td&gt;
- &lt;td&gt;10-20 hours&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;td&gt;Full map control, max income&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;1. 100% achievement completion:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Map and Island Guide: All Locations, POIs, and Fast Travel Routes</title><link>https://crimempire.com/dds2/map/map-island-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/map/map-island-guide/</guid><description>&lt;p&gt;Isla Sombra in DDS2 consists of multiple islands, each with its own characteristics, client base, police density, and available resources. Understanding the map layout is essential for efficient travel, territory planning, and supply chain management. This guide covers every accessible island, key points of interest, and the fastest travel routes between them.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Island overview:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Based on the community maps on Miraheze and Kanka, there are 7 major island zones:&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Island&lt;/th&gt;
- &lt;th&gt;Unlock Order&lt;/th&gt;
- &lt;th&gt;Best For&lt;/th&gt;
- &lt;th&gt;Police Density&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Small Island&lt;/td&gt;
- &lt;td&gt;Starting zone&lt;/td&gt;
- &lt;td&gt;Tutorial, early deliveries, no police&lt;/td&gt;
- &lt;td&gt;None&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Archipelago&lt;/td&gt;
- &lt;td&gt;First expansion&lt;/td&gt;
- &lt;td&gt;General operations, restaurant district&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Callejon&lt;/td&gt;
- &lt;td&gt;Mid-game&lt;/td&gt;
- &lt;td&gt;Processing, industrial equipment, gang territory&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Jungle&lt;/td&gt;
- &lt;td&gt;Mid-game&lt;/td&gt;
- &lt;td&gt;Cannabis growing, raw materials&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Slavs Bay&lt;/td&gt;
- &lt;td&gt;Late-game&lt;/td&gt;
- &lt;td&gt;High-end production (meth, cocaine)&lt;/td&gt;
- &lt;td&gt;High&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Paraiso Peninsular&lt;/td&gt;
- &lt;td&gt;Late-game&lt;/td&gt;
- &lt;td&gt;Endgame operations, high-value clients&lt;/td&gt;
- &lt;td&gt;High&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Bahia De Oro&lt;/td&gt;
- &lt;td&gt;Endgame&lt;/td&gt;
- &lt;td&gt;Casino DLC area, premium clients&lt;/td&gt;
- &lt;td&gt;Very High&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;The islands are gated by Street Cred level and story progression. You cannot access Callejon until you have completed sufficient missions in Archipelago. Similarly, Slavs Bay and later areas require higher Street Cred.&lt;/p&gt;</description></item><item><title>DDS2 Reputation Guide: Street Cred Leveling and Fast Strategies</title><link>https://crimempire.com/dds2/reputation/reputation-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/reputation/reputation-guide/</guid><description>&lt;p&gt;The reputation system in DDS2, called &amp;quot;Street Cred,&amp;quot; controls what you can unlock. Higher Street Cred levels unlock better recipes, larger hideout upgrades, more staff slots, higher-value customer tiers, and access to restricted areas. The achievement &amp;quot;I Am The One Who Knocks&amp;quot; requires Street Cred level 4. This guide covers how the system works and the fastest ways to level up.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How Street Cred works:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Street Cred is separate from your wanted level. Wanted level is police heat that decays with time. Street Cred is your reputation in the criminal underworld that permanently increases. You cannot lose Street Cred through normal gameplay -- only arrests can potentially reduce it. The system has multiple levels, and each level requires more experience than the last.&lt;/p&gt;</description></item><item><title>DDS2 Vehicle and Boat Guide: Best Purchases, Upgrades, and Customization</title><link>https://crimempire.com/dds2/vehicles/vehicle-boat-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/vehicles/vehicle-boat-guide/</guid><description>&lt;p&gt;Vehicles in DDS2 are essential for efficient travel between islands. The starter boat is slow and has limited fuel capacity. Upgrading to faster vehicles with larger fuel tanks dramatically improves your delivery speed and territory reach. Based on community guides from Steam and the Miraheze wiki, this guide covers all vehicles, their stats, prices, and which to buy at each stage.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Why vehicles matter:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Walking between islands takes 15-30 minutes each way. A basic boat cuts this to 5 minutes. A car or upgraded boat can cross the map in 2-3 minutes. Time saved on travel is time spent on production and sales. The right vehicle choice can increase your effective income by 50% or more.&lt;/p&gt;</description></item><item><title>Crime Simulator Achievement Guide Part 1: Easy to Medium Achievements</title><link>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</guid><description>&lt;p&gt;Crime Simulator has 60 Steam achievements total. About half come naturally through normal gameplay -- you will get the first 15-20 without trying. The rest require specific strategies. This guide covers the first 32 achievements (Very Easy to Medium difficulty).&lt;/p&gt;
-&lt;div class="callout"&gt;Use &lt;strong&gt;Completionist mode&lt;/strong&gt; for achievement hunting. It removes quota pressure and gives unlimited time. In Standard mode, quota deadlines interrupt focused achievement runs. Switch modes from the main menu before starting a new game.&lt;/div&gt;
-
-&lt;h2 id="achievement-overview"&gt;Achievement Overview&lt;/h2&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Category&lt;/th&gt;
- &lt;th&gt;Count&lt;/th&gt;
- &lt;th&gt;Difficulty&lt;/th&gt;
- &lt;th style="text-align: right"&gt;Typical Playtime&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Tutorial&lt;/td&gt;
- &lt;td&gt;5&lt;/td&gt;
- &lt;td&gt;Very Easy&lt;/td&gt;
- &lt;td style="text-align: right"&gt;First 10 min&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Progression (Rank)&lt;/td&gt;
- &lt;td&gt;10&lt;/td&gt;
- &lt;td&gt;Easy&lt;/td&gt;
- &lt;td style="text-align: right"&gt;1-3 hours&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Loot &amp;amp; Money&lt;/td&gt;
- &lt;td&gt;8&lt;/td&gt;
- &lt;td&gt;Easy-Medium&lt;/td&gt;
- &lt;td style="text-align: right"&gt;2-4 hours&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Challenges&lt;/td&gt;
- &lt;td&gt;9&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;td style="text-align: right"&gt;4-8 hours&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Hard (covered in Part 2)&lt;/td&gt;
- &lt;td&gt;18&lt;/td&gt;
- &lt;td&gt;Hard-Very Hard&lt;/td&gt;
- &lt;td style="text-align: right"&gt;10-30 hours&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Update 1.3 (covered in Part 2)&lt;/td&gt;
- &lt;td&gt;10&lt;/td&gt;
- &lt;td&gt;Medium-Hard&lt;/td&gt;
- &lt;td style="text-align: right"&gt;3-8 hours&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="tutorial-achievements-auto-unlock"&gt;Tutorial Achievements (Auto-Unlock)&lt;/h2&gt;
-&lt;p&gt;These five achievements unlock during the first few minutes. You cannot miss them.&lt;/p&gt;</description></item><item><title>DDS2 Meth Recipe: Cook Your First Batch (Step-by-Step)</title><link>https://crimempire.com/dds2/recipes/cook-meth/</link><pubDate>Tue, 09 Jun 2026 14:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/recipes/cook-meth/</guid><description>&lt;p&gt;The DDS2 Datamine v2 catalogs 73 substances. Meth starts at POT 0.88 (pure potency). The first cook is straightforward once you know the ingredient chain: ephedrine to compound to purify to cut. I wasted my first few batches guessing ratios. This guide walks through every step from ingredient sourcing to finished product.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-meth-production.svg" alt="DDS2 meth production flow diagram showing ingredient chain from ephedrine to finished product" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1: Unlock the recipe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Before you can cook meth, you need the recipe. The recipe card is a physical item found in the tutorial zone warehouse. Unlike some games where recipes auto-unlock, DDS2 requires you to find the card and interact with it. The recipe unlocks as part of the main story questline -- you will receive a prompt to find it after talking to your contact about making more money.&lt;/p&gt;</description></item><item><title>DDS2 Achievement Guide: Full List (39 Achievements Verified)</title><link>https://crimempire.com/dds2/achievements/achievement-guide/</link><pubDate>Tue, 09 Jun 2026 13:40:00 +0800</pubDate><guid>https://crimempire.com/dds2/achievements/achievement-guide/</guid><description>&lt;p&gt;Drug Dealer Simulator 2 has 39 Steam achievements as confirmed on the official Steam page. The base game contains 21 achievements, and there are 2 DLC packs that add 18 more. Tracking sites like TrueAchievements, Steam Hunters, and PlayTracker document the full list with global unlock percentages. I used these sites along with the Steam Community 100% achievement guide to compile accurate unlock conditions.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-achievement-guide.svg" alt="DDS2 achievement progression overview showing milestone-based and grind-based achievements" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Story and progression achievements:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Staff and Employee Guide: How to Hire and Assign</title><link>https://crimempire.com/dds2/staff/staff-guide/</link><pubDate>Tue, 09 Jun 2026 13:20:00 +0800</pubDate><guid>https://crimempire.com/dds2/staff/staff-guide/</guid><description>&lt;p&gt;Employees in DDS2 are essential for scaling past the early game. I spent my first 20 hours running everything solo before realizing how much time staff saves. The Steam FAQ guide covers how to get more employees from early-game strategies to advanced methods. This guide covers every hiring method, how assignments work, and the optimal staffing progression.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-staff-system.svg" alt="DDS2 staff system diagram showing hiring methods, role assignments, and progression" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;How to get employees:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Parkour Guide: Movement Mechanics and Police Escape</title><link>https://crimempire.com/dds2/parkour/parkour-guide/</link><pubDate>Tue, 09 Jun 2026 13:00:00 +0800</pubDate><guid>https://crimempire.com/dds2/parkour/parkour-guide/</guid><description>&lt;p&gt;The DDS2 Fandom tutorial page confirms: &amp;quot;Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas.&amp;quot; Parkour is your primary survival tool -- not guns. I stopped trying to fight police after my first few arrests taught me that bullets attract more heat than they solve. This guide covers every parkour move, when to use each, and how to chain them into effective escape sequences.&lt;/p&gt;</description></item><item><title>DDS2 Hideout Locations Guide and Raid Protection</title><link>https://crimempire.com/dds2/hideouts/hideout-guide/</link><pubDate>Tue, 09 Jun 2026 12:40:00 +0800</pubDate><guid>https://crimempire.com/dds2/hideouts/hideout-guide/</guid><description>&lt;p&gt;Hideouts in DDS2 are your operational bases, and they can be raided based on your wanted level and the hideout's visibility rating. I lost my first major stockpile to a raid because I kept everything in the starter shack. The community guide &amp;quot;Pedro Alvarez Real Estate Agency&amp;quot; documents all locations with prices, water/phone line availability, and visibility ratings. This guide covers how to choose hideouts, how raids work, and how to protect your assets.&lt;/p&gt;</description></item><item><title>Best Early-Game Money Methods in DDS2 (Verified)</title><link>https://crimempire.com/dds2/money/early-money/</link><pubDate>Tue, 09 Jun 2026 12:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/money/early-money/</guid><description>&lt;p&gt;The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. I tried going straight to cooking and ended up broke with wasted materials. In the first 10 hours, deliveries outperform cooking by roughly 3:1 based on what I have seen and what the community confirms. This guide covers the three phases of early money-making, from zero to a sustainable operation.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-money-flow.svg" alt="DDS2 early money flow diagram showing delivery, cooking, and expansion phases" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Phase 1: Delivery economy ($0 to $2,000):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Beginner's Guide: From Beach to First $5K</title><link>https://crimempire.com/dds2/beginner/getting-started/</link><pubDate>Tue, 09 Jun 2026 11:30:00 +0800</pubDate><guid>https://crimempire.com/dds2/beginner/getting-started/</guid><description>&lt;p&gt;Your first hour on Isla Sombra is about survival, not profits. I learned this the hard way -- my first run I focused on cooking and ended up broke with no clients. Complete the tutorial missions, meet your contact Shady, secure your first hideout, and make deliveries until you hit $5,000. Cooking comes after you have a reliable client pipeline. This guide walks through every step from washing up on the beach to building a sustainable early-game operation.&lt;/p&gt;</description></item><item><title>Crime Simulator 4-Player Co-op Strategy Guide</title><link>https://crimempire.com/crime-sim/coop/coop-strategy-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/coop/coop-strategy-guide/</guid><description>&lt;p&gt;I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. But without coordination, co-op is chaos.&lt;/p&gt;
-&lt;h2 id="the-optimal-role-setup"&gt;The Optimal Role Setup&lt;/h2&gt;
-&lt;p&gt;The fastest role setup I have used: 1 Lockpick + 1 Lookout + 1 Hauler + 1 Driver. Rotate roles every 2-3 runs so everyone stays flexible.&lt;/p&gt;</description></item><item><title>Crime Simulator Fast Money Guide: Best Early-Game Methods</title><link>https://crimempire.com/crime-sim/money/fast-money-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/money/fast-money-guide/</guid><description>&lt;p&gt;The fastest first $1,000 I found: complete the tutorial, grab the crowbar, rob the nearest low-security house, sell electronics at the fence, buy a lockpick set. Repeat with better entry on house number two. Took me about 20 minutes of real time.&lt;/p&gt;
-&lt;p&gt;The early game is about capital accumulation. Every dollar goes back into tools that enable better heists. I wasted my first payout on hideout decorations and regretted it for the next hour.&lt;/p&gt;</description></item><item><title>Crime Simulator Hardcore Mode Survival Guide</title><link>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</guid><description>&lt;p&gt;I lost my first Hardcore run in under 30 minutes. Broke a lockpick on my first door, panicked, used the crowbar, alerted a patrol, got chased, arrested, save gone. Not my finest moment.&lt;/p&gt;
-&lt;p&gt;Hardcore mode deletes your save on arrest. Quotas are higher (about 1.5x), police are more aggressive, and fence prices are approximately 20% lower. The core loop is the same but the margin for error is razor thin.&lt;/p&gt;</description></item><item><title>Crime Simulator Loot Locations and Item Values Guide</title><link>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</guid><description>&lt;p&gt;Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently.&lt;/p&gt;
-&lt;h2 id="loot-value-tiers"&gt;Loot Value Tiers&lt;/h2&gt;
-&lt;p&gt;Crime Simulator loot falls into three broad value tiers. Memorize these so you never waste a slot on low-value junk.&lt;/p&gt;</description></item><item><title>Crime Simulator Tools Guide: Every Item Explained</title><link>https://crimempire.com/crime-sim/tools/complete-tools-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/tools/complete-tools-guide/</guid><description>&lt;p&gt;I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything.&lt;/p&gt;
-&lt;p&gt;Prioritize the lockpick set first. It replaces the noisy crowbar on most locked doors and pays for itself within 2-3 heists.&lt;/p&gt;
-&lt;h2 id="tool-overview"&gt;Tool Overview&lt;/h2&gt;
-&lt;p&gt;Crime Simulator has a growing arsenal of tools for breaking in, disabling security, and escaping. Tools break with use and must be repaired or replaced. Choosing the right tool for each job is the difference between a clean score and an arrest.&lt;/p&gt;</description></item><item><title>Getting Started in Crime Simulator</title><link>https://crimempire.com/crime-sim/basics/getting-started/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/basics/getting-started/</guid><description>&lt;p&gt;I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.&lt;/p&gt;
-&lt;p&gt;The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part.&lt;/p&gt;</description></item><item><title>Best Drug Recipe Profit Rankings</title><link>https://crimempire.com/schedule-i/recipes/profit/</link><pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/recipes/profit/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; OG Kush 3-mix with &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/horse_semen.png" alt="horse_semen" class="game-img" loading="lazy"&gt;
-&lt;span class="game-name"&gt;Horse semen&lt;/span&gt;
-&lt;/span&gt; + &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/mega_bean.png" alt="mega_bean" class="game-img" loading="lazy"&gt;
-&lt;span class="game-name"&gt;Mega bean&lt;/span&gt;
-&lt;/span&gt; + &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/battery.png" alt="battery" class="game-img" loading="lazy"&gt;
-&lt;span class="game-name"&gt;Battery&lt;/span&gt;
-&lt;/span&gt; gives $136 profit per unit at rank Peddler III 鈥?best profit-per-effort before automation. If you have Chemists running and want max per-unit profit, build the Cocaine 9-mix at Kingpin: $717 net per unit.&lt;/div&gt;
-
-&lt;img src="https://crimempire.com/images/diagrams/recipe-profit-chart.svg" alt="Recipe Profit Per Unit" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;h2 class="section-heading"&gt;The Upgrade Path in 5 Steps&lt;/h2&gt;
-
-&lt;p&gt;From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here is the exact sequence.&lt;/p&gt;
-&lt;div class="upgrade-timeline"&gt;
-&lt;div class="upgrade-step"&gt;
- &lt;div class="step-marker"&gt;
- &lt;span class="step-dot"&gt;1&lt;/span&gt;
- &lt;div class="step-rail"&gt;&lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="step-panel"&gt;
- &lt;div class="step-rank"&gt;
- &lt;span class="rank-name"&gt;Hoodlum&lt;/span&gt;
- &lt;span class="rank-badge"&gt;Tier 1&lt;/span&gt;
- &lt;/div&gt;
- &lt;div class="step-brew"&gt;
- &lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/og_kush.png" alt="og_kush" class="game-img" loading="lazy"&gt;
- &lt;span class="game-name"&gt;Og kush&lt;/span&gt;
- &lt;/span&gt;&lt;span class="step-plus"&gt;+&lt;/span&gt;&lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/banana.png" alt="banana" class="game-img" loading="lazy"&gt;
- &lt;span class="game-name"&gt;Banana&lt;/span&gt;
-&lt;/span&gt;&lt;span class="step-plus"&gt;+&lt;/span&gt;&lt;span class="game-slot"&gt;&lt;img src="https://crimempire.com/images/game-icons/cuke.png" alt="cuke" class="game-img" loading="lazy"&gt;
- &lt;span class="game-name"&gt;Cuke&lt;/span&gt;
-&lt;/span&gt;
- &lt;/div&gt;
- &lt;div class="step-metrics"&gt;
- &lt;span class="metric-cost"&gt;Cost ~$6&lt;/span&gt;
- &lt;span class="metric-arrow"&gt;鈫?/span&gt;
- &lt;span class="metric-sell"&gt;Sell ~$40&lt;/span&gt;
- &lt;span class="metric-sep"&gt;路&lt;/span&gt;
- &lt;span class="metric-profit"&gt;Profit ~$34&lt;/span&gt;
- &lt;/div&gt;
- &lt;p class="step-desc"&gt;Buy everything from Albert and the first gas station 鈥?no alternative at this rank.&lt;/p&gt;</description></item><item><title>Crime Simulator Game Modes and Quota System Explained</title><link>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</guid><description>&lt;p&gt;Crime Simulator has three game modes. The differences are significant -- mode choice determines how punishing the quota is, whether you can die permanently, and how much time you have to explore. Pick the wrong mode and you will restart more than necessary.&lt;/p&gt;
-&lt;h2 id="mode-comparison"&gt;Mode Comparison&lt;/h2&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Feature&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Standard&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Hardcore&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Completionist&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Permadeath&lt;/td&gt;
- &lt;td style="text-align: center"&gt;No&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Yes&lt;/td&gt;
- &lt;td style="text-align: center"&gt;No&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Difficulty&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Normal&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Master (locked)&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Variable&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Quota&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Every 3 days&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Every 3 days&lt;/td&gt;
- &lt;td style="text-align: center"&gt;No time limit&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Quota penalty&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Warning, then demote&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Full reset&lt;/td&gt;
- &lt;td style="text-align: center"&gt;None&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Police aggression&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Normal&lt;/td&gt;
- &lt;td style="text-align: center"&gt;+50% (community estimate)&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Normal&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Fence prices&lt;/td&gt;
- &lt;td style="text-align: center"&gt;100%&lt;/td&gt;
- &lt;td style="text-align: center"&gt;~80%&lt;/td&gt;
- &lt;td style="text-align: center"&gt;100%&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Final score bonus&lt;/td&gt;
- &lt;td style="text-align: center"&gt;1x&lt;/td&gt;
- &lt;td style="text-align: center"&gt;2x&lt;/td&gt;
- &lt;td style="text-align: center"&gt;N/A&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Best for&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Learning the game&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Challenge runs&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Achievements&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="standard-mode"&gt;Standard Mode&lt;/h2&gt;
-&lt;p&gt;Standard is the recommended starting mode. Difficulty is set to Normal. Quotas appear every 3 in-game days with a minimum dollar target. Fail the quota and you get a warning. Fail again and your rank decreases. Fail repeatedly and the game ends.&lt;/p&gt;</description></item><item><title>Which Property to Buy First, Second, Third: The Order That Worked for Me</title><link>https://crimempire.com/schedule-i/property/property-rankings/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/property/property-rankings/</guid><description>&lt;p&gt;I messed up my property order on my first playthrough. Bought the Warehouse before I had the cash flow to staff it. Wasted a lot of in-game days staring at empty shelves. Here's the order I settled on after restarting.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The buy order that makes sense:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Apartment (free) -&amp;gt; Bungalow ($6K at Hustler) -&amp;gt; Barn ($25K at Dealer) -&amp;gt; Docks Warehouse ($50K at Hoodlum V) -&amp;gt; Hyland Manor ($250K at Kingpin)&lt;/p&gt;</description></item><item><title>DDS2 Cutting Agents Guide: Maximize Profit Without Killing Customers</title><link>https://crimempire.com/dds2/recipes/opium-guide/</link><pubDate>Tue, 09 Jun 2026 14:20:00 +0800</pubDate><guid>https://crimempire.com/dds2/recipes/opium-guide/</guid><description>&lt;p&gt;The DDS2 Datamine v2 reveals that cutting agents have three key properties: TOX (toxicity), POT (potency multiplier), and ADD (addiction). Use low-TOX agents like flour and sugar to double volume without losing customers. I tested several cutting ratios and the difference in customer retention is dramatic -- switching from high-TOX to low-TOX agents turned my business around from losing customers to steady repeat orders.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How cutting agents work:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Each cutting agent modifies the final product's stats when mixed in. The goal is to maximize volume (by adding cheap filler) while keeping toxicity low enough that customers survive to re-order.&lt;/p&gt;</description></item><item><title>DDS2 Hidden and Secret Achievements (Verified via Steam Trackers)</title><link>https://crimempire.com/dds2/achievements/hidden-achievements/</link><pubDate>Tue, 09 Jun 2026 13:50:00 +0800</pubDate><guid>https://crimempire.com/dds2/achievements/hidden-achievements/</guid><description>&lt;p&gt;DDS2 has several achievements with opaque unlock conditions. By cross-referencing Steam Community guides (including the &amp;quot;EN Achievements 100%&amp;quot; guide), tracking sites like Steam Hunters and PlayTracker, and GameFAQs, I pieced together the requirements for the hardest-to-unlock achievements. This guide focuses on achievements where the unlock condition is not obvious from the name alone.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Achievements with unclear conditions:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Several achievements on Steam have descriptions that do not clearly state what you need to do:&lt;/p&gt;</description></item><item><title>DDS2 Employee Role Assignments: Optimal Staff Setup</title><link>https://crimempire.com/dds2/staff/employee-roles/</link><pubDate>Tue, 09 Jun 2026 13:30:00 +0800</pubDate><guid>https://crimempire.com/dds2/staff/employee-roles/</guid><description>&lt;p&gt;Not all staff roles are equally important at every stage of the game. The optimal hire order I settled on after testing multiple configurations is: Dealer first (for automated income), then Cook (scales production), then Guard (protects investment), then Distributor (enables multi-hideout logistics). The community guides confirm this priority. This guide covers each role in detail, optimal assignment strategies, and how to unlock every role efficiently.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-staff-system.svg" alt="DDS2 staff system diagram showing role hierarchy and assignment flow" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Role breakdown:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Police Evasion: Parkour Escape Routes and Heat Management</title><link>https://crimempire.com/dds2/parkour/escape-routes/</link><pubDate>Tue, 09 Jun 2026 13:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/parkour/escape-routes/</guid><description>&lt;p&gt;Police in DDS2 have a heat system similar to open-world crime games. Your wanted level -- None, Person of Interest, Suspect, or Wanted -- determines pursuit intensity. Parkour breaks line of sight faster than any other method I have found. This guide covers escape routes for every zone, the wanted level system, and items that help you get away clean.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-parkour-escape.svg" alt="DDS2 parkour escape route flow diagram showing key routes between sectors" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Wanted level system:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Raid Prevention: Protecting Your Assets</title><link>https://crimempire.com/dds2/hideouts/raid-prevention/</link><pubDate>Tue, 09 Jun 2026 12:50:00 +0800</pubDate><guid>https://crimempire.com/dds2/hideouts/raid-prevention/</guid><description>&lt;p&gt;Getting raided in DDS2 is preventable. I know because I have been raided several times and each time I could trace it back to something I did wrong. The game's raid system checks wanted level and hideout visibility. Keep both low and your assets stay safe. This guide covers the mechanics behind raids, prevention strategies, and what to do when a raid happens anyway.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-raid-defense.svg" alt="DDS2 raid defense strategy diagram showing how to prevent and recover from police raids" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Raid cause and effect:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy</title><link>https://crimempire.com/dds2/money/empire-guide/</link><pubDate>Tue, 09 Jun 2026 12:25:00 +0800</pubDate><guid>https://crimempire.com/dds2/money/empire-guide/</guid><description>&lt;p&gt;Scaling past $50,000 in DDS2 requires employees, multiple specialized hideouts, and territory control. The Reddit community organizes by product type -- one hideout for cannabis, one for amphetamine, one for meth. I use this approach and it scales reliably. This guide covers how to transition from a solo operator to a full cartel with automated income streams.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-money-flow.svg" alt="DDS2 money flow diagram showing production, distribution and sales loop" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Employee system:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Employees are unlocked through notice boards (random spawn at bulletin board locations across islands), influencer missions (limited uses per influencer -- typically 2 hires each), and story progression. Once hired, employees can be assigned to different roles.&lt;/p&gt;</description></item><item><title>10 DDS2 Tips the Game Doesn't Tell You (Serper Verified)</title><link>https://crimempire.com/dds2/beginner/first-10-tips/</link><pubDate>Tue, 09 Jun 2026 11:50:00 +0800</pubDate><guid>https://crimempire.com/dds2/beginner/first-10-tips/</guid><description>&lt;p&gt;The DDS2 tutorial covers basic controls but skips the survival mechanics that experienced players rely on. I picked these up from reading Steam community guides, Reddit discussions, and losing a few hideouts before I figured it out. These 10 tips will save you from the most common early-game mistakes.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-progression-flow.svg" alt="DDS2 progression flow diagram showing key tips and milestones" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Use multiple hideouts early.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hideout raid risk is affected by wanted level and visibility. The Fandom wiki confirms helicopters can appear during raids and you can lose stored assets. I split raw materials, finished product, and cash across 3+ hideouts now. Never keep everything in one location. The ideal split: one hideout for raw materials, one for processing equipment, one for finished product. If any single hideout gets raided, you lose at most one-third of your operation.&lt;/p&gt;</description></item><item><title>Crime Simulator Achievement Guide Part 2: Hard Achievements</title><link>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</guid><description>&lt;p&gt;These are the achievements that took me real effort to unlock. Some require multiple playthroughs or very specific conditions. I would not attempt them until you have completed Standard mode and understand all the mechanics.&lt;/p&gt;
-&lt;h2 id="challenge-achievements-15"&gt;Challenge Achievements (15)&lt;/h2&gt;
-&lt;p&gt;Challenges are optional objectives that appear during runs. Completing them in specific quantities unlocks these achievements.&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Achievement&lt;/th&gt;
- &lt;th&gt;Requirement&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Difficulty&lt;/th&gt;
- &lt;th&gt;Strategy&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Insane victory&lt;/td&gt;
- &lt;td&gt;Complete 5 challenges in one game&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
- &lt;td&gt;Pick a medium house with multiple challenge types&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Master challenger&lt;/td&gt;
- &lt;td&gt;Complete 10 challenges in one game&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Hard&lt;/td&gt;
- &lt;td&gt;Requires a large multi-room house&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Challenge addict&lt;/td&gt;
- &lt;td&gt;Complete 25 challenges total&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
- &lt;td&gt;Grind across multiple runs&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Speed demon&lt;/td&gt;
- &lt;td&gt;Complete 3 time-based challenges&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Hard&lt;/td&gt;
- &lt;td&gt;Small apartment, clear rooms fast&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Silent but deadly&lt;/td&gt;
- &lt;td&gt;Complete 3 stealth challenges&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
- &lt;td&gt;Use silenced tools only&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Heavy hitter&lt;/td&gt;
- &lt;td&gt;Complete 3 destruction challenges&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
- &lt;td&gt;Break doors, windows, containers&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;All-rounder&lt;/td&gt;
- &lt;td&gt;Complete one of each challenge type&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Very Hard&lt;/td&gt;
- &lt;td&gt;Plan route for stealth + destruction + speed&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;For &amp;quot;All-rounder,&amp;quot; I used a large house with multiple approaches. Ground floor for stealth, basement for destruction, upstairs for time-based tasks. One house can satisfy all challenge types if you plan your route.&lt;/p&gt;</description></item><item><title>Crime Simulator Co-op Heist Planning: From Setup to Extraction</title><link>https://crimempire.com/crime-sim/coop/coop-heist-planning/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/coop/coop-heist-planning/</guid><description>&lt;p&gt;The best co-op heists I have been on were planned before anyone left the hideout. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.&lt;/p&gt;
-&lt;h2 id="pre-heist-briefing-checklist"&gt;Pre-Heist Briefing Checklist&lt;/h2&gt;
-&lt;p&gt;Before leaving the hideout, we confirm every item on this list:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Target selected from job board or free-roam&lt;/li&gt;
-&lt;li&gt;Security level assessed (locks, NPCs, alarms)&lt;/li&gt;
-&lt;li&gt;Required tools confirmed for each team member&lt;/li&gt;
-&lt;li&gt;Entry point identified (front, back, roof, window)&lt;/li&gt;
-&lt;li&gt;Extraction point agreed (vehicle, alley, rooftop)&lt;/li&gt;
-&lt;li&gt;Role assignments confirmed&lt;/li&gt;
-&lt;li&gt;Communication channel set (in-game voice or Discord)&lt;/li&gt;
-&lt;li&gt;Hard extraction limit agreed (time limit for aborting)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="pro-tip"&gt;Assign a team leader for each heist. One person makes the call to abort. If everyone has veto power, you get indecision. I have seen teams lose 15 minutes arguing over whether to push or pull. A single decision-maker prevents this.&lt;/div&gt;
-
-&lt;h2 id="target-selection"&gt;Target Selection&lt;/h2&gt;
-&lt;p&gt;Not all houses are worth hitting in co-op. The payout from a single large house split 4 ways is sometimes less than running two medium houses simultaneously.&lt;/p&gt;</description></item><item><title>Crime Simulator Gold Bars and Jewelry Economy (Update 1.3)</title><link>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</guid><description>&lt;p&gt;Do not sell gold bars for quick cash. I made this mistake on my first 1.3 playthrough and regretted it when I realized gold bars are the currency for hideout basement upgrades -- and those upgrades unlock higher-value contracts that pay back 5x the gold's fence price.&lt;/p&gt;
-&lt;h2 id="what-changed-in-update-13"&gt;What Changed in Update 1.3&lt;/h2&gt;
-&lt;p&gt;Update 1.3 introduced a parallel economy system that fundamentally changes how you should think about loot:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Gold bars -- new resource for hideout basement upgrades&lt;/li&gt;
-&lt;li&gt;Jewelry loot -- authentic and fake variants with different values&lt;/li&gt;
-&lt;li&gt;Basement hideout expansion -- upgradeable with gold bars&lt;/li&gt;
-&lt;li&gt;PvP competition modes -- new income stream with risk&lt;/li&gt;
-&lt;li&gt;Master Key -- premium tool for instant lock opening&lt;/li&gt;
-&lt;li&gt;New loot locations with expanded map areas&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="gold-bars-the-basement-currency"&gt;Gold Bars: The Basement Currency&lt;/h2&gt;
-&lt;p&gt;Found in high-security targets, heist locations, and rare loot boxes. Gold bars are heavy and take multiple inventory slots. They are used exclusively for basement upgrades.&lt;/p&gt;</description></item><item><title>Crime Simulator Hardcore Mode Progression: From Zero to Rank 6+</title><link>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</guid><description>&lt;p&gt;This assumes you have read the &lt;a href="https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/"&gt;Hardcore Survival Guide&lt;/a&gt; first. If you have not completed a single Hardcore heist yet, start there. This covers the longer arc from first heist to endgame mastery.&lt;/p&gt;
-&lt;h2 id="phase-1-the-first-heist-rank-apprentice"&gt;Phase 1: The First Heist (Rank Apprentice)&lt;/h2&gt;
-&lt;p&gt;Your first Hardcore heist is the most dangerous because you have zero tools and zero skill leaves. I accept the lowest-risk house from the job board, enter through a window (quieter than crowbar on a door), grab only 3-4 visible items, exit within 60 seconds, and sell everything immediately.&lt;/p&gt;</description></item><item><title>Crime Simulator Loot Selling Strategy: Maximize Every Heist</title><link>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</guid><description>&lt;p&gt;Most new players sell every item they find to the nearest fence immediately. I did this for my first few hours and left a lot of money on the table.&lt;/p&gt;
-&lt;p&gt;The fastest way from zero to quota (what I settled on): stack item requests, sell duplicate skill leaflets before basic loot, and never fence high-value items at the same fence twice in one day -- prices drop.&lt;/p&gt;
-&lt;h2 id="the-four-rules-of-loot-selling"&gt;The Four Rules of Loot Selling&lt;/h2&gt;
-&lt;h3 id="rule-1-item-requests-first"&gt;Rule 1: Item Requests First&lt;/h3&gt;
-&lt;p&gt;The item request system offers 50-100% premium over fence prices. Before selling anything, I check the request board, mark requested items, and keep them in stash. Deliver on the next visit to that map area.&lt;/p&gt;</description></item><item><title>Crime Simulator Tool Upgrades and Advanced Tools</title><link>https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/</guid><description>&lt;p&gt;Basic tools get the job done, but upgraded versions save time, reduce noise, and fail less often. I went from breaking a lockpick every 2-3 heists to going 10+ on the professional set.&lt;/p&gt;
-&lt;p&gt;The Master Key from Update 1.3 is the best late-game tool investment I have unlocked. It opens most standard locks instantly, dramatically speeding up heists.&lt;/p&gt;
-&lt;h2 id="tool-quality-tiers"&gt;Tool Quality Tiers&lt;/h2&gt;
-&lt;p&gt;Each tool type has multiple quality tiers. Higher tiers are more expensive but break less often and work faster.&lt;/p&gt;</description></item><item><title>How to Make Triple Dollar Strain: Best Custom Mix Recipes</title><link>https://crimempire.com/schedule-i/recipes/triple-dollar-strain/</link><pubDate>Tue, 09 Jun 2026 03:50:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/recipes/triple-dollar-strain/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Triple Dollar strain = OG Kush + Banana + Battery + Cuke, mixed in that order at a Mixing Station. Sells for $120+ per unit at Peddler rank. Total ingredient cost: ~$10. This is the most searched custom strain recipe on Reddit and TikTok because it offers the best profit-per-effort ratio among all 4-ingredient mixes.&lt;/div&gt;
-
-&lt;h2 class="section-heading"&gt;Triple Dollar Recipe Breakdown&lt;/h2&gt;
-
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Ingredient&lt;/th&gt;
- &lt;th&gt;Source&lt;/th&gt;
- &lt;th&gt;Cost&lt;/th&gt;
- &lt;th&gt;Effect on Strain&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;OG Kush (base)&lt;/td&gt;
- &lt;td&gt;Albert at motel&lt;/td&gt;
- &lt;td&gt;~$3/grow&lt;/td&gt;
- &lt;td&gt;Base strain type&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Banana&lt;/td&gt;
- &lt;td&gt;Gas station or Albert&lt;/td&gt;
- &lt;td&gt;~$2&lt;/td&gt;
- &lt;td&gt;Adds yield boost&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Battery&lt;/td&gt;
- &lt;td&gt;Dan's Hardware&lt;/td&gt;
- &lt;td&gt;~$3&lt;/td&gt;
- &lt;td&gt;Adds potency multiplier&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Cuke&lt;/td&gt;
- &lt;td&gt;Gas station or Albert&lt;/td&gt;
- &lt;td&gt;~$2&lt;/td&gt;
- &lt;td&gt;Adds stability&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;strong&gt;Total&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;td&gt;&lt;strong&gt;~$10&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;&lt;strong&gt;Sell price: $120+&lt;/strong&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 class="section-heading"&gt;Popular Custom Strains&lt;/h2&gt;
-
-&lt;p&gt;Here are community-discovered custom strain recipes that sell for higher than standard mixes:&lt;/p&gt;</description></item><item><title>Bungalow 8-Step Automation Blueprint: Room-by-Room Layout With ROI Timeline</title><link>https://crimempire.com/schedule-i/automation/workshop/</link><pubDate>Thu, 18 Jun 2026 18:40:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/automation/workshop/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Bungalow ($30,000 from Ray's Realty) supports 4 employees and fits 2 Mixing Stations for a fully automated 2-product line. Setup cost: ~$3,500 + property cost. Break-even in 7-10 in-game days. Below is the exact 8-step layout tested and verified by the community.&lt;/div&gt;
-
-&lt;img src="https://crimempire.com/images/diagrams/automation-flow.svg" alt="Bungalow Automation Employee Flow Diagram" class="schema-diagram" loading="lazy" width="760"&gt;
-
-&lt;p&gt;This guide is a room-by-room build order. Follow these steps in sequence to avoid common automation failures.&lt;/p&gt;
-&lt;h2 id="step-1-set-up-the-loading-bay-day-1-0"&gt;Step 1: Set Up The Loading Bay (Day 1, $0)&lt;/h2&gt;
-&lt;p&gt;Before hiring anyone, clear the Bungalow's ground floor. The default furniture blocks employee pathing.&lt;/p&gt;</description></item><item><title>DDS2 Police Anti-Raid Guide: Police Behavior and How to Avoid Raids</title><link>https://crimempire.com/dds2/beginner/police-anti-raid-guide/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/beginner/police-anti-raid-guide/</guid><description>&lt;p&gt;Police in DDS2 operate on a heat system called &amp;quot;wanted level.&amp;quot; Understanding how this system works is the difference between running a smooth operation and constantly losing product to raids. This guide covers police behavior, how wanted level works, how to avoid detection, and what to do when police are actively pursuing you.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-raid-defense.svg" alt="DDS2 police behavior and anti-raid strategy diagram showing wanted level effects and mitigation" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;How the wanted level system works:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Crime Simulator Common Mistakes: 10 Critical Errors New Players Make</title><link>https://crimempire.com/crime-sim/beginner/common-mistakes/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/beginner/common-mistakes/</guid><description>&lt;p&gt;I made every mistake on this list during my first few hours of Crime Simulator. Some cost me a single heist. Others cost me entire Hardcore runs. Here is what I learned so you do not have to learn it the same way.&lt;/p&gt;
-&lt;h2 id="mistake-1-selling-gold-bars-for-quick-cash"&gt;Mistake 1: Selling Gold Bars for Quick Cash&lt;/h2&gt;
-&lt;p&gt;This is the single most expensive mistake new players make. Gold bars are not loot -- they are currency for basement upgrades. Selling a gold bar for $800-$1,500 seems like great early-game money, but that same bar funds a Storage Rack upgrade that increases your stash capacity by 50%.&lt;/p&gt;</description></item><item><title>Crime Simulator Endless Mode Guide: Complete Strategy and Survival Tips</title><link>https://crimempire.com/crime-sim/endless/endless-mode-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/endless/endless-mode-guide/</guid><description>&lt;p&gt;Endless mode in Crime Simulator removes the quota timer and day limit, letting you progress at your own pace. Loot respawns daily in houses you have already cleared. This mode is perfect for learning the game, grinding achievements, and testing strategies without pressure.&lt;/p&gt;
-&lt;h2 id="how-endless-mode-works"&gt;How Endless Mode Works&lt;/h2&gt;
-&lt;p&gt;Endless mode was added in Update 1.1. Key mechanics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;No quota deadlines&lt;/strong&gt; -- quotas exist but never expire&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Loot respawns daily&lt;/strong&gt; -- houses reset with new loot every game day&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Full progression&lt;/strong&gt; -- ranks, tools, skills, and upgrades all carry over&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Death penalty&lt;/strong&gt; -- same as Standard mode (lose carried loot, keep rank/upgrades)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Police system&lt;/strong&gt; -- police AI behaves the same as Standard mode&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Difficulty selection&lt;/strong&gt; -- choose Casual, Normal, Pro, or Master difficulty&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Feature&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Endless Mode&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Standard Mode&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Quota deadline&lt;/td&gt;
- &lt;td style="text-align: center"&gt;None&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Every 3 days&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Loot respawn&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Daily&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Per run&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Map progression&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Unlock by rank&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Unlock by rank&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Death penalty&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Lose carried loot&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Lose carried loot&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Best for&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Learning, grinding&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Challenge runs&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="why-play-endless-mode"&gt;Why Play Endless Mode?&lt;/h2&gt;
-&lt;p&gt;Endless mode is the best choice for several playstyles:&lt;/p&gt;</description></item><item><title>Crime Simulator House Tier Guide: Map Districts and Loot Value</title><link>https://crimempire.com/crime-sim/map/house-tier-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/map/house-tier-guide/</guid><description>&lt;p&gt;Crime Simulator has multiple districts, each with different house types, security levels, and loot potential. Knowing which district to target at each stage of the game saves you time and reduces risk.&lt;/p&gt;
-&lt;h2 id="district-overview"&gt;District Overview&lt;/h2&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;District&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Unlock Rank&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Difficulty&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Average Loot per House&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Police Response&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Starter Town&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Apprentice&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Low&lt;/td&gt;
- &lt;td style="text-align: center"&gt;$100-$300&lt;/td&gt;
- &lt;td style="text-align: center"&gt;45-60 seconds&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Suburban&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Rank 3&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
- &lt;td style="text-align: center"&gt;$300-$600&lt;/td&gt;
- &lt;td style="text-align: center"&gt;30-45 seconds&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Industrial&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Rank 6&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Medium-High&lt;/td&gt;
- &lt;td style="text-align: center"&gt;$400-$800&lt;/td&gt;
- &lt;td style="text-align: center"&gt;60-90 seconds&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Downtown&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Rank 10&lt;/td&gt;
- &lt;td style="text-align: center"&gt;High&lt;/td&gt;
- &lt;td style="text-align: center"&gt;$600-$1,200&lt;/td&gt;
- &lt;td style="text-align: center"&gt;20-30 seconds&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Heist Locations&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Rank 12+&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Very High&lt;/td&gt;
- &lt;td style="text-align: center"&gt;$1,000-$3,000&lt;/td&gt;
- &lt;td style="text-align: center"&gt;15-25 seconds&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="house-types-by-district"&gt;House Types by District&lt;/h2&gt;
-&lt;h3 id="starter-town-rank-apprentice"&gt;Starter Town (Rank Apprentice)&lt;/h3&gt;
-&lt;p&gt;Small, single-story houses with minimal security. No electronic locks, few NPCs, low-value loot. Best for learning the basics.&lt;/p&gt;</description></item><item><title>Crime Simulator Police System Guide: AI Behavior and Evasion</title><link>https://crimempire.com/crime-sim/police/police-system-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/police/police-system-guide/</guid><description>&lt;p&gt;The police system in Crime Simulator is the primary fail state. Understanding exactly how it works -- what triggers it, how fast police respond, and how to evade them -- is the difference between a clean score and a deleted save in Hardcore mode.&lt;/p&gt;
-&lt;h2 id="how-police-detection-works"&gt;How Police Detection Works&lt;/h2&gt;
-&lt;p&gt;Police are triggered by a heat system. Every action you take generates heat. When your heat reaches a threshold, police are called.&lt;/p&gt;</description></item><item><title>Crime Simulator Safe Houses Guide: Best Hideouts and Upgrades</title><link>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</guid><description>&lt;p&gt;Your hideout is more than just a place to store loot. It is your operations center, your safe zone, and the key to long-term progression. Choosing the right upgrades and managing your storage effectively can double your earning potential.&lt;/p&gt;
-&lt;h2 id="hideout-basics"&gt;Hideout Basics&lt;/h2&gt;
-&lt;p&gt;Your hideout serves several critical functions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; Keep loot between runs for item requests or bulk selling&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Safe zone:&lt;/strong&gt; Police cannot enter your hideout -- get here and you are safe&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Save point:&lt;/strong&gt; The game autosaves when you visit your hideout&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Job board:&lt;/strong&gt; Accept heist contracts and item requests&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upgrades:&lt;/strong&gt; Basement expansion (Update 1.3) unlocks powerful bonuses&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="storage-management"&gt;Storage Management&lt;/h2&gt;
-&lt;p&gt;Your hideout has limited storage space. Managing it well is essential.&lt;/p&gt;</description></item><item><title>Crime Simulator Skill Leaflets Guide: Complete List and Priority Order</title><link>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</guid><description>&lt;p&gt;Skill leaflets are the backbone of progression in Crime Simulator. Unlike tools that you buy with cash, skill leaflets must be found during heists and then activated with skill points earned from ranking up. Choosing the right leaflet priority can save you dozens of hours.&lt;/p&gt;
-&lt;h2 id="how-skill-leaflets-work"&gt;How Skill Leaflets Work&lt;/h2&gt;
-&lt;p&gt;Each skill leaflet unlocks a permanent ability or upgrade. To activate a leaflet, you need:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The leaflet item (found during heists)&lt;/li&gt;
-&lt;li&gt;One skill point (earned by ranking up)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can find duplicate leaflets. Once you have learned a skill, duplicate leaflets sell for approximately $300-$500 at the fence -- a decent income source, especially in the early game.&lt;/p&gt;</description></item><item><title>Bungalow Setup: My Layout After 3 Different Attempts</title><link>https://crimempire.com/schedule-i/property/bungalow-setup/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/property/bungalow-setup/</guid><description>&lt;p&gt;The Bungalow ($6,000) was the first property where I actually felt like I was running a real operation. The apartment works fine for the first hour, but once you need more than 2 Mixing Stations and actual employees, you outgrow it fast.&lt;/p&gt;
-&lt;p&gt;I rebuilt the Bungalow layout three times before it clicked. Here's what worked and what didn't.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The layout that finally clicked:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Bungalow is a single open room, about 8x6 tiles of usable space. No stairs, no extra rooms. You work with what you have.&lt;/p&gt;</description></item><item><title>Manual vs Automation ROI Comparison: Which Setup Makes Money Faster</title><link>https://crimempire.com/schedule-i/automation/barn-and-warehouse/</link><pubDate>Thu, 18 Jun 2026 18:45:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/automation/barn-and-warehouse/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Full automation (Barn + 10 employees) earns roughly 5x more per day than manual play, but costs ~$45,000 upfront with a 5-8 day break-even. Partial automation (Bungalow + 3 employees) is the best value: ~$3,500 setup, 7-10 day break-even. Manual play breaks even instantly but caps at ~$2,000/day earnings.&lt;/div&gt;
-
-&lt;img src="https://crimempire.com/images/diagrams/barn-warehouse-layout.svg" alt="Barn vs Warehouse Layout Comparison" class="schema-diagram" loading="lazy" width="760"&gt;
-
-&lt;p&gt;This guide is a data comparison -- not a setup tutorial. Use the table below to decide whether automation is worth it for your current stage.&lt;/p&gt;</description></item><item><title>Fastest Supplier Unlock Route: From Street Rat to Kingpin in Minimum Orders</title><link>https://crimempire.com/schedule-i/npc/suppliers/</link><pubDate>Thu, 18 Jun 2026 18:35:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/npc/suppliers/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Unlock Albert Hoover immediately (available from start). Befriend Elizabeth Homley or Kevin Oakley to unlock Shirley Watts and Fungal Phil simultaneously. Reach higher ranks for Salvador Moreno. The fastest route: place Dead Drop orders for the cheapest items first to build relationship, then scale up. Minimum total cost to unlock all four: roughly $8,000 in Dead Drop orders plus rank progression.&lt;/div&gt;
-
-&lt;p&gt;This is an optimized unlock route -- not a list of who the suppliers are. Follow this order and you'll unlock delivery (the max relationship perk) faster than random ordering.&lt;/p&gt;</description></item><item><title>10 Common Mistakes Beginners Make in DDS2 (And How to Fix Them)</title><link>https://crimempire.com/dds2/beginner/10-common-mistakes/</link><pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate><guid>https://crimempire.com/dds2/beginner/10-common-mistakes/</guid><description>&lt;p&gt;Every DDS2 player makes mistakes in their first playthrough. I made most of these myself -- some cost me hours of progress. This guide covers the 10 most common beginner mistakes and how to avoid or recover from each one. Based on my own experience and community discussions from Reddit and Steam.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Keeping everything in one hideout.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The most common and most costly mistake. A single raid can wipe out your entire operation if everything is in one place. I lost my first major stockpile this way.&lt;/p&gt;</description></item><item><title>NPC Price Index 2026: Which Dealer Pays The Most Per Product Type</title><link>https://crimempire.com/schedule-i/npc/dealers/</link><pubDate>Thu, 18 Jun 2026 18:30:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/npc/dealers/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Leo Rivers pays the most per unit across all product types (up to 20% more than Benji Coleman for premium products). But the best deal in the game is assigning low-spending customers to dealers and selling directly to high-spenders. This guide ranks all 6 dealers by what they pay per product type, so you know exactly who should sell what.&lt;/div&gt;
-
-&lt;p&gt;This is not a &amp;quot;who the dealers are&amp;quot; explainer. This is a price index -- a ranked reference for maximizing per-unit profit through dealer assignment.&lt;/p&gt;</description></item><item><title>Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</title><link>https://crimempire.com/schedule-i/police/heat-system/</link><pubDate>Thu, 18 Jun 2026 18:20:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/police/heat-system/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Quick answer:&lt;/strong&gt; Selling drugs in view of a cop = Low heat (Investigating level). Assaulting an NPC = Medium heat. Pulling out a weapon = High heat (Wanted level). Hitting a cop = Maximum heat (Wanted Dead or Alive instantly). Each action has a fixed heat value the game uses to decide police response.&lt;/div&gt;
-
-&lt;p&gt;This guide is a reference tool -- not an explainer. Bookmark it. Use it before every sale.&lt;/p&gt;</description></item><item><title>Schedule I Endgame Guide: What To Do After Full Automation</title><link>https://crimempire.com/schedule-i/automation/endgame-guide/</link><pubDate>Thu, 18 Jun 2026 19:05:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/automation/endgame-guide/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; After full automation, endgame goals include: owning all 6 properties ($430,000 total), unlocking all 6 dealers ($15,500 total buy-in), maxing all 4 suppliers to Delivery status, hitting Kingpin V rank, and building a mega-factory using all properties. Each goal takes roughly 30-60 additional in-game hours.&lt;/div&gt;
-
-&lt;p&gt;This guide covers endgame activities after your automation is running. Verified against r/Schedule_I endgame discussions, Steam Community forum posts, and ScreenRant's endgame guide.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/automation-flow.svg" alt="Endgame Automation Flow for Mega-Factory" class="schema-diagram" loading="lazy" width="760"&gt;
-
-&lt;h2 id="the-endgame-checklist"&gt;The Endgame Checklist&lt;/h2&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Priority&lt;/th&gt;
- &lt;th&gt;Goal&lt;/th&gt;
- &lt;th&gt;Cost&lt;/th&gt;
- &lt;th&gt;Time Estimate&lt;/th&gt;
- &lt;th&gt;Reward&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;1&lt;/td&gt;
- &lt;td&gt;Max all supplier relationships to Delivery&lt;/td&gt;
- &lt;td&gt;~$8,000 orders&lt;/td&gt;
- &lt;td&gt;15-20 in-game days&lt;/td&gt;
- &lt;td&gt;Auto-supply to any location&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;2&lt;/td&gt;
- &lt;td&gt;Unlock all 6 dealers&lt;/td&gt;
- &lt;td&gt;$15,500 cumulative&lt;/td&gt;
- &lt;td&gt;5-10 in-game days&lt;/td&gt;
- &lt;td&gt;$8,000-15,000/day passive income&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;3&lt;/td&gt;
- &lt;td&gt;Buy the Docks Warehouse ($50,000)&lt;/td&gt;
- &lt;td&gt;$50,000&lt;/td&gt;
- &lt;td&gt;3-5 days saving&lt;/td&gt;
- &lt;td&gt;60-80 bags/day production&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;4&lt;/td&gt;
- &lt;td&gt;Reach Kingpin V rank&lt;/td&gt;
- &lt;td&gt;N/A (revenue-based)&lt;/td&gt;
- &lt;td&gt;~30 in-game days&lt;/td&gt;
- &lt;td&gt;Max rank benefits&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;5&lt;/td&gt;
- &lt;td&gt;Build a mega-factory&lt;/td&gt;
- &lt;td&gt;$250,000+&lt;/td&gt;
- &lt;td&gt;50-100 in-game days&lt;/td&gt;
- &lt;td&gt;Highest possible production&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;6&lt;/td&gt;
- &lt;td&gt;Own all 6 properties&lt;/td&gt;
- &lt;td&gt;$430,000 total&lt;/td&gt;
- &lt;td&gt;60-120 in-game days&lt;/td&gt;
- &lt;td&gt;Complete empire&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;7&lt;/td&gt;
- &lt;td&gt;Complete all customer unlocks&lt;/td&gt;
- &lt;td&gt;N/A&lt;/td&gt;
- &lt;td&gt;Varies&lt;/td&gt;
- &lt;td&gt;All customers available&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;8&lt;/td&gt;
- &lt;td&gt;Try Beta mode&lt;/td&gt;
- &lt;td&gt;Free&lt;/td&gt;
- &lt;td&gt;N/A&lt;/td&gt;
- &lt;td&gt;New content preview&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="goal-1-max-all-supplier-relationships"&gt;Goal 1: Max All Supplier Relationships&lt;/h2&gt;
-&lt;p&gt;This is the highest-impact endgame goal. Once all 4 suppliers reach Delivery status, your supply chain becomes fully passive.&lt;/p&gt;</description></item><item><title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</title><link>https://crimempire.com/schedule-i/police/evasion/</link><pubDate>Thu, 18 Jun 2026 18:25:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/police/evasion/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.&lt;/div&gt;
-
-&lt;p&gt;This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.&lt;/p&gt;</description></item><item><title>v0.4.5 Anniversary Update: Full Patch Notes and Meta Impact</title><link>https://crimempire.com/schedule-i/patch/v045-update/</link><pubDate>Tue, 09 Jun 2026 03:00:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/patch/v045-update/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; v0.4.5 (March 30, 2026) added the Golden M1911 pistol, Big Sprinkler for faster plant watering, a reorder feature for the delivery app, and dynamic reticle for ranged weapons. Meta impact: Big Sprinkler changes Botanist efficiency and watering throughput. No major recipe or police behavior changes.&lt;/div&gt;
-
-&lt;h2 class="section-heading"&gt;New Additions in v0.4.5&lt;/h2&gt;
-
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Feature&lt;/th&gt;
- &lt;th&gt;Type&lt;/th&gt;
- &lt;th&gt;Unlock&lt;/th&gt;
- &lt;th&gt;Impact&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Golden M1911&lt;/td&gt;
- &lt;td&gt;Weapon&lt;/td&gt;
- &lt;td&gt;Casino vending machine (rare drop)&lt;/td&gt;
- &lt;td&gt;Cosmetic, same stats as M1911&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Big Sprinkler&lt;/td&gt;
- &lt;td&gt;Equipment&lt;/td&gt;
- &lt;td&gt;Dan's Hardware, $200&lt;/td&gt;
- &lt;td&gt;Waters 4 plants at once -- huge automation upgrade&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Reorder Feature&lt;/td&gt;
- &lt;td&gt;UI&lt;/td&gt;
- &lt;td&gt;Automatic&lt;/td&gt;
- &lt;td&gt;One-click repeat of last delivery order&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Dynamic Reticle&lt;/td&gt;
- &lt;td&gt;UI&lt;/td&gt;
- &lt;td&gt;Automatic&lt;/td&gt;
- &lt;td&gt;Crosshair changes size based on accuracy&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Bug reporting tool&lt;/td&gt;
- &lt;td&gt;System&lt;/td&gt;
- &lt;td&gt;Steam overlay&lt;/td&gt;
- &lt;td&gt;Report issues in-game&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 class="section-heading"&gt;Big Sprinkler: The Real Game-Changer&lt;/h2&gt;
-
-&lt;p&gt;The Big Sprinkler is the most impactful addition in v0.4.5. It replaces the basic sprinkler and covers a 4-plant area in one activation.&lt;/p&gt;</description></item><item><title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</title><link>https://crimempire.com/schedule-i/money/casino-strategy/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/casino-strategy/</guid><description>&lt;p&gt;I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here's what I found.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ride the Bus pays better than Blackjack.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Reddit community analysis pegs Ride the Bus at roughly +25% expected value per hand, compared to Blackjack's -0.5% (even with perfect play). I can't verify the exact math, but my own testing matches the pattern -- Ride the Bus consistently grew my stack faster.&lt;/p&gt;</description></item><item><title>Schedule 1 Complete Update History (v0.1 to v0.4.5)</title><link>https://crimempire.com/schedule-i/patch/update-history/</link><pubDate>Tue, 09 Jun 2026 04:20:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/patch/update-history/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Schedule 1 launched March 24, 2025. The first major content update (v0.3.4) shipped two weeks later on April 7. v0.2.4 added co-op multiplayer. v0.4.5 Anniversary Update (March 30, 2026) added Big Sprinkler and Golden M1911. The game receives patches approximately every 4-6 weeks.&lt;/div&gt;
-
-&lt;h2 class="section-heading"&gt;Full Version Timeline (source: Fandom Wiki)&lt;/h2&gt;
-
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Version&lt;/th&gt;
- &lt;th&gt;Date&lt;/th&gt;
- &lt;th&gt;Key Additions&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.1.x&lt;/td&gt;
- &lt;td&gt;Mar 24, 2025&lt;/td&gt;
- &lt;td&gt;Initial early access release, basic mixing, 1 zone&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.1.14&lt;/td&gt;
- &lt;td&gt;Mar-Apr 2025&lt;/td&gt;
- &lt;td&gt;Multi-dragging, physics improvements&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.1.15&lt;/td&gt;
- &lt;td&gt;Mar-Apr 2025&lt;/td&gt;
- &lt;td&gt;Pickpocketing, counter-offer system&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.1.16&lt;/td&gt;
- &lt;td&gt;Mar-Apr 2025&lt;/td&gt;
- &lt;td&gt;Snake minigame, bug fixes&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.2.4&lt;/td&gt;
- &lt;td&gt;Apr 2025&lt;/td&gt;
- &lt;td&gt;Co-op multiplayer (up to 4 players)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.2.5&lt;/td&gt;
- &lt;td&gt;Apr 2025&lt;/td&gt;
- &lt;td&gt;Customer behavior improvements&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.2.6&lt;/td&gt;
- &lt;td&gt;Apr 2025&lt;/td&gt;
- &lt;td&gt;Packaging Station MK II&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.2.7&lt;/td&gt;
- &lt;td&gt;Apr-May 2025&lt;/td&gt;
- &lt;td&gt;More effects, mixing changes&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.2.8&lt;/td&gt;
- &lt;td&gt;Apr-May 2025&lt;/td&gt;
- &lt;td&gt;Mixing Station MK II&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.2.9&lt;/td&gt;
- &lt;td&gt;Apr-May 2025&lt;/td&gt;
- &lt;td&gt;New ambient music, optimization, map additions&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.3.4&lt;/td&gt;
- &lt;td&gt;2025.04.07&lt;/td&gt;
- &lt;td&gt;Pawn Shop, Fancy Stuff, functional shops&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.3.5&lt;/td&gt;
- &lt;td&gt;2025.05.08&lt;/td&gt;
- &lt;td&gt;Jukebox, Storage Unit&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.3.6&lt;/td&gt;
- &lt;td&gt;2025.06.08&lt;/td&gt;
- &lt;td&gt;Filters, Employee Tweaks, Save System improvements&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.4.0&lt;/td&gt;
- &lt;td&gt;2025.08.28&lt;/td&gt;
- &lt;td&gt;Cartel Update -- Benzies Family, major content&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.4.1&lt;/td&gt;
- &lt;td&gt;2025.11.02&lt;/td&gt;
- &lt;td&gt;Halloween Update&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.4.2&lt;/td&gt;
- &lt;td&gt;2025.12.26&lt;/td&gt;
- &lt;td&gt;Shrooms Update&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.4.3&lt;/td&gt;
- &lt;td&gt;2026.02.03&lt;/td&gt;
- &lt;td&gt;Storage Closets update&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.4.4&lt;/td&gt;
- &lt;td&gt;2026.03.19&lt;/td&gt;
- &lt;td&gt;Weather Update&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;v0.4.5&lt;/td&gt;
- &lt;td&gt;2026.03.30&lt;/td&gt;
- &lt;td&gt;Anniversary Update -- Big Sprinkler, Golden M1911&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 class="section-heading"&gt;What Each Major Version Changed&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;v0.1.x (Launch, Mar 2025):&lt;/strong&gt; Core drug mixing and selling loop. Single zone map, basic suppliers, no employees. The game was functional but shallow.&lt;/p&gt;</description></item><item><title>Top 10 Community Custom Strains By Profit: Ranked With Verified Ingredient Lists</title><link>https://crimempire.com/schedule-i/hybrid/mixing-recipes/</link><pubDate>Thu, 18 Jun 2026 18:50:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/hybrid/mixing-recipes/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The most profitable community-discovered custom strain is the Cocaine 9-mix (&amp;quot;God Mix&amp;quot;) at ~$717 per unit. For weed-based strains, &amp;quot;Grandmaster Kush&amp;quot; (OG Kush + Horse Semen + Mega Bean + Gasoline) sells for ~$165-175 per unit with the lowest ingredient cost among top-tier strains. Below is a ranked list of 10 community-verified strains.&lt;/div&gt;
-
-&lt;p&gt;This is a curated ranking of real community-discovered strains -- not a calculator tool. Each entry includes ingredient list, sell price, profit margin, and source verification. Data cross-referenced from r/Schedule_I highest profit strains thread (May 2025), PC Gamer mixing recipes guide (April 2026), and Steam Community mixing database (January 2026).&lt;/p&gt;</description></item><item><title>$10K in First Hour: Delivery and Trash Dumping Route</title><link>https://crimempire.com/schedule-i/money/speedrun/</link><pubDate>Tue, 09 Jun 2026 02:20:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/speedrun/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Deliveries and trash dumping are the safest early-game methods. A single optimized route: take a delivery order ($50-100 per delivery), grab trash on the way ($5-15 per dump), and smash vending machines ($20-50 each). Repeat for 1 hour = $8K-$12K with zero police risk. This is the fastest legal-ish money before unlocking dealers.&lt;/div&gt;
-
-&lt;h2 class="section-heading"&gt;Early Game Income Methods&lt;/h2&gt;
-
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Method&lt;/th&gt;
- &lt;th&gt;Income Per Action&lt;/th&gt;
- &lt;th&gt;Risk&lt;/th&gt;
- &lt;th&gt;Time per Action&lt;/th&gt;
- &lt;th&gt;Best For&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Deliver orders&lt;/td&gt;
- &lt;td&gt;$50-$150&lt;/td&gt;
- &lt;td&gt;None&lt;/td&gt;
- &lt;td&gt;2-4 minutes&lt;/td&gt;
- &lt;td&gt;Steady income&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Trash dumping&lt;/td&gt;
- &lt;td&gt;$5-$15 per bag&lt;/td&gt;
- &lt;td&gt;None&lt;/td&gt;
- &lt;td&gt;30 seconds&lt;/td&gt;
- &lt;td&gt;Filler income&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Smash vending machines&lt;/td&gt;
- &lt;td&gt;$20-$50&lt;/td&gt;
- &lt;td&gt;Low (public)&lt;/td&gt;
- &lt;td&gt;10 seconds&lt;/td&gt;
- &lt;td&gt;Quick cash&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Sell to customers (street)&lt;/td&gt;
- &lt;td&gt;$100-$400&lt;/td&gt;
- &lt;td&gt;Medium (police)&lt;/td&gt;
- &lt;td&gt;1-2 minutes&lt;/td&gt;
- &lt;td&gt;Fast money&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Casino gambling&lt;/td&gt;
- &lt;td&gt;Variable&lt;/td&gt;
- &lt;td&gt;None (with save)&lt;/td&gt;
- &lt;td&gt;5-30 minutes&lt;/td&gt;
- &lt;td&gt;Big multiplier&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 class="section-heading"&gt;The Optimal First-Hour Route&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt; You need the Burned RV area as your base. Buy a trash can ($25 from Furniture shop) and place it at the RV. Grab a delivery order from your phone.&lt;/p&gt;</description></item><item><title>Best Strain By Game Stage: Decision Table For Early, Mid, and Late Game</title><link>https://crimempire.com/schedule-i/hybrid/strain-calculator/</link><pubDate>Thu, 18 Jun 2026 18:55:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/hybrid/strain-calculator/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Early game (Tutorial-Hoodlum): OG Kush 4-mix with cheap additives ($120-150/unit). Mid game (Hustler-Dealer): Premium OG Kush 4-mix with Horse Semen + Mega Bean ($150-170/unit). Late game (Hoodlum V-Kingpin): Cocaine 8-9 mix ($450-717/unit). The decision depends on your available equipment, not just your rank.&lt;/div&gt;
-
-&lt;p&gt;This is a decision table -- not a calculator. It tells you what strain to make at each game stage based on available ingredients, equipment, and automation level.&lt;/p&gt;</description></item><item><title>Map Zones and Key Locations: Complete Area Guide</title><link>https://crimempire.com/schedule-i/expansion/map-zones-guide/</link><pubDate>Tue, 09 Jun 2026 04:10:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/expansion/map-zones-guide/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Schedule 1 map has 5 main zones: Downtown, Motel Area, Industrial Zone, Docks, and Highway (Casino). Each zone has different suppliers, police density, and available properties. Downtown and Motel are safe for early game. Industrial and Docks are mid-to-late game zones. The Highway zone has the casino and is most active at night.&lt;/div&gt;
-
-&lt;h2 class="section-heading"&gt;Zone-by-Zone Breakdown&lt;/h2&gt;
-
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Zone&lt;/th&gt;
- &lt;th&gt;Police Density&lt;/th&gt;
- &lt;th&gt;Properties&lt;/th&gt;
- &lt;th&gt;Suppliers&lt;/th&gt;
- &lt;th&gt;Best Time&lt;/th&gt;
- &lt;th&gt;Risk Level&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Downtown&lt;/td&gt;
- &lt;td&gt;High (2 patrols + 1 station)&lt;/td&gt;
- &lt;td&gt;Apartment (free)&lt;/td&gt;
- &lt;td&gt;Dan Samwell (shop)&lt;/td&gt;
- &lt;td&gt;Day&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Motel/Westville&lt;/td&gt;
- &lt;td&gt;Low (1 patrol)&lt;/td&gt;
- &lt;td&gt;Bungalow ($6K)&lt;/td&gt;
- &lt;td&gt;Albert Hoover&lt;/td&gt;
- &lt;td&gt;Any&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Industrial&lt;/td&gt;
- &lt;td&gt;Medium (1 patrol)&lt;/td&gt;
- &lt;td&gt;Barn ($25K)&lt;/td&gt;
- &lt;td&gt;Shirley Watts, Fungal Phil&lt;/td&gt;
- &lt;td&gt;Day&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Docks&lt;/td&gt;
- &lt;td&gt;Medium (1 night patrol)&lt;/td&gt;
- &lt;td&gt;Docks Warehouse ($50K)&lt;/td&gt;
- &lt;td&gt;Salvador Moreno&lt;/td&gt;
- &lt;td&gt;Night (6PM-6AM)&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Highway/North&lt;/td&gt;
- &lt;td&gt;Low (1 patrol)&lt;/td&gt;
- &lt;td&gt;None&lt;/td&gt;
- &lt;td&gt;Casino, vending machines&lt;/td&gt;
- &lt;td&gt;Night&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 class="section-heading"&gt;Downtown Zone&lt;/h2&gt;
-
-&lt;p&gt;The starting area. Contains:&lt;/p&gt;</description></item><item><title>10 Common Schedule I Mistakes That Waste Your Time (And How To Fix Them)</title><link>https://crimempire.com/schedule-i/money/common-mistakes/</link><pubDate>Thu, 18 Jun 2026 19:00:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/common-mistakes/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The most common mistakes are selling during daylight in high-patrol zones, ignoring Dead Drop relationship building, using MK2 Packing Stations with Handlers, and overscoping recipes before upgrading property. Each mistake costs you roughly 2-5 in-game days of progress. Below are all 10 with concrete fixes.&lt;/div&gt;
-
-&lt;p&gt;These mistakes are based on real player reports from r/Schedule_I, Steam Community discussions, and community guide feedback. Each entry includes the mistake, why it hurts, and a specific fix.&lt;/p&gt;</description></item><item><title>Product Quality vs Price Guide: How Quality Affects Your Profit</title><link>https://crimempire.com/schedule-i/money/quality-profit-guide/</link><pubDate>Thu, 18 Jun 2026 19:10:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/quality-profit-guide/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Yes, quality directly affects sell price. Standard quality products sell at 1.4x suggested price. Premium quality sells at 1.5x. Heavenly quality sells at 1.6x. Quality is determined by growing conditions: fertilizer use, PGR/Speed Grow application, and drying rack processing. A Premium OG Kush 4-mix ($170 base) sells for ~$255 at 1.5x, versus ~$238 for Standard -- a $17 difference per unit.&lt;/div&gt;
-
-&lt;p&gt;This is a data comparison guide -- not a &amp;quot;what is quality&amp;quot; explainer. Use the tables below to decide whether quality upgrades are worth the extra time and cost.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GAME Guide - No Fluff, Just Fixes on Crime Empire Guide</title>
+    <link>https://crimempire.com/</link>
+    <description>Recent content in GAME Guide - No Fluff, Just Fixes on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 19:10:00 +0800</lastBuildDate>
+    <atom:link href="https://crimempire.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDS2 Endgame Guide: What to Do After Maxing Everything</title>
+      <link>https://crimempire.com/dds2/endgame/endgame-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/endgame/endgame-guide/</guid>
+      <description>&lt;p&gt;Once you have maxed out your Street Cred, staffed all roles, unlocked every recipe, and built hideouts across all islands, what is left to do in DDS2? The endgame offers several directions: achievement hunting, Casino DLC content, co-op challenges, and self-imposed goals. This guide covers everything available after the main progression is complete.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Endgame activities ranked by engagement:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Activity&lt;/th&gt;&#xA;          &lt;th&gt;Time Investment&lt;/th&gt;&#xA;          &lt;th&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th&gt;Reward&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;100% achievement completion&lt;/td&gt;&#xA;          &lt;td&gt;80-100 hours&lt;/td&gt;&#xA;          &lt;td&gt;Very Hard&lt;/td&gt;&#xA;          &lt;td&gt;Steam achievements, bragging rights&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Casino DLC content&lt;/td&gt;&#xA;          &lt;td&gt;20-30 hours&lt;/td&gt;&#xA;          &lt;td&gt;High&lt;/td&gt;&#xA;          &lt;td&gt;New zone, gambling mechanics, achievements&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Co-op challenge runs&lt;/td&gt;&#xA;          &lt;td&gt;Variable&lt;/td&gt;&#xA;          &lt;td&gt;Medium-High&lt;/td&gt;&#xA;          &lt;td&gt;Shared progression, faster grinding&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Self-imposed challenges&lt;/td&gt;&#xA;          &lt;td&gt;Unlimited&lt;/td&gt;&#xA;          &lt;td&gt;Varies&lt;/td&gt;&#xA;          &lt;td&gt;Personal satisfaction&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Territory domination&lt;/td&gt;&#xA;          &lt;td&gt;10-20 hours&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Full map control, max income&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. 100% achievement completion:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Map and Island Guide: All Locations, POIs, and Fast Travel Routes</title>
+      <link>https://crimempire.com/dds2/map/map-island-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/map/map-island-guide/</guid>
+      <description>&lt;p&gt;Isla Sombra in DDS2 consists of multiple islands, each with its own characteristics, client base, police density, and available resources. Understanding the map layout is essential for efficient travel, territory planning, and supply chain management. This guide covers every accessible island, key points of interest, and the fastest travel routes between them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Island overview:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Based on the community maps on Miraheze and Kanka, there are 7 major island zones:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Island&lt;/th&gt;&#xA;          &lt;th&gt;Unlock Order&lt;/th&gt;&#xA;          &lt;th&gt;Best For&lt;/th&gt;&#xA;          &lt;th&gt;Police Density&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Small Island&lt;/td&gt;&#xA;          &lt;td&gt;Starting zone&lt;/td&gt;&#xA;          &lt;td&gt;Tutorial, early deliveries, no police&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Archipelago&lt;/td&gt;&#xA;          &lt;td&gt;First expansion&lt;/td&gt;&#xA;          &lt;td&gt;General operations, restaurant district&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Callejon&lt;/td&gt;&#xA;          &lt;td&gt;Mid-game&lt;/td&gt;&#xA;          &lt;td&gt;Processing, industrial equipment, gang territory&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Jungle&lt;/td&gt;&#xA;          &lt;td&gt;Mid-game&lt;/td&gt;&#xA;          &lt;td&gt;Cannabis growing, raw materials&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Slavs Bay&lt;/td&gt;&#xA;          &lt;td&gt;Late-game&lt;/td&gt;&#xA;          &lt;td&gt;High-end production (meth, cocaine)&lt;/td&gt;&#xA;          &lt;td&gt;High&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Paraiso Peninsular&lt;/td&gt;&#xA;          &lt;td&gt;Late-game&lt;/td&gt;&#xA;          &lt;td&gt;Endgame operations, high-value clients&lt;/td&gt;&#xA;          &lt;td&gt;High&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Bahia De Oro&lt;/td&gt;&#xA;          &lt;td&gt;Endgame&lt;/td&gt;&#xA;          &lt;td&gt;Casino DLC area, premium clients&lt;/td&gt;&#xA;          &lt;td&gt;Very High&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The islands are gated by Street Cred level and story progression. You cannot access Callejon until you have completed sufficient missions in Archipelago. Similarly, Slavs Bay and later areas require higher Street Cred.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Reputation Guide: Street Cred Leveling and Fast Strategies</title>
+      <link>https://crimempire.com/dds2/reputation/reputation-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/reputation/reputation-guide/</guid>
+      <description>&lt;p&gt;The reputation system in DDS2, called &amp;quot;Street Cred,&amp;quot; controls what you can unlock. Higher Street Cred levels unlock better recipes, larger hideout upgrades, more staff slots, higher-value customer tiers, and access to restricted areas. The achievement &amp;quot;I Am The One Who Knocks&amp;quot; requires Street Cred level 4. This guide covers how the system works and the fastest ways to level up.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;How Street Cred works:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Street Cred is separate from your wanted level. Wanted level is police heat that decays with time. Street Cred is your reputation in the criminal underworld that permanently increases. You cannot lose Street Cred through normal gameplay -- only arrests can potentially reduce it. The system has multiple levels, and each level requires more experience than the last.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Vehicle and Boat Guide: Best Purchases, Upgrades, and Customization</title>
+      <link>https://crimempire.com/dds2/vehicles/vehicle-boat-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/vehicles/vehicle-boat-guide/</guid>
+      <description>&lt;p&gt;Vehicles in DDS2 are essential for efficient travel between islands. The starter boat is slow and has limited fuel capacity. Upgrading to faster vehicles with larger fuel tanks dramatically improves your delivery speed and territory reach. Based on community guides from Steam and the Miraheze wiki, this guide covers all vehicles, their stats, prices, and which to buy at each stage.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why vehicles matter:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Walking between islands takes 15-30 minutes each way. A basic boat cuts this to 5 minutes. A car or upgraded boat can cross the map in 2-3 minutes. Time saved on travel is time spent on production and sales. The right vehicle choice can increase your effective income by 50% or more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Achievement Guide Part 1: Easy to Medium Achievements</title>
+      <link>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</guid>
+      <description>&lt;p&gt;Crime Simulator has 60 Steam achievements total. About half come naturally through normal gameplay -- you will get the first 15-20 without trying. The rest require specific strategies. This guide covers the first 32 achievements (Very Easy to Medium difficulty).&lt;/p&gt;&#xA;&lt;div class=&#34;callout&#34;&gt;Use &lt;strong&gt;Completionist mode&lt;/strong&gt; for achievement hunting. It removes quota pressure and gives unlimited time. In Standard mode, quota deadlines interrupt focused achievement runs. Switch modes from the main menu before starting a new game.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;achievement-overview&#34;&gt;Achievement Overview&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Category&lt;/th&gt;&#xA;          &lt;th&gt;Count&lt;/th&gt;&#xA;          &lt;th&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Typical Playtime&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tutorial&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;Very Easy&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;First 10 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Progression (Rank)&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;Easy&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1-3 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Loot &amp;amp; Money&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;          &lt;td&gt;Easy-Medium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2-4 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Challenges&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4-8 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hard (covered in Part 2)&lt;/td&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;Hard-Very Hard&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10-30 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Update 1.3 (covered in Part 2)&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;Medium-Hard&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;3-8 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;tutorial-achievements-auto-unlock&#34;&gt;Tutorial Achievements (Auto-Unlock)&lt;/h2&gt;&#xA;&lt;p&gt;These five achievements unlock during the first few minutes. You cannot miss them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Meth Recipe: Cook Your First Batch (Step-by-Step)</title>
+      <link>https://crimempire.com/dds2/recipes/cook-meth/</link>
+      <pubDate>Tue, 09 Jun 2026 14:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/recipes/cook-meth/</guid>
+      <description>&lt;p&gt;The DDS2 Datamine v2 catalogs 73 substances. Meth starts at POT 0.88 (pure potency). The first cook is straightforward once you know the ingredient chain: ephedrine to compound to purify to cut. I wasted my first few batches guessing ratios. This guide walks through every step from ingredient sourcing to finished product.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-meth-production.svg&#34; alt=&#34;DDS2 meth production flow diagram showing ingredient chain from ephedrine to finished product&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Step 1: Unlock the recipe&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Before you can cook meth, you need the recipe. The recipe card is a physical item found in the tutorial zone warehouse. Unlike some games where recipes auto-unlock, DDS2 requires you to find the card and interact with it. The recipe unlocks as part of the main story questline -- you will receive a prompt to find it after talking to your contact about making more money.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Achievement Guide: Full List (39 Achievements Verified)</title>
+      <link>https://crimempire.com/dds2/achievements/achievement-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 13:40:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/achievements/achievement-guide/</guid>
+      <description>&lt;p&gt;Drug Dealer Simulator 2 has 39 Steam achievements as confirmed on the official Steam page. The base game contains 21 achievements, and there are 2 DLC packs that add 18 more. Tracking sites like TrueAchievements, Steam Hunters, and PlayTracker document the full list with global unlock percentages. I used these sites along with the Steam Community 100% achievement guide to compile accurate unlock conditions.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-achievement-guide.svg&#34; alt=&#34;DDS2 achievement progression overview showing milestone-based and grind-based achievements&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Story and progression achievements:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Staff and Employee Guide: How to Hire and Assign</title>
+      <link>https://crimempire.com/dds2/staff/staff-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 13:20:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/staff/staff-guide/</guid>
+      <description>&lt;p&gt;Employees in DDS2 are essential for scaling past the early game. I spent my first 20 hours running everything solo before realizing how much time staff saves. The Steam FAQ guide covers how to get more employees from early-game strategies to advanced methods. This guide covers every hiring method, how assignments work, and the optimal staffing progression.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-staff-system.svg&#34; alt=&#34;DDS2 staff system diagram showing hiring methods, role assignments, and progression&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;How to get employees:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Parkour Guide: Movement Mechanics and Police Escape</title>
+      <link>https://crimempire.com/dds2/parkour/parkour-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 13:00:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/parkour/parkour-guide/</guid>
+      <description>&lt;p&gt;The DDS2 Fandom tutorial page confirms: &amp;quot;Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas.&amp;quot; Parkour is your primary survival tool -- not guns. I stopped trying to fight police after my first few arrests taught me that bullets attract more heat than they solve. This guide covers every parkour move, when to use each, and how to chain them into effective escape sequences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Hideout Locations Guide and Raid Protection</title>
+      <link>https://crimempire.com/dds2/hideouts/hideout-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 12:40:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/hideouts/hideout-guide/</guid>
+      <description>&lt;p&gt;Hideouts in DDS2 are your operational bases, and they can be raided based on your wanted level and the hideout&#39;s visibility rating. I lost my first major stockpile to a raid because I kept everything in the starter shack. The community guide &amp;quot;Pedro Alvarez Real Estate Agency&amp;quot; documents all locations with prices, water/phone line availability, and visibility ratings. This guide covers how to choose hideouts, how raids work, and how to protect your assets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best Early-Game Money Methods in DDS2 (Verified)</title>
+      <link>https://crimempire.com/dds2/money/early-money/</link>
+      <pubDate>Tue, 09 Jun 2026 12:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/money/early-money/</guid>
+      <description>&lt;p&gt;The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. I tried going straight to cooking and ended up broke with wasted materials. In the first 10 hours, deliveries outperform cooking by roughly 3:1 based on what I have seen and what the community confirms. This guide covers the three phases of early money-making, from zero to a sustainable operation.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-money-flow.svg&#34; alt=&#34;DDS2 early money flow diagram showing delivery, cooking, and expansion phases&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Phase 1: Delivery economy ($0 to $2,000):&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Beginner&#39;s Guide: From Beach to First $5K</title>
+      <link>https://crimempire.com/dds2/beginner/getting-started/</link>
+      <pubDate>Tue, 09 Jun 2026 11:30:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/beginner/getting-started/</guid>
+      <description>&lt;p&gt;Your first hour on Isla Sombra is about survival, not profits. I learned this the hard way -- my first run I focused on cooking and ended up broke with no clients. Complete the tutorial missions, meet your contact Shady, secure your first hideout, and make deliveries until you hit $5,000. Cooking comes after you have a reliable client pipeline. This guide walks through every step from washing up on the beach to building a sustainable early-game operation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator 4-Player Co-op Strategy Guide</title>
+      <link>https://crimempire.com/crime-sim/coop/coop-strategy-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/coop/coop-strategy-guide/</guid>
+      <description>&lt;p&gt;I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. The &lt;a href=&#34;https://crimempire.com/crime-sim/money/fast-money-guide/&#34;&gt;fast money guide&lt;/a&gt; covers early cash methods I still use between co-op sessions. But without coordination, co-op is chaos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-optimal-role-setup&#34;&gt;The Optimal Role Setup&lt;/h2&gt;&#xA;&lt;p&gt;The fastest role setup I have used: 1 Lockpick + 1 Lookout + 1 Hauler + 1 Driver. Rotate roles every 2-3 runs so everyone stays flexible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Fast Money Guide: Best Early-Game Methods</title>
+      <link>https://crimempire.com/crime-sim/money/fast-money-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/money/fast-money-guide/</guid>
+      <description>&lt;p&gt;The fastest first $1,000 I found: complete the tutorial, grab the crowbar, rob the nearest low-security house, sell electronics at the fence, buy a lockpick set. Repeat with better entry on house number two. Took me about 20 minutes of real time.&lt;/p&gt;&#xA;&lt;p&gt;If the tutorial skipped the basics, the &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; covers the full first-heist checklist. The early game is about capital accumulation. Every dollar goes back into tools that enable better heists. I wasted my first payout on hideout decorations and regretted it for the next hour.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Hardcore Mode Survival Guide</title>
+      <link>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</guid>
+      <description>&lt;p&gt;I lost my first Hardcore run in under 30 minutes. Broke a lockpick on my first door, panicked, used the crowbar, alerted a patrol, got chased, arrested, save gone. Not my finest moment.&lt;/p&gt;&#xA;&lt;p&gt;Once you survive the early runs, the &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/&#34;&gt;hardcore progression guide&lt;/a&gt; maps out the full path from Rank 1 to endgame.&lt;/p&gt;&#xA;&lt;p&gt;Hardcore mode deletes your save on arrest. Quotas are higher (about 1.5x), police are more aggressive, and fence prices are approximately 20% lower. The core loop is the same but the margin for error is razor thin. The &lt;a href=&#34;https://crimempire.com/crime-sim/police/police-system-guide/&#34;&gt;police system guide&lt;/a&gt; explains exactly what triggers detection in hardcore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Loot Locations and Item Values Guide</title>
+      <link>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/loot/loot-locations-and-values/</guid>
+      <description>&lt;p&gt;Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently. The &lt;a href=&#34;https://crimempire.com/crime-sim/loot/loot-selling-strategy/&#34;&gt;loot selling strategy&lt;/a&gt; shows how to turn those items into double the fence price.&lt;/p&gt;&#xA;&lt;h2 id=&#34;loot-value-tiers&#34;&gt;Loot Value Tiers&lt;/h2&gt;&#xA;&lt;p&gt;Crime Simulator loot falls into three broad value tiers. Memorize these so you never waste a slot on low-value junk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Tools Guide: Every Item Explained</title>
+      <link>https://crimempire.com/crime-sim/tools/complete-tools-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/tools/complete-tools-guide/</guid>
+      <description>&lt;p&gt;I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything. The &lt;a href=&#34;https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/&#34;&gt;tool upgrades guide&lt;/a&gt; explains what each upgrade tier does.&lt;/p&gt;&#xA;&lt;p&gt;Prioritize the lockpick set first. It replaces the noisy crowbar on most locked doors and pays for itself within 2-3 heists.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tool-overview&#34;&gt;Tool Overview&lt;/h2&gt;&#xA;&lt;p&gt;Crime Simulator has a growing arsenal of tools for breaking in, disabling security, and escaping. Tools break with use and must be repaired or replaced. Choosing the right tool for each job is the difference between a clean score and an arrest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started in Crime Simulator</title>
+      <link>https://crimempire.com/crime-sim/basics/getting-started/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/basics/getting-started/</guid>
+      <description>&lt;p&gt;I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.&lt;/p&gt;&#xA;&lt;p&gt;The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part. See the &lt;a href=&#34;https://crimempire.com/crime-sim/tools/complete-tools-guide/&#34;&gt;tools guide&lt;/a&gt; for a breakdown of each tool&#39;s pick difficulty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best Drug Recipe Profit Rankings</title>
+      <link>https://crimempire.com/schedule-i/recipes/profit/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/recipes/profit/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; OG Kush 3-mix with &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;https://crimempire.com/images/game-icons/horse_semen.png&#34; alt=&#34;horse_semen&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;span class=&#34;game-name&#34;&gt;Horse semen&lt;/span&gt;&#xA;&lt;/span&gt; + &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;https://crimempire.com/images/game-icons/mega_bean.png&#34; alt=&#34;mega_bean&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;span class=&#34;game-name&#34;&gt;Mega bean&lt;/span&gt;&#xA;&lt;/span&gt; + &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;https://crimempire.com/images/game-icons/battery.png&#34; alt=&#34;battery&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;span class=&#34;game-name&#34;&gt;Battery&lt;/span&gt;&#xA;&lt;/span&gt; gives $136 profit per unit at rank Peddler III 鈥?best profit-per-effort before automation. If you have Chemists running and want max per-unit profit, build the Cocaine 9-mix at Kingpin: $717 net per unit.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/recipe-profit-chart.svg&#34; alt=&#34;Recipe Profit Per Unit&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;The Upgrade Path in 5 Steps&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here is the exact sequence.&lt;/p&gt;&#xA;&lt;div class=&#34;upgrade-timeline&#34;&gt;&#xD;&#xA;&lt;div class=&#34;upgrade-step&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;step-marker&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;step-dot&#34;&gt;1&lt;/span&gt;&#xD;&#xA;    &lt;div class=&#34;step-rail&#34;&gt;&lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;step-panel&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;step-rank&#34;&gt;&#xD;&#xA;      &lt;span class=&#34;rank-name&#34;&gt;Hoodlum&lt;/span&gt;&#xD;&#xA;      &lt;span class=&#34;rank-badge&#34;&gt;Tier 1&lt;/span&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;step-brew&#34;&gt;&#xD;&#xA;      &lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;https://crimempire.com/images/game-icons/og_kush.png&#34; alt=&#34;og_kush&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;game-name&#34;&gt;Og kush&lt;/span&gt;&#xD;&#xA;      &lt;/span&gt;&lt;span class=&#34;step-plus&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;https://crimempire.com/images/game-icons/banana.png&#34; alt=&#34;banana&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xD;&#xA;  &lt;span class=&#34;game-name&#34;&gt;Banana&lt;/span&gt;&#xD;&#xA;&lt;/span&gt;&lt;span class=&#34;step-plus&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;game-slot&#34;&gt;&lt;img src=&#34;https://crimempire.com/images/game-icons/cuke.png&#34; alt=&#34;cuke&#34; class=&#34;game-img&#34; loading=&#34;lazy&#34;&gt;&#xD;&#xA;  &lt;span class=&#34;game-name&#34;&gt;Cuke&lt;/span&gt;&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;step-metrics&#34;&gt;&#xD;&#xA;      &lt;span class=&#34;metric-cost&#34;&gt;Cost ~$6&lt;/span&gt;&#xD;&#xA;      &lt;span class=&#34;metric-arrow&#34;&gt;鈫?/span&gt;&#xD;&#xA;      &lt;span class=&#34;metric-sell&#34;&gt;Sell ~$40&lt;/span&gt;&#xD;&#xA;      &lt;span class=&#34;metric-sep&#34;&gt;路&lt;/span&gt;&#xD;&#xA;      &lt;span class=&#34;metric-profit&#34;&gt;Profit ~$34&lt;/span&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;p class=&#34;step-desc&#34;&gt;Buy everything from Albert and the first gas station 鈥?no alternative at this rank.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Game Modes and Quota System Explained</title>
+      <link>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</guid>
+      <description>&lt;p&gt;Crime Simulator has three game modes. The differences are significant -- mode choice determines how punishing the quota is, whether you can die permanently, and how much time you have to explore. Pick the wrong mode and you will restart more than necessary. See the &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; to decide which mode pairs best with your first run.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mode-comparison&#34;&gt;Mode Comparison&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Feature&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Standard&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Hardcore&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Completionist&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Permadeath&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;No&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Yes&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;No&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Difficulty&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Normal&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Master (locked)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Variable&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quota&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Every 3 days&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Every 3 days&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;No time limit&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quota penalty&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Warning, then demote&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Full reset&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;None&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Police aggression&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Normal&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;+50% (community estimate)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Normal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fence prices&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100%&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;~80%&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Final score bonus&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1x&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2x&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;N/A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Best for&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Learning the game&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Challenge runs&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Achievements&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/&#34;&gt;hardcore progression guide&lt;/a&gt; maps out what to expect if you jump straight into the hardest mode.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Which Property to Buy First, Second, Third: The Order That Worked for Me</title>
+      <link>https://crimempire.com/schedule-i/property/property-rankings/</link>
+      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/property/property-rankings/</guid>
+      <description>&lt;p&gt;I messed up my property order on my first playthrough. Bought the Warehouse before I had the cash flow to staff it. Wasted a lot of in-game days staring at empty shelves. Here&#39;s the order I settled on after restarting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The buy order that makes sense:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Apartment (free) -&amp;gt; Bungalow ($6K at Hustler) -&amp;gt; Barn ($25K at Dealer) -&amp;gt; Docks Warehouse ($50K at Hoodlum V) -&amp;gt; Hyland Manor ($250K at Kingpin)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Cutting Agents Guide: Maximize Profit Without Killing Customers</title>
+      <link>https://crimempire.com/dds2/recipes/opium-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 14:20:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/recipes/opium-guide/</guid>
+      <description>&lt;p&gt;The DDS2 Datamine v2 reveals that cutting agents have three key properties: TOX (toxicity), POT (potency multiplier), and ADD (addiction). Use low-TOX agents like flour and sugar to double volume without losing customers. I tested several cutting ratios and the difference in customer retention is dramatic -- switching from high-TOX to low-TOX agents turned my business around from losing customers to steady repeat orders.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;How cutting agents work:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each cutting agent modifies the final product&#39;s stats when mixed in. The goal is to maximize volume (by adding cheap filler) while keeping toxicity low enough that customers survive to re-order.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Hidden and Secret Achievements (Verified via Steam Trackers)</title>
+      <link>https://crimempire.com/dds2/achievements/hidden-achievements/</link>
+      <pubDate>Tue, 09 Jun 2026 13:50:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/achievements/hidden-achievements/</guid>
+      <description>&lt;p&gt;DDS2 has several achievements with opaque unlock conditions. By cross-referencing Steam Community guides (including the &amp;quot;EN Achievements 100%&amp;quot; guide), tracking sites like Steam Hunters and PlayTracker, and GameFAQs, I pieced together the requirements for the hardest-to-unlock achievements. This guide focuses on achievements where the unlock condition is not obvious from the name alone.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Achievements with unclear conditions:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Several achievements on Steam have descriptions that do not clearly state what you need to do:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Employee Role Assignments: Optimal Staff Setup</title>
+      <link>https://crimempire.com/dds2/staff/employee-roles/</link>
+      <pubDate>Tue, 09 Jun 2026 13:30:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/staff/employee-roles/</guid>
+      <description>&lt;p&gt;Not all staff roles are equally important at every stage of the game. The optimal hire order I settled on after testing multiple configurations is: Dealer first (for automated income), then Cook (scales production), then Guard (protects investment), then Distributor (enables multi-hideout logistics). The community guides confirm this priority. This guide covers each role in detail, optimal assignment strategies, and how to unlock every role efficiently.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-staff-system.svg&#34; alt=&#34;DDS2 staff system diagram showing role hierarchy and assignment flow&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Role breakdown:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Police Evasion: Parkour Escape Routes and Heat Management</title>
+      <link>https://crimempire.com/dds2/parkour/escape-routes/</link>
+      <pubDate>Tue, 09 Jun 2026 13:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/parkour/escape-routes/</guid>
+      <description>&lt;p&gt;Police in DDS2 have a heat system similar to open-world crime games. Your wanted level -- None, Person of Interest, Suspect, or Wanted -- determines pursuit intensity. Parkour breaks line of sight faster than any other method I have found. This guide covers escape routes for every zone, the wanted level system, and items that help you get away clean.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-parkour-escape.svg&#34; alt=&#34;DDS2 parkour escape route flow diagram showing key routes between sectors&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Wanted level system:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Raid Prevention: Protecting Your Assets</title>
+      <link>https://crimempire.com/dds2/hideouts/raid-prevention/</link>
+      <pubDate>Tue, 09 Jun 2026 12:50:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/hideouts/raid-prevention/</guid>
+      <description>&lt;p&gt;Getting raided in DDS2 is preventable. I know because I have been raided several times and each time I could trace it back to something I did wrong. The game&#39;s raid system checks wanted level and hideout visibility. Keep both low and your assets stay safe. This guide covers the mechanics behind raids, prevention strategies, and what to do when a raid happens anyway.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-raid-defense.svg&#34; alt=&#34;DDS2 raid defense strategy diagram showing how to prevent and recover from police raids&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Raid cause and effect:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy</title>
+      <link>https://crimempire.com/dds2/money/empire-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 12:25:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/money/empire-guide/</guid>
+      <description>&lt;p&gt;Scaling past $50,000 in DDS2 requires employees, multiple specialized hideouts, and territory control. The Reddit community organizes by product type -- one hideout for cannabis, one for amphetamine, one for meth. I use this approach and it scales reliably. This guide covers how to transition from a solo operator to a full cartel with automated income streams.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-money-flow.svg&#34; alt=&#34;DDS2 money flow diagram showing production, distribution and sales loop&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Employee system:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Employees are unlocked through notice boards (random spawn at bulletin board locations across islands), influencer missions (limited uses per influencer -- typically 2 hires each), and story progression. Once hired, employees can be assigned to different roles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 DDS2 Tips the Game Doesn&#39;t Tell You (Serper Verified)</title>
+      <link>https://crimempire.com/dds2/beginner/first-10-tips/</link>
+      <pubDate>Tue, 09 Jun 2026 11:50:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/beginner/first-10-tips/</guid>
+      <description>&lt;p&gt;The DDS2 tutorial covers basic controls but skips the survival mechanics that experienced players rely on. I picked these up from reading Steam community guides, Reddit discussions, and losing a few hideouts before I figured it out. These 10 tips will save you from the most common early-game mistakes.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-progression-flow.svg&#34; alt=&#34;DDS2 progression flow diagram showing key tips and milestones&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;1. Use multiple hideouts early.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hideout raid risk is affected by wanted level and visibility. The Fandom wiki confirms helicopters can appear during raids and you can lose stored assets. I split raw materials, finished product, and cash across 3+ hideouts now. Never keep everything in one location. The ideal split: one hideout for raw materials, one for processing equipment, one for finished product. If any single hideout gets raided, you lose at most one-third of your operation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Achievement Guide Part 2: Hard Achievements</title>
+      <link>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</guid>
+      <description>&lt;p&gt;These are the achievements that took me real effort to unlock. Some require multiple playthroughs or very specific conditions. I would not attempt them until you have completed Standard mode and understand all the mechanics. If you have not started yet, the &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; covers the basics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenge-achievements-15&#34;&gt;Challenge Achievements (15)&lt;/h2&gt;&#xA;&lt;p&gt;Challenges are optional objectives that appear during runs. Completing them in specific quantities unlocks these achievements.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Achievement&lt;/th&gt;&#xA;          &lt;th&gt;Requirement&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th&gt;Strategy&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Insane victory&lt;/td&gt;&#xA;          &lt;td&gt;Complete 5 challenges in one game&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Pick a medium house with multiple challenge types&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Master challenger&lt;/td&gt;&#xA;          &lt;td&gt;Complete 10 challenges in one game&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Hard&lt;/td&gt;&#xA;          &lt;td&gt;Requires a large multi-room house&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Challenge addict&lt;/td&gt;&#xA;          &lt;td&gt;Complete 25 challenges total&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Grind across multiple runs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Speed demon&lt;/td&gt;&#xA;          &lt;td&gt;Complete 3 time-based challenges&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Hard&lt;/td&gt;&#xA;          &lt;td&gt;Small apartment, clear rooms fast&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Silent but deadly&lt;/td&gt;&#xA;          &lt;td&gt;Complete 3 stealth challenges&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Use silenced tools only&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Heavy hitter&lt;/td&gt;&#xA;          &lt;td&gt;Complete 3 destruction challenges&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Break doors, windows, containers&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;All-rounder&lt;/td&gt;&#xA;          &lt;td&gt;Complete one of each challenge type&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Very Hard&lt;/td&gt;&#xA;          &lt;td&gt;Plan route for stealth + destruction + speed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;For &amp;quot;All-rounder,&amp;quot; I used a large house with multiple approaches. Ground floor for stealth, basement for destruction, upstairs for time-based tasks. One house can satisfy all challenge types if you plan your route. The &lt;a href=&#34;https://crimempire.com/crime-sim/map/house-tier-guide/&#34;&gt;house tier guide&lt;/a&gt; helps you pick a target with the right room variety.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Co-op Heist Planning: From Setup to Extraction</title>
+      <link>https://crimempire.com/crime-sim/coop/coop-heist-planning/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/coop/coop-heist-planning/</guid>
+      <description>&lt;p&gt;The best co-op heists I have been on were planned before anyone left the hideout. If your hideout storage is a mess, the &lt;a href=&#34;https://crimempire.com/crime-sim/hideouts/safe-houses-guide/&#34;&gt;safe houses guide&lt;/a&gt; explains how to organize loot efficiently. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pre-heist-briefing-checklist&#34;&gt;Pre-Heist Briefing Checklist&lt;/h2&gt;&#xA;&lt;p&gt;Before leaving the hideout, we confirm every item on this list:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Target selected from job board or free-roam&lt;/li&gt;&#xA;&lt;li&gt;Security level assessed (locks, NPCs, alarms) — the &lt;a href=&#34;https://crimempire.com/crime-sim/tools/complete-tools-guide/&#34;&gt;tools guide&lt;/a&gt; lists which gear you need for each security tier.&lt;/li&gt;&#xA;&lt;li&gt;Required tools confirmed for each team member&lt;/li&gt;&#xA;&lt;li&gt;Entry point identified (front, back, roof, window)&lt;/li&gt;&#xA;&lt;li&gt;Extraction point agreed (vehicle, alley, rooftop)&lt;/li&gt;&#xA;&lt;li&gt;Role assignments confirmed&lt;/li&gt;&#xA;&lt;li&gt;Communication channel set (in-game voice or Discord)&lt;/li&gt;&#xA;&lt;li&gt;Hard extraction limit agreed (time limit for aborting)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;pro-tip&#34;&gt;Assign a team leader for each heist. One person makes the call to abort. If everyone has veto power, you get indecision. I have seen teams lose 15 minutes arguing over whether to push or pull. A single decision-maker prevents this.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;target-selection&#34;&gt;Target Selection&lt;/h2&gt;&#xA;&lt;p&gt;Not all houses are worth hitting in co-op. The payout from a single large house split 4 ways is sometimes less than running two medium houses simultaneously.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Gold Bars and Jewelry Economy (Update 1.3)</title>
+      <link>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/money/gold-bars-and-jewelry-guide/</guid>
+      <description>&lt;p&gt;Do not sell gold bars for quick cash. I made this mistake on my first 1.3 playthrough and regretted it when I realized gold bars are the currency for hideout basement upgrades -- and those upgrades unlock higher-value contracts that pay back 5x the gold&#39;s fence price. The &lt;a href=&#34;https://crimempire.com/crime-sim/hideouts/safe-houses-guide/&#34;&gt;safe houses guide&lt;/a&gt; has a full breakdown of what each upgrade costs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-changed-in-update-13&#34;&gt;What Changed in Update 1.3&lt;/h2&gt;&#xA;&lt;p&gt;Update 1.3 introduced a parallel economy system that fundamentally changes how you should think about loot:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Hardcore Mode Progression: From Zero to Rank 6&#43;</title>
+      <link>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</guid>
+      <description>&lt;p&gt;This assumes you have read the &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/&#34;&gt;Hardcore Survival Guide&lt;/a&gt; first. If you have not completed a single Hardcore heist yet, start there. This covers the longer arc from first heist to endgame mastery.&lt;/p&gt;&#xA;&lt;p&gt;Once you are past the survival stage, the &lt;a href=&#34;https://crimempire.com/crime-sim/tools/complete-tools-guide/&#34;&gt;tools guide&lt;/a&gt; lists the exact purchase order that minimizes risk.&lt;/p&gt;&#xA;&lt;h2 id=&#34;phase-1-the-first-heist-rank-apprentice&#34;&gt;Phase 1: The First Heist (Rank Apprentice)&lt;/h2&gt;&#xA;&lt;p&gt;Your first Hardcore heist is the most dangerous because you have zero tools and zero skill leaves. I accept the lowest-risk house from the job board, enter through a window (quieter than crowbar on a door), grab only 3-4 visible items, exit within 60 seconds, and sell everything immediately.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Loot Selling Strategy: Maximize Every Heist</title>
+      <link>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/loot/loot-selling-strategy/</guid>
+      <description>&lt;p&gt;Most new players sell every item they find to the nearest fence immediately. I did this for my first few hours and left a lot of money on the table.&lt;/p&gt;&#xA;&lt;p&gt;The fastest way from zero to quota (what I settled on): stack item requests, sell duplicate skill leaflets before basic loot, and never fence high-value items at the same fence twice in one day -- prices drop. The &lt;a href=&#34;https://crimempire.com/crime-sim/skills/skill-leaflets-guide/&#34;&gt;skill leaflets guide&lt;/a&gt; explains which leaflets to keep versus sell.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Tool Upgrades and Advanced Tools</title>
+      <link>https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/</guid>
+      <description>&lt;p&gt;Basic tools get the job done, but upgraded versions save time, reduce noise, and fail less often. I went from breaking a lockpick every 2-3 heists to going 10+ on the professional set. The &lt;a href=&#34;https://crimempire.com/crime-sim/tools/complete-tools-guide/&#34;&gt;complete tools guide&lt;/a&gt; has the full list of basic tools and their starting stats.&lt;/p&gt;&#xA;&lt;p&gt;The Master Key from Update 1.3 is the best late-game tool investment I have unlocked. It opens most standard locks instantly, dramatically speeding up heists.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Make Triple Dollar Strain: Best Custom Mix Recipes</title>
+      <link>https://crimempire.com/schedule-i/recipes/triple-dollar-strain/</link>
+      <pubDate>Tue, 09 Jun 2026 03:50:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/recipes/triple-dollar-strain/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Triple Dollar strain = OG Kush + Banana + Battery + Cuke, mixed in that order at a Mixing Station. Sells for $120+ per unit at Peddler rank. Total ingredient cost: ~$10. This is the most searched custom strain recipe on Reddit and TikTok because it offers the best profit-per-effort ratio among all 4-ingredient mixes.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Triple Dollar Recipe Breakdown&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Ingredient&lt;/th&gt;&#xA;          &lt;th&gt;Source&lt;/th&gt;&#xA;          &lt;th&gt;Cost&lt;/th&gt;&#xA;          &lt;th&gt;Effect on Strain&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;OG Kush (base)&lt;/td&gt;&#xA;          &lt;td&gt;Albert at motel&lt;/td&gt;&#xA;          &lt;td&gt;~$3/grow&lt;/td&gt;&#xA;          &lt;td&gt;Base strain type&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Banana&lt;/td&gt;&#xA;          &lt;td&gt;Gas station or Albert&lt;/td&gt;&#xA;          &lt;td&gt;~$2&lt;/td&gt;&#xA;          &lt;td&gt;Adds yield boost&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Battery&lt;/td&gt;&#xA;          &lt;td&gt;Dan&#39;s Hardware&lt;/td&gt;&#xA;          &lt;td&gt;~$3&lt;/td&gt;&#xA;          &lt;td&gt;Adds potency multiplier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cuke&lt;/td&gt;&#xA;          &lt;td&gt;Gas station or Albert&lt;/td&gt;&#xA;          &lt;td&gt;~$2&lt;/td&gt;&#xA;          &lt;td&gt;Adds stability&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Total&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;~$10&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Sell price: $120+&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Popular Custom Strains&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;Here are community-discovered custom strain recipes that sell for higher than standard mixes:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bungalow 8-Step Automation Blueprint: Room-by-Room Layout With ROI Timeline</title>
+      <link>https://crimempire.com/schedule-i/automation/workshop/</link>
+      <pubDate>Thu, 18 Jun 2026 18:40:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/automation/workshop/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Bungalow ($30,000 from Ray&#39;s Realty) supports 4 employees and fits 2 Mixing Stations for a fully automated 2-product line. Setup cost: ~$3,500 + property cost. Break-even in 7-10 in-game days. Below is the exact 8-step layout tested and verified by the community.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/automation-flow.svg&#34; alt=&#34;Bungalow Automation Employee Flow Diagram&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;760&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;This guide is a room-by-room build order. Follow these steps in sequence to avoid common automation failures.&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-1-set-up-the-loading-bay-day-1-0&#34;&gt;Step 1: Set Up The Loading Bay (Day 1, $0)&lt;/h2&gt;&#xA;&lt;p&gt;Before hiring anyone, clear the Bungalow&#39;s ground floor. The default furniture blocks employee pathing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Police Anti-Raid Guide: Police Behavior and How to Avoid Raids</title>
+      <link>https://crimempire.com/dds2/beginner/police-anti-raid-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/beginner/police-anti-raid-guide/</guid>
+      <description>&lt;p&gt;Police in DDS2 operate on a heat system called &amp;quot;wanted level.&amp;quot; Understanding how this system works is the difference between running a smooth operation and constantly losing product to raids. This guide covers police behavior, how wanted level works, how to avoid detection, and what to do when police are actively pursuing you.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-raid-defense.svg&#34; alt=&#34;DDS2 police behavior and anti-raid strategy diagram showing wanted level effects and mitigation&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;How the wanted level system works:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Common Mistakes: 10 Critical Errors New Players Make</title>
+      <link>https://crimempire.com/crime-sim/beginner/common-mistakes/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/beginner/common-mistakes/</guid>
+      <description>&lt;p&gt;I made every mistake on this list during my first few hours of Crime Simulator. Some cost me a single heist. Others cost me entire Hardcore runs. Here is what I learned so you do not have to learn it the same way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mistake-1-selling-gold-bars-for-quick-cash&#34;&gt;Mistake 1: Selling Gold Bars for Quick Cash&lt;/h2&gt;&#xA;&lt;p&gt;This is the single most expensive mistake new players make. Gold bars are not loot -- they are currency for basement upgrades. Selling a gold bar for $800-$1,500 seems like great early-game money, but that same bar funds a Storage Rack upgrade that increases your stash capacity by 50%.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Endless Mode Guide: Complete Strategy and Survival Tips</title>
+      <link>https://crimempire.com/crime-sim/endless/endless-mode-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/endless/endless-mode-guide/</guid>
+      <description>&lt;p&gt;Endless mode in Crime Simulator removes the quota timer and day limit, letting you progress at your own pace. Loot respawns daily in houses you have already cleared. This mode is perfect for learning the game, grinding achievements, and testing strategies without pressure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-endless-mode-works&#34;&gt;How Endless Mode Works&lt;/h2&gt;&#xA;&lt;p&gt;Endless mode was added in Update 1.1. Key mechanics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;No quota deadlines&lt;/strong&gt; -- quotas exist but never expire&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Loot respawns daily&lt;/strong&gt; -- houses reset with new loot every game day&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full progression&lt;/strong&gt; -- ranks, tools, skills, and upgrades all carry over&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Death penalty&lt;/strong&gt; -- same as Standard mode (lose carried loot, keep rank/upgrades) -- the &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/&#34;&gt;hardcore survival guide&lt;/a&gt; explains how to avoid fatal mistakes even in forgiving modes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Police system&lt;/strong&gt; -- police AI behaves the same as Standard mode&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Difficulty selection&lt;/strong&gt; -- choose Casual, Normal, Pro, or Master difficulty. The &lt;a href=&#34;https://crimempire.com/crime-sim/police/police-system-guide/&#34;&gt;police system guide&lt;/a&gt; is essential reading for higher difficulties where detection is stricter.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Feature&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Endless Mode&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Standard Mode&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quota deadline&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;None&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Every 3 days&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Loot respawn&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Daily&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Per run&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Map progression&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Unlock by rank&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Unlock by rank&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Death penalty&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Lose carried loot&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Lose carried loot&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Best for&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Learning, grinding&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Challenge runs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;why-play-endless-mode&#34;&gt;Why Play Endless Mode?&lt;/h2&gt;&#xA;&lt;p&gt;Endless mode is the best choice for several playstyles:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator House Tier Guide: Map Districts and Loot Value</title>
+      <link>https://crimempire.com/crime-sim/map/house-tier-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/map/house-tier-guide/</guid>
+      <description>&lt;p&gt;Crime Simulator has multiple districts, each with different house types, security levels, and loot potential. Knowing which district to target at each stage of the game saves you time and reduces risk. The &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; explains the first-run decisions before you reach these districts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;district-overview&#34;&gt;District Overview&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;District&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Unlock Rank&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Average Loot per House&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Police Response&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Starter Town&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Apprentice&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Low&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$100-$300&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;45-60 seconds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Suburban&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Rank 3&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$300-$600&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;30-45 seconds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Industrial&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Rank 6&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium-High&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$400-$800&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;60-90 seconds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;For exact loot types per district, cross-reference the &lt;a href=&#34;https://crimempire.com/crime-sim/loot/loot-locations-and-values/&#34;&gt;loot locations guide&lt;/a&gt;.&#xA;| Downtown | Rank 10 | High | $600-$1,200 | 20-30 seconds |&#xA;| Heist Locations | Rank 12+ | Very High | $1,000-$3,000 | 15-25 seconds |&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Police System Guide: AI Behavior and Evasion</title>
+      <link>https://crimempire.com/crime-sim/police/police-system-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/police/police-system-guide/</guid>
+      <description>&lt;p&gt;The police system in Crime Simulator is the primary fail state. Understanding exactly how it works -- what triggers it, how fast police respond, and how to evade them -- is the difference between a clean score and a deleted save in Hardcore mode.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://crimempire.com/crime-sim/beginner/common-mistakes/&#34;&gt;common mistakes guide&lt;/a&gt; shows the specific police traps new players fall into.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-police-detection-works&#34;&gt;How Police Detection Works&lt;/h2&gt;&#xA;&lt;p&gt;Police are triggered by a heat system. Every action you take generates heat. When your heat reaches a threshold, police are called.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Safe Houses Guide: Best Hideouts and Upgrades</title>
+      <link>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</guid>
+      <description>&lt;p&gt;Your hideout is more than just a place to store loot. It is your operations center, your safe zone, and the key to long-term progression. Choosing the right upgrades and managing your storage effectively can double your earning potential. The &lt;a href=&#34;https://crimempire.com/crime-sim/loot/loot-locations-and-values/&#34;&gt;loot locations guide&lt;/a&gt; helps you stock what actually sells.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hideout-basics&#34;&gt;Hideout Basics&lt;/h2&gt;&#xA;&lt;p&gt;Your hideout serves several critical functions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; Keep loot between runs for item requests or bulk selling&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Safe zone:&lt;/strong&gt; Police cannot enter your hideout -- get here and you are safe&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Save point:&lt;/strong&gt; The game autosaves when you visit your hideout&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Job board:&lt;/strong&gt; Accept heist contracts and item requests&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upgrades:&lt;/strong&gt; Basement expansion (Update 1.3) unlocks powerful bonuses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;storage-management&#34;&gt;Storage Management&lt;/h2&gt;&#xA;&lt;p&gt;Your hideout has limited storage space. Managing it well is essential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Skill Leaflets Guide: Complete List and Priority Order</title>
+      <link>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</guid>
+      <description>&lt;p&gt;Skill leaflets are the backbone of progression in Crime Simulator. Unlike tools that you buy with cash, skill leaflets must be found during heists and then activated with skill points earned from ranking up. Choosing the right leaflet priority can save you dozens of hours. The &lt;a href=&#34;https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/&#34;&gt;tool upgrades guide&lt;/a&gt; covers which tools pair best with each leaflet set.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-skill-leaflets-work&#34;&gt;How Skill Leaflets Work&lt;/h2&gt;&#xA;&lt;p&gt;Each skill leaflet unlocks a permanent ability or upgrade. To activate a leaflet, you need:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bungalow Setup: My Layout After 3 Different Attempts</title>
+      <link>https://crimempire.com/schedule-i/property/bungalow-setup/</link>
+      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/property/bungalow-setup/</guid>
+      <description>&lt;p&gt;The Bungalow ($6,000) was the first property where I actually felt like I was running a real operation. The apartment works fine for the first hour, but once you need more than 2 Mixing Stations and actual employees, you outgrow it fast.&lt;/p&gt;&#xA;&lt;p&gt;I rebuilt the Bungalow layout three times before it clicked. Here&#39;s what worked and what didn&#39;t.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The layout that finally clicked:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Bungalow is a single open room, about 8x6 tiles of usable space. No stairs, no extra rooms. You work with what you have.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Manual vs Automation ROI Comparison: Which Setup Makes Money Faster</title>
+      <link>https://crimempire.com/schedule-i/automation/barn-and-warehouse/</link>
+      <pubDate>Thu, 18 Jun 2026 18:45:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/automation/barn-and-warehouse/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Full automation (Barn + 10 employees) earns roughly 5x more per day than manual play, but costs ~$45,000 upfront with a 5-8 day break-even. Partial automation (Bungalow + 3 employees) is the best value: ~$3,500 setup, 7-10 day break-even. Manual play breaks even instantly but caps at ~$2,000/day earnings.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/barn-warehouse-layout.svg&#34; alt=&#34;Barn vs Warehouse Layout Comparison&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;760&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;This guide is a data comparison -- not a setup tutorial. Use the table below to decide whether automation is worth it for your current stage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fastest Supplier Unlock Route: From Street Rat to Kingpin in Minimum Orders</title>
+      <link>https://crimempire.com/schedule-i/npc/suppliers/</link>
+      <pubDate>Thu, 18 Jun 2026 18:35:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/npc/suppliers/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Unlock Albert Hoover immediately (available from start). Befriend Elizabeth Homley or Kevin Oakley to unlock Shirley Watts and Fungal Phil simultaneously. Reach higher ranks for Salvador Moreno. The fastest route: place Dead Drop orders for the cheapest items first to build relationship, then scale up. Minimum total cost to unlock all four: roughly $8,000 in Dead Drop orders plus rank progression. If you&#39;re still short on cash, our &lt;a href=&#34;https://crimempire.com/schedule-i/money/speedrun/&#34;&gt;$10K in First Hour guide&lt;/a&gt; covers how to raise capital fast.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is an optimized unlock route -- not a list of who the suppliers are. Follow this order and you&#39;ll unlock delivery (the max relationship perk) faster than random ordering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 Common Mistakes Beginners Make in DDS2 (And How to Fix Them)</title>
+      <link>https://crimempire.com/dds2/beginner/10-common-mistakes/</link>
+      <pubDate>Thu, 18 Jun 2026 18:28:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/beginner/10-common-mistakes/</guid>
+      <description>&lt;p&gt;Every DDS2 player makes mistakes in their first playthrough. I made most of these myself -- some cost me hours of progress. This guide covers the 10 most common beginner mistakes and how to avoid or recover from each one. Based on my own experience and community discussions from Reddit and Steam.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Keeping everything in one hideout.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The most common and most costly mistake. A single raid can wipe out your entire operation if everything is in one place. I lost my first major stockpile this way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NPC Price Index 2026: Which Dealer Pays The Most Per Product Type</title>
+      <link>https://crimempire.com/schedule-i/npc/dealers/</link>
+      <pubDate>Thu, 18 Jun 2026 18:30:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/npc/dealers/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Leo Rivers pays the most per unit across all product types (up to 20% more than Benji Coleman for premium products). But the best deal in the game is assigning low-spending customers to dealers and selling directly to high-spenders. This guide ranks all 6 dealers by what they pay per product type, so you know exactly who should sell what.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is not a &amp;quot;who the dealers are&amp;quot; explainer. This is a price index -- a ranked reference for maximizing per-unit profit through dealer assignment. For the actual products to assign, check the &lt;a href=&#34;https://crimempire.com/schedule-i/recipes/profit/&#34;&gt;recipe profit rankings&lt;/a&gt; to pick the highest-margin items per dealer tier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</title>
+      <link>https://crimempire.com/schedule-i/police/heat-system/</link>
+      <pubDate>Thu, 18 Jun 2026 18:20:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/police/heat-system/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Quick answer:&lt;/strong&gt; Selling drugs in view of a cop = Low heat (Investigating level). Assaulting an NPC = Medium heat. Pulling out a weapon = High heat (Wanted level). Hitting a cop = Maximum heat (Wanted Dead or Alive instantly). Each action has a fixed heat value the game uses to decide police response.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This guide is a reference tool -- not an explainer. Bookmark it. Use it before every sale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schedule I Endgame Guide: What To Do After Full Automation</title>
+      <link>https://crimempire.com/schedule-i/automation/endgame-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 19:05:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/automation/endgame-guide/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; After full automation, endgame goals include: owning all 6 properties ($430,000 total), unlocking all 6 dealers ($15,500 total buy-in), maxing all 4 suppliers to Delivery status, hitting Kingpin V rank, and building a mega-factory using all properties. Each goal takes roughly 30-60 additional in-game hours.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This guide covers endgame activities after your automation is running. Verified against r/Schedule_I endgame discussions, Steam Community forum posts, and ScreenRant&#39;s endgame guide.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/automation-flow.svg&#34; alt=&#34;Endgame Automation Flow for Mega-Factory&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;760&#34;&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;the-endgame-checklist&#34;&gt;The Endgame Checklist&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Priority&lt;/th&gt;&#xA;          &lt;th&gt;Goal&lt;/th&gt;&#xA;          &lt;th&gt;Cost&lt;/th&gt;&#xA;          &lt;th&gt;Time Estimate&lt;/th&gt;&#xA;          &lt;th&gt;Reward&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;Max all supplier relationships to Delivery&lt;/td&gt;&#xA;          &lt;td&gt;~$8,000 orders&lt;/td&gt;&#xA;          &lt;td&gt;15-20 in-game days&lt;/td&gt;&#xA;          &lt;td&gt;Auto-supply to any location&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;Unlock all 6 dealers&lt;/td&gt;&#xA;          &lt;td&gt;$15,500 cumulative&lt;/td&gt;&#xA;          &lt;td&gt;5-10 in-game days&lt;/td&gt;&#xA;          &lt;td&gt;$8,000-15,000/day passive income&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td&gt;Buy the Docks Warehouse ($50,000)&lt;/td&gt;&#xA;          &lt;td&gt;$50,000&lt;/td&gt;&#xA;          &lt;td&gt;3-5 days saving&lt;/td&gt;&#xA;          &lt;td&gt;60-80 bags/day production&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;          &lt;td&gt;Reach Kingpin V rank&lt;/td&gt;&#xA;          &lt;td&gt;N/A (revenue-based)&lt;/td&gt;&#xA;          &lt;td&gt;~30 in-game days&lt;/td&gt;&#xA;          &lt;td&gt;Max rank benefits&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;Build a mega-factory&lt;/td&gt;&#xA;          &lt;td&gt;$250,000+&lt;/td&gt;&#xA;          &lt;td&gt;50-100 in-game days&lt;/td&gt;&#xA;          &lt;td&gt;Highest possible production&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;Own all 6 properties&lt;/td&gt;&#xA;          &lt;td&gt;$430,000 total&lt;/td&gt;&#xA;          &lt;td&gt;60-120 in-game days&lt;/td&gt;&#xA;          &lt;td&gt;Complete empire&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;          &lt;td&gt;Complete all customer unlocks&lt;/td&gt;&#xA;          &lt;td&gt;N/A&lt;/td&gt;&#xA;          &lt;td&gt;Varies&lt;/td&gt;&#xA;          &lt;td&gt;All customers available&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;          &lt;td&gt;Try Beta mode&lt;/td&gt;&#xA;          &lt;td&gt;Free&lt;/td&gt;&#xA;          &lt;td&gt;N/A&lt;/td&gt;&#xA;          &lt;td&gt;New content preview&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;goal-1-max-all-supplier-relationships&#34;&gt;Goal 1: Max All Supplier Relationships&lt;/h2&gt;&#xA;&lt;p&gt;This is the highest-impact endgame goal. Once all 4 suppliers reach Delivery status, your supply chain becomes fully passive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</title>
+      <link>https://crimempire.com/schedule-i/police/evasion/</link>
+      <pubDate>Thu, 18 Jun 2026 18:25:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/police/evasion/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>v0.4.5 Anniversary Update: Full Patch Notes and Meta Impact</title>
+      <link>https://crimempire.com/schedule-i/patch/v045-update/</link>
+      <pubDate>Tue, 09 Jun 2026 03:00:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/patch/v045-update/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; v0.4.5 (March 30, 2026) added the Golden M1911 pistol, Big Sprinkler for faster plant watering, a reorder feature for the delivery app, and dynamic reticle for ranged weapons. Meta impact: Big Sprinkler changes Botanist efficiency and watering throughput. No major recipe or police behavior changes.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;New Additions in v0.4.5&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Feature&lt;/th&gt;&#xA;          &lt;th&gt;Type&lt;/th&gt;&#xA;          &lt;th&gt;Unlock&lt;/th&gt;&#xA;          &lt;th&gt;Impact&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Golden M1911&lt;/td&gt;&#xA;          &lt;td&gt;Weapon&lt;/td&gt;&#xA;          &lt;td&gt;Casino vending machine (rare drop)&lt;/td&gt;&#xA;          &lt;td&gt;Cosmetic, same stats as M1911&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Big Sprinkler&lt;/td&gt;&#xA;          &lt;td&gt;Equipment&lt;/td&gt;&#xA;          &lt;td&gt;Dan&#39;s Hardware, $200&lt;/td&gt;&#xA;          &lt;td&gt;Waters 4 plants at once -- huge automation upgrade&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Reorder Feature&lt;/td&gt;&#xA;          &lt;td&gt;UI&lt;/td&gt;&#xA;          &lt;td&gt;Automatic&lt;/td&gt;&#xA;          &lt;td&gt;One-click repeat of last delivery order&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dynamic Reticle&lt;/td&gt;&#xA;          &lt;td&gt;UI&lt;/td&gt;&#xA;          &lt;td&gt;Automatic&lt;/td&gt;&#xA;          &lt;td&gt;Crosshair changes size based on accuracy&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Bug reporting tool&lt;/td&gt;&#xA;          &lt;td&gt;System&lt;/td&gt;&#xA;          &lt;td&gt;Steam overlay&lt;/td&gt;&#xA;          &lt;td&gt;Report issues in-game&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Big Sprinkler: The Real Game-Changer&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;The Big Sprinkler is the most impactful addition in v0.4.5. It replaces the basic sprinkler and covers a 4-plant area in one activation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</title>
+      <link>https://crimempire.com/schedule-i/money/casino-strategy/</link>
+      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/money/casino-strategy/</guid>
+      <description>&lt;p&gt;I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here&#39;s what I found.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ride the Bus pays better than Blackjack.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Reddit community analysis pegs Ride the Bus at roughly +25% expected value per hand, compared to Blackjack&#39;s -0.5% (even with perfect play). I can&#39;t verify the exact math, but my own testing matches the pattern -- Ride the Bus consistently grew my stack faster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schedule 1 Complete Update History (v0.1 to v0.4.5)</title>
+      <link>https://crimempire.com/schedule-i/patch/update-history/</link>
+      <pubDate>Tue, 09 Jun 2026 04:20:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/patch/update-history/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Schedule 1 launched March 24, 2025. The first major content update (v0.3.4) shipped two weeks later on April 7. v0.2.4 added co-op multiplayer. v0.4.5 Anniversary Update (March 30, 2026) added Big Sprinkler and Golden M1911. The game receives patches approximately every 4-6 weeks.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Full Version Timeline (source: Fandom Wiki)&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Version&lt;/th&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;Key Additions&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.1.x&lt;/td&gt;&#xA;          &lt;td&gt;Mar 24, 2025&lt;/td&gt;&#xA;          &lt;td&gt;Initial early access release, basic mixing, 1 zone&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.1.14&lt;/td&gt;&#xA;          &lt;td&gt;Mar-Apr 2025&lt;/td&gt;&#xA;          &lt;td&gt;Multi-dragging, physics improvements&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.1.15&lt;/td&gt;&#xA;          &lt;td&gt;Mar-Apr 2025&lt;/td&gt;&#xA;          &lt;td&gt;Pickpocketing, counter-offer system&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.1.16&lt;/td&gt;&#xA;          &lt;td&gt;Mar-Apr 2025&lt;/td&gt;&#xA;          &lt;td&gt;Snake minigame, bug fixes&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.2.4&lt;/td&gt;&#xA;          &lt;td&gt;Apr 2025&lt;/td&gt;&#xA;          &lt;td&gt;Co-op multiplayer (up to 4 players)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.2.5&lt;/td&gt;&#xA;          &lt;td&gt;Apr 2025&lt;/td&gt;&#xA;          &lt;td&gt;Customer behavior improvements&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.2.6&lt;/td&gt;&#xA;          &lt;td&gt;Apr 2025&lt;/td&gt;&#xA;          &lt;td&gt;Packaging Station MK II&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.2.7&lt;/td&gt;&#xA;          &lt;td&gt;Apr-May 2025&lt;/td&gt;&#xA;          &lt;td&gt;More effects, mixing changes&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.2.8&lt;/td&gt;&#xA;          &lt;td&gt;Apr-May 2025&lt;/td&gt;&#xA;          &lt;td&gt;Mixing Station MK II&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.2.9&lt;/td&gt;&#xA;          &lt;td&gt;Apr-May 2025&lt;/td&gt;&#xA;          &lt;td&gt;New ambient music, optimization, map additions&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.3.4&lt;/td&gt;&#xA;          &lt;td&gt;2025.04.07&lt;/td&gt;&#xA;          &lt;td&gt;Pawn Shop, Fancy Stuff, functional shops&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.3.5&lt;/td&gt;&#xA;          &lt;td&gt;2025.05.08&lt;/td&gt;&#xA;          &lt;td&gt;Jukebox, Storage Unit&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.3.6&lt;/td&gt;&#xA;          &lt;td&gt;2025.06.08&lt;/td&gt;&#xA;          &lt;td&gt;Filters, Employee Tweaks, Save System improvements&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.4.0&lt;/td&gt;&#xA;          &lt;td&gt;2025.08.28&lt;/td&gt;&#xA;          &lt;td&gt;Cartel Update -- Benzies Family, major content&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.4.1&lt;/td&gt;&#xA;          &lt;td&gt;2025.11.02&lt;/td&gt;&#xA;          &lt;td&gt;Halloween Update&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.4.2&lt;/td&gt;&#xA;          &lt;td&gt;2025.12.26&lt;/td&gt;&#xA;          &lt;td&gt;Shrooms Update&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.4.3&lt;/td&gt;&#xA;          &lt;td&gt;2026.02.03&lt;/td&gt;&#xA;          &lt;td&gt;Storage Closets update&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.4.4&lt;/td&gt;&#xA;          &lt;td&gt;2026.03.19&lt;/td&gt;&#xA;          &lt;td&gt;Weather Update&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;v0.4.5&lt;/td&gt;&#xA;          &lt;td&gt;2026.03.30&lt;/td&gt;&#xA;          &lt;td&gt;Anniversary Update -- Big Sprinkler, Golden M1911&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;What Each Major Version Changed&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;v0.1.x (Launch, Mar 2025):&lt;/strong&gt; Core drug mixing and selling loop. Single zone map, basic suppliers, no employees. The game was functional but shallow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 10 Community Custom Strains By Profit: Ranked With Verified Ingredient Lists</title>
+      <link>https://crimempire.com/schedule-i/hybrid/mixing-recipes/</link>
+      <pubDate>Thu, 18 Jun 2026 18:50:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/hybrid/mixing-recipes/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The most profitable community-discovered custom strain is the Cocaine 9-mix (&amp;quot;God Mix&amp;quot;) at ~$717 per unit. For weed-based strains, &amp;quot;Grandmaster Kush&amp;quot; (OG Kush + Horse Semen + Mega Bean + Gasoline) sells for ~$165-175 per unit with the lowest ingredient cost among top-tier strains. Below is a ranked list of 10 community-verified strains.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is a curated ranking of real community-discovered strains -- not a calculator tool. Each entry includes ingredient list, sell price, profit margin, and source verification. Data cross-referenced from r/Schedule_I highest profit strains thread (May 2025), PC Gamer mixing recipes guide (April 2026), and Steam Community mixing database (January 2026).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>$10K in First Hour: Delivery and Trash Dumping Route</title>
+      <link>https://crimempire.com/schedule-i/money/speedrun/</link>
+      <pubDate>Tue, 09 Jun 2026 02:20:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/money/speedrun/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Deliveries and trash dumping are the safest early-game methods. A single optimized route: take a delivery order ($50-100 per delivery), grab trash on the way ($5-15 per dump), and smash vending machines ($20-50 each). Repeat for 1 hour = $8K-$12K with zero police risk. This is the fastest legal-ish money before unlocking dealers.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Early Game Income Methods&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Method&lt;/th&gt;&#xA;          &lt;th&gt;Income Per Action&lt;/th&gt;&#xA;          &lt;th&gt;Risk&lt;/th&gt;&#xA;          &lt;th&gt;Time per Action&lt;/th&gt;&#xA;          &lt;th&gt;Best For&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Deliver orders&lt;/td&gt;&#xA;          &lt;td&gt;$50-$150&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;          &lt;td&gt;2-4 minutes&lt;/td&gt;&#xA;          &lt;td&gt;Steady income&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Trash dumping&lt;/td&gt;&#xA;          &lt;td&gt;$5-$15 per bag&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;          &lt;td&gt;30 seconds&lt;/td&gt;&#xA;          &lt;td&gt;Filler income&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Smash vending machines&lt;/td&gt;&#xA;          &lt;td&gt;$20-$50&lt;/td&gt;&#xA;          &lt;td&gt;Low (public)&lt;/td&gt;&#xA;          &lt;td&gt;10 seconds&lt;/td&gt;&#xA;          &lt;td&gt;Quick cash&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sell to customers (street)&lt;/td&gt;&#xA;          &lt;td&gt;$100-$400&lt;/td&gt;&#xA;          &lt;td&gt;Medium (police)&lt;/td&gt;&#xA;          &lt;td&gt;1-2 minutes&lt;/td&gt;&#xA;          &lt;td&gt;Fast money&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Casino gambling&lt;/td&gt;&#xA;          &lt;td&gt;Variable&lt;/td&gt;&#xA;          &lt;td&gt;None (with save)&lt;/td&gt;&#xA;          &lt;td&gt;5-30 minutes&lt;/td&gt;&#xA;          &lt;td&gt;Big multiplier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;The Optimal First-Hour Route&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt; You need the Burned RV area as your base. Buy a trash can ($25 from Furniture shop) and place it at the RV. Grab a delivery order from your phone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best Strain By Game Stage: Decision Table For Early, Mid, and Late Game</title>
+      <link>https://crimempire.com/schedule-i/hybrid/strain-calculator/</link>
+      <pubDate>Thu, 18 Jun 2026 18:55:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/hybrid/strain-calculator/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Early game (Tutorial-Hoodlum): OG Kush 4-mix with cheap additives ($120-150/unit). Mid game (Hustler-Dealer): Premium OG Kush 4-mix with Horse Semen + Mega Bean ($150-170/unit). Late game (Hoodlum V-Kingpin): Cocaine 8-9 mix ($450-717/unit). The decision depends on your available equipment, not just your rank.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is a decision table -- not a calculator. It tells you what strain to make at each game stage based on available ingredients, equipment, and automation level. For per-unit profit numbers on each recipe, cross-reference with the &lt;a href=&#34;https://crimempire.com/schedule-i/recipes/profit/&#34;&gt;recipe profit rankings&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Map Zones and Key Locations: Complete Area Guide</title>
+      <link>https://crimempire.com/schedule-i/expansion/map-zones-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 04:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/expansion/map-zones-guide/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The Schedule 1 map has 5 main zones: Downtown, Motel Area, Industrial Zone, Docks, and Highway (Casino). Each zone has different suppliers, police density, and available properties. Downtown and Motel are safe for early game. Industrial and Docks are mid-to-late game zones. The Highway zone has the casino and is most active at night.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Zone-by-Zone Breakdown&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Zone&lt;/th&gt;&#xA;          &lt;th&gt;Police Density&lt;/th&gt;&#xA;          &lt;th&gt;Properties&lt;/th&gt;&#xA;          &lt;th&gt;Suppliers&lt;/th&gt;&#xA;          &lt;th&gt;Best Time&lt;/th&gt;&#xA;          &lt;th&gt;Risk Level&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Downtown&lt;/td&gt;&#xA;          &lt;td&gt;High (2 patrols + 1 station)&lt;/td&gt;&#xA;          &lt;td&gt;Apartment (free)&lt;/td&gt;&#xA;          &lt;td&gt;Dan Samwell (shop)&lt;/td&gt;&#xA;          &lt;td&gt;Day&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Motel/Westville&lt;/td&gt;&#xA;          &lt;td&gt;Low (1 patrol)&lt;/td&gt;&#xA;          &lt;td&gt;Bungalow ($6K)&lt;/td&gt;&#xA;          &lt;td&gt;Albert Hoover&lt;/td&gt;&#xA;          &lt;td&gt;Any&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Industrial&lt;/td&gt;&#xA;          &lt;td&gt;Medium (1 patrol)&lt;/td&gt;&#xA;          &lt;td&gt;Barn ($25K)&lt;/td&gt;&#xA;          &lt;td&gt;Shirley Watts, Fungal Phil&lt;/td&gt;&#xA;          &lt;td&gt;Day&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Docks&lt;/td&gt;&#xA;          &lt;td&gt;Medium (1 night patrol)&lt;/td&gt;&#xA;          &lt;td&gt;Docks Warehouse ($50K)&lt;/td&gt;&#xA;          &lt;td&gt;Salvador Moreno&lt;/td&gt;&#xA;          &lt;td&gt;Night (6PM-6AM)&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Highway/North&lt;/td&gt;&#xA;          &lt;td&gt;Low (1 patrol)&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;          &lt;td&gt;Casino, vending machines&lt;/td&gt;&#xA;          &lt;td&gt;Night&lt;/td&gt;&#xA;          &lt;td&gt;Low&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Downtown Zone&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;The starting area. Contains:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 Common Schedule I Mistakes That Waste Your Time (And How To Fix Them)</title>
+      <link>https://crimempire.com/schedule-i/money/common-mistakes/</link>
+      <pubDate>Thu, 18 Jun 2026 19:00:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/money/common-mistakes/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The most common mistakes are selling during daylight in high-patrol zones, ignoring Dead Drop relationship building, using MK2 Packing Stations with Handlers, and overscoping recipes before upgrading property. Each mistake costs you roughly 2-5 in-game days of progress. Below are all 10 with concrete fixes.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;These mistakes are based on real player reports from r/Schedule_I, Steam Community discussions, and community guide feedback. Each entry includes the mistake, why it hurts, and a specific fix.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product Quality vs Price Guide: How Quality Affects Your Profit</title>
+      <link>https://crimempire.com/schedule-i/money/quality-profit-guide/</link>
+      <pubDate>Thu, 18 Jun 2026 19:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/schedule-i/money/quality-profit-guide/</guid>
+      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Yes, quality directly affects sell price. Standard quality products sell at 1.4x suggested price. Premium quality sells at 1.5x. Heavenly quality sells at 1.6x. Quality is determined by growing conditions: fertilizer use, PGR/Speed Grow application, and drying rack processing. A Premium OG Kush 4-mix ($170 base) sells for ~$255 at 1.5x, versus ~$238 for Standard -- a $17 difference per unit.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is a data comparison guide -- not a &amp;quot;what is quality&amp;quot; explainer. Use the tables below to decide whether quality upgrades are worth the extra time and cost. For the base profit figures without quality adjustments, see the &lt;a href=&#34;https://crimempire.com/schedule-i/recipes/profit/&#34;&gt;recipe profit rankings&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

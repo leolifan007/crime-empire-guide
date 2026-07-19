@@ -1,38 +1,588 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots | Crime Empire Guide</title><meta name=description content="Short answer: Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration …"><link rel=canonical href=https://crimempire.com/schedule-i/police/evasion/><base href=https://crimempire.com/><script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0HZEQS7C2"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-Z0HZEQS7C2")</script><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel=stylesheet><link rel=stylesheet href=/css/main.min.47f13101ce41280c019f910702f8709152d6335012db868123bfddd09e79788f.css integrity="sha256-R/ExAc5BKAwBn5EHAvhwkVLWM1AS24aBI7/d0J55eI8=" crossorigin=anonymous></head><body><header class=site-header><a href=/ class=site-logo><span class=logo-icon>CE</span> CRIME EMPIRE</a><div class=nav-links><a href=/schedule-i/ class=nav-btn>Schedule I</a>
-<a href=/dds2/ class=nav-btn>Drug Dealer Simulator 2</a>
-<a href=/crime-sim/ class=nav-btn>Crime Simulator</a></div><button class=mobile-nav-toggle onclick=toggleMobileNav() aria-label="Toggle navigation"><div class=hamburger-icon><span></span>
-<span></span>
-<span></span></div></button></header><div class=page-wrap><section class="section-hero game-schedule-i"><div class=section-hero-gradient></div><div class=section-hero-content><h1>Schedule I</h1><p class=section-hero-tagline>Drug Empire Simulator</p></div></section><div class=single-wrap><nav class=breadcrumb><a href=/>Home</a>
-<span class=sep>/</span>
-<a href=/schedule-i/>Schedule I</a>
-<span class=sep>/</span>
-<a href=/schedule-i/police/>Police System</a>
-<span class=sep>/</span>
-<span class=current>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</span></nav><div class="cat-nav game-schedule-i"><a href=/schedule-i/automation/ class=cat-nav-btn>Automation
-</a><a href=/schedule-i/expansion/ class=cat-nav-btn>Expansion
-</a><a href=/schedule-i/hybrid/ class=cat-nav-btn>Hybrid Guide
-</a><a href=/schedule-i/money/ class=cat-nav-btn>Money
-</a><a href=/schedule-i/npc/ class=cat-nav-btn>NPC Guide
-</a><a href=/schedule-i/patch/ class=cat-nav-btn>Patch Updates
-</a><a href=/schedule-i/police/ class="cat-nav-btn active">Police System
-</a><a href=/schedule-i/property/ class=cat-nav-btn>Property
-</a><a href=/schedule-i/recipes/ class=cat-nav-btn>Recipes</a></div><div class=single-layout><aside class="guide-sidebar game-schedule-i"><div class=sidebar-header><h3>Police System</h3><span class=sidebar-count>2 articles</span></div><div class=sidebar-list><a href=/schedule-i/police/heat-system/ class=sidebar-item><span class=sidebar-title>Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</span>
-</a><a href=/schedule-i/police/evasion/ class="sidebar-item active"><span class=sidebar-title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</span></a></div></aside><main class=single-main><article class=single-article><div class=article-header><div class="article-tag police">POLICE</div><h1>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</h1><div class=article-meta><span>Updated: Jun 18, 2026</span></div></div><div class="article-body game-schedule-i"><div class=callout><strong>Short answer:</strong> Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.</div><p>This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.</p><h2 id=detection-distance-by-situation>Detection Distance By Situation</h2><p>Police detection is not a fixed radius. It depends on what you're doing and how fast you're moving.</p><table><thead><tr><th>Situation</th><th>Detection Range</th><th>Speed Factor</th><th>Special Conditions</th></tr></thead><tbody><tr><td>Walking with drugs in hand</td><td>15m (front arc only)</td><td>1x</td><td>Only if facing cop</td></tr><tr><td>Running with drugs</td><td>20m (360 degrees)</td><td>1.3x</td><td>Footsteps audible</td></tr><tr><td>Selling to customer</td><td>12m</td><td>1x</td><td>Transaction animation creates visual cue</td></tr><tr><td>Inside vehicle</td><td>8m (only if speeding)</td><td>0.5x</td><td>Moving slowly = invisible</td></tr><tr><td>In a hiding spot (bin/roof)</td><td>0m (undetectable)</td><td>0x</td><td>Must not have been seen entering</td></tr><tr><td>Pulling out weapon</td><td>25m (instant)</td><td>2x</td><td>All nearby cops alerted</td></tr><tr><td>At night (22:00-04:00)</td><td>10m (reduced)</td><td>0.7x</td><td>Cop vision cones narrow</td></tr></tbody></table><div class=insight-card><p>The most exploitable mechanic: police LOS is front-cone only, not 360 degrees. If you sprint perpendicular to a cop's facing direction and break LOS behind a wall within 3 seconds, the cop never registers a valid sighting. This is why perpendicular sprint is the most reliable escape opener.</p></div><h2 id=chase-duration-by-heat-level>Chase Duration By Heat Level</h2><p>Once a cop has sighted you, the chase timer starts. The duration depends on your heat level and whether you maintain LOS.</p><table><thead><tr><th>Heat Level</th><th>Base Chase Duration</th><th>If LOS Break (hide)</th><th>If Enter Safe House</th><th>If Leave District</th></tr></thead><tbody><tr><td>1 - Investigating</td><td>30s</td><td>15s hidden</td><td>Instant</td><td>10s</td></tr><tr><td>2 - Wanted</td><td>60s</td><td>30s hidden</td><td>Instant</td><td>20s</td></tr><tr><td>3 - Wanted Dead or Alive</td><td>90s</td><td>45s hidden</td><td>Instant</td><td>45s</td></tr><tr><td>4 - Maximum</td><td>3min+</td><td>90s hidden</td><td>Instant</td><td>60s (if not roadblocked)</td></tr></tbody></table><p><strong>Source:</strong> Cross-verified from TheGamer police evasion guide and community testing threads on r/Schedule_I.</p><h3 id=practical-example>Practical Example</h3><p>You trigger a Level 2 Wanted status by selling on Main Street during daytime. A cop is 20m away and starts sprinting toward you.</p><p><strong>Step 1:</strong> Sprint perpendicular (east, into the alley behind the pizza place). This breaks LOS in about 2 seconds.</p><p><strong>Step 2:</strong> The cop reaches your last known position and switches to search mode (60s timer starts).</p><p><strong>Step 3:</strong> Duck into the garbage bin behind the pizza place. The bin hides you instantly.</p><p><strong>Step 4:</strong> Wait 30 seconds (half the chase timer). The Wanted indicator clears.</p><p><strong>Step 5:</strong> Exit the bin, walk calmly to the Motel area. The cop is still searching the alley.</p><h2 id=best-hiding-spots-by-district>Best Hiding Spots By District</h2><p>Not all hiding spots are equal. Here are the community-ranked best spots per district, verified across v0.4+ patches.</p><table><thead><tr><th>District</th><th>Rank 1 Spot</th><th>Rank 2 Spot</th><th>Emergency Option</th><th>Notes</th></tr></thead><tbody><tr><td>Motel area</td><td>Parking garage roof</td><td>Garbage bin behind office</td><td>Any motel room door</td><td>Garage roof works at all levels</td></tr><tr><td>Downtown</td><td>Alley bin behind Pizza place</td><td>Rooftop of Gas-Mart</td><td>Enter any store (80% reliable)</td><td>Store entry patched in v0.4.5</td></tr><tr><td>Northtown</td><td>Bin behind Dan's Hardware</td><td>Construction site pipes</td><td>Any safe house</td><td>Multiple bins in this area</td></tr><tr><td>Docks</td><td>Warehouse container (south)</td><td>Behind church</td><td>Jump into water</td><td>Water LOS break works</td></tr><tr><td>Suburbia</td><td>Garbage bin behind green house</td><td>Behind Mayor's house</td><td>Bush (decorative only - does NOT hide)</td><td>Bushes are fake -- don't use them</td></tr><tr><td>Westville</td><td>RV interior if unlocked</td><td>Behind Warehouse west wall</td><td>Alley behind laundromat</td><td>RV is safe if owned</td></tr></tbody></table><div class=callout>A common myth from early community posts: hiding in bushes works. It does not. Bushes are purely decorative in Schedule I. You need a bin, a roof, or a building interior to break LOS and hide. This was confirmed in multiple Reddit threads and the Fandom Wiki Newbie Guide.</div><h2 id=escape-route-time-comparison>Escape Route Time Comparison</h2><p>Time from each major selling district to the nearest safe spot:</p><table><thead><tr><th>Starting District</th><th>Fastest Escape</th><th>Time (sprint)</th><th>Time (skateboard)</th><th>Time (vehicle)</th><th>Risk Level</th></tr></thead><tbody><tr><td>Main Street Downtown</td><td>Pizza place alley bin</td><td>8s</td><td>5s</td><td>N/A (traffic)</td><td>Low</td></tr><tr><td>Near Ray's Realty</td><td>East side garbage bin</td><td>12s</td><td>8s</td><td>20s (drive to Bungalow)</td><td>Low</td></tr><tr><td>Gas Station North</td><td>Behind station storage</td><td>5s</td><td>3s</td><td>N/A</td><td>Minimal</td></tr><tr><td>Motel area</td><td>Parking garage roof</td><td>15s</td><td>10s</td><td>25s (drive to Bungalow)</td><td>Minimal</td></tr><tr><td>Warehouse District</td><td>South container</td><td>10s</td><td>7s</td><td>15s (drive to Docks)</td><td>Low</td></tr><tr><td>Casino entrance</td><td>Side alley bin</td><td>6s</td><td>4s</td><td>N/A</td><td>Low</td></tr><tr><td>Docks</td><td>Church hiding spot</td><td>18s</td><td>12s</td><td>30s (drive to Warehouse)</td><td>Medium</td></tr></tbody></table><div class=content-box>**Best Emergency Escape by Heat Level:**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots | Crime Empire Guide</title>
+  <meta name="description" content="Short answer: Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration …">
+  <link rel="canonical" href="https://crimempire.com/schedule-i/police/evasion/">
+  <base href="https://crimempire.com/">
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0HZEQS7C2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Z0HZEQS7C2');
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="/css/main.min.47f13101ce41280c019f910702f8709152d6335012db868123bfddd09e79788f.css" integrity="sha256-R/ExAc5BKAwBn5EHAvhwkVLWM1AS24aBI7/d0J55eI8=" crossorigin="anonymous">
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="site-logo">
+    <span class="logo-icon">CE</span> CRIME EMPIRE
+  </a>
+  <div class="nav-links">
+    
+    
+    <a href="/schedule-i/" class="nav-btn">Schedule I</a>
+    
+    
+    
+    <a href="/dds2/" class="nav-btn">Drug Dealer Simulator 2</a>
+    
+    
+    
+    <a href="/crime-sim/" class="nav-btn">Crime Simulator</a>
+    
+    
+  </div>
+  <button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation">
+    <div class="hamburger-icon">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </button>
+</header>
+
+<div class="page-wrap">
+  
+
+
+
+
+
+
+
+
+
+
+
+<section class="section-hero game-schedule-i">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>Schedule I</h1>
+    <p class="section-hero-tagline">Drug Empire Simulator</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+
+  
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <a href="/schedule-i/">Schedule I</a>
+    <span class="sep">/</span>
+    <a href="/schedule-i/police/">Police System</a>
+    <span class="sep">/</span>
+    <span class="current">Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</span>
+  </nav>
+
+  
+  <div class="cat-nav game-schedule-i">
+    
+    <a href="/schedule-i/automation/" class="cat-nav-btn ">
+      Automation
+    </a>
+    
+    <a href="/schedule-i/expansion/" class="cat-nav-btn ">
+      Expansion
+    </a>
+    
+    <a href="/schedule-i/hybrid/" class="cat-nav-btn ">
+      Hybrid Guide
+    </a>
+    
+    <a href="/schedule-i/money/" class="cat-nav-btn ">
+      Money
+    </a>
+    
+    <a href="/schedule-i/npc/" class="cat-nav-btn ">
+      NPC Guide
+    </a>
+    
+    <a href="/schedule-i/patch/" class="cat-nav-btn ">
+      Patch Updates
+    </a>
+    
+    <a href="/schedule-i/police/" class="cat-nav-btn active">
+      Police System
+    </a>
+    
+    <a href="/schedule-i/property/" class="cat-nav-btn ">
+      Property
+    </a>
+    
+    <a href="/schedule-i/recipes/" class="cat-nav-btn ">
+      Recipes
+    </a>
+    
+  </div>
+
+  <div class="single-layout">
+
+    
+    <aside class="guide-sidebar game-schedule-i">
+      <div class="sidebar-header">
+        <h3>Police System</h3>
+        <span class="sidebar-count">2 articles</span>
+      </div>
+      <div class="sidebar-list">
+        
+        <a href="/schedule-i/police/heat-system/" class="sidebar-item ">
+          <span class="sidebar-title">Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</span>
+        </a>
+        
+        <a href="/schedule-i/police/evasion/" class="sidebar-item active">
+          <span class="sidebar-title">Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</span>
+        </a>
+        
+      </div>
+    </aside>
+
+    
+    <main class="single-main">
+      <article class="single-article">
+        <div class="article-header">
+          <div class="article-tag police">POLICE</div>
+          <h1>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</h1>
+          <div class="article-meta">
+            <span>Updated: Jun 18, 2026</span>
+          </div>
+        </div>
+        <div class="article-body game-schedule-i">
+          <div class="callout"><strong>Short answer:</strong> Police in Schedule I use line-of-sight (LOS) detection with a 15m base range. Detection is blocked by walls, vehicles, and terrain. Chase duration scales with heat level: 30s at Level 1, 60s at Level 2, 90s at Level 3, 3min+ at Level 4. Entering a safe house clears all heat instantly. The parking garage roof near the motel is the only 100% safe spot at all heat levels as of v0.4.5.</div>
+
+<p>This breakdown shows you exactly how cops think, so you can exploit their AI patterns instead of running blindly.</p>
+<h2 id="detection-distance-by-situation">Detection Distance By Situation</h2>
+<p>Police detection is not a fixed radius. It depends on what you're doing and how fast you're moving.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Situation</th>
+          <th>Detection Range</th>
+          <th>Speed Factor</th>
+          <th>Special Conditions</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Walking with drugs in hand</td>
+          <td>15m (front arc only)</td>
+          <td>1x</td>
+          <td>Only if facing cop</td>
+      </tr>
+      <tr>
+          <td>Running with drugs</td>
+          <td>20m (360 degrees)</td>
+          <td>1.3x</td>
+          <td>Footsteps audible</td>
+      </tr>
+      <tr>
+          <td>Selling to customer</td>
+          <td>12m</td>
+          <td>1x</td>
+          <td>Transaction animation creates visual cue</td>
+      </tr>
+      <tr>
+          <td>Inside vehicle</td>
+          <td>8m (only if speeding)</td>
+          <td>0.5x</td>
+          <td>Moving slowly = invisible</td>
+      </tr>
+      <tr>
+          <td>In a hiding spot (bin/roof)</td>
+          <td>0m (undetectable)</td>
+          <td>0x</td>
+          <td>Must not have been seen entering</td>
+      </tr>
+      <tr>
+          <td>Pulling out weapon</td>
+          <td>25m (instant)</td>
+          <td>2x</td>
+          <td>All nearby cops alerted</td>
+      </tr>
+      <tr>
+          <td>At night (22:00-04:00)</td>
+          <td>10m (reduced)</td>
+          <td>0.7x</td>
+          <td>Cop vision cones narrow</td>
+      </tr>
+  </tbody>
+</table>
+<div class="insight-card">
+  <p>The most exploitable mechanic: police LOS is front-cone only, not 360 degrees. If you sprint perpendicular to a cop's facing direction and break LOS behind a wall within 3 seconds, the cop never registers a valid sighting. This is why perpendicular sprint is the most reliable escape opener.</p>
+</div>
+<h2 id="chase-duration-by-heat-level">Chase Duration By Heat Level</h2>
+<p>Once a cop has sighted you, the chase timer starts. The duration depends on your heat level and whether you maintain LOS.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Heat Level</th>
+          <th>Base Chase Duration</th>
+          <th>If LOS Break (hide)</th>
+          <th>If Enter Safe House</th>
+          <th>If Leave District</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1 - Investigating</td>
+          <td>30s</td>
+          <td>15s hidden</td>
+          <td>Instant</td>
+          <td>10s</td>
+      </tr>
+      <tr>
+          <td>2 - Wanted</td>
+          <td>60s</td>
+          <td>30s hidden</td>
+          <td>Instant</td>
+          <td>20s</td>
+      </tr>
+      <tr>
+          <td>3 - Wanted Dead or Alive</td>
+          <td>90s</td>
+          <td>45s hidden</td>
+          <td>Instant</td>
+          <td>45s</td>
+      </tr>
+      <tr>
+          <td>4 - Maximum</td>
+          <td>3min+</td>
+          <td>90s hidden</td>
+          <td>Instant</td>
+          <td>60s (if not roadblocked)</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Source:</strong> Cross-verified from TheGamer police evasion guide and community testing threads on r/Schedule_I.</p>
+<h3 id="practical-example">Practical Example</h3>
+<p>You trigger a Level 2 Wanted status by selling on Main Street during daytime — exactly the situation the <a href="/schedule-i/money/common-mistakes/">common mistakes guide</a> warns about. A cop is 20m away and starts sprinting toward you.</p>
+<p><strong>Step 1:</strong> Sprint perpendicular (east, into the alley behind the pizza place). This breaks LOS in about 2 seconds.</p>
+<p><strong>Step 2:</strong> The cop reaches your last known position and switches to search mode (60s timer starts).</p>
+<p><strong>Step 3:</strong> Duck into the garbage bin behind the pizza place. The bin hides you instantly.</p>
+<p><strong>Step 4:</strong> Wait 30 seconds (half the chase timer). The Wanted indicator clears.</p>
+<p><strong>Step 5:</strong> Exit the bin, walk calmly to the Motel area. The cop is still searching the alley.</p>
+<h2 id="best-hiding-spots-by-district">Best Hiding Spots By District</h2>
+<p>Not all hiding spots are equal. Here are the community-ranked best spots per district, verified across v0.4+ patches.</p>
+<table>
+  <thead>
+      <tr>
+          <th>District</th>
+          <th>Rank 1 Spot</th>
+          <th>Rank 2 Spot</th>
+          <th>Emergency Option</th>
+          <th>Notes</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Motel area</td>
+          <td>Parking garage roof</td>
+          <td>Garbage bin behind office</td>
+          <td>Any motel room door</td>
+          <td>Garage roof works at all levels</td>
+      </tr>
+      <tr>
+          <td>Downtown</td>
+          <td>Alley bin behind Pizza place</td>
+          <td>Rooftop of Gas-Mart</td>
+          <td>Enter any store (80% reliable)</td>
+          <td>Store entry patched in v0.4.5</td>
+      </tr>
+      <tr>
+          <td>Northtown</td>
+          <td>Bin behind Dan's Hardware</td>
+          <td>Construction site pipes</td>
+          <td>Any safe house</td>
+          <td>Multiple bins in this area</td>
+      </tr>
+      <tr>
+          <td>Docks</td>
+          <td>Warehouse container (south)</td>
+          <td>Behind church</td>
+          <td>Jump into water</td>
+          <td>Water LOS break works</td>
+      </tr>
+      <tr>
+          <td>Suburbia</td>
+          <td>Garbage bin behind green house</td>
+          <td>Behind Mayor's house</td>
+          <td>Bush (decorative only - does NOT hide)</td>
+          <td>Bushes are fake -- don't use them</td>
+      </tr>
+      <tr>
+          <td>Westville</td>
+          <td>RV interior if unlocked</td>
+          <td>Behind Warehouse west wall</td>
+          <td>Alley behind laundromat</td>
+          <td>RV is safe if owned</td>
+      </tr>
+  </tbody>
+</table>
+<div class="callout">A common myth from early community posts: hiding in bushes works. It does not. Bushes are purely decorative in Schedule I. You need a bin, a roof, or a building interior to break LOS and hide. This was confirmed in multiple Reddit threads and the Fandom Wiki Newbie Guide.</div>
+
+<h2 id="escape-route-time-comparison">Escape Route Time Comparison</h2>
+<p>Time from each major selling district to the nearest safe spot:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Starting District</th>
+          <th>Fastest Escape</th>
+          <th>Time (sprint)</th>
+          <th>Time (skateboard)</th>
+          <th>Time (vehicle)</th>
+          <th>Risk Level</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Main Street Downtown</td>
+          <td>Pizza place alley bin</td>
+          <td>8s</td>
+          <td>5s</td>
+          <td>N/A (traffic)</td>
+          <td>Low</td>
+      </tr>
+      <tr>
+          <td>Near Ray's Realty</td>
+          <td>East side garbage bin</td>
+          <td>12s</td>
+          <td>8s</td>
+          <td>20s (drive to Bungalow)</td>
+          <td>Low</td>
+      </tr>
+      <tr>
+          <td>Gas Station North</td>
+          <td>Behind station storage</td>
+          <td>5s</td>
+          <td>3s</td>
+          <td>N/A</td>
+          <td>Minimal</td>
+      </tr>
+      <tr>
+          <td>Motel area</td>
+          <td>Parking garage roof</td>
+          <td>15s</td>
+          <td>10s</td>
+          <td>25s (drive to Bungalow)</td>
+          <td>Minimal</td>
+      </tr>
+      <tr>
+          <td>Warehouse District</td>
+          <td>South container</td>
+          <td>10s</td>
+          <td>7s</td>
+          <td>15s (drive to Docks)</td>
+          <td>Low</td>
+      </tr>
+      <tr>
+          <td>Casino entrance</td>
+          <td>Side alley bin</td>
+          <td>6s</td>
+          <td>4s</td>
+          <td>N/A</td>
+          <td>Low</td>
+      </tr>
+      <tr>
+          <td>Docks</td>
+          <td>Church hiding spot</td>
+          <td>18s</td>
+          <td>12s</td>
+          <td>30s (drive to Warehouse)</td>
+          <td>Medium</td>
+      </tr>
+  </tbody>
+</table>
+<div class="content-box">
+
+**Best Emergency Escape by Heat Level:**
+
 Level 1-2: Garbage bin (any district). Takes 30-60s total. No gear needed.
+
 Level 3: Parking garage roof (Motel area). Takes 20-30s total. 100% reliable as of v0.4.5.
-Level 4: Safe house entry (instant clear). Keep a property in your active selling district.</div><h2 id=police-ai-patterns-you-can-exploit>Police AI Patterns You Can Exploit</h2><ol><li><p><strong>Cops don't search vertically:</strong> They won't climb stairs to reach the parking garage roof. This is the most reliable exploit in the game.</p></li><li><p><strong>Cops lose interest after 3 searches:</strong> If you break LOS and hide successfully 3 times in the same chase, cops will de-escalate one level even without the timer. This is a hidden mechanic confirmed in community testing.</p></li><li><p><strong>Cops forget your last known location if you enter a vehicle:</strong> Entering any vehicle (even a parked one) resets the cop's search pattern. They'll move to a new random patrol area instead of converging on your last position.</p></li><li><p><strong>Cops can't see through fences:</strong> Chain-link fences, wooden fences, and construction barriers all block LOS. You can be 3m from a cop behind a fence and they won't detect you.</p></li><li><p><strong>NPC calls take time to register:</strong> When an NPC spots you and starts calling the police, you have about 5 seconds to knock them out or break LOS before the call completes. Knocking out the NPC stops the call and prevents heat from registering.</p></li></ol><p>For the full heat value reference, see the <a href=/schedule-i/police/heat-system/>Heat Risk Calculator</a>.</p><h2 id=related-guides>Related Guides</h2><ul><li><a href=/schedule-i/police/heat-system/>Heat Risk Calculator</a> -- exact heat values per action</li><li><a href=/schedule-i/money/common-mistakes/>10 Common Schedule I Mistakes</a> -- avoid the police traps beginners fall into</li><li><a href=/schedule-i/automation/workshop/>Bungalow 8-Step Automation Blueprint</a> -- set up production away from patrol routes</li></ul><div class=resource-section><h2>Community Verification & Resources</h2><p>Data values may shift with patches. Cross-check against community resources before building your strategy.</p><div class=resource-grid><a href=https://schedule-1.fandom.com/wiki/Police class=resource-card target=_blank rel=noopener><span class=resource-name>Police Wiki (Fandom)</span>
-<span class=resource-desc>Official police mechanics page</span>
-</a><a href=https://www.thegamer.com/schedule-1-how-to-escape-police-search-wanted-guide/ class=resource-card target=_blank rel=noopener><span class=resource-name>How to Lose Wanted (TheGamer)</span>
-<span class=resource-desc>Police evasion methods</span>
-</a><a href=https://timesofindia.indiatimes.com/sports/esports/news/best-ways-to-evade-police-in-schedule-1/articleshow/119952112.cms class=resource-card target=_blank rel=noopener><span class=resource-name>Best Evasion Methods (Times of India)</span>
-<span class=resource-desc>Line of sight and hiding techniques</span></a></div></div></div></article><nav class=article-nav><a href=/schedule-i/police/heat-system/ class=nav-next><span class=nav-direction>Next Article</span>
-<span class=nav-title>Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</span></a></nav><div class=back-section><a href=/schedule-i/police/ class=back-btn>Back to Police System</a></div></main></div></div></div><div class=mobile-overlay id=mobileOverlay onclick=toggleMobileNav()></div><nav class=mobile-drawer id=mobileDrawer><a href=/ class=mobile-nav-btn onclick=toggleMobileNav()><span class=nav-dot style="background:var(--gold);box-shadow:0 0 8px rgba(212,168,67,.4)"></span>
-Home</a><div class=mobile-drawer-divider></div><a href=/schedule-i/ class=mobile-nav-btn onclick=toggleMobileNav()><span class="nav-dot dot-schedule-i"></span>
-Schedule I
-</a><a href=/dds2/ class=mobile-nav-btn onclick=toggleMobileNav()><span class="nav-dot dot-dds2"></span>
-Drug Dealer Simulator 2
-</a><a href=/crime-sim/ class=mobile-nav-btn onclick=toggleMobileNav()><span class="nav-dot dot-crime-sim"></span>
-Crime Simulator</a></nav><div class="ad-container ad-leaderboard"><script>atOptions={key:"8a64481667ac37c7fd4592dc642d9545",format:"iframe",height:90,width:728,params:{}}</script><script src=https://www.highperformanceformat.com/8a64481667ac37c7fd4592dc642d9545/invoke.js></script></div><footer class=site-footer><div class=footer-links><a href=/schedule-i/>Schedule I</a>
-<a href=/dds2/>Drug Dealer Simulator 2</a>
-<a href=/crime-sim/>Crime Simulator</a></div><p class=copyright>&copy; 2026 Crime Empire Guide (Unofficial). This site is not affiliated with the game developers. All game content and materials are trademarks and copyrights of their respective owners.</p></footer><script async data-cfasync=false src=https://pl29689389.effectivecpmnetwork.com/c2cbc8f761fa97ece6317f351a3b7705/invoke.js></script><div id=container-c2cbc8f761fa97ece6317f351a3b7705></div><script src=https://pl29689390.effectivecpmnetwork.com/a6/8b/b4/a68bb489bc1addcb65d86ec8c9d49ff0.js></script><script src=/js/main.js></script><div id=cookie-banner class=cookie-banner><div class=cookie-banner-content><p>We use cookies to deliver advertisements and analyse site traffic. <a href=#>Privacy Policy</a>.</p><button onclick=acceptCookies() class=cookie-accept>Accept All</button></div></div><button id=backToTop class=back-to-top onclick=scrollToTop() aria-label="Back to top">&#8593;</button>
-<script>function scrollToTop(){window.scrollTo({top:0,behavior:"smooth"})}window.addEventListener("scroll",function(){var e=document.getElementById("backToTop");window.scrollY>400?e.classList.add("visible"):e.classList.remove("visible")})</script><script>function acceptCookies(){localStorage.setItem("cookie_consent","accepted"),document.getElementById("cookie-banner").style.display="none"}document.addEventListener("DOMContentLoaded",function(){localStorage.getItem("cookie_consent")&&(document.getElementById("cookie-banner").style.display="none")})</script></body></html>
+
+Level 4: Safe house entry (instant clear). Keep a property in your active selling district.
+
+</div>
+
+<h2 id="police-ai-patterns-you-can-exploit">Police AI Patterns You Can Exploit</h2>
+<ol>
+<li>
+<p><strong>Cops don't search vertically:</strong> They won't climb stairs to reach the parking garage roof. This is the most reliable exploit in the game.</p>
+</li>
+<li>
+<p><strong>Cops lose interest after 3 searches:</strong> If you break LOS and hide successfully 3 times in the same chase, cops will de-escalate one level even without the timer. This is a hidden mechanic confirmed in community testing.</p>
+</li>
+<li>
+<p><strong>Cops forget your last known location if you enter a vehicle:</strong> Entering any vehicle (even a parked one) resets the cop's search pattern. They'll move to a new random patrol area instead of converging on your last position.</p>
+</li>
+<li>
+<p><strong>Cops can't see through fences:</strong> Chain-link fences, wooden fences, and construction barriers all block LOS. You can be 3m from a cop behind a fence and they won't detect you.</p>
+</li>
+<li>
+<p><strong>NPC calls take time to register:</strong> When an NPC spots you and starts calling the police, you have about 5 seconds to knock them out or break LOS before the call completes. Knocking out the NPC stops the call and prevents heat from registering.</p>
+</li>
+</ol>
+<p>For the full heat value reference, see the <a href="/schedule-i/police/heat-system/">Heat Risk Calculator</a>.</p>
+<h2 id="related-guides">Related Guides</h2>
+<ul>
+<li><a href="/schedule-i/police/heat-system/">Heat Risk Calculator</a> -- exact heat values per action</li>
+<li><a href="/schedule-i/money/common-mistakes/">10 Common Schedule I Mistakes</a> -- avoid the police traps beginners fall into</li>
+<li><a href="/schedule-i/automation/workshop/">Bungalow 8-Step Automation Blueprint</a> -- set up production away from patrol routes</li>
+</ul>
+<div class="resource-section">
+  <h2>Community Verification &amp; Resources</h2>
+  <p>Data values may shift with patches. Cross-check against community resources before building your strategy.</p>
+  <div class="resource-grid">
+    
+  <a href="https://schedule-1.fandom.com/wiki/Police" class="resource-card" target="_blank" rel="noopener">
+    <span class="resource-name">Police Wiki (Fandom)</span>
+    <span class="resource-desc">Official police mechanics page</span>
+  </a>
+  <a href="https://www.thegamer.com/schedule-1-how-to-escape-police-search-wanted-guide/" class="resource-card" target="_blank" rel="noopener">
+    <span class="resource-name">How to Lose Wanted (TheGamer)</span>
+    <span class="resource-desc">Police evasion methods</span>
+  </a>
+  <a href="https://timesofindia.indiatimes.com/sports/esports/news/best-ways-to-evade-police-in-schedule-1/articleshow/119952112.cms" class="resource-card" target="_blank" rel="noopener">
+    <span class="resource-name">Best Evasion Methods (Times of India)</span>
+    <span class="resource-desc">Line of sight and hiding techniques</span>
+  </a>
+
+  </div>
+</div>
+
+        </div>
+      </article>
+
+      <nav class="article-nav">
+        
+        
+        <a href="/schedule-i/police/heat-system/" class="nav-next">
+          <span class="nav-direction">Next Article</span>
+          <span class="nav-title">Heat Risk Calculator: Exact Heat Values Per Action and Safe Windows</span>
+        </a>
+        
+      </nav>
+
+      <div class="back-section">
+        <a href="/schedule-i/police/" class="back-btn">Back to Police System</a>
+      </div>
+    </main>
+  </div>
+</div>
+
+
+</div>
+
+
+<div class="mobile-overlay" id="mobileOverlay" onclick="toggleMobileNav()"></div>
+<nav class="mobile-drawer" id="mobileDrawer">
+  <a href="/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot" style="background:var(--gold);box-shadow:0 0 8px rgba(212,168,67,.4)"></span>
+    Home
+  </a>
+  <div class="mobile-drawer-divider"></div>
+  
+  
+  <a href="/schedule-i/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-schedule-i"></span>
+    Schedule I
+  </a>
+  
+  
+  
+  <a href="/dds2/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-dds2"></span>
+    Drug Dealer Simulator 2
+  </a>
+  
+  
+  
+  <a href="/crime-sim/" class="mobile-nav-btn" onclick="toggleMobileNav()">
+    <span class="nav-dot dot-crime-sim"></span>
+    Crime Simulator
+  </a>
+  
+  
+</nav>
+
+
+<div class="ad-container ad-leaderboard">
+<script>
+  atOptions = {
+    'key' : '8a64481667ac37c7fd4592dc642d9545',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/8a64481667ac37c7fd4592dc642d9545/invoke.js"></script>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-links">
+    
+    
+    <a href="/schedule-i/">Schedule I</a>
+    
+    
+    
+    <a href="/dds2/">Drug Dealer Simulator 2</a>
+    
+    
+    
+    <a href="/crime-sim/">Crime Simulator</a>
+    
+    
+  </div>
+  <p class="copyright">&copy; 2026 Crime Empire Guide (Unofficial). This site is not affiliated with the game developers. All game content and materials are trademarks and copyrights of their respective owners.</p>
+</footer>
+
+
+<script async="async" data-cfasync="false" src="https://pl29689389.effectivecpmnetwork.com/c2cbc8f761fa97ece6317f351a3b7705/invoke.js"></script>
+<div id="container-c2cbc8f761fa97ece6317f351a3b7705"></div>
+<script src="https://pl29689390.effectivecpmnetwork.com/a6/8b/b4/a68bb489bc1addcb65d86ec8c9d49ff0.js"></script>
+
+<script src="/js/main.js"></script>
+
+
+<div id="cookie-banner" class="cookie-banner">
+  <div class="cookie-banner-content">
+    <p>We use cookies to deliver advertisements and analyse site traffic. <a href="#">Privacy Policy</a>.</p>
+    <button onclick="acceptCookies()" class="cookie-accept">Accept All</button>
+  </div>
+</div>
+
+<button id="backToTop" class="back-to-top" onclick="scrollToTop()" aria-label="Back to top">&#8593;</button>
+<script>
+function scrollToTop() {
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+window.addEventListener('scroll', function() {
+  var btn = document.getElementById('backToTop');
+  if (window.scrollY > 400) { btn.classList.add('visible'); } else { btn.classList.remove('visible'); }
+});
+</script>
+<script>
+function acceptCookies() {
+  localStorage.setItem('cookie_consent', 'accepted');
+  document.getElementById('cookie-banner').style.display = 'none';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  if (localStorage.getItem('cookie_consent')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+});
+</script>
+
+</body>
+</html>
