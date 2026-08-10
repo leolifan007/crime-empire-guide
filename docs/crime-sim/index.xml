@@ -1,54 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crime Simulator Guides on Crime Empire Guide</title>
-    <link>https://crimempire.com/crime-sim/</link>
-    <description>Recent content in Crime Simulator Guides on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://crimempire.com/crime-sim/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crime Simulator Common Mistakes: 10 Critical Errors New Players Make</title>
-      <link>https://crimempire.com/crime-sim/beginner/common-mistakes/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/beginner/common-mistakes/</guid>
-      <description>&lt;p&gt;I made every mistake on this list during my first few hours of Crime Simulator. Some cost me a single heist. Others cost me entire Hardcore runs. Here is what I learned so you do not have to learn it the same way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mistake-1-selling-gold-bars-for-quick-cash&#34;&gt;Mistake 1: Selling Gold Bars for Quick Cash&lt;/h2&gt;&#xA;&lt;p&gt;This is the single most expensive mistake new players make. Gold bars are not loot -- they are currency for basement upgrades. Selling a gold bar for $800-$1,500 seems like great early-game money, but that same bar funds a Storage Rack upgrade that increases your stash capacity by 50%.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Endless Mode Guide: Complete Strategy and Survival Tips</title>
-      <link>https://crimempire.com/crime-sim/endless/endless-mode-guide/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/endless/endless-mode-guide/</guid>
-      <description>&lt;p&gt;Endless mode in Crime Simulator removes the quota timer and day limit, letting you progress at your own pace. Loot respawns daily in houses you have already cleared. This mode is perfect for learning the game, grinding achievements, and testing strategies without pressure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-endless-mode-works&#34;&gt;How Endless Mode Works&lt;/h2&gt;&#xA;&lt;p&gt;Endless mode was added in Update 1.1. Key mechanics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;No quota deadlines&lt;/strong&gt; -- quotas exist but never expire&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Loot respawns daily&lt;/strong&gt; -- houses reset with new loot every game day&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full progression&lt;/strong&gt; -- ranks, tools, skills, and upgrades all carry over&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Death penalty&lt;/strong&gt; -- same as Standard mode (lose carried loot, keep rank/upgrades) -- the &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/&#34;&gt;hardcore survival guide&lt;/a&gt; explains how to avoid fatal mistakes even in forgiving modes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Police system&lt;/strong&gt; -- police AI behaves the same as Standard mode&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Difficulty selection&lt;/strong&gt; -- choose Casual, Normal, Pro, or Master difficulty. The &lt;a href=&#34;https://crimempire.com/crime-sim/police/police-system-guide/&#34;&gt;police system guide&lt;/a&gt; is essential reading for higher difficulties where detection is stricter.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Feature&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Endless Mode&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Standard Mode&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quota deadline&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;None&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Every 3 days&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Loot respawn&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Daily&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Per run&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Map progression&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Unlock by rank&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Unlock by rank&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Death penalty&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Lose carried loot&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Lose carried loot&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Best for&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Learning, grinding&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Challenge runs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;why-play-endless-mode&#34;&gt;Why Play Endless Mode?&lt;/h2&gt;&#xA;&lt;p&gt;Endless mode is the best choice for several playstyles:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator House Tier Guide: Map Districts and Loot Value</title>
-      <link>https://crimempire.com/crime-sim/map/house-tier-guide/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/map/house-tier-guide/</guid>
-      <description>&lt;p&gt;Crime Simulator has multiple districts, each with different house types, security levels, and loot potential. Knowing which district to target at each stage of the game saves you time and reduces risk. The &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; explains the first-run decisions before you reach these districts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;district-overview&#34;&gt;District Overview&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;District&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Unlock Rank&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Average Loot per House&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Police Response&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Starter Town&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Apprentice&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Low&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$100-$300&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;45-60 seconds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Suburban&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Rank 3&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$300-$600&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;30-45 seconds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Industrial&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Rank 6&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium-High&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$400-$800&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;60-90 seconds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;For exact loot types per district, cross-reference the &lt;a href=&#34;https://crimempire.com/crime-sim/loot/loot-locations-and-values/&#34;&gt;loot locations guide&lt;/a&gt;.&#xA;| Downtown | Rank 10 | High | $600-$1,200 | 20-30 seconds |&#xA;| Heist Locations | Rank 12+ | Very High | $1,000-$3,000 | 15-25 seconds |&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Police System Guide: AI Behavior and Evasion</title>
-      <link>https://crimempire.com/crime-sim/police/police-system-guide/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/police/police-system-guide/</guid>
-      <description>&lt;p&gt;The police system in Crime Simulator is the primary fail state. Understanding exactly how it works -- what triggers it, how fast police respond, and how to evade them -- is the difference between a clean score and a deleted save in Hardcore mode.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://crimempire.com/crime-sim/beginner/common-mistakes/&#34;&gt;common mistakes guide&lt;/a&gt; shows the specific police traps new players fall into.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-police-detection-works&#34;&gt;How Police Detection Works&lt;/h2&gt;&#xA;&lt;p&gt;Police are triggered by a heat system. Every action you take generates heat. When your heat reaches a threshold, police are called.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Safe Houses Guide: Best Hideouts and Upgrades</title>
-      <link>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</guid>
-      <description>&lt;p&gt;Your hideout is more than just a place to store loot. It is your operations center, your safe zone, and the key to long-term progression. Choosing the right upgrades and managing your storage effectively can double your earning potential. The &lt;a href=&#34;https://crimempire.com/crime-sim/loot/loot-locations-and-values/&#34;&gt;loot locations guide&lt;/a&gt; helps you stock what actually sells.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hideout-basics&#34;&gt;Hideout Basics&lt;/h2&gt;&#xA;&lt;p&gt;Your hideout serves several critical functions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; Keep loot between runs for item requests or bulk selling&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Safe zone:&lt;/strong&gt; Police cannot enter your hideout -- get here and you are safe&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Save point:&lt;/strong&gt; The game autosaves when you visit your hideout&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Job board:&lt;/strong&gt; Accept heist contracts and item requests&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upgrades:&lt;/strong&gt; Basement expansion (Update 1.3) unlocks powerful bonuses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;storage-management&#34;&gt;Storage Management&lt;/h2&gt;&#xA;&lt;p&gt;Your hideout has limited storage space. Managing it well is essential.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Skill Leaflets Guide: Complete List and Priority Order</title>
-      <link>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</guid>
-      <description>&lt;p&gt;Skill leaflets are the backbone of progression in Crime Simulator. Unlike tools that you buy with cash, skill leaflets must be found during heists and then activated with skill points earned from ranking up. Choosing the right leaflet priority can save you dozens of hours. The &lt;a href=&#34;https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/&#34;&gt;tool upgrades guide&lt;/a&gt; covers which tools pair best with each leaflet set.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-skill-leaflets-work&#34;&gt;How Skill Leaflets Work&lt;/h2&gt;&#xA;&lt;p&gt;Each skill leaflet unlocks a permanent ability or upgrade. To activate a leaflet, you need:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crime Simulator Guides on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/</link><description>Recent content in Crime Simulator Guides on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator Common Mistakes: 10 Critical Errors New Players Make</title><link>https://crimempire.com/crime-sim/beginner/common-mistakes/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/beginner/common-mistakes/</guid><description>&lt;p&gt;I made every mistake on this list during my first few hours of Crime Simulator. Some cost me a single heist. Others cost me entire Hardcore runs. Here is what I learned so you do not have to learn it the same way.&lt;/p&gt;
+&lt;h2 id="mistake-1-selling-gold-bars-for-quick-cash"&gt;Mistake 1: Selling Gold Bars for Quick Cash&lt;/h2&gt;
+&lt;p&gt;This is the single most expensive mistake new players make. Gold bars are not loot -- they are currency for basement upgrades. Selling a gold bar for $800-$1,500 seems like great early-game money, but that same bar funds a Storage Rack upgrade that increases your stash capacity by 50%.&lt;/p&gt;</description></item><item><title>Crime Simulator Endless Mode Guide: Complete Strategy and Survival Tips</title><link>https://crimempire.com/crime-sim/endless/endless-mode-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/endless/endless-mode-guide/</guid><description>&lt;p&gt;Endless mode in Crime Simulator removes the quota timer and day limit, letting you progress at your own pace. Loot respawns daily in houses you have already cleared. This mode is perfect for learning the game, grinding achievements, and testing strategies without pressure.&lt;/p&gt;
+&lt;h2 id="how-endless-mode-works"&gt;How Endless Mode Works&lt;/h2&gt;
+&lt;p&gt;Endless mode was added in Update 1.1. Key mechanics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;No quota deadlines&lt;/strong&gt; -- quotas exist but never expire&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Loot respawns daily&lt;/strong&gt; -- houses reset with new loot every game day&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full progression&lt;/strong&gt; -- ranks, tools, skills, and upgrades all carry over&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Death penalty&lt;/strong&gt; -- same as Standard mode (lose carried loot, keep rank/upgrades) -- the &lt;a href="https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/"&gt;hardcore survival guide&lt;/a&gt; explains how to avoid fatal mistakes even in forgiving modes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Police system&lt;/strong&gt; -- police AI behaves the same as Standard mode&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Difficulty selection&lt;/strong&gt; -- choose Casual, Normal, Pro, or Master difficulty. The &lt;a href="https://crimempire.com/crime-sim/police/police-system-guide/"&gt;police system guide&lt;/a&gt; is essential reading for higher difficulties where detection is stricter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Feature&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Endless Mode&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Standard Mode&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Quota deadline&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;None&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Every 3 days&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Loot respawn&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Daily&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Per run&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Map progression&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Unlock by rank&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Unlock by rank&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Death penalty&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Lose carried loot&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Lose carried loot&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Best for&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Learning, grinding&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Challenge runs&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="why-play-endless-mode"&gt;Why Play Endless Mode?&lt;/h2&gt;
+&lt;p&gt;Endless mode is the best choice for several playstyles:&lt;/p&gt;</description></item><item><title>Crime Simulator House Tier Guide: Map Districts and Loot Value</title><link>https://crimempire.com/crime-sim/map/house-tier-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/map/house-tier-guide/</guid><description>&lt;p&gt;Crime Simulator has multiple districts, each with different house types, security levels, and loot potential. Knowing which district to target at each stage of the game saves you time and reduces risk. The &lt;a href="https://crimempire.com/crime-sim/basics/getting-started/"&gt;getting started guide&lt;/a&gt; explains the first-run decisions before you reach these districts.&lt;/p&gt;
+&lt;h2 id="district-overview"&gt;District Overview&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;District&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Unlock Rank&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Difficulty&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Average Loot per House&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Police Response&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Starter Town&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Apprentice&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Low&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;$100-$300&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;45-60 seconds&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Suburban&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Rank 3&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;$300-$600&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;30-45 seconds&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Industrial&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Rank 6&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Medium-High&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;$400-$800&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;60-90 seconds&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For exact loot types per district, cross-reference the &lt;a href="https://crimempire.com/crime-sim/loot/loot-locations-and-values/"&gt;loot locations guide&lt;/a&gt;.
+| Downtown | Rank 10 | High | $600-$1,200 | 20-30 seconds |
+| Heist Locations | Rank 12+ | Very High | $1,000-$3,000 | 15-25 seconds |&lt;/p&gt;</description></item><item><title>Crime Simulator Police System Guide: AI Behavior and Evasion</title><link>https://crimempire.com/crime-sim/police/police-system-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/police/police-system-guide/</guid><description>&lt;p&gt;The police system in Crime Simulator is the primary fail state. Understanding exactly how it works -- what triggers it, how fast police respond, and how to evade them -- is the difference between a clean score and a deleted save in Hardcore mode.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://crimempire.com/crime-sim/beginner/common-mistakes/"&gt;common mistakes guide&lt;/a&gt; shows the specific police traps new players fall into.&lt;/p&gt;
+&lt;h2 id="how-police-detection-works"&gt;How Police Detection Works&lt;/h2&gt;
+&lt;p&gt;Police are triggered by a heat system. Every action you take generates heat. When your heat reaches a threshold, police are called.&lt;/p&gt;</description></item><item><title>Crime Simulator Safe Houses Guide: Best Hideouts and Upgrades</title><link>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/hideouts/safe-houses-guide/</guid><description>&lt;p&gt;Your hideout is more than just a place to store loot. It is your operations center, your safe zone, and the key to long-term progression. Choosing the right upgrades and managing your storage effectively can double your earning potential. The &lt;a href="https://crimempire.com/crime-sim/loot/loot-locations-and-values/"&gt;loot locations guide&lt;/a&gt; helps you stock what actually sells.&lt;/p&gt;
+&lt;h2 id="hideout-basics"&gt;Hideout Basics&lt;/h2&gt;
+&lt;p&gt;Your hideout serves several critical functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; Keep loot between runs for item requests or bulk selling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safe zone:&lt;/strong&gt; Police cannot enter your hideout -- get here and you are safe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Save point:&lt;/strong&gt; The game autosaves when you visit your hideout&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job board:&lt;/strong&gt; Accept heist contracts and item requests&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upgrades:&lt;/strong&gt; Basement expansion (Update 1.3) unlocks powerful bonuses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="storage-management"&gt;Storage Management&lt;/h2&gt;
+&lt;p&gt;Your hideout has limited storage space. Managing it well is essential.&lt;/p&gt;</description></item><item><title>Crime Simulator Skill Leaflets Guide: Complete List and Priority Order</title><link>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/skills/skill-leaflets-guide/</guid><description>&lt;p&gt;Skill leaflets are the backbone of progression in Crime Simulator. Unlike tools that you buy with cash, skill leaflets must be found during heists and then activated with skill points earned from ranking up. Choosing the right leaflet priority can save you dozens of hours. The &lt;a href="https://crimempire.com/crime-sim/tools/tool-upgrades-and-advanced/"&gt;tool upgrades guide&lt;/a&gt; covers which tools pair best with each leaflet set.&lt;/p&gt;
+&lt;h2 id="how-skill-leaflets-work"&gt;How Skill Leaflets Work&lt;/h2&gt;
+&lt;p&gt;Each skill leaflet unlocks a permanent ability or upgrade. To activate a leaflet, you need:&lt;/p&gt;</description></item></channel></rss>

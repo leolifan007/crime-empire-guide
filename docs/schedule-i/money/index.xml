@@ -1,40 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Money on Crime Empire Guide</title>
-    <link>https://crimempire.com/schedule-i/money/</link>
-    <description>Recent content in Money on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 19:10:00 +0800</lastBuildDate>
-    <atom:link href="https://crimempire.com/schedule-i/money/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</title>
-      <link>https://crimempire.com/schedule-i/money/casino-strategy/</link>
-      <pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate>
-      <guid>https://crimempire.com/schedule-i/money/casino-strategy/</guid>
-      <description>&lt;p&gt;I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here&#39;s what I found.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ride the Bus pays better than Blackjack.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Reddit community analysis pegs Ride the Bus at roughly +25% expected value per hand, compared to Blackjack&#39;s -0.5% (even with perfect play). I can&#39;t verify the exact math, but my own testing matches the pattern -- Ride the Bus consistently grew my stack faster.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>$10K in First Hour: Delivery and Trash Dumping Route</title>
-      <link>https://crimempire.com/schedule-i/money/speedrun/</link>
-      <pubDate>Tue, 09 Jun 2026 02:20:00 +0800</pubDate>
-      <guid>https://crimempire.com/schedule-i/money/speedrun/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Deliveries and trash dumping are the safest early-game methods. A single optimized route: take a delivery order ($50-100 per delivery), grab trash on the way ($5-15 per dump), and smash vending machines ($20-50 each). Repeat for 1 hour = $8K-$12K with zero police risk. This is the fastest legal-ish money before unlocking dealers.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;Early Game Income Methods&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Method&lt;/th&gt;&#xA;          &lt;th&gt;Income Per Action&lt;/th&gt;&#xA;          &lt;th&gt;Risk&lt;/th&gt;&#xA;          &lt;th&gt;Time per Action&lt;/th&gt;&#xA;          &lt;th&gt;Best For&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Deliver orders&lt;/td&gt;&#xA;          &lt;td&gt;$50-$150&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;          &lt;td&gt;2-4 minutes&lt;/td&gt;&#xA;          &lt;td&gt;Steady income&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Trash dumping&lt;/td&gt;&#xA;          &lt;td&gt;$5-$15 per bag&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;          &lt;td&gt;30 seconds&lt;/td&gt;&#xA;          &lt;td&gt;Filler income&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Smash vending machines&lt;/td&gt;&#xA;          &lt;td&gt;$20-$50&lt;/td&gt;&#xA;          &lt;td&gt;Low (public)&lt;/td&gt;&#xA;          &lt;td&gt;10 seconds&lt;/td&gt;&#xA;          &lt;td&gt;Quick cash&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sell to customers (street)&lt;/td&gt;&#xA;          &lt;td&gt;$100-$400&lt;/td&gt;&#xA;          &lt;td&gt;Medium (police)&lt;/td&gt;&#xA;          &lt;td&gt;1-2 minutes&lt;/td&gt;&#xA;          &lt;td&gt;Fast money&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Casino gambling&lt;/td&gt;&#xA;          &lt;td&gt;Variable&lt;/td&gt;&#xA;          &lt;td&gt;None (with save)&lt;/td&gt;&#xA;          &lt;td&gt;5-30 minutes&lt;/td&gt;&#xA;          &lt;td&gt;Big multiplier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 class=&#34;section-heading&#34;&gt;The Optimal First-Hour Route&lt;/h2&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt; You need the Burned RV area as your base. Buy a trash can ($25 from Furniture shop) and place it at the RV. Grab a delivery order from your phone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>10 Common Schedule I Mistakes That Waste Your Time (And How To Fix Them)</title>
-      <link>https://crimempire.com/schedule-i/money/common-mistakes/</link>
-      <pubDate>Thu, 18 Jun 2026 19:00:00 +0800</pubDate>
-      <guid>https://crimempire.com/schedule-i/money/common-mistakes/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The most common mistakes are selling during daylight in high-patrol zones, ignoring Dead Drop relationship building, using MK2 Packing Stations with Handlers, and overscoping recipes before upgrading property. Each mistake costs you roughly 2-5 in-game days of progress. Below are all 10 with concrete fixes.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;These mistakes are based on real player reports from r/Schedule_I, Steam Community discussions, and community guide feedback. Each entry includes the mistake, why it hurts, and a specific fix.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Product Quality vs Price Guide: How Quality Affects Your Profit</title>
-      <link>https://crimempire.com/schedule-i/money/quality-profit-guide/</link>
-      <pubDate>Thu, 18 Jun 2026 19:10:00 +0800</pubDate>
-      <guid>https://crimempire.com/schedule-i/money/quality-profit-guide/</guid>
-      <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Yes, quality directly affects sell price. Standard quality products sell at 1.4x suggested price. Premium quality sells at 1.5x. Heavenly quality sells at 1.6x. Quality is determined by growing conditions: fertilizer use, PGR/Speed Grow application, and drying rack processing. A Premium OG Kush 4-mix ($170 base) sells for ~$255 at 1.5x, versus ~$238 for Standard -- a $17 difference per unit.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is a data comparison guide -- not a &amp;quot;what is quality&amp;quot; explainer. Use the tables below to decide whether quality upgrades are worth the extra time and cost. For the base profit figures without quality adjustments, see the &lt;a href=&#34;https://crimempire.com/schedule-i/recipes/profit/&#34;&gt;recipe profit rankings&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Money on Crime Empire Guide</title><link>https://crimempire.com/schedule-i/money/</link><description>Recent content in Money on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 19:10:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/schedule-i/money/index.xml" rel="self" type="application/rss+xml"/><item><title>Casino Strategy: Ride the Bus vs Blackjack, What I Actually Made</title><link>https://crimempire.com/schedule-i/money/casino-strategy/</link><pubDate>Mon, 15 Jun 2026 12:15:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/casino-strategy/</guid><description>&lt;p&gt;I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here's what I found.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ride the Bus pays better than Blackjack.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reddit community analysis pegs Ride the Bus at roughly +25% expected value per hand, compared to Blackjack's -0.5% (even with perfect play). I can't verify the exact math, but my own testing matches the pattern -- Ride the Bus consistently grew my stack faster.&lt;/p&gt;</description></item><item><title>$10K in First Hour: Delivery and Trash Dumping Route</title><link>https://crimempire.com/schedule-i/money/speedrun/</link><pubDate>Tue, 09 Jun 2026 02:20:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/speedrun/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Deliveries and trash dumping are the safest early-game methods. A single optimized route: take a delivery order ($50-100 per delivery), grab trash on the way ($5-15 per dump), and smash vending machines ($20-50 each). Repeat for 1 hour = $8K-$12K with zero police risk. This is the fastest legal-ish money before unlocking dealers.&lt;/div&gt;
+
+&lt;h2 class="section-heading"&gt;Early Game Income Methods&lt;/h2&gt;
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Method&lt;/th&gt;
+ &lt;th&gt;Income Per Action&lt;/th&gt;
+ &lt;th&gt;Risk&lt;/th&gt;
+ &lt;th&gt;Time per Action&lt;/th&gt;
+ &lt;th&gt;Best For&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Deliver orders&lt;/td&gt;
+ &lt;td&gt;$50-$150&lt;/td&gt;
+ &lt;td&gt;None&lt;/td&gt;
+ &lt;td&gt;2-4 minutes&lt;/td&gt;
+ &lt;td&gt;Steady income&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Trash dumping&lt;/td&gt;
+ &lt;td&gt;$5-$15 per bag&lt;/td&gt;
+ &lt;td&gt;None&lt;/td&gt;
+ &lt;td&gt;30 seconds&lt;/td&gt;
+ &lt;td&gt;Filler income&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Smash vending machines&lt;/td&gt;
+ &lt;td&gt;$20-$50&lt;/td&gt;
+ &lt;td&gt;Low (public)&lt;/td&gt;
+ &lt;td&gt;10 seconds&lt;/td&gt;
+ &lt;td&gt;Quick cash&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sell to customers (street)&lt;/td&gt;
+ &lt;td&gt;$100-$400&lt;/td&gt;
+ &lt;td&gt;Medium (police)&lt;/td&gt;
+ &lt;td&gt;1-2 minutes&lt;/td&gt;
+ &lt;td&gt;Fast money&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Casino gambling&lt;/td&gt;
+ &lt;td&gt;Variable&lt;/td&gt;
+ &lt;td&gt;None (with save)&lt;/td&gt;
+ &lt;td&gt;5-30 minutes&lt;/td&gt;
+ &lt;td&gt;Big multiplier&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 class="section-heading"&gt;The Optimal First-Hour Route&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt; You need the Burned RV area as your base. Buy a trash can ($25 from Furniture shop) and place it at the RV. Grab a delivery order from your phone.&lt;/p&gt;</description></item><item><title>10 Common Schedule I Mistakes That Waste Your Time (And How To Fix Them)</title><link>https://crimempire.com/schedule-i/money/common-mistakes/</link><pubDate>Thu, 18 Jun 2026 19:00:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/common-mistakes/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; The most common mistakes are selling during daylight in high-patrol zones, ignoring Dead Drop relationship building, using MK2 Packing Stations with Handlers, and overscoping recipes before upgrading property. Each mistake costs you roughly 2-5 in-game days of progress. Below are all 10 with concrete fixes.&lt;/div&gt;
+
+&lt;p&gt;These mistakes are based on real player reports from r/Schedule_I, Steam Community discussions, and community guide feedback. Each entry includes the mistake, why it hurts, and a specific fix.&lt;/p&gt;</description></item><item><title>Product Quality vs Price Guide: How Quality Affects Your Profit</title><link>https://crimempire.com/schedule-i/money/quality-profit-guide/</link><pubDate>Thu, 18 Jun 2026 19:10:00 +0800</pubDate><guid>https://crimempire.com/schedule-i/money/quality-profit-guide/</guid><description>&lt;div class="callout"&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Yes, quality directly affects sell price. Standard quality products sell at 1.4x suggested price. Premium quality sells at 1.5x. Heavenly quality sells at 1.6x. Quality is determined by growing conditions: fertilizer use, PGR/Speed Grow application, and drying rack processing. A Premium OG Kush 4-mix ($170 base) sells for ~$255 at 1.5x, versus ~$238 for Standard -- a $17 difference per unit.&lt;/div&gt;
+
+&lt;p&gt;This is a data comparison guide -- not a &amp;quot;what is quality&amp;quot; explainer. Use the tables below to decide whether quality upgrades are worth the extra time and cost. For the base profit figures without quality adjustments, see the &lt;a href="https://crimempire.com/schedule-i/recipes/profit/"&gt;recipe profit rankings&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

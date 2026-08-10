@@ -1,26 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Achievements on Crime Empire Guide</title>
-    <link>https://crimempire.com/crime-sim/achievements/</link>
-    <description>Recent content in Achievements on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://crimempire.com/crime-sim/achievements/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crime Simulator Achievement Guide Part 1: Easy to Medium Achievements</title>
-      <link>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</guid>
-      <description>&lt;p&gt;Crime Simulator has 60 Steam achievements total. About half come naturally through normal gameplay -- you will get the first 15-20 without trying. The rest require specific strategies. This guide covers the first 32 achievements (Very Easy to Medium difficulty).&lt;/p&gt;&#xA;&lt;div class=&#34;callout&#34;&gt;Use &lt;strong&gt;Completionist mode&lt;/strong&gt; for achievement hunting. It removes quota pressure and gives unlimited time. In Standard mode, quota deadlines interrupt focused achievement runs. Switch modes from the main menu before starting a new game.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;achievement-overview&#34;&gt;Achievement Overview&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Category&lt;/th&gt;&#xA;          &lt;th&gt;Count&lt;/th&gt;&#xA;          &lt;th&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Typical Playtime&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tutorial&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;Very Easy&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;First 10 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Progression (Rank)&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;Easy&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1-3 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Loot &amp;amp; Money&lt;/td&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;          &lt;td&gt;Easy-Medium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2-4 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Challenges&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;Medium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4-8 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hard (covered in Part 2)&lt;/td&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;Hard-Very Hard&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10-30 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Update 1.3 (covered in Part 2)&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;Medium-Hard&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;3-8 hours&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;tutorial-achievements-auto-unlock&#34;&gt;Tutorial Achievements (Auto-Unlock)&lt;/h2&gt;&#xA;&lt;p&gt;These five achievements unlock during the first few minutes. You cannot miss them.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Achievement Guide Part 2: Hard Achievements</title>
-      <link>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</guid>
-      <description>&lt;p&gt;These are the achievements that took me real effort to unlock. Some require multiple playthroughs or very specific conditions. I would not attempt them until you have completed Standard mode and understand all the mechanics. If you have not started yet, the &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; covers the basics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenge-achievements-15&#34;&gt;Challenge Achievements (15)&lt;/h2&gt;&#xA;&lt;p&gt;Challenges are optional objectives that appear during runs. Completing them in specific quantities unlocks these achievements.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Achievement&lt;/th&gt;&#xA;          &lt;th&gt;Requirement&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Difficulty&lt;/th&gt;&#xA;          &lt;th&gt;Strategy&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Insane victory&lt;/td&gt;&#xA;          &lt;td&gt;Complete 5 challenges in one game&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Pick a medium house with multiple challenge types&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Master challenger&lt;/td&gt;&#xA;          &lt;td&gt;Complete 10 challenges in one game&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Hard&lt;/td&gt;&#xA;          &lt;td&gt;Requires a large multi-room house&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Challenge addict&lt;/td&gt;&#xA;          &lt;td&gt;Complete 25 challenges total&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Grind across multiple runs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Speed demon&lt;/td&gt;&#xA;          &lt;td&gt;Complete 3 time-based challenges&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Hard&lt;/td&gt;&#xA;          &lt;td&gt;Small apartment, clear rooms fast&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Silent but deadly&lt;/td&gt;&#xA;          &lt;td&gt;Complete 3 stealth challenges&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Use silenced tools only&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Heavy hitter&lt;/td&gt;&#xA;          &lt;td&gt;Complete 3 destruction challenges&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Medium&lt;/td&gt;&#xA;          &lt;td&gt;Break doors, windows, containers&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;All-rounder&lt;/td&gt;&#xA;          &lt;td&gt;Complete one of each challenge type&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Very Hard&lt;/td&gt;&#xA;          &lt;td&gt;Plan route for stealth + destruction + speed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;For &amp;quot;All-rounder,&amp;quot; I used a large house with multiple approaches. Ground floor for stealth, basement for destruction, upstairs for time-based tasks. One house can satisfy all challenge types if you plan your route. The &lt;a href=&#34;https://crimempire.com/crime-sim/map/house-tier-guide/&#34;&gt;house tier guide&lt;/a&gt; helps you pick a target with the right room variety.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Achievements on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/achievements/</link><description>Recent content in Achievements on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/achievements/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator Achievement Guide Part 1: Easy to Medium Achievements</title><link>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part1/</guid><description>&lt;p&gt;Crime Simulator has 60 Steam achievements total. About half come naturally through normal gameplay -- you will get the first 15-20 without trying. The rest require specific strategies. This guide covers the first 32 achievements (Very Easy to Medium difficulty).&lt;/p&gt;
+&lt;div class="callout"&gt;Use &lt;strong&gt;Completionist mode&lt;/strong&gt; for achievement hunting. It removes quota pressure and gives unlimited time. In Standard mode, quota deadlines interrupt focused achievement runs. Switch modes from the main menu before starting a new game.&lt;/div&gt;
+
+&lt;h2 id="achievement-overview"&gt;Achievement Overview&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Category&lt;/th&gt;
+ &lt;th&gt;Count&lt;/th&gt;
+ &lt;th&gt;Difficulty&lt;/th&gt;
+ &lt;th style="text-align: right"&gt;Typical Playtime&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tutorial&lt;/td&gt;
+ &lt;td&gt;5&lt;/td&gt;
+ &lt;td&gt;Very Easy&lt;/td&gt;
+ &lt;td style="text-align: right"&gt;First 10 min&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Progression (Rank)&lt;/td&gt;
+ &lt;td&gt;10&lt;/td&gt;
+ &lt;td&gt;Easy&lt;/td&gt;
+ &lt;td style="text-align: right"&gt;1-3 hours&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Loot &amp;amp; Money&lt;/td&gt;
+ &lt;td&gt;8&lt;/td&gt;
+ &lt;td&gt;Easy-Medium&lt;/td&gt;
+ &lt;td style="text-align: right"&gt;2-4 hours&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Challenges&lt;/td&gt;
+ &lt;td&gt;9&lt;/td&gt;
+ &lt;td&gt;Medium&lt;/td&gt;
+ &lt;td style="text-align: right"&gt;4-8 hours&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Hard (covered in Part 2)&lt;/td&gt;
+ &lt;td&gt;18&lt;/td&gt;
+ &lt;td&gt;Hard-Very Hard&lt;/td&gt;
+ &lt;td style="text-align: right"&gt;10-30 hours&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Update 1.3 (covered in Part 2)&lt;/td&gt;
+ &lt;td&gt;10&lt;/td&gt;
+ &lt;td&gt;Medium-Hard&lt;/td&gt;
+ &lt;td style="text-align: right"&gt;3-8 hours&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="tutorial-achievements-auto-unlock"&gt;Tutorial Achievements (Auto-Unlock)&lt;/h2&gt;
+&lt;p&gt;These five achievements unlock during the first few minutes. You cannot miss them.&lt;/p&gt;</description></item><item><title>Crime Simulator Achievement Guide Part 2: Hard Achievements</title><link>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/achievements/achievement-guide-part2/</guid><description>&lt;p&gt;These are the achievements that took me real effort to unlock. Some require multiple playthroughs or very specific conditions. I would not attempt them until you have completed Standard mode and understand all the mechanics. If you have not started yet, the &lt;a href="https://crimempire.com/crime-sim/basics/getting-started/"&gt;getting started guide&lt;/a&gt; covers the basics.&lt;/p&gt;
+&lt;h2 id="challenge-achievements-15"&gt;Challenge Achievements (15)&lt;/h2&gt;
+&lt;p&gt;Challenges are optional objectives that appear during runs. Completing them in specific quantities unlocks these achievements.&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Achievement&lt;/th&gt;
+ &lt;th&gt;Requirement&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Difficulty&lt;/th&gt;
+ &lt;th&gt;Strategy&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Insane victory&lt;/td&gt;
+ &lt;td&gt;Complete 5 challenges in one game&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
+ &lt;td&gt;Pick a medium house with multiple challenge types&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Master challenger&lt;/td&gt;
+ &lt;td&gt;Complete 10 challenges in one game&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Hard&lt;/td&gt;
+ &lt;td&gt;Requires a large multi-room house&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Challenge addict&lt;/td&gt;
+ &lt;td&gt;Complete 25 challenges total&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
+ &lt;td&gt;Grind across multiple runs&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Speed demon&lt;/td&gt;
+ &lt;td&gt;Complete 3 time-based challenges&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Hard&lt;/td&gt;
+ &lt;td&gt;Small apartment, clear rooms fast&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Silent but deadly&lt;/td&gt;
+ &lt;td&gt;Complete 3 stealth challenges&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
+ &lt;td&gt;Use silenced tools only&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Heavy hitter&lt;/td&gt;
+ &lt;td&gt;Complete 3 destruction challenges&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Medium&lt;/td&gt;
+ &lt;td&gt;Break doors, windows, containers&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;All-rounder&lt;/td&gt;
+ &lt;td&gt;Complete one of each challenge type&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Very Hard&lt;/td&gt;
+ &lt;td&gt;Plan route for stealth + destruction + speed&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For &amp;quot;All-rounder,&amp;quot; I used a large house with multiple approaches. Ground floor for stealth, basement for destruction, upstairs for time-based tasks. One house can satisfy all challenge types if you plan your route. The &lt;a href="https://crimempire.com/crime-sim/map/house-tier-guide/"&gt;house tier guide&lt;/a&gt; helps you pick a target with the right room variety.&lt;/p&gt;</description></item></channel></rss>

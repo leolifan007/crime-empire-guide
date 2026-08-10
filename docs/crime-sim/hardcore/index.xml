@@ -1,26 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hardcore Mode on Crime Empire Guide</title>
-    <link>https://crimempire.com/crime-sim/hardcore/</link>
-    <description>Recent content in Hardcore Mode on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://crimempire.com/crime-sim/hardcore/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crime Simulator Hardcore Mode Survival Guide</title>
-      <link>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</guid>
-      <description>&lt;p&gt;I lost my first Hardcore run in under 30 minutes. Broke a lockpick on my first door, panicked, used the crowbar, alerted a patrol, got chased, arrested, save gone. Not my finest moment.&lt;/p&gt;&#xA;&lt;p&gt;Once you survive the early runs, the &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/&#34;&gt;hardcore progression guide&lt;/a&gt; maps out the full path from Rank 1 to endgame.&lt;/p&gt;&#xA;&lt;p&gt;Hardcore mode deletes your save on arrest. Quotas are higher (about 1.5x), police are more aggressive, and fence prices are approximately 20% lower. The core loop is the same but the margin for error is razor thin. The &lt;a href=&#34;https://crimempire.com/crime-sim/police/police-system-guide/&#34;&gt;police system guide&lt;/a&gt; explains exactly what triggers detection in hardcore.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crime Simulator Hardcore Mode Progression: From Zero to Rank 6&#43;</title>
-      <link>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</guid>
-      <description>&lt;p&gt;This assumes you have read the &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/&#34;&gt;Hardcore Survival Guide&lt;/a&gt; first. If you have not completed a single Hardcore heist yet, start there. This covers the longer arc from first heist to endgame mastery.&lt;/p&gt;&#xA;&lt;p&gt;Once you are past the survival stage, the &lt;a href=&#34;https://crimempire.com/crime-sim/tools/complete-tools-guide/&#34;&gt;tools guide&lt;/a&gt; lists the exact purchase order that minimizes risk.&lt;/p&gt;&#xA;&lt;h2 id=&#34;phase-1-the-first-heist-rank-apprentice&#34;&gt;Phase 1: The First Heist (Rank Apprentice)&lt;/h2&gt;&#xA;&lt;p&gt;Your first Hardcore heist is the most dangerous because you have zero tools and zero skill leaves. I accept the lowest-risk house from the job board, enter through a window (quieter than crowbar on a door), grab only 3-4 visible items, exit within 60 seconds, and sell everything immediately.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hardcore Mode on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/hardcore/</link><description>Recent content in Hardcore Mode on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/hardcore/index.xml" rel="self" type="application/rss+xml"/><item><title>Crime Simulator Hardcore Mode Survival Guide</title><link>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/</guid><description>&lt;p&gt;I lost my first Hardcore run in under 30 minutes. Broke a lockpick on my first door, panicked, used the crowbar, alerted a patrol, got chased, arrested, save gone. Not my finest moment.&lt;/p&gt;
+&lt;p&gt;Once you survive the early runs, the &lt;a href="https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/"&gt;hardcore progression guide&lt;/a&gt; maps out the full path from Rank 1 to endgame.&lt;/p&gt;
+&lt;p&gt;Hardcore mode deletes your save on arrest. Quotas are higher (about 1.5x), police are more aggressive, and fence prices are approximately 20% lower. The core loop is the same but the margin for error is razor thin. The &lt;a href="https://crimempire.com/crime-sim/police/police-system-guide/"&gt;police system guide&lt;/a&gt; explains exactly what triggers detection in hardcore.&lt;/p&gt;</description></item><item><title>Crime Simulator Hardcore Mode Progression: From Zero to Rank 6+</title><link>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/</guid><description>&lt;p&gt;This assumes you have read the &lt;a href="https://crimempire.com/crime-sim/hardcore/hardcore-survival-guide/"&gt;Hardcore Survival Guide&lt;/a&gt; first. If you have not completed a single Hardcore heist yet, start there. This covers the longer arc from first heist to endgame mastery.&lt;/p&gt;
+&lt;p&gt;Once you are past the survival stage, the &lt;a href="https://crimempire.com/crime-sim/tools/complete-tools-guide/"&gt;tools guide&lt;/a&gt; lists the exact purchase order that minimizes risk.&lt;/p&gt;
+&lt;h2 id="phase-1-the-first-heist-rank-apprentice"&gt;Phase 1: The First Heist (Rank Apprentice)&lt;/h2&gt;
+&lt;p&gt;Your first Hardcore heist is the most dangerous because you have zero tools and zero skill leaves. I accept the lowest-risk house from the job board, enter through a window (quieter than crowbar on a door), grab only 3-4 visible items, exit within 60 seconds, and sell everything immediately.&lt;/p&gt;</description></item></channel></rss>

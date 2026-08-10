@@ -1,26 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Recipes on Crime Empire Guide</title>
-    <link>https://crimempire.com/dds2/recipes/</link>
-    <description>Recent content in Recipes on Crime Empire Guide</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 14:20:00 +0800</lastBuildDate>
-    <atom:link href="https://crimempire.com/dds2/recipes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DDS2 Meth Recipe: Cook Your First Batch (Step-by-Step)</title>
-      <link>https://crimempire.com/dds2/recipes/cook-meth/</link>
-      <pubDate>Tue, 09 Jun 2026 14:10:00 +0800</pubDate>
-      <guid>https://crimempire.com/dds2/recipes/cook-meth/</guid>
-      <description>&lt;p&gt;The DDS2 Datamine v2 catalogs 73 substances. Meth starts at POT 0.88 (pure potency). The first cook is straightforward once you know the ingredient chain: ephedrine to compound to purify to cut. I wasted my first few batches guessing ratios. This guide walks through every step from ingredient sourcing to finished product.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-meth-production.svg&#34; alt=&#34;DDS2 meth production flow diagram showing ingredient chain from ephedrine to finished product&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Step 1: Unlock the recipe&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Before you can cook meth, you need the recipe. The recipe card is a physical item found in the tutorial zone warehouse. Unlike some games where recipes auto-unlock, DDS2 requires you to find the card and interact with it. The recipe unlocks as part of the main story questline -- you will receive a prompt to find it after talking to your contact about making more money.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDS2 Cutting Agents Guide: Maximize Profit Without Killing Customers</title>
-      <link>https://crimempire.com/dds2/recipes/opium-guide/</link>
-      <pubDate>Tue, 09 Jun 2026 14:20:00 +0800</pubDate>
-      <guid>https://crimempire.com/dds2/recipes/opium-guide/</guid>
-      <description>&lt;p&gt;The DDS2 Datamine v2 reveals that cutting agents have three key properties: TOX (toxicity), POT (potency multiplier), and ADD (addiction). Use low-TOX agents like flour and sugar to double volume without losing customers. I tested several cutting ratios and the difference in customer retention is dramatic -- switching from high-TOX to low-TOX agents turned my business around from losing customers to steady repeat orders.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;How cutting agents work:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each cutting agent modifies the final product&#39;s stats when mixed in. The goal is to maximize volume (by adding cheap filler) while keeping toxicity low enough that customers survive to re-order.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on Crime Empire Guide</title><link>https://crimempire.com/dds2/recipes/</link><description>Recent content in Recipes on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Jun 2026 14:20:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/dds2/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>DDS2 Meth Recipe: Cook Your First Batch (Step-by-Step)</title><link>https://crimempire.com/dds2/recipes/cook-meth/</link><pubDate>Tue, 09 Jun 2026 14:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/recipes/cook-meth/</guid><description>&lt;p&gt;The DDS2 Datamine v2 catalogs 73 substances. Meth starts at POT 0.88 (pure potency). The first cook is straightforward once you know the ingredient chain: ephedrine to compound to purify to cut. I wasted my first few batches guessing ratios. This guide walks through every step from ingredient sourcing to finished product.&lt;/p&gt;
+&lt;img src="https://crimempire.com/images/diagrams/dds2-meth-production.svg" alt="DDS2 meth production flow diagram showing ingredient chain from ephedrine to finished product" class="schema-diagram" loading="lazy" width="720"&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1: Unlock the recipe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before you can cook meth, you need the recipe. The recipe card is a physical item found in the tutorial zone warehouse. Unlike some games where recipes auto-unlock, DDS2 requires you to find the card and interact with it. The recipe unlocks as part of the main story questline -- you will receive a prompt to find it after talking to your contact about making more money.&lt;/p&gt;</description></item><item><title>DDS2 Cutting Agents Guide: Maximize Profit Without Killing Customers</title><link>https://crimempire.com/dds2/recipes/opium-guide/</link><pubDate>Tue, 09 Jun 2026 14:20:00 +0800</pubDate><guid>https://crimempire.com/dds2/recipes/opium-guide/</guid><description>&lt;p&gt;The DDS2 Datamine v2 reveals that cutting agents have three key properties: TOX (toxicity), POT (potency multiplier), and ADD (addiction). Use low-TOX agents like flour and sugar to double volume without losing customers. I tested several cutting ratios and the difference in customer retention is dramatic -- switching from high-TOX to low-TOX agents turned my business around from losing customers to steady repeat orders.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How cutting agents work:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each cutting agent modifies the final product's stats when mixed in. The goal is to maximize volume (by adding cheap filler) while keeping toxicity low enough that customers survive to re-order.&lt;/p&gt;</description></item></channel></rss>
