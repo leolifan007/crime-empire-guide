@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<section class="section-hero game-schedule-i">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>All Categories</h1>
+    <p class="section-hero-tagline">Browse guides by topic</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <span class="current">Categories</span>
+  </nav>
+
+  {{ range $game := .Site.Params.games }}
+  {{- $gameSection := $.Site.GetPage (printf "/%s" $game.id) -}}
+  {{- $totalCount := 0 -}}
+  {{- if $gameSection -}}
+    {{- range $gameSection.Sections }}{{ range .RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end }}{{ end -}}
+  {{- end -}}
+
+  <div class="game-panel panel-{{ $game.id }}" id="panel-{{ $game.id }}">
+    <div class="panel-header theme-{{ $game.id }}">
+      <h2><span class="panel-dot"></span> {{ $game.name }}</h2>
+      <span class="panel-count">{{ $totalCount }} articles</span>
+    </div>
+
+    {{ if or (not $gameSection) $game.is_coming_soon }}
+    <div class="coming-panel">
+      <h3>UNDER CONSTRUCTION</h3>
+      <p>No guides published yet for {{ $game.name }}.</p>
+    </div>
+    {{ else }}
+    <div class="guides-grid">
+      {{ range $gameSection.Sections.ByParam "weight" }}
+        {{- $catCount := 0 -}}
+        {{- range .RegularPages }}{{ $catCount = add $catCount 1 }}{{ end -}}
+
+        <a href="{{ .RelPermalink }}" class="guide-card theme-{{ $game.id }}">
+          <div class="guide-card-visual">
+            <div class="guide-card-img"{{ with .Params.image }} style="background-image: url('{{ . }}')"{{ end }}></div>
+          </div>
+          <div class="guide-card-body">
+            <h3>{{ .Title }}</h3>
+            <p>{{ with .Description }}{{ . }}{{ end }}</p>
+          </div>
+          <div class="guide-card-footer">
+            <span class="guide-card-tag">{{ .Params.tag }}</span>
+            <span class="guide-card-count">{{ $catCount }} articles</span>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+
+{{ end }}

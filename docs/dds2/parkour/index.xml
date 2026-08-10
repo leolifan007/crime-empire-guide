@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Parkour on Crime Empire Guide</title><link>https://crimempire.com/dds2/parkour/</link><description>Recent content in Parkour on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Jun 2026 13:10:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/dds2/parkour/index.xml" rel="self" type="application/rss+xml"/><item><title>DDS2 Parkour Guide: Movement Mechanics and Police Escape</title><link>https://crimempire.com/dds2/parkour/parkour-guide/</link><pubDate>Tue, 09 Jun 2026 13:00:00 +0800</pubDate><guid>https://crimempire.com/dds2/parkour/parkour-guide/</guid><description>&lt;p&gt;The DDS2 Fandom tutorial page confirms: &amp;quot;Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas.&amp;quot; Parkour is your primary survival tool -- not guns. I stopped trying to fight police after my first few arrests taught me that bullets attract more heat than they solve. This guide covers every parkour move, when to use each, and how to chain them into effective escape sequences.&lt;/p&gt;</description></item><item><title>DDS2 Police Evasion: Parkour Escape Routes and Heat Management</title><link>https://crimempire.com/dds2/parkour/escape-routes/</link><pubDate>Tue, 09 Jun 2026 13:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/parkour/escape-routes/</guid><description>&lt;p&gt;Police in DDS2 have a heat system similar to open-world crime games. Your wanted level -- None, Person of Interest, Suspect, or Wanted -- determines pursuit intensity. Parkour breaks line of sight faster than any other method I have found. This guide covers escape routes for every zone, the wanted level system, and items that help you get away clean.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-parkour-escape.svg" alt="DDS2 parkour escape route flow diagram showing key routes between sectors" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Wanted level system:&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parkour on Crime Empire Guide</title>
+    <link>https://crimempire.com/dds2/parkour/</link>
+    <description>Recent content in Parkour on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2026 13:10:00 +0800</lastBuildDate>
+    <atom:link href="https://crimempire.com/dds2/parkour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDS2 Parkour Guide: Movement Mechanics and Police Escape</title>
+      <link>https://crimempire.com/dds2/parkour/parkour-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 13:00:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/parkour/parkour-guide/</guid>
+      <description>&lt;p&gt;The DDS2 Fandom tutorial page confirms: &amp;quot;Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas.&amp;quot; Parkour is your primary survival tool -- not guns. I stopped trying to fight police after my first few arrests taught me that bullets attract more heat than they solve. This guide covers every parkour move, when to use each, and how to chain them into effective escape sequences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Police Evasion: Parkour Escape Routes and Heat Management</title>
+      <link>https://crimempire.com/dds2/parkour/escape-routes/</link>
+      <pubDate>Tue, 09 Jun 2026 13:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/parkour/escape-routes/</guid>
+      <description>&lt;p&gt;Police in DDS2 have a heat system similar to open-world crime games. Your wanted level -- None, Person of Interest, Suspect, or Wanted -- determines pursuit intensity. Parkour breaks line of sight faster than any other method I have found. This guide covers escape routes for every zone, the wanted level system, and items that help you get away clean.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-parkour-escape.svg&#34; alt=&#34;DDS2 parkour escape route flow diagram showing key routes between sectors&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Wanted level system:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

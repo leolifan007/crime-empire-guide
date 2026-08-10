@@ -1,64 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basics on Crime Empire Guide</title><link>https://crimempire.com/crime-sim/basics/</link><description>Recent content in Basics on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://crimempire.com/crime-sim/basics/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started in Crime Simulator</title><link>https://crimempire.com/crime-sim/basics/getting-started/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/basics/getting-started/</guid><description>&lt;p&gt;I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.&lt;/p&gt;
-&lt;p&gt;The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part. See the &lt;a href="https://crimempire.com/crime-sim/tools/complete-tools-guide/"&gt;tools guide&lt;/a&gt; for a breakdown of each tool's pick difficulty.&lt;/p&gt;</description></item><item><title>Crime Simulator Game Modes and Quota System Explained</title><link>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</guid><description>&lt;p&gt;Crime Simulator has three game modes. The differences are significant -- mode choice determines how punishing the quota is, whether you can die permanently, and how much time you have to explore. Pick the wrong mode and you will restart more than necessary. See the &lt;a href="https://crimempire.com/crime-sim/basics/getting-started/"&gt;getting started guide&lt;/a&gt; to decide which mode pairs best with your first run.&lt;/p&gt;
-&lt;h2 id="mode-comparison"&gt;Mode Comparison&lt;/h2&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Feature&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Standard&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Hardcore&lt;/th&gt;
- &lt;th style="text-align: center"&gt;Completionist&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Permadeath&lt;/td&gt;
- &lt;td style="text-align: center"&gt;No&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Yes&lt;/td&gt;
- &lt;td style="text-align: center"&gt;No&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Difficulty&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Normal&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Master (locked)&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Variable&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Quota&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Every 3 days&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Every 3 days&lt;/td&gt;
- &lt;td style="text-align: center"&gt;No time limit&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Quota penalty&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Warning, then demote&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Full reset&lt;/td&gt;
- &lt;td style="text-align: center"&gt;None&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Police aggression&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Normal&lt;/td&gt;
- &lt;td style="text-align: center"&gt;+50% (community estimate)&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Normal&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Fence prices&lt;/td&gt;
- &lt;td style="text-align: center"&gt;100%&lt;/td&gt;
- &lt;td style="text-align: center"&gt;~80%&lt;/td&gt;
- &lt;td style="text-align: center"&gt;100%&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Final score bonus&lt;/td&gt;
- &lt;td style="text-align: center"&gt;1x&lt;/td&gt;
- &lt;td style="text-align: center"&gt;2x&lt;/td&gt;
- &lt;td style="text-align: center"&gt;N/A&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Best for&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Learning the game&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Challenge runs&lt;/td&gt;
- &lt;td style="text-align: center"&gt;Achievements&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;The &lt;a href="https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/"&gt;hardcore progression guide&lt;/a&gt; maps out what to expect if you jump straight into the hardest mode.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Crime Empire Guide</title>
+    <link>https://crimempire.com/crime-sim/basics/</link>
+    <description>Recent content in Basics on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://crimempire.com/crime-sim/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started in Crime Simulator</title>
+      <link>https://crimempire.com/crime-sim/basics/getting-started/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/basics/getting-started/</guid>
+      <description>&lt;p&gt;I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.&lt;/p&gt;&#xA;&lt;p&gt;The tutorial teaches the basic loop: find a house, break in, steal stuff, sell it, repeat. It is short but do not skip the lockpicking practice -- I spent my first few real runs fumbling with it and getting caught because I rushed past that part. See the &lt;a href=&#34;https://crimempire.com/crime-sim/tools/complete-tools-guide/&#34;&gt;tools guide&lt;/a&gt; for a breakdown of each tool&#39;s pick difficulty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime Simulator Game Modes and Quota System Explained</title>
+      <link>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/basics/game-modes-and-quota/</guid>
+      <description>&lt;p&gt;Crime Simulator has three game modes. The differences are significant -- mode choice determines how punishing the quota is, whether you can die permanently, and how much time you have to explore. Pick the wrong mode and you will restart more than necessary. See the &lt;a href=&#34;https://crimempire.com/crime-sim/basics/getting-started/&#34;&gt;getting started guide&lt;/a&gt; to decide which mode pairs best with your first run.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mode-comparison&#34;&gt;Mode Comparison&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Feature&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Standard&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Hardcore&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Completionist&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Permadeath&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;No&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Yes&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;No&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Difficulty&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Normal&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Master (locked)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Variable&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quota&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Every 3 days&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Every 3 days&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;No time limit&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quota penalty&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Warning, then demote&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Full reset&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;None&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Police aggression&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Normal&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;+50% (community estimate)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Normal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fence prices&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100%&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;~80%&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Final score bonus&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1x&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2x&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;N/A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Best for&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Learning the game&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Challenge runs&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Achievements&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://crimempire.com/crime-sim/hardcore/hardcore-progression-guide/&#34;&gt;hardcore progression guide&lt;/a&gt; maps out what to expect if you jump straight into the hardest mode.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

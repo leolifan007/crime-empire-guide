@@ -1,8 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Money on Crime Empire Guide</title><link>https://crimempire.com/dds2/money/</link><description>Recent content in Money on Crime Empire Guide</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Jun 2026 12:25:00 +0800</lastBuildDate><atom:link href="https://crimempire.com/dds2/money/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Early-Game Money Methods in DDS2 (Verified)</title><link>https://crimempire.com/dds2/money/early-money/</link><pubDate>Tue, 09 Jun 2026 12:10:00 +0800</pubDate><guid>https://crimempire.com/dds2/money/early-money/</guid><description>&lt;p&gt;The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. I tried going straight to cooking and ended up broke with wasted materials. In the first 10 hours, deliveries outperform cooking by roughly 3:1 based on what I have seen and what the community confirms. This guide covers the three phases of early money-making, from zero to a sustainable operation.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-money-flow.svg" alt="DDS2 early money flow diagram showing delivery, cooking, and expansion phases" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Phase 1: Delivery economy ($0 to $2,000):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy</title><link>https://crimempire.com/dds2/money/empire-guide/</link><pubDate>Tue, 09 Jun 2026 12:25:00 +0800</pubDate><guid>https://crimempire.com/dds2/money/empire-guide/</guid><description>&lt;p&gt;Scaling past $50,000 in DDS2 requires employees, multiple specialized hideouts, and territory control. The Reddit community organizes by product type -- one hideout for cannabis, one for amphetamine, one for meth. I use this approach and it scales reliably. This guide covers how to transition from a solo operator to a full cartel with automated income streams.&lt;/p&gt;
-&lt;img src="https://crimempire.com/images/diagrams/dds2-money-flow.svg" alt="DDS2 money flow diagram showing production, distribution and sales loop" class="schema-diagram" loading="lazy" width="720"&gt;
-
-&lt;p&gt;&lt;strong&gt;Employee system:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Employees are unlocked through notice boards (random spawn at bulletin board locations across islands), influencer missions (limited uses per influencer -- typically 2 hires each), and story progression. Once hired, employees can be assigned to different roles.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Money on Crime Empire Guide</title>
+    <link>https://crimempire.com/dds2/money/</link>
+    <description>Recent content in Money on Crime Empire Guide</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2026 12:25:00 +0800</lastBuildDate>
+    <atom:link href="https://crimempire.com/dds2/money/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Early-Game Money Methods in DDS2 (Verified)</title>
+      <link>https://crimempire.com/dds2/money/early-money/</link>
+      <pubDate>Tue, 09 Jun 2026 12:10:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/money/early-money/</guid>
+      <description>&lt;p&gt;The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. I tried going straight to cooking and ended up broke with wasted materials. In the first 10 hours, deliveries outperform cooking by roughly 3:1 based on what I have seen and what the community confirms. This guide covers the three phases of early money-making, from zero to a sustainable operation.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-money-flow.svg&#34; alt=&#34;DDS2 early money flow diagram showing delivery, cooking, and expansion phases&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Phase 1: Delivery economy ($0 to $2,000):&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy</title>
+      <link>https://crimempire.com/dds2/money/empire-guide/</link>
+      <pubDate>Tue, 09 Jun 2026 12:25:00 +0800</pubDate>
+      <guid>https://crimempire.com/dds2/money/empire-guide/</guid>
+      <description>&lt;p&gt;Scaling past $50,000 in DDS2 requires employees, multiple specialized hideouts, and territory control. The Reddit community organizes by product type -- one hideout for cannabis, one for amphetamine, one for meth. I use this approach and it scales reliably. This guide covers how to transition from a solo operator to a full cartel with automated income streams.&lt;/p&gt;&#xA;&lt;img src=&#34;https://crimempire.com/images/diagrams/dds2-money-flow.svg&#34; alt=&#34;DDS2 money flow diagram showing production, distribution and sales loop&#34; class=&#34;schema-diagram&#34; loading=&#34;lazy&#34; width=&#34;720&#34;&gt;&#xD;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Employee system:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Employees are unlocked through notice boards (random spawn at bulletin board locations across islands), influencer missions (limited uses per influencer -- typically 2 hires each), and story progression. Once hired, employees can be assigned to different roles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
