@@ -4,6 +4,7 @@ date: 2026-06-06T00:00:00+08:00
 draft: false
 game: schedule-i
 menu: main
+layout: game-home
 ---
 
 Complete guide database for Schedule I 鈥?strategies, recipes, maps, and tips.
