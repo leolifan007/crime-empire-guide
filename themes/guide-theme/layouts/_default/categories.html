@@ -21,8 +21,9 @@
   {{- if $gameSection -}}
     {{- range $gameSection.Sections }}{{ range .RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end }}{{ end -}}
   {{- end -}}
+  {{- $firstID := (index $.Site.Params.games 0).id -}}
 
-  <div class="game-panel panel-{{ $game.id }}" id="panel-{{ $game.id }}">
+  <div class="game-panel panel-{{ $game.id }} {{ if eq $game.id $firstID }}active{{ end }}" id="panel-{{ $game.id }}">
     <div class="panel-header theme-{{ $game.id }}">
       <h2><span class="panel-dot"></span> {{ $game.name }}</h2>
       <span class="panel-count">{{ $totalCount }} articles</span>
