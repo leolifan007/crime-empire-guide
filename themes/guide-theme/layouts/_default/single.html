@@ -50,8 +50,12 @@
       </div>
       <div class="sidebar-list">
         {{ range $currentCat.RegularPages.ByParam "weight" }}
+        {{- $pd := 0 -}}
+        {{- if gt .Lastmod.Unix 0 }}{{ $pd = div (sub now.Unix .Lastmod.Unix) 86400 }}{{ end -}}
+        {{- $isNew := le $pd 10 -}}
         <a href="{{ .RelPermalink }}" class="sidebar-item {{ if eq $.RelPermalink .RelPermalink }}active{{ end }}">
           <span class="sidebar-title">{{ .Title }}</span>
+          {{ if $isNew }}<span class="sidebar-new">NEW</span>{{ end }}
         </a>
         {{ end }}
       </div>
@@ -65,6 +69,7 @@
           <h1>{{ .Title }}</h1>
           <div class="article-meta">
             <span>Updated: {{ .Date.Format "Jan 2, 2006" }}</span>
+            {{ if .Params.version }}<span class="article-version">Version {{ .Params.version }}</span>{{ end }}
           </div>
         </div>
         <div class="article-body game-{{ $gameID }}">

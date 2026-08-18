@@ -6,6 +6,7 @@ draft: false
 hidden: true
 publishDate: 2026-08-19T11:47:00+08:00
 game: crime-sim
+version: "1.55"
 tags: [tools, unlock, world-bonus, stealth]
 weight: 3
 description: "The Invisibility Tool is fully in the game - 60 seconds of invisibility that hides you from police and helicopters. Here is how the world bonus unlock system works and how to get it."

@@ -6,6 +6,7 @@ draft: false
 hidden: true
 publishDate: 2026-08-20T08:36:00+08:00
 game: crime-sim
+version: "1.55"
 tags: [dlc, map, ashen-creek, heist]
 weight: 2
 description: "Ashen Creek is the first Crime Simulator DLC: 9+ new locations, a jewelry store and pharmacy as high-value targets, new cars, and pressure floor traps. Everything you need to know before your first run."

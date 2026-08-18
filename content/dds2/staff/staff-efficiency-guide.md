@@ -6,6 +6,7 @@ draft: false
 hidden: true
 publishDate: 2026-08-20T14:12:00+08:00
 game: dds2
+version: "Aug 2026"
 tags: [staff, employees, reputation, dealers, efficiency]
 weight: 2
 description: "How to get more employees in Drug Dealer Simulator 2 and make the dealers you have sell more: reputation, influencer meetings, dealer setup, and the common mistakes that stall your staff count."

@@ -31,8 +31,12 @@
       </div>
       <div class="sidebar-list">
         {{ range $i, $article := .RegularPages.ByParam "weight" }}
+        {{- $pd := 0 -}}
+        {{- if gt .Lastmod.Unix 0 }}{{ $pd = div (sub now.Unix .Lastmod.Unix) 86400 }}{{ end -}}
+        {{- $isNew := le $pd 10 -}}
         <a href="#article-{{ $i }}" class="sidebar-item {{ if eq $i 0 }}active{{ end }}" onclick="showArticle({{ $i }}); return false;">
           <span class="sidebar-title">{{ .Title }}</span>
+          {{ if $isNew }}<span class="sidebar-new">NEW</span>{{ end }}
         </a>
         {{ end }}
       </div>

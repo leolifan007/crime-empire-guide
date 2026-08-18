@@ -47,6 +47,7 @@
           {{ if $gameSection }}
           <div class="card-meta-info">
             <span class="card-count">{{ $count }} guides</span>
+            {{ if $game.version }}<span class="card-version">{{ $game.version }}</span>{{ end }}
             {{ if and $ld (ne $ld "Jan 1") }}
             <span class="card-updated">Updated {{ $ld }}</span>
             {{ end }}
