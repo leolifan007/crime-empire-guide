@@ -35,6 +35,7 @@ disableKinds = ['taxonomy', 'term']
   article_count = 156
   is_coming_soon = false
   badges = ['Hot']
+  version = 'v0.4.6f13'
   url = '/schedule-i/'
   [[params.games.sample_guides]]
     title = 'Best Drug Recipe Profit Rankings'
@@ -91,6 +92,7 @@ disableKinds = ['taxonomy', 'term']
   article_count = 0
   is_coming_soon = false
   badges = ['New']
+  version = 'Updated Aug 6'
   url = '/dds2/'
 
 [[params.games]]
@@ -102,5 +104,6 @@ disableKinds = ['taxonomy', 'term']
   article_count = 14
   is_coming_soon = false
   badges = ['Trending']
+  version = 'v1.55'
   url = '/crime-sim/'
 
