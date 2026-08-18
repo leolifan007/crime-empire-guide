@@ -55,15 +55,23 @@ The first time I tried this, I turned $1,000 into $22,000 in about 30 minutes of
 
 **When to stop:**
 
-The casino is a tool, not your main income. Once you have $20K-$30K, you should be buying the Barn ($25K) and setting up automation. Casino money is fast but unreliable. Automation money is slower but consistent. Use the casino to jumpstart your mid-game, then switch to production.
+The casino is a tool, not your main income. Once you have $20K-$30K, you should be [buying the Barn](/schedule-i/automation/barn-and-warehouse/) ($25K) and [setting up automation](/schedule-i/automation/workshop/). Casino money is fast but unreliable. Automation money is slower but consistent. Use the casino to jumpstart your mid-game, then switch to production.
 
 I see posts on Reddit asking "how to make millions at the casino" and honestly, save-scumming to $1M would take hours of reloading. At that point you'd make more money running a Barn for the same amount of time.
 
 **One thing the casino nerfed:**
 
-Earlier patches made the games slightly tighter. As of v0.4.5, save-scumming still works but the minigame odds feel a bit more restricted than launch. Ride the Bus is still the best per-unit-time game according to community testing. The casino is north of main town, near the highway overpass -- no entry fee or rank requirement.
+Earlier patches made the games slightly tighter. As of [v0.4.5](/schedule-i/patch/v045-update/), save-scumming still works but the minigame odds feel a bit more restricted than launch. Ride the Bus is still the best per-unit-time game according to community testing. The casino is north of main town, near the highway overpass -- no entry fee or rank requirement.
 
 For the comparison with drug production income, see the [Profit Rankings](/schedule-i/recipes/profit/).
+
+## Related Guides
+
+- [Profit Rankings](/schedule-i/recipes/profit/) -- how casino earnings compare to drug production income
+- [Speedrun Guide](/schedule-i/money/speedrun/) -- alternative fast-money route if you prefer no gambling
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- casino location and surrounding area details
+- [v0.4.5 Update](/schedule-i/patch/v045-update/) -- patch notes covering casino odds changes
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- avoid the money traps that cost new players the most
 
 {{< resourcegrid >}}
   {{< resourcecard name="Casino Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Casino" desc="Game rules and payout tables" >}}

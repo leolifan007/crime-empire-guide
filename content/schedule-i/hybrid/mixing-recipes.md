@@ -53,7 +53,7 @@ This is a curated ranking of real community-discovered strains -- not a calculat
 - **Best for:** Early-to-mid game (Hustler-Peddler)
 - **Source:** Times of India "Best Strains" article, BisectHosting OG Kush combinations guide
 
-## Rank 5: Gorilla Mix (OG Kush 4-Mix)
+## Rank 5: Gorilla Mix (OG Kush 4-Mix) — for the full automation setup that handles these recipes at scale, see the [Bungalow workshop guide](/schedule-i/automation/workshop/).
 - **Base:** OG Kush
 - **Ingredients:** OG Kush + Horse Semen + Mega Bean + Donut
 - **Sell price:** ~$150-160/unit
@@ -160,7 +160,11 @@ For detailed ingredient effect reference, see the [Strain Calculator](/schedule-
 
 - [Best Strain By Game Stage](/schedule-i/hybrid/strain-calculator/) -- decision table for early/mid/late game
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality multiplies strain value
-- [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- set up production for these strains
+- [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) --
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit table for all mix tiers
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the most-searched custom recipe to try first
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- where to set up your first mixing operation
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- ingredient sourcing by zone and supplier locations set up production for these strains
 
 {{< resourcegrid >}}
   {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Real-time ingredient chain calculator" >}}

@@ -12,7 +12,9 @@ description: "Hardcore mode in Crime Simulator is permadeath with higher quotas.
 
 I lost my first Hardcore run in under 30 minutes. Broke a lockpick on my first door, panicked, used the crowbar, alerted a patrol, got chased, arrested, save gone. Not my finest moment.
 
-Hardcore mode deletes your save on arrest. Quotas are higher (about 1.5x), police are more aggressive, and fence prices are approximately 20% lower. The core loop is the same but the margin for error is razor thin.
+Once you survive the early runs, the [hardcore progression guide](/crime-sim/hardcore/hardcore-progression-guide/) maps out the full path from Rank 1 to endgame.
+
+Hardcore mode deletes your save on arrest. Quotas are higher (about 1.5x), police are more aggressive, and fence prices are approximately 20% lower. The core loop is the same but the margin for error is razor thin. The [police system guide](/crime-sim/police/police-system-guide/) explains exactly what triggers detection in hardcore.
 
 ## What Makes Hardcore Different
 

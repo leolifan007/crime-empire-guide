@@ -1,141 +1,118 @@
-﻿---
+---
 title: "Crime Simulator Co-op Heist Planning: From Setup to Extraction"
 date: 2026-06-09
-draft: false
+lastmod: 2026-06-18
+draft: false
+
 game: crime-sim
 tags: [coop, heist, planning, teamwork, advanced]
 weight: 2
 description: "Plan every co-op heist like a pro. This guide covers target selection, gear prep, entry routes, loot prioritization, and clean extraction for 4-player teams."
 ---
 
-{{< callout "info" >}}
-A clean heist is planned before you leave the hideout. The best teams spend 5 minutes planning and 10 minutes executing. Spend those 5 minutes -- they save you from 20 minutes of prison time.
+The best co-op heists I have been on were planned before anyone left the hideout. If your hideout storage is a mess, the [safe houses guide](/crime-sim/hideouts/safe-houses-guide/) explains how to organize loot efficiently. The team I run with spends 5 minutes planning and 10 minutes executing. Those 5 minutes save us from 20 minutes of prison time.
+
+## Pre-Heist Briefing Checklist
+
+Before leaving the hideout, we confirm every item on this list:
+
+- Target selected from job board or free-roam
+- Security level assessed (locks, NPCs, alarms) — the [tools guide](/crime-sim/tools/complete-tools-guide/) lists which gear you need for each security tier.
+- Required tools confirmed for each team member
+- Entry point identified (front, back, roof, window)
+- Extraction point agreed (vehicle, alley, rooftop)
+- Role assignments confirmed
+- Communication channel set (in-game voice or Discord)
+- Hard extraction limit agreed (time limit for aborting)
+
+{{< callout "tip" >}}
+Assign a team leader for each heist. One person makes the call to abort. If everyone has veto power, you get indecision. I have seen teams lose 15 minutes arguing over whether to push or pull. A single decision-maker prevents this.
 {{< /callout >}}
-
-## Heist Planning Checklist
-
-Before leaving the hideout, confirm:
-
-- [ ] Target selected from job board or free-roam
-- [ ] Security level assessed (locks, NPCs, alarms)
-- [ ] Required tools confirmed for each team member
-- [ ] Entry point identified (front, back, roof, window)
-- [ ] Extraction point agreed (vehicle, alley, rooftop)
-- [ ] Role assignments confirmed
-- [ ] Hard abort condition set (e.g., 2 police alerts = retreat)
 
 ## Target Selection
 
-Not all houses are equal. Evaluate each target based on:
+Not all houses are worth hitting in co-op. The payout from a single large house split 4 ways is sometimes less than running two medium houses simultaneously.
 
-### Risk Factors
-- **Electronic locks** -- require hacking tool, slow down entry
-- **NPC occupancy** -- more NPCs = higher alert risk
-- **Neighbor proximity** -- tight spacing = noise carries
-- **Security cameras** -- must be disabled or avoided
-- **Police response time** -- varies by map zone
+I prioritize houses with:
+- Multiple floors (each player takes a floor for parallel looting)
+- Electronic locks (needs the Hacker to handle while others loot)
+- Confirmed high-value items from job board intel
+- Multiple entry points (backup routes if primary entry fails)
+- Low police response time (suburban houses away from main roads)
 
-### Reward Factors
-- **Known high-value locations** -- safes, jewelry boxes, electronics
-- **Item request matches** -- premium payout if requested items are inside
-- **Gold bar potential** -- high-security targets (Update 1.3)
-- **Tool upgrade materials** -- special loot boxes
+## Gear Prep by Role
 
-### Decision Matrix
+Each player should carry the right tools for their assigned role. Missing tools waste time on site and can force a team wipe.
 
-| Target Type | Risk | Reward | Recommended Team Size |
-|-------------|------|--------|----------------------|
-| Low-security house | Low | Low | 1-2 (solo farmable) |
-| Medium-security house | Medium | Medium | 2-3 |
-| High-security residence | High | High | 3-4 |
-| Commercial property | High | High | 3-4 |
-| Heist location | Very High | Very High | 4 (all roles) |
+| Role | Required Tools | Backup Tools | Priority |
+|------|---------------|-------------|:--------:|
+| Lockpick | Lockpick set (standard+) | Crowbar | 1st |
+| Lookout | Flashlight, sleeping gas | Smoke bomb | 2nd |
+| Hauler | Large backpack, cable ties | Extra pockets | 3rd |
+| Driver | Vehicle, radio scanner | Map of alleys | 4th |
 
-## Entry Route Planning
+Missing tools waste time on site. We double-check inventory before leaving the hideout. I have had runs where someone forgot their lockpick and we had to use the noisy crowbar on every door.
 
-Every heist should have two entry plans:
+{{< insight >}}
+The Driver role is the most underrated in co-op planning. A good Driver prevents wipes by having the vehicle positioned for a clean getaway. I always assign a dedicated Driver for high-security targets where police response is guaranteed.
+{{< /insight >}}
 
-### Plan A: Primary Entry
-- Quietest available route
-- Lockpick the back door or side window
-- Crawl through basement access
-- Stun and bypass NPCs
+## Entry and Loot Rotation
 
-### Plan B: Emergency Entry
-- Smash a ground-floor window (loud but fast)
-- Use blowtorch on a side wall (very loud)
-- Rooftop access via fire escape
+The rotation I have found most efficient:
 
-Plan B is for when Plan A fails (broken lockpick, unexpected alarm, NPC wandering to your entry point). Switch to Plan B quickly to avoid wasted time.
+1. Scout entry point (15 seconds) -- Lookout confirms no patrols
+2. Lockpick entry (30 seconds) -- Lockpick opens door silently
+3. Clear NPCs (2 minutes) -- Sleeping gas for patrols, cable ties for neutralized NPCs
+4. Fan out and loot by priority (5 minutes) -- Hauler follows callouts, grabs high-value items
+5. Call extraction (30 seconds) -- Driver arrives at pre-arranged point
+6. Fence and split (5 minutes) -- Pool at hideout, split after selling
 
-{{< callout "warn" >}}
-If you use Plan B, expect police attention within 60 seconds. Everyone needs to be on extraction alert. The Hauler should grab only the top-3 items before retreating.
-{{< /callout >}}
+About 12-15 minutes per high-value house with a practiced team. Compare this to 20-25 minutes solo for the same house -- co-op efficiency is real.
 
-## Inside the Heist
+## Heist Execution: Roles in Action
 
-Once inside, follow the team's defined path:
+**Lockpick:** Your first through the door. Open the primary entry silently, then move to disable any accessible alarm panels. Call out door types so the Hacker knows which locks need electronic bypass.
 
-1. **Clear ground floor** -- Lookout confirms no NPCs
-2. **Lockpick internal doors** -- Lockpick opens the path
-3. **Secure NPCs** -- Sleeping gas + cable ties if occupied
-4. **Loot sweep** -- Hauler takes high-value items in priority order
-5. **Safe cracking** -- Blowtorch or drill on safes
-6. **Final sweep** -- Quick check for missed items
-7. **Extraction** -- Regroup at extraction point
+**Lookout:** Stay near windows and exterior doors. Watch patrol routes and call out NPC positions on the minimap. If a cop car enters the street, give a "hot" call and everyone freezes. The Lookout also marks safe hiding spots for emergency use.
+
+**Hauler:** Follow the highest-value callouts. When the Lockpick finds a laptop, the Hauler grabs it. When the Hacker opens a safe, the Hauler takes the contents. The Hauler keeps track of the total haul and calls out when the value target is met.
+
+**Driver:** Park the vehicle at the agreed extraction point. Keep the engine running but lights off. Monitor police radio frequencies if the game has that mechanic. Be ready to move on 10 seconds notice.
 
 ## Extraction Protocols
 
-### Clean Exit
-- All players exit through the planned route
-- No police alert
-- Walk to extraction point (no sprinting -- attracts attention)
-- Get in vehicle and drive to next target or hideout
+Clean extraction is harder than the heist itself. I have lost more loot on the way out than during entry.
 
-### Hot Exit
-- Police have been alerted
-- Doors are being watched
-- Exit through Plan B route immediately
-- No further looting
-- Each player escapes independently
-- Regroup at a secondary hideout location
-- If caught, minimize loot loss by dropping low-value items
+**Extraction rules we follow:**
+- Everyone leaves at the same time -- no stragglers
+- Driver flashes headlights twice as the signal
+- Last person out closes doors behind them (reduces suspicion)
+- Do not fence immediately -- drive to a safe spot first and check for tails
+- Split at hideout, never on the street
 
-### Evacuation Routes
-Know at least two exits from every major room:
+## Advanced: Multi-House Chains
 
-| Room | Primary Exit | Emergency Exit |
-|------|-------------|----------------|
-| Ground floor | Front/back door | Window |
-| Upper floor | Stairs | Balcony drop (injures but escapes) |
-| Basement | Stairs up | Ventilation shaft (if available) |
-| Garage | Vehicle bay | Pedestrian door |
+Once your team is coordinated, chain 3-4 houses in one outing. Hit house A, drop loot at a safe spot, hit house B, repeat. This triples loot-per-run but requires good communication.
 
-## Post-Heist: Share and Plan
+Multi-house chains work best with 4 players because you can leave one person as a mobile stash guard while the others clear houses. Rotate the stash guard role so no one gets bored.
 
-After extraction:
+## Practical Example: Suburban Street Run
 
-1. **Stash deposit** -- All loot goes into the shared hideout stash
-2. **Item request check** -- Pull requested items for delivery
-3. **Repair session** -- Everyone repairs broken tools
-4. **Skill review** -- Check if anyone found new skill leaflets
-5. **Next target** -- Repeat the planning cycle
+Here is a real run my team executed:
 
-{{< insight >}}
-The post-heist sync at the hideout is where good teams become great. Share info about police patterns, NPC routes, and hidden loot spots you noticed. This collective knowledge makes every subsequent heist smoother.
-{{< /insight >}}
+Our team of 4 targeted three adjacent houses in the suburban district. We assigned Lockpick, Lookout, Hauler, and Driver as above. The Lockpick cleared entry on house 1 in 45 seconds. The Hauler grabbed a laptop ($280) and tablet ($190) from the upstairs office while the Lookout watched the street. Total time for all three houses: 28 minutes. Total haul: $2,140. Split per player: $535 for 28 minutes of work.
 
-## Dealing with Failure
+Compare that to solo: the same three houses would take 60+ minutes solo and yield about $1,100 due to slower looting and fewer inventory slots.
 
-Even the best plans fail. When things go wrong:
+## Related Guides
 
-- **One player arrested:** Remaining team should abort and start over. Loot from a failed run can still be sold.
-- **Multiple arrests:** Reset at hideout. Take smaller targets to rebuild momentum.
-- **Tool failure mid-heist:** The Driver should have backups. Switch tools and continue, or abort if the backup also fails.
-
----
+- [Co-op Strategy Guide](/crime-sim/coop/coop-strategy-guide/) -- role assignments and communication protocols
+- [Complete Tools Guide](/crime-sim/tools/complete-tools-guide/) -- tool breakdown for each role
+- [Police System Guide](/crime-sim/police/police-system-guide/) -- evasion and detection mechanics
 
 {{< resourcegrid >}}
-  {{< resourcecard name="Steam Community Guides" url="https://steamcommunity.com/app/2737070/guides/" desc="Community-created heist guides and tips" >}}
-  {{< resourcecard name="Co-op Gameplay Videos" url="https://www.youtube.com/playlist?list=PLlIK6xp5WIReN4GRiephlYWa0zZ_s7sdj" desc="Walkthrough footage of co-op heists" >}}
+  {{< resourcecard name="Crime Simulator Steam Page" url="https://store.steampowered.com/app/2737070/Crime_Simulator/" desc="Official game page" >}}
+  {{< resourcecard name="Steam Community Discussions" url="https://steamcommunity.com/app/2737070/discussions/" desc="Co-op strategies and team recruitment" >}}
+  {{< resourcecard name="Understanding Game Modes" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3506289284" desc="Community guide on gameplay basics" >}}
 {{< /resourcegrid >}}

@@ -53,11 +53,19 @@ weight: 7
 
 {{< section "What Players Want in Future Updates" >}}
 
-Based on Reddit (r/Schedule_I) and Steam Community discussions, the most requested features include new map expansion, police raid system, and more employee types. The developer TVGS has not announced a specific roadmap.
+Based on Reddit (r/Schedule_I) and Steam Community discussions, the most requested features include new map expansion, police raid system, and more employee types. For the current recipe meta after these patches, see the [Best Drug Recipe Profit Rankings](/schedule-i/recipes/profit/). The developer TVGS has not announced a specific roadmap.
 
 {{< section "Related Guides" >}}
 
 Current patch analysis: [v0.4.5 Anniversary Update](/schedule-i/patch/v045-update/).
+
+## Related Guides
+
+- [v0.4.5 Anniversary Update](/schedule-i/patch/v045-update/) -- deep dive on the latest patch and its meta impact
+- [Profit Rankings](/schedule-i/recipes/profit/) -- how each patch affected recipe values and current meta
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- v0.4.5 Big Sprinkler changed Barn automation efficiency
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- patch-specific bugs and exploits to avoid
+- [Heat System](/schedule-i/police/heat-system/) -- police AI behavior across patch versions
 
 {{< resourcegrid >}}
   {{< resourcecard name="Fandom Wiki Updates Page" url="https://schedule-1.fandom.com/wiki/Updates" desc="Official community-maintained version history" >}}

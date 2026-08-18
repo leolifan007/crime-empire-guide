@@ -8,7 +8,7 @@ weight: 4
 ---
 
 {{< callout "info" >}}
-**Short answer:** Unlock Albert Hoover immediately (available from start). Befriend Elizabeth Homley or Kevin Oakley to unlock Shirley Watts and Fungal Phil simultaneously. Reach higher ranks for Salvador Moreno. The fastest route: place Dead Drop orders for the cheapest items first to build relationship, then scale up. Minimum total cost to unlock all four: roughly $8,000 in Dead Drop orders plus rank progression.
+**Short answer:** Unlock Albert Hoover immediately (available from start). Befriend Elizabeth Homley or Kevin Oakley to unlock Shirley Watts and Fungal Phil simultaneously. Reach higher ranks for Salvador Moreno. The fastest route: place Dead Drop orders for the cheapest items first to build relationship, then scale up. Minimum total cost to unlock all four: roughly $8,000 in Dead Drop orders plus rank progression. If you're still short on cash, our [$10K in First Hour guide](/schedule-i/money/speedrun/) covers how to raise capital fast.
 {{< /callout >}}
 
 This is an optimized unlock route -- not a list of who the suppliers are. Follow this order and you'll unlock delivery (the max relationship perk) faster than random ordering.
@@ -120,6 +120,9 @@ For the full breakdown of which supplier's products make the most profit, see [B
 - [NPC Price Index 2026](/schedule-i/npc/dealers/) -- best customers per product
 - [Best Strain By Game Stage](/schedule-i/hybrid/strain-calculator/) -- which ingredients to order from each supplier
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how growing conditions affect value
+- [Profit Rankings](/schedule-i/recipes/profit/) -- which ingredients to prioritize buying from each supplier
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- which supplier to use for your Bungalow supply chain
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- exact locations of every supplier in the game world
 
 {{< resourcegrid >}}
   {{< resourcecard name="Supplier Location Guide (IGN)" url="https://www.ign.com/wikis/schedule-1/Schedule_1_Supplier_Location_Guide" desc="Visual guide to supplier stash locations" >}}

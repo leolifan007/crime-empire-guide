@@ -39,7 +39,7 @@ This is the highest-impact endgame goal. Once all 4 suppliers reach Delivery sta
 - Fungal Phil: 7-10 more Dead Drop orders ($500-700)
 - Salvador Moreno: 10-13 more Dead Drop orders ($1,000-1,600)
 
-**Strategy:** Place Dead Drop orders during downtime (when your automation is running and you have nothing to do). Order the cheapest item from each. Pay debt immediately. Repeat every in-game day until done.
+**Strategy:** Place Dead Drop orders during downtime (when your automation is running and you have nothing to do). Follow the [supplier unlock route](/schedule-i/npc/suppliers/) if you're not maxed yet -- it minimizes wasted orders. Order the cheapest item from each. Pay debt immediately. Repeat every in-game day until done.
 
 ## Goal 2: Unlock All 6 Dealers
 
@@ -129,6 +129,10 @@ For efficiency comparisons, see [Manual vs Automation ROI Comparison](/schedule-
 - [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- starting your automation journey
 - [NPC Price Index 2026](/schedule-i/npc/dealers/) -- endgame dealer assignments
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- max profit strains for endgame
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit table for endgame Cocaine 9-mix
+- [Property Rankings](/schedule-i/property/property-rankings/) -- endgame property progression and Hyland Manor purchase guide
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- endgame zones (Docks) and dealer locations
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- avoid the expensive endgame mistakes that waste your progress
 
 {{< resourcegrid >}}
   {{< resourcecard name="Endgame Ideas (Reddit)" url="https://www.reddit.com/r/Schedule_I/comments/1lw2w12/endgame_ideas/" desc="Community endgame discussion" >}}

@@ -3,8 +3,6 @@ title: "Crime Simulator 1.5 Update Guide: Chemist's Workshop, New Furniture and 
 date: 2026-08-18
 lastmod: 2026-08-18T23:40:00+08:00
 draft: false
-hidden: true
-publishDate: 2026-08-19T09:23:00+08:00
 game: crime-sim
 version: "1.55"
 tags: [patch, update, chemistry, furniture, scoring]

@@ -11,7 +11,7 @@ weight: 12
 **Short answer:** Yes, quality directly affects sell price. Standard quality products sell at 1.4x suggested price. Premium quality sells at 1.5x. Heavenly quality sells at 1.6x. Quality is determined by growing conditions: fertilizer use, PGR/Speed Grow application, and drying rack processing. A Premium OG Kush 4-mix ($170 base) sells for ~$255 at 1.5x, versus ~$238 for Standard -- a $17 difference per unit.
 {{< /callout >}}
 
-This is a data comparison guide -- not a "what is quality" explainer. Use the tables below to decide whether quality upgrades are worth the extra time and cost.
+This is a data comparison guide -- not a "what is quality" explainer. Use the tables below to decide whether quality upgrades are worth the extra time and cost. For the base profit figures without quality adjustments, see the [recipe profit rankings](/schedule-i/recipes/profit/).
 
 ## Quality Tier Reference
 
@@ -23,7 +23,7 @@ Cross-referenced from Fandom Wiki Quality page, TheGamer quality guide, Steam Co
 | Premium | Purple star | 1.5x | Use Fertilizer only (no PGR/Speed Grow) | Requires drying rack |
 | Heavenly | Gold star | 1.6x | Fertilizer + Drying Rack processing | Requires drying rack + Botanist |
 
-**Source:** TheGamer "Best Quality Types" guide confirms Premium requires Fertilizer only (no Speed Grow or PGR). Fandom Wiki Quality page confirms Heavenly requires drying rack processing.
+**Source:** TheGamer "Best Quality Types" guide confirms Premium requires Fertilizer only (no Speed Grow or PGR). Fandom Wiki Quality page confirms Heavenly requires drying rack processing. Scaling quality production requires automation — the [Barn vs Warehouse ROI comparison](/schedule-i/automation/barn-and-warehouse/) shows at what setup quality upgrades become profitable.
 
 ## Profit Comparison By Quality
 
@@ -118,6 +118,9 @@ For detailed strain pricing, see [Best Strain By Game Stage](/schedule-i/hybrid/
 - [10 Common Schedule I Mistakes](/schedule-i/money/common-mistakes/) -- avoid the quality traps
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- automation + quality = max profit
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- highest value strains to apply quality to
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- how quality settings interact with property automation
+- [Profit Rankings](/schedule-i/recipes/profit/) -- baseline profit without quality to compare against
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- quality scaling at Barn/Warehouse automation scale
 
 {{< resourcegrid >}}
   {{< resourcecard name="Quality Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Quality" desc="Official quality mechanics page" >}}

@@ -3,8 +3,6 @@ title: "DDS2 Staff Efficiency Guide: Unlock More Employees and Boost Dealer Outp
 date: 2026-08-19
 lastmod: 2026-08-19T00:20:00+08:00
 draft: false
-hidden: true
-publishDate: 2026-08-20T14:12:00+08:00
 game: dds2
 version: "Aug 2026"
 tags: [staff, employees, reputation, dealers, efficiency]

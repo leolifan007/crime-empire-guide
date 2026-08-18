@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+{{ $gameID := .Params.game }}
+{{ $gameName := "" }}
+{{ $tagline := "" }}
+{{ $gameDesc := "" }}
+{{ range $.Site.Params.games }}{{ if eq .id $gameID }}{{ $gameName = .name }}{{ $tagline = .tagline }}{{ $gameDesc = .description }}{{ end }}{{ end }}
+
+{{ $totalCount := 0 }}
+{{ range .Sections }}{{ range .RegularPages }}{{ $totalCount = add $totalCount 1 }}{{ end }}{{ end }}
+
+<!-- Game Hero -->
+<section class="section-hero game-{{ $gameID }}">
+  <div class="section-hero-gradient"></div>
+  <div class="section-hero-content">
+    <h1>{{ $gameName }}</h1>
+    <p class="section-hero-tagline">{{ $tagline }}</p>
+  </div>
+</section>
+
+<div class="single-wrap">
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <span class="current">{{ $gameName }}</span>
+  </nav>
+
+  <!-- Category Nav -->
+  <div class="cat-nav game-{{ $gameID }}">
+    {{ range .Sections.ByParam "weight" }}
+    <a href="{{ .RelPermalink }}" class="cat-nav-btn">{{ .Title }}</a>
+    {{ end }}
+  </div>
+
+  <!-- Category Overview Grid -->
+  <div class="single-layout" style="display:block;">
+    <main class="single-main" style="max-width:none;">
+      <div class="panel-header theme-{{ $gameID }}">
+        <h2><span class="panel-dot"></span> All Categories</h2>
+        <span class="panel-count">{{ $totalCount }} articles</span>
+      </div>
+
+      <div class="guides-grid">
+        {{ range .Sections.ByParam "weight" }}
+          {{- $catCount := 0 -}}
+          {{- $catLatest := 0 -}}
+          {{- range .RegularPages -}}
+            {{- $catCount = add $catCount 1 -}}
+            {{- $d := .Lastmod.Unix -}}
+            {{- if gt $d $catLatest }}{{ $catLatest = $d }}{{ end -}}
+          {{- end -}}
+          {{- $catDays := 0 -}}
+          {{- if and $catLatest (gt $catLatest 0) -}}
+            {{- $now := now.Unix -}}
+            {{- $catDays = div (sub $now $catLatest) 86400 -}}
+          {{- end -}}
+          {{- $catIsNew := and (gt $catLatest 0) (le $catDays 10) -}}
+          {{- $ldDisplay := "" -}}
+          {{- if gt $catLatest 0 }}{{ $ldDisplay = $catLatest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
+
+          <a href="{{ .RelPermalink }}" class="guide-card theme-{{ $gameID }}">
+            <div class="guide-card-visual">
+              <div class="guide-card-img"{{ with .Params.image }} style="background-image: url('{{ . }}')"{{ end }}></div>
+              {{ if $catIsNew }}<div class="guide-card-new">NEW</div>{{ end }}
+            </div>
+            <div class="guide-card-body">
+              <h3>{{ .Title }}</h3>
+              <p>{{ with .Description }}{{ . }}{{ end }}</p>
+            </div>
+            <div class="guide-card-footer">
+              <span class="guide-card-tag">{{ .Params.tag }}</span>
+              <span class="guide-card-count">{{ $catCount }} articles</span>
+              {{ if and $ldDisplay (ne $ldDisplay "Jan 1") }}
+              <span class="guide-card-updated">{{ $ldDisplay }}</span>
+              {{ end }}
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    </main>
+  </div>
+</div>
+
+{{ end }}

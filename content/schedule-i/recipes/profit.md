@@ -87,7 +87,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
       <span class="metric-sep">路</span>
       <span class="metric-profit">Net <strong>$136</strong></span>
     </div>
-    <p class="step-desc">Unlock {{< material "horse_semen" >}} and {{< material "mega_bean" >}} from the motel supplier. This single recipe funds your first bungalow. <strong>The biggest mid-game power spike.</strong></p>
+    <p class="step-desc">Unlock {{< material "horse_semen" >}} and {{< material "mega_bean" >}} from the motel supplier. This single recipe funds your <a href="/schedule-i/property/bungalow-setup/">first bungalow</a> in about a day of gameplay. <strong>The biggest mid-game power spike.</strong></p>
   </div>
 </div>
 
@@ -111,7 +111,7 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
       <span class="metric-sep">路</span>
       <span class="metric-profit">Net <strong>$127</strong></span>
     </div>
-    <p class="step-desc">Transition from weed to {{< material "meth" >}}. Meth 4-mix: Chemists process 15% faster 鈥?this is your scaling inflection point.</p>
+    <p class="step-desc">Transition from weed to {{< material "meth" >}}. The <a href="/schedule-i/hybrid/mixing-recipes/">Meth 4-mix</a>: Chemists process 15% faster 鈥?this is your scaling inflection point.</p>
   </div>
 </div>
 
@@ -190,10 +190,18 @@ From Hoodlum to Kingpin, your recipe choices determine how fast you scale. Here 
 | {{< material "green_crack" >}} | 8-mix | $24 | $148 | $124 | Dealer I | 4 |
 
 <div class="insight-card">
-<p><strong>The real bottleneck.</strong> The ingredient cost gap between a Peddler III OG Kush 3-mix and a Kingpin Cocaine 9-mix is only <strong>$7</strong>. The sell price gap is <strong>$588</strong>. It is never ingredient cost 鈥?it is production speed, station count, and automation.</p>
+<p><strong>The real bottleneck.</strong> The ingredient cost gap between a Peddler III OG Kush 3-mix and a Kingpin Cocaine 9-mix is only <strong>$7</strong>. The sell price gap is <strong>$588</strong>. It is never ingredient cost 鈥?it is <a href="/schedule-i/automation/barn-and-warehouse/">production speed, station count, and automation</a>.</p>
 </div>
 
 </div>
+
+## Related Guides
+
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- property layout to run your first staffed mixing operation
+- [Workshop Automation](/schedule-i/automation/workshop/) -- full 8-step blueprint for Bungalow automation with profit rankings
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the easiest high-profit recipe to start with before grinding rank
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- scaling beyond the Bungalow to Kingpin-level production
+- [Mixing Recipes](/schedule-i/hybrid/mixing-recipes/) -- advanced custom strain crafting and mix optimization
 
 <div class="resource-section">
   <h2>Community Verification &amp; Resources</h2>

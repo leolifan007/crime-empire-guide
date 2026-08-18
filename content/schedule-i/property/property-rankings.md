@@ -31,11 +31,11 @@ I bought the Bungalow as soon as I hit $6K. It went from making pocket change to
 
 Don't buy this before $6K though. A few posts on Reddit ask "should I save for the Bungalow or buy more seeds" -- seeds. More seeds first. The Bungalow is useless if you can't afford ingredients to fill it.
 
-I stayed in the Bungalow until I had $25K saved AND my daily profit was consistently above $10K. That took about 2-3 in-game days of OG Kush production.
+I stayed in the Bungalow until I had $25K saved AND my daily profit was consistently above $10K. That took about 2-3 in-game days of [OG Kush production](/schedule-i/recipes/triple-dollar-strain/).
 
 **The Barn -- best value in the game, but don't buy it broke:**
 
-The Barn at $25K is the single best property investment. Two floors, 10 employees, 2 loading bays. I automated Meth 4-mix there and profits jumped to $12K-$18K/day.
+The Barn at $25K is the single best property investment. Two floors, 10 employees, 2 loading bays. I automated the [Meth 4-mix](/schedule-i/recipes/profit/) there and profits jumped to $12K-$18K/day.
 
 But here's the mistake I made the first time: I bought the Barn with $25K exactly, leaving myself with under $1K for equipment and ingredients. Big mistake. Equipment costs another $5K minimum, plus you need a few thousand for ingredients. Aim for $35K cash before buying the Barn. Multiple threads on Reddit and Steam say the same thing.
 
@@ -58,6 +58,13 @@ The Manor needs Finishing the Job quest completed before it shows up at Ray's Re
 The biggest mistake people make is buying the Barn before they're ready. Someone on the Schedule I subreddit put it well: "If buying the property leaves you with under $5K, wait one more day." I'd add: if you can't afford to staff it at full capacity within the first day, you bought too early.
 
 For what to actually put inside these properties, see the [Workshop Automation](/schedule-i/automation/workshop/) and [Bungalow Setup](/schedule-i/property/bungalow-setup/) guides.
+
+## Related Guides
+
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- detailed Bungalow layout and employee setup
+- [Workshop Automation](/schedule-i/automation/workshop/) -- full 8-step automation blueprint for Bungalow and beyond
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the go-to recipe to run in your first staffed property
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full recipe list with per-gram profit to choose what to produce at each property tier
 
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Wiki" url="https://schedule-1.fandom.com/wiki/Properties" desc="Property stats and costs from all patches" >}}

@@ -109,6 +109,10 @@ For full escape route breakdowns, see the [Police AI Behavior guide](/schedule-i
 - [Police AI Behavior: Complete Breakdown](/schedule-i/police/evasion/) -- detection distances, chase durations, best hiding spots
 - [NPC Price Index 2026](/schedule-i/npc/dealers/) -- who pays most per product type
 - [10 Common Schedule I Mistakes](/schedule-i/money/common-mistakes/) -- avoid the heat traps beginners fall into
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- police density by zone so you can plan safe selling routes
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- set up your production in a low-heat zone (Motel area)
+- [Casino Strategy](/schedule-i/money/casino-strategy/) -- zero-heat gambling alternative to selling
+- [Workshop Automation](/schedule-i/automation/workshop/) -- run your operation at minimal active play and heat exposure
 
 {{< resourcegrid >}}
   {{< resourcecard name="Police Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Police" desc="Wanted level mechanics reference" >}}

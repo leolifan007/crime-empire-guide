@@ -10,7 +10,7 @@ weight: 2
 description: "How to upgrade your tools, unlock advanced equipment like the Master Key and Invisibility Tool (Update 1.3), and prioritize tool investments for endgame heists."
 ---
 
-Basic tools get the job done, but upgraded versions save time, reduce noise, and fail less often. I went from breaking a lockpick every 2-3 heists to going 10+ on the professional set.
+Basic tools get the job done, but upgraded versions save time, reduce noise, and fail less often. I went from breaking a lockpick every 2-3 heists to going 10+ on the professional set. The [complete tools guide](/crime-sim/tools/complete-tools-guide/) has the full list of basic tools and their starting stats.
 
 The Master Key from Update 1.3 is the best late-game tool investment I have unlocked. It opens most standard locks instantly, dramatically speeding up heists.
 
@@ -25,7 +25,7 @@ Each tool type has multiple quality tiers. Higher tiers are more expensive but b
 | Professional | Pro Lockpick Set | ~$1,200 | Low (every 10+) | $400-$600 | Rank 4-5 |
 | Premium | Master Key (1.3) | Premium | Very Low | $800+ | 1.3 content |
 
-Higher tiers unlock larger sweet spots on lockpicking mini-games and generate less noise. The difference between Basic and Standard is immediately noticeable -- you will break your Basic lockpick on the second or third door of a multi-room house, while a Standard pick handles a whole run.
+Higher tiers unlock larger sweet spots on lockpicking mini-games and generate less noise. The difference between Basic and Standard is immediately noticeable -- you will break your Basic lockpick on the second or third door of a multi-room house, while a Standard pick handles a whole run. The [skill leaflets guide](/crime-sim/skills/skill-leaflets-guide/) lists perks that reduce tool break rate.
 
 ## Advanced Tools
 
@@ -33,7 +33,7 @@ Higher tiers unlock larger sweet spots on lockpicking mini-games and generate le
 
 Opens most standard residential locks instantly without a mini-game. Does not work on electronic locks or high-security safes. I use it on every standard door. Combined with the hacking tool for electronic locks, it covers about 80% of entry points.
 
-**Where to unlock:** The Master Key is part of the Update 1.3 content progression. You need to progress through the 1.3 content chain to access it. It is not purchasable from the standard tool shop.
+**Where to unlock:** The Master Key is part of the Update 1.3 content progression. You need to progress through the 1.3 content chain to access it. It is not purchasable from the standard tool shop. The [fast money guide](/crime-sim/money/fast-money-guide/) covers how to fund your tool upgrade path efficiently.
 
 **Best use cases:**
 - Speed runs where every second counts

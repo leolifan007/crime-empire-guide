@@ -9,7 +9,7 @@ weight: 3
 description: "Complete guide to Crime Simulator hideouts -- which safe houses to buy, upgrade priorities, storage management tips, and how to protect your loot."
 ---
 
-Your hideout is more than just a place to store loot. It is your operations center, your safe zone, and the key to long-term progression. Choosing the right upgrades and managing your storage effectively can double your earning potential.
+Your hideout is more than just a place to store loot. It is your operations center, your safe zone, and the key to long-term progression. Choosing the right upgrades and managing your storage effectively can double your earning potential. The [loot locations guide](/crime-sim/loot/loot-locations-and-values/) helps you stock what actually sells.
 
 ## Hideout Basics
 
@@ -27,6 +27,8 @@ Your hideout has limited storage space. Managing it well is essential.
 | Storage Upgrade | Base Capacity | After Storage Rack | After Both |
 |:--------------:|:-------------:|:------------------:|:----------:|
 | Standard | 20 slots | 30 slots | 40 slots |
+
+Basement upgrades require gold bars -- the [gold bars guide](/crime-sim/money/gold-bars-and-jewelry-guide/) explains the full economy.
 
 {{< callout "tip" >}}
 Storage management rule: keep high-value items for requests, sell everything else immediately. Your hideout is not a museum -- it is a staging area. I keep 2-3 laptops, 2-3 jewelry pieces, and 1-2 gold bars. Everything else gets fenced immediately.

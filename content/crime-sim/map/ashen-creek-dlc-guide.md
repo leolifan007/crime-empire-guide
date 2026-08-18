@@ -3,8 +3,6 @@ title: "Crime Simulator Ashen Creek DLC Guide: New Map, Targets and Traps"
 date: 2026-08-19
 lastmod: 2026-08-19T00:15:00+08:00
 draft: false
-hidden: true
-publishDate: 2026-08-20T08:36:00+08:00
 game: crime-sim
 version: "1.55"
 tags: [dlc, map, ashen-creek, heist]

@@ -30,7 +30,7 @@ The starting area. Contains:
 - **Convenience Store** (central). Donuts and basic items.
 - **Gas Station** (north edge). Fuel, Energy Drinks, basic ingredients.
 
-**Selling strategy:** High police density makes downtown risky for street dealing. Use this zone for shopping and property purchases only. Do your street sales in the Motel area.
+**Selling strategy:** High police density makes downtown risky for street dealing. Check the [Heat System guide](/schedule-i/police/heat-system/) for zone-specific heat limits. Use this zone for shopping and property purchases only. Do your street sales in the Motel area.
 
 {{< section "Motel Area (East)" >}}
 
@@ -40,7 +40,7 @@ The best early-game zone. Contains:
 - **Trash spawns:** 3-4 bags behind motel, restock daily
 - **Parking garage:** rooftop hiding spot (police escape)
 
-**Selling strategy:** Lowest police density in the game. Perfect for street dealing and dealer assignments. Buy the Bungalow here first.
+**Selling strategy:** Lowest police density in the game. Perfect for street dealing and [dealer assignments](/schedule-i/npc/dealers/). [Buy the Bungalow](/schedule-i/property/bungalow-setup/) here first.
 
 {{< section "Industrial Zone (North)" >}}
 
@@ -49,7 +49,7 @@ Mid-game zone, unlocked at Dealer rank. Contains:
 - **Shirley Watts' stash:** West face of Warehouse
 - **Fungal Phil's stash:** Behind Gas-Mart
 
-**Selling strategy:** Medium police density. Use dealers here instead of street selling. The Barn's 2-floor layout takes time to optimize.
+**Selling strategy:** Medium police density. Use dealers here instead of street selling. The [Barn](/schedule-i/automation/barn-and-warehouse/)'s 2-floor layout takes time to optimize.
 
 {{< section "Docks (Far East)" >}}
 
@@ -65,7 +65,17 @@ The northern highway has the casino and several vending machines. No properties 
 
 {{< section "Related Guides" >}}
 
-See also: [Map Zones and Key Locations](/schedule-i/expansion/map-zones-guide/) for finding ingredient sources and [All Properties Ranked](/schedule-i/property/property-rankings/) for upgrade timing.
+See also: [All Properties Ranked](/schedule-i/property/property-rankings/) for upgrade timing.
+
+## Related Guides
+
+- [Heat System](/schedule-i/police/heat-system/) -- police density per zone and heat risk by district
+- [Police Evasion](/schedule-i/police/evasion/) -- escape routes and hiding spots in each zone
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- the Bungalow is in the Motel area, the best early-game zone
+- [Barn and Warehouse](/schedule-i/automation/barn-and-warehouse/) -- the Barn is in Industrial Zone, mid-game property
+- [Dealers](/schedule-i/npc/dealers/) -- zone-specific dealer spawns and locations
+- [Casino Strategy](/schedule-i/money/casino-strategy/) -- casino zone (Highway North) gambling guide
+- [All Properties Ranked](/schedule-i/property/property-rankings/) -- which zones to prioritize for property purchases
 
 {{< resourcegrid >}}
   {{< resourcecard name="All Properties Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3650832699" desc="v0.4.5 property guide" >}}

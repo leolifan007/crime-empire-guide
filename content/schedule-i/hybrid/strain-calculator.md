@@ -11,7 +11,7 @@ weight: 9
 **Short answer:** Early game (Tutorial-Hoodlum): OG Kush 4-mix with cheap additives ($120-150/unit). Mid game (Hustler-Dealer): Premium OG Kush 4-mix with Horse Semen + Mega Bean ($150-170/unit). Late game (Hoodlum V-Kingpin): Cocaine 8-9 mix ($450-717/unit). The decision depends on your available equipment, not just your rank.
 {{< /callout >}}
 
-This is a decision table -- not a calculator. It tells you what strain to make at each game stage based on available ingredients, equipment, and automation level.
+This is a decision table -- not a calculator. It tells you what strain to make at each game stage based on available ingredients, equipment, and automation level. For per-unit profit numbers on each recipe, cross-reference with the [recipe profit rankings](/schedule-i/recipes/profit/).
 
 ## Decision Table: What To Make At Each Stage
 
@@ -26,6 +26,8 @@ This is a decision table -- not a calculator. It tells you what strain to make a
 | Late I | Hoodlum V | Crystal 6-mix | Pseudo + Iodine + 4 additives | Lab oven, 4 Mixing Stations | $350-400 | ~$200-280 | ~$800-1,120 |
 | Late II | Kingpin I | Cocaine 8-mix | Coca + 7 premium ingredients | 5 Mixing Stations, Barn | $600-650 | ~$380-470 | ~$2,280-2,820 |
 | Endgame | Kingpin III-V | God Mix (Cocaine 9-mix) | Coca + 8 premium ingredients | 5 Mixing Stations, Warehouse | $717 | ~$467-517 | ~$2,802-3,102 |
+
+Once you know what to make, see the [Bungalow workshop guide](/schedule-i/automation/workshop/) for how to automate production at each stage.
 
 **Source:** Data cross-referenced from PC Gamer best mixing recipes (April 2026), Reddit highest profit strains thread (May 2025), Steam Community mixing database, and Fandom Wiki.
 
@@ -100,6 +102,9 @@ For the full ranked list of community-discovered strains, see [Top 10 Community 
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- ranked with ingredient lists
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality affects strain value
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- when to scale up production
+- [Profit Rankings](/schedule-i/recipes/profit/) -- full per-unit profit for every strain tier
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- the easiest high-value strain to calculate first
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- which property to use for each growth stage
 
 {{< resourcegrid >}}
   {{< resourcecard name="Schedule 1 Calculator" url="https://schedule-1-calculator.com/" desc="Real-time ingredient chain calculator" >}}

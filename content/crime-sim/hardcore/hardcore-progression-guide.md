@@ -12,6 +12,8 @@ description: "A structured progression plan for Crime Simulator Hardcore mode --
 
 This assumes you have read the [Hardcore Survival Guide](/crime-sim/hardcore/hardcore-survival-guide/) first. If you have not completed a single Hardcore heist yet, start there. This covers the longer arc from first heist to endgame mastery.
 
+Once you are past the survival stage, the [tools guide](/crime-sim/tools/complete-tools-guide/) lists the exact purchase order that minimizes risk.
+
 ## Phase 1: The First Heist (Rank Apprentice)
 
 Your first Hardcore heist is the most dangerous because you have zero tools and zero skill leaves. I accept the lowest-risk house from the job board, enter through a window (quieter than crowbar on a door), grab only 3-4 visible items, exit within 60 seconds, and sell everything immediately.

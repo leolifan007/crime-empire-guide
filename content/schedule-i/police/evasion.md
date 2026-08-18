@@ -44,7 +44,7 @@ Once a cop has sighted you, the chase timer starts. The duration depends on your
 
 ### Practical Example
 
-You trigger a Level 2 Wanted status by selling on Main Street during daytime. A cop is 20m away and starts sprinting toward you.
+You trigger a Level 2 Wanted status by selling on Main Street during daytime — exactly the situation the [common mistakes guide](/schedule-i/money/common-mistakes/) warns about. A cop is 20m away and starts sprinting toward you.
 
 **Step 1:** Sprint perpendicular (east, into the alley behind the pizza place). This breaks LOS in about 2 seconds.
 
@@ -114,6 +114,9 @@ For the full heat value reference, see the [Heat Risk Calculator](/schedule-i/po
 - [Heat Risk Calculator](/schedule-i/police/heat-system/) -- exact heat values per action
 - [10 Common Schedule I Mistakes](/schedule-i/money/common-mistakes/) -- avoid the police traps beginners fall into
 - [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- set up production away from patrol routes
+- [Map Zones Guide](/schedule-i/expansion/map-zones-guide/) -- police density per zone and safe selling districts
+- [Casino Strategy](/schedule-i/money/casino-strategy/) -- safe zones for gambling runs with zero police risk
+- [Common Mistakes](/schedule-i/money/common-mistakes/) -- specific heat-generating actions to avoid in each zone
 
 {{< resourcegrid >}}
   {{< resourcecard name="Police Wiki (Fandom)" url="https://schedule-1.fandom.com/wiki/Police" desc="Official police mechanics page" >}}

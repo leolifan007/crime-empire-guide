@@ -39,7 +39,7 @@ Data cross-referenced from community testing on r/Schedule_I, PC Gamer employee 
 - **What you do:** Grow, harvest, mix, and sell everything yourself
 - **Gear needed:** Pots ($50), soil ($10/bag), seeds ($10-50), basic Mixing Station ($100)
 - **Daily output:** 4-6 bags of 2-mix product
-- **Best product:** OG Kush 4-mix ($120-150/bag)
+- **Best product:** OG Kush 4-mix ($120-150/bag) -- see the [Profit Rankings](/schedule-i/recipes/profit/) for the full per-unit breakdown by recipe
 - **Daily revenue:** $500-900
 - **Income/hr real time:** ~$5,000-8,000
 - **Best for:** First 2 hours of gameplay (Hoodlum-Hustler rank)
@@ -58,7 +58,7 @@ Data cross-referenced from community testing on r/Schedule_I, PC Gamer employee 
 - **What you do:** Occasional supply restock, customer management
 - **Workers:** 2 Chemists + 3 Handlers + 2 Packers + 1 Botanist (optional)
 - **Daily output:** 30-40 bags of 4-6 mix product
-- **Best product:** Premium Weed 4-mix ($150-200) or Cocaine 4-mix ($200-250)
+- **Best product:** [Premium Weed 4-mix](/schedule-i/recipes/profit/) ($150-200) or Cocaine 4-mix ($200-250) -- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) is the easiest high-profit recipe to automate first at Barn scale
 - **Daily revenue:** $4,500-8,000
 - **After wages:** $2,000-5,500/day net
 - **Break-even:** 5-8 in-game days on setup
@@ -68,7 +68,7 @@ Data cross-referenced from community testing on r/Schedule_I, PC Gamer employee 
 - **What you do:** Collect money, occasionally expand
 - **Workers:** 4 Chemists + 4 Handlers + 2 Packers + 2 Botanists
 - **Daily output:** 60-80 bags of 8-9 mix product
-- **Best product:** Cocaine 8-mix ($450-600/bag)
+- **Best product:** Cocaine 8-mix ($450-600/bag) -- [Profit Rankings](/schedule-i/recipes/profit/) for the full Cocaine 9-mix endgame recipe
 - **Daily revenue:** $27,000-48,000
 - **After wages:** $21,500-42,500/day net
 - **Break-even:** 4-6 in-game days on setup
@@ -127,6 +127,10 @@ For the exact setup steps, see the [Bungalow 8-Step Automation Blueprint](/sched
 - [Bungalow 8-Step Automation Blueprint](/schedule-i/automation/workshop/) -- exact build order for partial automation
 - [Schedule I Endgame Guide](/schedule-i/automation/endgame-guide/) -- what to do after full automation
 - [Product Quality vs Price Guide](/schedule-i/money/quality-profit-guide/) -- how quality scales with automation
+- [Profit Rankings](/schedule-i/recipes/profit/) -- which recipes to run at each automation tier
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- easiest high-profit recipe to automate first
+- [Mixing Recipes](/schedule-i/hybrid/mixing-recipes/) -- custom strain crafting for maximum per-unit profit
+- [Bungalow Setup](/schedule-i/property/bungalow-setup/) -- the tier-2 property that funds the Barn upgrade
 
 {{< resourcegrid >}}
   {{< resourcecard name="Barn Setup (ScalaCube)" url="https://scalacube.com/blog/schedule-1/best-barn-setup-in-schedule-1" desc="Step-by-step barn layout" >}}

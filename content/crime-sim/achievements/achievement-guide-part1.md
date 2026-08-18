@@ -1,114 +1,115 @@
-﻿---
+---
 title: "Crime Simulator Achievement Guide Part 1: Easy to Medium Achievements"
-date: 2026-06-09
-draft: false
+date: 2026-06-18
+draft: false
 game: crime-sim
 tags: [achievements, guide, steam, walkthrough]
 weight: 1
-description: "Part 1 of the complete Crime Simulator achievement guide. Covers the first 30 achievements -- from tutorial completion to mid-game milestones, with step-by-step instructions."
+description: "Complete Crime Simulator achievement guide part 1 - easy to medium achievements. Covers tutorial, progression, and loot-based achievements with exact unlock conditions and strategy tips."
 ---
+
+Crime Simulator has 60 Steam achievements total. About half come naturally through normal gameplay -- you will get the first 15-20 without trying. The rest require specific strategies. This guide covers the first 32 achievements (Very Easy to Medium difficulty).
 
 {{< callout "info" >}}
-Crime Simulator has 60 Steam achievements total. About half of them come naturally through normal gameplay. This guide covers the 30 easiest achievements you can get in your first 10 hours.
+Use **Completionist mode** for achievement hunting. It removes quota pressure and gives unlimited time. In Standard mode, quota deadlines interrupt focused achievement runs. Switch modes from the main menu before starting a new game.
 {{< /callout >}}
 
-## How Achievement Hunting Works
+## Achievement Overview
 
-Crime Simulator tracks achievements across all save files and game modes. You do not need 100% achievements in a single run. Use Completionist mode for hunting -- it removes quota pressure and lets you take all the time you need.
+| Category | Count | Difficulty | Typical Playtime |
+|----------|-------|------------|-----------------:|
+| Tutorial | 5 | Very Easy | First 10 min |
+| Progression (Rank) | 10 | Easy | 1-3 hours |
+| Loot & Money | 8 | Easy-Medium | 2-4 hours |
+| Challenges | 9 | Medium | 4-8 hours |
+| Hard (covered in Part 2) | 18 | Hard-Very Hard | 10-30 hours |
+| Update 1.3 (covered in Part 2) | 10 | Medium-Hard | 3-8 hours |
 
-### Key Achievement Categories
+## Tutorial Achievements (Auto-Unlock)
 
-| Category | Count | Difficulty |
-|----------|-------|------------|
-| Tutorial/Introduction | 5 | Very Easy |
-| Progression (rank-based) | 10 | Easy |
-| Collection (items/loot) | 8 | Medium |
-| Skill (leaflet-based) | 7 | Medium |
-| Challenge (special conditions) | 30 | Hard to Very Hard |
+These five achievements unlock during the first few minutes. You cannot miss them.
 
-## Tutorial Achievements (5)
+| Achievement | Requirement | Unlock Rate |
+|-------------|-------------|:----------:|
+| Understood? | Complete the tutorial | 96% |
+| Whoops | Die for the first time | 77% |
+| Yeah, I can do that | Complete 5 jobs | 74% |
+| Money maker | Earn $5,000 total | 72% |
+| Gimme credits | Earn 1,000 credits in one game | 71% |
 
-These are obtained simply by completing the tutorial.
-
-| Achievement | Requirement | Notes |
-|------------|-------------|-------|
-| Understood? | Complete the tutorial | Unskippable, takes about 5 minutes |
-| Money maker | Make $5,000 total | Earned naturally within first few runs |
-| Apprentice | Reach Rank 4 | Tutorial completion usually gives Rank 1-2 |
-| First score | Sell your first item | Use the crowbar and fence any item |
-| Tool user | Use any tool for the first time | Equip and use the crowbar |
-
-## Progression Achievements (10)
-
-These track your career milestones across all game modes.
-
-| Achievement | Requirement | Estimated Time |
-|-------------|-------------|----------------|
-| Apprentice thief | Steal 25 items in one session | About 3-5 house runs |
-| Master thief | Steal 100 items in one session | About 10-12 house runs |
-| Rank climber | Reach Rank 4 | About 3-5 quota cycles |
-| Professional | Reach Rank 6 | About 8-12 quota cycles |
-| Insane victory | Complete 5 challenges in one game | Takes planning -- stack easy challenges |
-| Master challenger | Complete 10 challenges in one game | Requires efficient routing |
-| First arrest | Get arrested once | Deliberately fail an escape (do this early) |
-| Escape artist | Escape police 3 times | Natural progression |
-| Clean record | Complete 3 runs without arrest | Use safe houses only |
-| Tool collector | Collect 10 unique tool types | Buy all available tools from the shop |
-
-{{< callout "tip" >}}
-For "Insane victory" and "Master challenger", plan your route to stack challenges. Challenges like "steal 5 electronics," "disable 2 alarms," and "open 3 locked doors" can be done in the same house. Save challenges for a large multi-room target.
-{{< /callout >}}
-
-## Collection Achievements (8)
-
-These require finding and selling or keeping specific items.
-
-| Achievement | Requirement | Tips |
-|-------------|-------------|------|
-| Item hoarder | Have 20 unique items in stash | Collect every item type you see |
-| Junk collector | Sell 50 low-value items | Kitchen appliances and decorations count |
-| Electronics expert | Sell 25 electronics | Laptops, phones, tablets, game consoles |
-| Jewelry lover | Find 10 pieces of jewelry | Check bedroom dressers and safes |
-| Safe cracker | Open 10 safes | Requires blowtorch -- prioritize safes |
-| Lockpick master | Pick 50 locks | Natural progression across runs |
-| Window shopper | Enter through windows 20 times | Use window entry whenever possible |
-| Heavy lifter | Carry 10 items in one run | Max out your capacity per trip |
-
-## Easy Skill Achievements (7)
-
-These come from skill leaflet collection.
-
-| Achievement | Requirement | How to Get |
-|-------------|-------------|------------|
-| Student | Learn your first skill | Open your first skill leaflet |
-| Scholar | Learn 5 skills | Hunt leaflets in medium-security houses |
-| Professor | Learn 10 skills | Requires late-game leaflet hunting |
-| Skillful | Collect 3 duplicate leaflets | Sell 3 duplicate skill leaflets |
-| Knowledge is power | Read 20 skill leaflets | Some leaflets are random drops |
-| Jack of all trades | Learn one skill from each category | Requires diverse hunting |
-| Specialized | Max out one skill tree | Invest all points in one category |
+"Understood?" unlocks as soon as the tutorial jail-break sequence ends. "Whoops" requires your first death -- jump off a second-story balcony if you want it fast.
 
 {{< insight >}}
-Completionist mode is the best way to hunt these achievements. With no quota deadline, you can revisit houses after loot respawns and check every container for skill leaflets. Use the job board to identify houses with "special loot" indicators.
+**Money maker** and **Gimme credits** will unlock naturally in your first 30 minutes. Credits are earned by completing jobs (heist missions). Focus on the tool shop job first -- it pays 200 credits and is available immediately.
 {{< /insight >}}
 
-## Strategy: Achievement Stacking
+## Rank Progression Achievements
 
-You can earn multiple achievements in a single well-planned run:
+Ranking up is the core progression loop. The rank determines which tools, zones, and jobs are available.
 
-1. Choose a large house with multiple rooms
-2. Enter through a window (Window shopper progress)
-3. Pick all locked doors (Lockpick master progress)
-4. Open the safe if present (Safe cracker progress)
-5. Collect electronics and jewelry
-6. Complete any active challenges during the run
-7. Sell everything at the fence
+| Achievement | Requirement | Time to Unlock |
+|-------------|-------------|:--------------:|
+| Apprentice | Reach Rank 4 | ~30 min |
+| Professional | Reach Rank 8 | ~1 hr |
+| Expert | Reach Rank 12 | ~2 hr |
+| Master | Reach Rank 16 | ~3 hr |
+| World Class | Reach Rank 20 | ~5 hr |
+| Legendary | Reach Rank 25 | ~8 hr |
 
-This approach completes collection, tool usage, and progression achievements simultaneously.
+{{< callout "tip" >}}
+Fastest rank-up strategy: focus on completing item request lists. See the [Getting Started guide](/crime-sim/basics/getting-started/) for a full walkthrough of the first 30 minutes. Each completed list gives roughly 2x the rank XP of a normal job. Check the request board at your hideout before every run and prioritize those items.
+{{< /callout >}}
 
----
+Rank 4 (Apprentice) unlocks the tool upgrade shop. Rank 8 (Professional) unlocks a second job district. Rank 16 (Master) gives access to alarm-disabling tools.
+
+## Loot & Money Achievements
+
+| Achievement | Requirement | Strategy |
+|-------------|-------------|----------|
+| Appretince thief | Steal 25 items in one game | Hit 2-3 small houses -- grab everything |
+| Master thief | Steal 100 items in one game | Dedicated run, hit 6+ houses |
+| Hoarder | $25,000 worth of loot in hideout | Save high-value items, dont sell early |
+| Golden card | Complete 3 heists in one game | Focus on heist targets on map |
+| Clock is ticking | Complete 2 timed challenges | Timed challenges appear after Rank 6 |
+| Sneaky | Complete a job without triggering any alarm | Use silenced tools on cameras first |
+| Collector | Own 1 of each tool type at hideout | Buy all tool tiers once unlocked |
+
+{{< insight >}}
+**Hoarder** is the most delayed of this group. The requirement is $25K total loot value stored at your hideout (not cash). Focus on electronics (laptops, tablets) and jewelry -- they have the best value-to-slot ratio. The [loot locations guide](/crime-sim/loot/loot-locations-and-values/) has exact house-by-house breakdowns. Gold bars are best but rare. Check kitchen counters and bedroom drawers first.
+{{< /insight >}}
+
+For **Master thief** (100 items), I recommend a Completionist mode run. Since there is no time pressure, you can methodically clear every container in each house. A single large house has 15-25 lootable items. Hit 5-6 houses and you are done.
+
+For **Golden card** (3 heists), heist missions unlock around Rank 10 and appear on the map with a briefcase icon. Each heist takes 5-10 minutes with proper gear (blowtorch, drill, hacking tool). Plan your route so you can hit all 3 in one session.
+
+## Challenge Achievements
+
+| Achievement | Requirement | Notes |
+|-------------|-------------|-------|
+| Delivery of a lifetime | Complete all item request lists in one game | Plan routes around requests |
+| Full house | Have 5 active jobs available at once | Unlocks naturally by Rank 14 |
+| Cautious | Win with max 3 police calls | Hard mode recommended |
+| Insane victory | Complete the game on Master difficulty | Hardest of the medium tier |
+| Tree and free | Escape police 3 times in one run | After police calls, hide in alley until bar depletes |
+
+**Delivery of a lifetime** is the most time-sensitive. Item request lists appear at your hideout board. Each list has 3-5 items. You must deliver all of them in a single game (one session from start to finish). I recommend:
+1. Play on Standard difficulty (Completionist mode has more lists, making this harder)
+2. Do not sell any loot until you have checked the request board
+3. Stash requested items in your hideout storage
+4. Turn them in as soon as you have a full list
+
+**Cautious** (max 3 police calls) requires careful play. Police are triggered by: alarms, being spotted by residents, breaking windows in view of neighbors, and using loud tools. Stick to silent methods: lockpicks over drills, silenced crowbar for doors, and always disable cameras first.
+
+## Progression Tips
+
+- Achievement hunting order: Tutorial > Rank > Loot > Challenges > Hard (see Part 2)
+- Most medium achievements can be combined in a single Completionist run
+- You can check your achievement progress in Steam Shift+Tab overlay without leaving the game
+- If you are stuck on a specific achievement, check the Steam Community guides linked below
 
 {{< resourcegrid >}}
-  {{< resourcecard name="100% Achievements Guide (Steam)" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3573125828" desc="Community achievement guide (work in progress)" >}}
-  {{< resourcecard name="TrueSteamAchievements" url="https://truesteamachievements.com/game/Crime-Simulator/achievements" desc="Full list of all 60 achievements with unlock stats" >}}
+  {{< resourcecard name="Full Achievement List" url="https://truesteamachievements.com/game/Crime-Simulator/achievements" desc="All 60 achievements with unlock percentages and community guides" >}}
+  {{< resourcecard name="Steam Community Achievement Guide" url="https://steamcommunity.com/sharedfiles/filedetails/?id=3573125828" desc="WIP community guide with strategies for every achievement" >}}
+  {{< resourcecard name="Steam Hunters Stats" url="https://steamhunters.com/apps/2737070/achievements" desc="Completion times, rarity stats, and player leaderboards" >}}
+  {{< resourcecard name="Crime Simulator Part 2" url="/crime-sim/achievements/achievement-guide-part2/" desc="Hard and Very Hard achievements guide" >}}
 {{< /resourcegrid >}}

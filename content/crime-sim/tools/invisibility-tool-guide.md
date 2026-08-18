@@ -3,8 +3,6 @@ title: "Crime Simulator Invisibility Tool: How to Unlock It and What It Does"
 date: 2026-08-19
 lastmod: 2026-08-19T00:10:00+08:00
 draft: false
-hidden: true
-publishDate: 2026-08-19T11:47:00+08:00
 game: crime-sim
 version: "1.55"
 tags: [tools, unlock, world-bonus, stealth]

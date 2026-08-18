@@ -80,16 +80,17 @@ Hire 1 Handler (unlocked at Hustler I). Set up exactly 4 routes:
 
 - **Wage:** ~$200/day (hire fee: ~$1,500 + $100 per existing employee)
 - **Route limit:** Keep at 4 routes max. Community testing shows route errors spike above 6 routes. With 4 routes, error rate is near zero.
-- **Bottleneck alert:** The Bungalow's limited shelf space means you can only stock 2 ingredient types per shelf. Keep recipes to 2-3 ingredients max.
+- **Bottleneck alert:** The Bungalow's limited shelf space means you can only stock 2 ingredient types per shelf. Keep recipes to 2-3 ingredients max. For the most profitable combos that fit this constraint, check the [community mixing guide](/schedule-i/hybrid/mixing-recipes/). For the single highest-profit-per-effort mix to automate first, see the [Triple Dollar Strain guide](/schedule-i/recipes/triple-dollar-strain/).
 
 ## Step 8: Set Up Delivery Supply (Day 5+)
 
-Use Albert Hoover's Delivery app (unlocked at max relationship) to auto-supply your shelves.
+Use [Albert Hoover's Delivery app](/schedule-i/npc/suppliers/) (unlocked at max relationship) to auto-supply your shelves.
 
 - **Order sizes:** 15-20 units per delivery (lasts 3-4 in-game days at 8-12 bags/day production)
 - **Cost:** ~$200-300 per delivery
 - **Frequency:** Order every 3 in-game days
 - **Dead Drop vs Delivery:** Use Dead Drops for relationship building (first 8-10 orders), then switch to Delivery for regular supply.
+- **Police risk:** Running delivery routes while at high heat draws patrol attention fast. Keep heat below Level 2 when doing regular supply runs. For exact heat values per action, see the [Heat System guide](/schedule-i/police/heat-system/).
 
 {{< contentbox >}}
 **Bungalow Automation Troubleshooting Quick Reference:**
@@ -134,13 +135,17 @@ You're at Hustler II rank with $40,000 saved. You buy the Bungalow ($30,000) and
 
 **Post break-even daily profit:** ~$600-800/day (net of wages).
 
-For scaling beyond the Bungalow, see the [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/).
+For scaling beyond the Bungalow, see the [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/). If you hit the Bungalow cap and want to accelerate cash before committing to the Barn upgrade, the [Casino strategy](/schedule-i/money/casino-strategy/) can add $5-15K in a single session without any heat risk.
 
 ## Related Guides
 
 - [Manual vs Automation ROI Comparison](/schedule-i/automation/barn-and-warehouse/) -- when to upgrade to Barn
 - [Schedule I Endgame Guide](/schedule-i/automation/endgame-guide/) -- what to do after full automation
 - [Top 10 Community Custom Strains By Profit](/schedule-i/hybrid/mixing-recipes/) -- which recipes to automate first
+- [Triple Dollar Strain](/schedule-i/recipes/triple-dollar-strain/) -- highest-profit-per-effort mix to automate first
+- [Heat System](/schedule-i/police/heat-system/) -- manage heat while running delivery supply routes
+- [Casino Strategy](/schedule-i/money/casino-strategy/) -- supplement income between automation cycles
+- [Property Rankings](/schedule-i/property/property-rankings/) -- when to move from Bungalow to the next property
 
 {{< resourcegrid >}}
   {{< resourcecard name="7 Automation Tricks (Reddit)" url="https://www.reddit.com/r/Schedule_I/comments/1k4jp3c/7_most_important_automation_tricks_i_learned/" desc="Community-vetted tips for smoother operations" >}}

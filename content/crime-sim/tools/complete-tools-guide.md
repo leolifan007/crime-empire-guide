@@ -10,7 +10,7 @@ weight: 1
 description: "Complete breakdown of every tool in Crime Simulator -- lockpicks, drill, glass knife, blowtorch, cable ties, and more -- with use cases and upgrade priorities."
 ---
 
-I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything.
+I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything. The [tool upgrades guide](/crime-sim/tools/tool-upgrades-and-advanced/) explains what each upgrade tier does.
 
 Prioritize the lockpick set first. It replaces the noisy crowbar on most locked doors and pays for itself within 2-3 heists.
 
@@ -25,6 +25,8 @@ Crime Simulator has a growing arsenal of tools for breaking in, disabling securi
 **Crowbar** -- Your starter tool. Works on doors, windows, and crates. Loud. Use it only as backup or for breaking into non-essential containers. I stopped carrying a crowbar after getting the basic lockpick set.
 
 **Flashlight** -- Many interiors are dark. Without it, you miss loot in corners and on shelves. A must-have for every run. The pro version has a wider beam and longer battery.
+
+For which tools to unlock via skill leaflets rather than purchase, see the [skill leaflets guide](/crime-sim/skills/skill-leaflets-guide/).
 
 **Sleeping gas** -- Neutralizes a single NPC silently. I use it when a guard is patrolling a room I need to search. One can per NPC. Do not use it near other NPCs -- they will notice the gas cloud and raise an alarm.
 
