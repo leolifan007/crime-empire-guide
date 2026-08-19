@@ -6,7 +6,7 @@
     <description>Recent content in GAME Guide - No Fluff, Just Fixes on Crime Empire Guide</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:30:00 +0800</lastBuildDate>
     <atom:link href="https://crimempire.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crime Simulator 1.5 Update Guide: Chemist&#39;s Workshop, New Furniture and Scoring Changes</title>
@@ -280,6 +280,34 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://crimempire.com/crime-sim/tools/invisibility-tool-guide/</guid>
       <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Yes, the Invisibility Tool is in the game. Activating it makes you invisible for about 60 seconds - police officers and helicopters cannot see you during that window. It is unlocked through the &lt;strong&gt;world bonus&lt;/strong&gt; system (world rewards), not the regular tool shop. You earn world bonuses by completing playthroughs, and the tool becomes purchasable after you have unlocked enough of them.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;what-the-tool-actually-does&#34;&gt;What the Tool Actually Does&lt;/h2&gt;&#xA;&lt;p&gt;Community testing on r/CrimeSimulator confirms the effect: &amp;quot;You are invisible for 60 secs and police cant see you neither can a chopper.&amp;quot; Two practical uses follow from that:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Get Lockpicks in Crime Simulator: Lockpick Set, Bobby Pin and More</title>
+      <link>https://crimempire.com/crime-sim/basics/how-to-get-lockpicks/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/basics/how-to-get-lockpicks/</guid>
+      <description>&lt;p&gt;If you have been relying on the crowbar for every locked door, you are making every heist louder and slower than it needs to be. Lockpick tools let you open locks silently -- the difference between a clean escape and a police chase. Here is the complete progression for every lockpick tool in Crime Simulator.&lt;/p&gt;&#xA;&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Lockpick tool quick reference:&lt;/strong&gt; Basic Lockpick Set (buy at shop, basic doors) → Bobby Pin (find in runs, advanced locks) → Advanced Lockpicking skill leaflet (tool boxes/garages) → Master Lockpick Set (world bonus reward, master locks).&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;lockpick-tool-progression&#34;&gt;Lockpick Tool Progression&lt;/h2&gt;&#xA;&lt;p&gt;Crime Simulator has three tiers of lockpick tools, each unlocking progressively harder locks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Improve Staff Fast in Drug Dealer Simulator 2</title>
+      <link>https://crimempire.com/dds2/staff/how-to-improve-staff/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/dds2/staff/how-to-improve-staff/</guid>
+      <description>&lt;p&gt;If your dealers are idle or your lab technicians are producing below capacity, the bottleneck is almost never the employee count. It is setup. Drug Dealer Simulator 2 has a specific set of mechanics that determine whether your staff produces or wastes your inventory. Here are the five fixes that move the needle.&lt;/p&gt;&#xA;&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Staff efficiency quick checklist:&lt;/strong&gt; Every session, verify (1) all active dealers have an assigned dealer spot, (2) dealer spots have stock, (3) lab technicians are actively cooking, (4) no employees are unassigned, (5) regional reputation is stable or rising. Items 1-2 alone fix most idle-dealer problems.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;1-assign-dealers-to-dealer-spots-first&#34;&gt;1. Assign Dealers to Dealer Spots First&lt;/h2&gt;&#xA;&lt;p&gt;This is the most common mistake new players make: buying dealers but not assigning them to spots.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Unlock Zip Ties in Crime Simulator</title>
+      <link>https://crimempire.com/crime-sim/basics/how-to-unlock-zip-ties/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/basics/how-to-unlock-zip-ties/</guid>
+      <description>&lt;p&gt;Zip ties are one of the most useful stealth tools in Crime Simulator -- restrain a witness and they cannot reach a phone to call the cops. But they are not in the starting shop, and the unlock method is not obvious. Here is what the community has confirmed.&lt;/p&gt;&#xA;&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; Zip ties are a world bonus reward, not a shop purchase. Complete more runs to unlock higher world bonus tiers. Once unlocked, buy them from the regular shop. They last approximately 5-10 seconds per use -- long enough for a clean escape, not long enough to leave an NPC unattended.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;what-zip-ties-do&#34;&gt;What Zip Ties Do&lt;/h2&gt;&#xA;&lt;p&gt;Zip ties restrain an NPC for the duration of the run. While tied up, they cannot:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where to Find Skill Leaflets in Crime Simulator: Spawn Locations Guide</title>
+      <link>https://crimempire.com/crime-sim/skills/skill-leaflets-locations/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://crimempire.com/crime-sim/skills/skill-leaflets-locations/</guid>
+      <description>&lt;p&gt;Skill leaflets are collectible items scattered throughout the Crime Simulator world. Finding the right leaflet and reading it with a skill point is the only way to unlock abilities like Basic Electronics, Jewelry Appraisal, and Advanced Lockpicking. The problem is that leaflets spawn randomly, and the game does not tell you where to look. This guide fixes that.&lt;/p&gt;&#xA;&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Spawn rate priority:&lt;/strong&gt; Dressers/nightstands (highest) &amp;gt; Kitchen drawers &amp;gt; Tool boxes/garage shelves (Advanced Lockpicking specific) &amp;gt; Bathroom cabinets &amp;gt; Display cases/safes (Jewelry Appraisal). Lakeside Street runs give better drops per run than starter houses. If a bad leaflet drops, alt-F4 before saving to keep it in your inventory.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;how-skill-leaflets-work&#34;&gt;How Skill Leaflets Work&lt;/h2&gt;&#xA;&lt;p&gt;Each skill leaflet unlocks a permanent ability when read with a skill point:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bungalow 8-Step Automation Blueprint: Room-by-Room Layout With ROI Timeline</title>

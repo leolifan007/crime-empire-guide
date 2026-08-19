@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
+  </defs>
+  <rect width="720" height="360" fill="url(#bg)" rx="8"/>
+  <rect x="0" y="0" width="720" height="34" fill="rgba(137,87,229,0.08)" rx="8"/>
+  <rect x="0" y="26" width="720" height="8" fill="rgba(137,87,229,0.08)"/>
+  <text x="360" y="22" text-anchor="middle" fill="#a78bfa" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">CRIME SIMULATOR: ZIP TIE UNLOCK PATH</text>
+
+  <!-- Step 1: Complete runs -->
+  <rect x="40" y="56" width="180" height="100" rx="8" fill="rgba(137,87,229,0.05)" stroke="rgba(137,87,229,0.2)" stroke-width="1.2"/>
+  <circle cx="80" cy="80" r="16" fill="rgba(137,87,229,0.2)" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="80" y="85" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="14" font-weight="bold">1</text>
+  <text x="130" y="82" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Complete Runs</text>
+  <text x="130" y="100" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">Finish heists and</text>
+  <text x="130" y="115" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">return to base</text>
+  <text x="130" y="132" text-anchor="middle" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="10">No specific count -</text>
+  <text x="130" y="145" text-anchor="middle" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="10">keeps stacking</text>
+
+  <!-- Arrow 1 -->
+  <text x="234" y="108" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="20">-&gt;</text>
+
+  <!-- Step 2: World bonus tier -->
+  <rect x="250" y="56" width="180" height="100" rx="8" fill="rgba(68,204,68,0.05)" stroke="rgba(68,204,68,0.2)" stroke-width="1.2"/>
+  <circle cx="290" cy="80" r="16" fill="rgba(68,204,68,0.15)" stroke="#44cc44" stroke-width="1.5"/>
+  <text x="290" y="85" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="14" font-weight="bold">2</text>
+  <text x="340" y="82" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Unlock World Bonus</text>
+  <text x="340" y="100" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">Zip ties appear in the</text>
+  <text x="340" y="115" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">world bonus shop after</text>
+  <text x="340" y="130" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">enough runs complete</text>
+  <text x="340" y="145" text-anchor="middle" fill="rgba(68,204,68,0.6)" font-family="Arial,sans-serif" font-size="10">Not a random drop</text>
+
+  <!-- Arrow 2 -->
+  <text x="444" y="108" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="20">-&gt;</text>
+
+  <!-- Step 3: Buy -->
+  <rect x="460" y="56" width="180" height="100" rx="8" fill="rgba(212,168,67,0.05)" stroke="rgba(212,168,67,0.2)" stroke-width="1.2"/>
+  <circle cx="500" cy="80" r="16" fill="rgba(212,168,67,0.12)" stroke="#d4a843" stroke-width="1.5"/>
+  <text x="500" y="85" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="14" font-weight="bold">3</text>
+  <text x="550" y="82" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Buy from Shop</text>
+  <text x="550" y="100" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">Once unlocked, zip ties</text>
+  <text x="550" y="115" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">appear in the regular</text>
+  <text x="550" y="130" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="11">shop inventory</text>
+  <text x="550" y="145" text-anchor="middle" fill="rgba(212,168,67,0.6)" font-family="Arial,sans-serif" font-size="10">Consumable - 1 use</text>
+
+  <!-- ===== Usage Notes Box ===== -->
+  <rect x="40" y="176" width="600" height="160" rx="8" fill="rgba(137,87,229,0.02)" stroke="rgba(137,87,229,0.1)" stroke-width="1"/>
+  <rect x="40" y="176" width="600" height="24" rx="8" fill="rgba(137,87,229,0.06)"/>
+  <rect x="40" y="192" width="600" height="8"/>
+  <text x="340" y="194" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" font-weight="bold">USAGE NOTES</text>
+
+  <!-- 3 column layout for usage notes -->
+  <rect x="55" y="210" width="175" height="110" rx="6" fill="rgba(255,100,100,0.03)" stroke="rgba(255,100,100,0.12)" stroke-width="0.8"/>
+  <text x="142" y="226" text-anchor="middle" fill="#ff6464" font-family="Arial,sans-serif" font-size="11" font-weight="bold">DURATION</text>
+  <text x="142" y="246" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="10">Approximately 5-10 seconds</text>
+  <text x="142" y="262" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="10">NPCs will break free</text>
+  <text x="142" y="276" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="10">if left unattended</text>
+  <text x="142" y="296" text-anchor="middle" fill="rgba(255,100,100,0.5)" font-family="Arial,sans-serif" font-size="9">Not permanent - use then move</text>
+
+  <rect x="245" y="210" width="175" height="110" rx="6" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.12)" stroke-width="0.8"/>
+  <text x="332" y="226" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">WHAT IT BLOCKS</text>
+  <text x="332" y="246" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="10">Calling the police</text>
+  <text x="332" y="262" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="10">Sounding an alarm</text>
+  <text x="332" y="278" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="10">Raising alert level</text>
+  <text x="332" y="298" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Does NOT undo active alarms</text>
+
+  <rect x="435" y="210" width="190" height="110" rx="6" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
+  <text x="530" y="226" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">WORLD BONUS CONTEXT</text>
+  <text x="530" y="246" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="10">Part of 25 total world bonuses</text>
+  <text x="530" y="262" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="10">Fastest players: ~10 runs to 10 items</text>
+  <text x="530" y="278" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="10">Dedicated players: ~20 runs for all</text>
+  <text x="530" y="298" text-anchor="middle" fill="rgba(212,168,67,0.5)" font-family="Arial,sans-serif" font-size="9">See invisibility tool guide for full list</text>
+
+  <!-- Source -->
+  <text x="40" y="348" fill="rgba(255,255,255,0.18)" font-family="Arial,sans-serif" font-size="10">Sources: Reddit r/CrimeSimulator (8 months ago) / Steam community discussions (Jul 2025) / NexusMods community report</text>
+</svg>
