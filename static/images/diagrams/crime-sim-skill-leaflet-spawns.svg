@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
+  </defs>
+  <rect width="760" height="380" fill="url(#bg)" rx="8"/>
+  <rect x="0" y="0" width="760" height="34" fill="rgba(137,87,229,0.08)" rx="8"/>
+  <rect x="0" y="26" width="760" height="8" fill="rgba(137,87,229,0.08)"/>
+  <text x="380" y="22" text-anchor="middle" fill="#a78bfa" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">CRIME SIMULATOR: SKILL LEAFLET SPAWN RATE BY LOCATION</text>
+
+  <!-- ===== TIER 1: Highest Spawn Rate ===== -->
+  <rect x="24" y="50" width="228" height="130" rx="8" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.15)" stroke-width="1.2"/>
+  <rect x="24" y="50" width="228" height="24" rx="8" fill="rgba(68,204,68,0.08)"/>
+  <rect x="24" y="66" width="228" height="8"/>
+  <text x="138" y="66" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="12" font-weight="bold">TIER 1: HIGHEST</text>
+
+  <rect x="36" y="82" width="204" height="28" rx="5" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <circle cx="52" cy="96" r="8" fill="rgba(68,204,68,0.15)"/>
+  <text x="52" y="100" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">D</text>
+  <text x="70" y="91" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Dressers and Nightstands</text>
+  <text x="70" y="104" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="10">Most common residential spawn</text>
+
+  <rect x="36" y="117" width="204" height="28" rx="5" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <circle cx="52" cy="131" r="8" fill="rgba(68,204,68,0.15)"/>
+  <text x="52" y="135" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">K</text>
+  <text x="70" y="126" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Kitchen Drawers / Counters</text>
+  <text x="70" y="139" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="10">Good secondary in every house</text>
+
+  <rect x="36" y="152" width="204" height="28" rx="5" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <circle cx="52" cy="166" r="8" fill="rgba(68,204,68,0.15)"/>
+  <text x="52" y="170" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">C</text>
+  <text x="70" y="161" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Bedroom Closets</text>
+  <text x="70" y="174" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="10">Mid-to-high tier: better drops</text>
+
+  <!-- Arrow 1->2 -->
+  <text x="264" y="118" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="18">-&gt;</text>
+
+  <!-- ===== TIER 2: Moderate ===== -->
+  <rect x="276" y="50" width="228" height="130" rx="8" fill="rgba(137,87,229,0.04)" stroke="rgba(137,87,229,0.15)" stroke-width="1"/>
+  <rect x="276" y="50" width="228" height="24" rx="8" fill="rgba(137,87,229,0.06)"/>
+  <rect x="276" y="66" width="228" height="8"/>
+  <text x="390" y="66" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" font-weight="bold">TIER 2: MODERATE</text>
+
+  <rect x="288" y="82" width="204" height="28" rx="5" fill="rgba(137,87,229,0.04)" stroke="rgba(137,87,229,0.1)" stroke-width="0.5"/>
+  <circle cx="304" cy="96" r="8" fill="rgba(137,87,229,0.15)"/>
+  <text x="304" y="100" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="10" font-weight="bold">T</text>
+  <text x="322" y="91" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Tool Boxes / Garage Shelves</text>
+  <text x="322" y="104" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="10">ADVANCED LOCKPICKING primary</text>
+
+  <rect x="288" y="117" width="204" height="28" rx="5" fill="rgba(137,87,229,0.04)" stroke="rgba(137,87,229,0.1)" stroke-width="0.5"/>
+  <circle cx="304" cy="131" r="8" fill="rgba(137,87,229,0.15)"/>
+  <text x="304" y="135" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="10" font-weight="bold">B</text>
+  <text x="322" y="126" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Bathroom Cabinets</text>
+  <text x="322" y="139" fill="rgba(167,139,250,0.4)" font-family="Arial,sans-serif" font-size="10">Low but consistent spawn</text>
+
+  <rect x="288" y="152" width="204" height="28" rx="5" fill="rgba(137,87,229,0.04)" stroke="rgba(137,87,229,0.1)" stroke-width="0.5"/>
+  <circle cx="304" cy="166" r="8" fill="rgba(137,87,229,0.15)"/>
+  <text x="304" y="170" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="10" font-weight="bold">S</text>
+  <text x="322" y="161" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Dining Room Sideboards</text>
+  <text x="322" y="174" fill="rgba(167,139,250,0.4)" font-family="Arial,sans-serif" font-size="10">Often overlooked by players</text>
+
+  <!-- Arrow 2->3 -->
+  <text x="516" y="118" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="18">-&gt;</text>
+
+  <!-- ===== TIER 3: Specific ===== -->
+  <rect x="528" y="50" width="228" height="130" rx="8" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.12)" stroke-width="1"/>
+  <rect x="528" y="50" width="228" height="24" rx="8" fill="rgba(212,168,67,0.06)"/>
+  <rect x="528" y="66" width="228" height="8"/>
+  <text x="642" y="66" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="12" font-weight="bold">TIER 3: SPECIFIC</text>
+
+  <rect x="540" y="82" width="204" height="28" rx="5" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.1)" stroke-width="0.5"/>
+  <circle cx="556" cy="96" r="8" fill="rgba(212,168,67,0.12)"/>
+  <text x="556" y="100" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">J</text>
+  <text x="574" y="91" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Display Cases / Safes</text>
+  <text x="574" y="104" fill="rgba(212,168,67,0.5)" font-family="Arial,sans-serif" font-size="10">Jewelry Appraisal leaflet</text>
+
+  <rect x="540" y="117" width="204" height="28" rx="5" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.1)" stroke-width="0.5"/>
+  <circle cx="556" cy="131" r="8" fill="rgba(212,168,67,0.12)"/>
+  <text x="556" y="135" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">H</text>
+  <text x="574" y="126" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Heist Target Rooms</text>
+  <text x="574" y="139" fill="rgba(212,168,67,0.5)" font-family="Arial,sans-serif" font-size="10">Speed Boost, Extra Pocket</text>
+
+  <rect x="540" y="152" width="204" height="28" rx="5" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.1)" stroke-width="0.5"/>
+  <circle cx="556" cy="166" r="8" fill="rgba(212,168,67,0.12)"/>
+  <text x="556" y="170" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="10" font-weight="bold">L</text>
+  <text x="574" y="161" fill="rgba(255,255,255,0.55)" font-family="Arial,sans-serif" font-size="11">Locked Room Containers</text>
+  <text x="574" y="174" fill="rgba(212,168,67,0.5)" font-family="Arial,sans-serif" font-size="10">Advanced Lockpicking leaflet</text>
+
+  <!-- ===== BOTTOM: House Tier reference ===== -->
+  <rect x="24" y="196" width="712" height="170" rx="8" fill="rgba(137,87,229,0.02)" stroke="rgba(137,87,229,0.1)" stroke-width="1"/>
+  <rect x="24" y="196" width="712" height="24" rx="8" fill="rgba(137,87,229,0.05)"/>
+  <rect x="24" y="212" width="712" height="8"/>
+  <text x="380" y="212" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" font-weight="bold">SPAWN RATE BY HOUSE TIER</text>
+
+  <!-- 4 house tiers -->
+  <rect x="40" y="228" width="165" height="60" rx="6" fill="rgba(255,100,100,0.04)" stroke="rgba(255,100,100,0.12)" stroke-width="0.8"/>
+  <text x="122" y="242" text-anchor="middle" fill="#ff6464" font-family="Arial,sans-serif" font-size="11" font-weight="bold">STARTER HOUSES</text>
+  <text x="122" y="256" text-anchor="middle" fill="rgba(255,100,100,0.5)" font-family="Arial,sans-serif" font-size="9">Spawn rate: LOW</text>
+  <text x="122" y="270" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Tool Maintenance, Basic Lockpicking</text>
+  <text x="122" y="284" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Not worth farming here</text>
+
+  <rect x="215" y="228" width="165" height="60" rx="6" fill="rgba(137,87,229,0.04)" stroke="rgba(137,87,229,0.12)" stroke-width="0.8"/>
+  <text x="297" y="242" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="11" font-weight="bold">MID-TIER HOUSES</text>
+  <text x="297" y="256" text-anchor="middle" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="9">Spawn rate: MEDIUM</text>
+  <text x="297" y="270" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Adv Lockpicking, Basic Electronics</text>
+  <text x="297" y="284" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Tool boxes start mattering here</text>
+
+  <rect x="390" y="228" width="165" height="60" rx="6" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.12)" stroke-width="0.8"/>
+  <text x="472" y="242" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">HIGH-TIER HOUSES</text>
+  <text x="472" y="256" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Spawn rate: HIGH</text>
+  <text x="472" y="270" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Jewelry Appraisal, Stealth Ops</text>
+  <text x="472" y="284" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Lakeside Street = best per run</text>
+
+  <rect x="565" y="228" width="160" height="60" rx="6" fill="rgba(212,168,67,0.04)" stroke="rgba(212,168,67,0.12)" stroke-width="0.8"/>
+  <text x="645" y="242" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">SPECIAL / ENDGAME</text>
+  <text x="645" y="256" text-anchor="middle" fill="rgba(212,168,67,0.5)" font-family="Arial,sans-serif" font-size="9">Spawn rate: VARIABLE</text>
+  <text x="645" y="270" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial,sans-serif" font-size="10">Speed Boost, Extra Pocket</text>
+  <text x="645" y="284" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-family="Arial,sans-serif" font-size="10">Requires access to endgame zones</text>
+
+  <!-- Bottom tip -->
+  <rect x="40" y="298" width="680" height="58" rx="6" fill="rgba(212,168,67,0.03)" stroke="rgba(212,168,67,0.1)" stroke-width="0.5"/>
+  <text x="380" y="314" text-anchor="middle" fill="#d4a843" font-family="Arial,sans-serif" font-size="11" font-weight="bold">BEST FARMING STRATEGY</text>
+  <text x="380" y="332" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Commit to Lakeside Street runs for Advanced Lockpicking and Basic Electronics. Check every container type per run.</text>
+  <text x="380" y="349" text-anchor="middle" fill="rgba(212,168,67,0.5)" font-family="Arial,sans-serif" font-size="10">If bad leaflet drops: alt-F4 before saving to keep it. Read duplicates then sell at fence for $300-$500.</text>
+
+  <!-- Source -->
+  <text x="40" y="368" fill="rgba(255,255,255,0.18)" font-family="Arial,sans-serif" font-size="10">Sources: Steam community guide (Jun 19 2025) / Reddit r/CrimeSimulator / PlayWay official wiki</text>
+</svg>

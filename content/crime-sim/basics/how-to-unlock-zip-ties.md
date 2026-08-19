@@ -59,6 +59,10 @@ To check your current world bonus tier, look for the world bonus shop interface 
 | Knock Out | Medium | Until run ends | Starting equipment |
 | Nothing | None | N/A | Default |
 
+![Zip tie unlock path diagram](/images/diagrams/crime-sim-zip-tie-unlock.svg)
+
+*Complete unlock path: runs build world bonus tier, which unlocks shop purchase.*
+
 Zip ties are worth unlocking early. They give you a silent restraint option that knockouts do not -- if you need to move through an area without making noise, zip ties are the tool.
 
 For the full world bonus progression and which rewards to prioritize, see the [invisibility tool guide](/crime-sim/tools/invisibility-tool-guide/) which covers the world bonus system in detail.

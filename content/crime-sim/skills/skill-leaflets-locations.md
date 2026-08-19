@@ -114,7 +114,9 @@ Community advice from r/CrimeSimulator and Steam discussions:
 | High-tier houses | High | Jewelry Appraisal, Stealth Ops, Tool Crafting |
 | Special locations | Variable | Speed Boost, Extra Pocket (endgame only) |
 
-The pattern is straightforward: better neighborhoods have better leaflet drops. If you are hunting a specific uncommon leaflet, commit to Lakeside Street runs rather than grinding starter houses.
+![Skill leaflet spawn rate diagram](/images/diagrams/crime-sim-skill-leaflet-spawns.svg)
+
+*The complete spawn rate hierarchy: Tier 1 (dressers) through Tier 3 (display cases/safes).* If you are hunting a specific uncommon leaflet, commit to Lakeside Street runs rather than grinding starter houses.
 
 {{< insight >}}
 Lakeside Street is the single best area for leaflet farming in the mid-game. It has the highest concentration of tool boxes, garage shelves, and locked containers per square meter. If you need Advanced Lockpicking or Basic Electronics and have been stuck in starter houses for 10+ runs, the jump to Lakeside Street is worth it even if it takes a few attempts to access.

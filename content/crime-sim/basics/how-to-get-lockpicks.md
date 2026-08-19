@@ -26,6 +26,10 @@ Crime Simulator has three tiers of lockpick tools, each unlocking progressively 
 | Bobby Pin | Advanced locks | Find during runs or buy | Varies |
 | Master Lockpick Set | Master locks | World bonus reward | Free after unlock |
 
+![Lockpick tool progression diagram](/images/diagrams/crime-sim-lockpick-progression.svg)
+
+*From basic locks to master locks -- the complete unlock path.*
+
 The basic lockpick set handles most doors you will encounter in early-to-mid game houses. The bobby pin is required for higher-security doors with deadbolts. Master locks are rare and only appear in specific endgame locations.
 
 ## Lockpick Set (Basic)

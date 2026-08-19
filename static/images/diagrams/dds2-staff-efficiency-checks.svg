@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
+  </defs>
+  <rect width="760" height="400" fill="url(#bg)" rx="8"/>
+  <rect x="0" y="0" width="760" height="34" fill="rgba(68,204,68,0.06)" rx="8"/>
+  <rect x="0" y="26" width="760" height="8" fill="rgba(68,204,68,0.06)"/>
+  <text x="380" y="22" text-anchor="middle" fill="#44cc44" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">DDS2: STAFF EFFICIENCY 5-CHECK SYSTEM</text>
+
+  <!-- Top: The 5 checks in a horizontal flow -->
+  <!-- Check 1 -->
+  <rect x="24" y="50" width="130" height="90" rx="8" fill="rgba(68,204,68,0.05)" stroke="rgba(68,204,68,0.2)" stroke-width="1"/>
+  <rect x="24" y="50" width="130" height="22" rx="8" fill="rgba(68,204,68,0.08)"/>
+  <text x="89" y="65" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CHECK 1</text>
+  <text x="89" y="86" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">Dealer spots</text>
+  <text x="89" y="100" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">assigned?</text>
+  <text x="89" y="118" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Most common</text>
+  <text x="89" y="130" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">idle cause</text>
+
+  <!-- Arrow 1-2 -->
+  <text x="162" y="96" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="14">-&gt;</text>
+
+  <!-- Check 2 -->
+  <rect x="170" y="50" width="130" height="90" rx="8" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.15)" stroke-width="1"/>
+  <rect x="170" y="50" width="130" height="22" rx="8" fill="rgba(68,204,68,0.06)"/>
+  <text x="235" y="65" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CHECK 2</text>
+  <text x="235" y="86" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">Dealer spots</text>
+  <text x="235" y="100" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">have stock?</text>
+  <text x="235" y="118" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">Techs produce</text>
+  <text x="235" y="130" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">- check supply chain</text>
+
+  <!-- Arrow 2-3 -->
+  <text x="308" y="96" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="14">-&gt;</text>
+
+  <!-- Check 3 -->
+  <rect x="316" y="50" width="130" height="90" rx="8" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.15)" stroke-width="1"/>
+  <rect x="316" y="50" width="130" height="22" rx="8" fill="rgba(68,204,68,0.06)"/>
+  <text x="381" y="65" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CHECK 3</text>
+  <text x="381" y="86" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">Techs actively</text>
+  <text x="381" y="100" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">cooking?</text>
+  <text x="381" y="118" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">Recipe queue</text>
+  <text x="381" y="130" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">- check ingredients</text>
+
+  <!-- Arrow 3-4 -->
+  <text x="454" y="96" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="14">-&gt;</text>
+
+  <!-- Check 4 -->
+  <rect x="462" y="50" width="130" height="90" rx="8" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.15)" stroke-width="1"/>
+  <rect x="462" y="50" width="130" height="22" rx="8" fill="rgba(68,204,68,0.06)"/>
+  <text x="527" y="65" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CHECK 4</text>
+  <text x="527" y="86" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">Any employees</text>
+  <text x="527" y="100" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">unassigned?</text>
+  <text x="527" y="118" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">Each role has</text>
+  <text x="527" y="130" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">correct placement</text>
+
+  <!-- Arrow 4-5 -->
+  <text x="600" y="96" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="14">-&gt;</text>
+
+  <!-- Check 5 -->
+  <rect x="606" y="50" width="130" height="90" rx="8" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.15)" stroke-width="1"/>
+  <rect x="606" y="50" width="130" height="22" rx="8" fill="rgba(68,204,68,0.06)"/>
+  <text x="671" y="65" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CHECK 5</text>
+  <text x="671" y="86" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">Reputation</text>
+  <text x="671" y="100" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="11">stable/rising?</text>
+  <text x="671" y="118" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">Avoid raids</text>
+  <text x="671" y="130" text-anchor="middle" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="9">- harder to recover</text>
+
+  <!-- ===== Bottom: Role reference table ===== -->
+  <rect x="24" y="158" width="712" height="220" rx="8" fill="rgba(68,204,68,0.02)" stroke="rgba(68,204,68,0.1)" stroke-width="1"/>
+  <rect x="24" y="158" width="712" height="24" rx="8" fill="rgba(68,204,68,0.05)"/>
+  <rect x="24" y="174" width="712" height="8"/>
+  <text x="380" y="174" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="12" font-weight="bold">EMPLOYEE ROLE REFERENCE</text>
+
+  <!-- Table: 4 roles x 3 cols -->
+  <!-- Headers -->
+  <rect x="40" y="190" width="170" height="22" rx="4" fill="rgba(68,204,68,0.1)"/>
+  <rect x="220" y="190" width="270" height="22" rx="4" fill="rgba(68,204,68,0.1)"/>
+  <rect x="500" y="190" width="225" height="22" rx="4" fill="rgba(68,204,68,0.1)"/>
+  <text x="125" y="205" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">ROLE</text>
+  <text x="355" y="205" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">FUNCTION</text>
+  <text x="612" y="205" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">REQUIREMENTS</text>
+
+  <!-- Row 1: Dealers -->
+  <rect x="40" y="220" width="170" height="42" rx="5" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <rect x="220" y="220" width="270" height="42" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <rect x="500" y="220" width="225" height="42" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <text x="125" y="238" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Dealers</text>
+  <text x="125" y="253" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Sell to customers</text>
+  <text x="355" y="238" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Sell product to street customers</text>
+  <text x="355" y="253" text-anchor="middle" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="10">Must have spot + inventory</text>
+  <text x="612" y="240" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">1) Assign to dealer spot</text>
+  <text x="612" y="256" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">2) Keep stocked at all times</text>
+
+  <!-- Row 2: Lab Technicians -->
+  <rect x="40" y="270" width="170" height="42" rx="5" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <rect x="220" y="270" width="270" height="42" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <rect x="500" y="270" width="225" height="42" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <text x="125" y="288" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Lab Techs</text>
+  <text x="125" y="303" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Cook product</text>
+  <text x="355" y="288" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Produce meth, opium, cocaine etc</text>
+  <text x="355" y="303" text-anchor="middle" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="10">Recipe + ingredients required</text>
+  <text x="612" y="290" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">1) Unlock recipe</text>
+  <text x="612" y="306" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">2) Maintain ingredient stock</text>
+
+  <!-- Row 3: Distributors -->
+  <rect x="40" y="320" width="170" height="42" rx="5" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <rect x="220" y="320" width="270" height="42" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <rect x="500" y="320" width="225" height="42" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <text x="125" y="338" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">Distributors</text>
+  <text x="125" y="353" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Transport product</text>
+  <text x="355" y="338" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Move product between locations</text>
+  <text x="355" y="353" text-anchor="middle" fill="rgba(255,255,255,0.3)" font-family="Arial,sans-serif" font-size="10">Unlocks at higher reputation</text>
+  <text x="612" y="340" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="10">High rep required</text>
+  <text x="612" y="356" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial,sans-serif" font-size="10">See employee roles guide</text>
+
+  <!-- Source -->
+  <text x="40" y="390" fill="rgba(255,255,255,0.18)" font-family="Arial,sans-serif" font-size="10">Source: PlayWay DDS2 official wiki / Steam community / DDS2 staff efficiency guide (crimempire.com)</text>
+</svg>

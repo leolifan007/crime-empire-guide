@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f0f1a"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="760" height="420" fill="url(#bg)" rx="8"/>
+  <rect x="0" y="0" width="760" height="34" fill="rgba(137,87,229,0.08)" rx="8"/>
+  <rect x="0" y="26" width="760" height="8" fill="rgba(137,87,229,0.08)"/>
+  <text x="380" y="22" text-anchor="middle" fill="#a78bfa" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">CRIME SIMULATOR: LOCKPICK TOOL UNLOCK PROGRESSION</text>
+
+  <!-- ===== PHASE 1: Starting Tools ===== -->
+  <rect x="24" y="50" width="220" height="160" rx="8" fill="rgba(137,87,229,0.03)" stroke="rgba(137,87,229,0.12)" stroke-width="1"/>
+  <rect x="24" y="50" width="220" height="24" rx="8" fill="rgba(137,87,229,0.06)"/>
+  <rect x="24" y="66" width="220" height="8"/>
+  <text x="134" y="66" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" font-weight="bold">PHASE 1: STARTER</text>
+
+  <!-- Crowbar -->
+  <rect x="38" y="82" width="192" height="32" rx="6" fill="rgba(255,100,100,0.05)" stroke="rgba(255,100,100,0.15)" stroke-width="0.8"/>
+  <circle cx="58" cy="98" r="10" fill="rgba(255,100,100,0.1)" stroke="#ff6464" stroke-width="0.8"/>
+  <text x="58" y="102" text-anchor="middle" fill="#ff6464" font-family="Arial,sans-serif" font-size="10" font-weight="bold">C</text>
+  <text x="78" y="94" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="11">Crowbar</text>
+  <text x="78" y="107" fill="rgba(255,100,100,0.5)" font-family="Arial,sans-serif" font-size="10">NOISY - triggers alerts</text>
+
+  <!-- Lockpick Set -->
+  <rect x="38" y="122" width="192" height="32" rx="6" fill="rgba(137,87,229,0.08)" stroke="rgba(137,87,229,0.2)" stroke-width="0.8"/>
+  <circle cx="58" cy="138" r="10" fill="rgba(137,87,229,0.15)" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="58" y="142" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="10" font-weight="bold">L</text>
+  <text x="78" y="134" fill="rgba(255,255,255,0.6)" font-family="Arial,sans-serif" font-size="11">Lockpick Set</text>
+  <text x="78" y="147" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="10">BUY at shop - basic locks</text>
+
+  <text x="134" y="172" text-anchor="middle" fill="rgba(167,139,250,0.3)" font-family="Arial,sans-serif" font-size="10">Basic interior doors, bedroom doors</text>
+
+  <!-- Arrow 1 -->
+  <text x="256" y="135" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="18">-&gt;</text>
+  <text x="256" y="150" text-anchor="middle" fill="rgba(167,139,250,0.3)" font-family="Arial,sans-serif" font-size="10">find / buy</text>
+
+  <!-- ===== PHASE 2: Mid Game ===== -->
+  <rect x="270" y="50" width="220" height="160" rx="8" fill="rgba(137,87,229,0.04)" stroke="rgba(137,87,229,0.15)" stroke-width="1"/>
+  <rect x="270" y="50" width="220" height="24" rx="8" fill="rgba(137,87,229,0.07)"/>
+  <rect x="270" y="66" width="220" height="8"/>
+  <text x="380" y="66" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" font-weight="bold">PHASE 2: MID GAME</text>
+
+  <!-- Bobby Pin -->
+  <rect x="284" y="82" width="192" height="32" rx="6" fill="rgba(137,87,229,0.06)" stroke="rgba(137,87,229,0.2)" stroke-width="0.8"/>
+  <circle cx="304" cy="98" r="10" fill="rgba(137,87,229,0.15)" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="304" y="102" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="10" font-weight="bold">B</text>
+  <text x="324" y="94" fill="rgba(255,255,255,0.6)" font-family="Arial,sans-serif" font-size="11">Bobby Pin</text>
+  <text x="324" y="107" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="10">Find in runs OR buy at Truck Store</text>
+
+  <!-- Adv Lockpicking -->
+  <rect x="284" y="122" width="192" height="32" rx="6" fill="rgba(137,87,229,0.06)" stroke="rgba(137,87,229,0.2)" stroke-width="0.8"/>
+  <circle cx="304" cy="138" r="10" fill="rgba(137,87,229,0.15)" stroke="#a78bfa" stroke-width="0.8"/>
+  <text x="304" y="142" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="10" font-weight="bold">A</text>
+  <text x="324" y="134" fill="rgba(255,255,255,0.6)" font-family="Arial,sans-serif" font-size="11">Adv Lockpicking</text>
+  <text x="324" y="147" fill="rgba(167,139,250,0.5)" font-family="Arial,sans-serif" font-size="10">SKILL LEAFLET - tool boxes / garages</text>
+
+  <text x="380" y="172" text-anchor="middle" fill="rgba(167,139,250,0.3)" font-family="Arial,sans-serif" font-size="10">Advanced locks: deadbolts, garage, security doors</text>
+
+  <!-- Arrow 2 -->
+  <text x="502" y="135" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="18">-&gt;</text>
+  <text x="502" y="150" text-anchor="middle" fill="rgba(167,139,250,0.3)" font-family="Arial,sans-serif" font-size="10">complete runs</text>
+
+  <!-- ===== PHASE 3: Endgame ===== -->
+  <rect x="516" y="50" width="220" height="160" rx="8" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.15)" stroke-width="1"/>
+  <rect x="516" y="50" width="220" height="24" rx="8" fill="rgba(68,204,68,0.06)"/>
+  <rect x="516" y="66" width="220" height="8"/>
+  <text x="626" y="66" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="12" font-weight="bold">PHASE 3: ENDGAME</text>
+
+  <!-- Master Lockpick -->
+  <rect x="530" y="82" width="192" height="32" rx="6" fill="rgba(68,204,68,0.06)" stroke="rgba(68,204,68,0.2)" stroke-width="0.8"/>
+  <circle cx="550" cy="98" r="10" fill="rgba(68,204,68,0.12)" stroke="#44cc44" stroke-width="0.8"/>
+  <text x="550" y="102" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">M</text>
+  <text x="570" y="94" fill="rgba(255,255,255,0.6)" font-family="Arial,sans-serif" font-size="11">Master Lockpick Set</text>
+  <text x="570" y="107" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="10">WORLD BONUS - all runs count</text>
+
+  <!-- Master Locks -->
+  <rect x="530" y="122" width="192" height="32" rx="6" fill="rgba(68,204,68,0.04)" stroke="rgba(68,204,68,0.12)" stroke-width="0.8"/>
+  <circle cx="550" cy="138" r="10" fill="rgba(68,204,68,0.08)" stroke="#44cc44" stroke-width="0.8"/>
+  <text x="550" y="142" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="10" font-weight="bold">S</text>
+  <text x="570" y="134" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="11">Master Locks</text>
+  <text x="570" y="147" fill="rgba(68,204,68,0.4)" font-family="Arial,sans-serif" font-size="10">Endgame locations only</text>
+
+  <text x="626" y="172" text-anchor="middle" fill="rgba(68,204,68,0.3)" font-family="Arial,sans-serif" font-size="10">Rare, high-value safes and doors</text>
+
+  <!-- ===== BOTTOM: Lock Tier Reference ===== -->
+  <rect x="24" y="228" width="712" height="175" rx="8" fill="rgba(137,87,229,0.02)" stroke="rgba(137,87,229,0.1)" stroke-width="1"/>
+  <rect x="24" y="228" width="712" height="24" rx="8" fill="rgba(137,87,229,0.05)"/>
+  <rect x="24" y="244" width="712" height="8"/>
+  <text x="380" y="246" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" font-weight="bold">LOCK TIER QUICK REFERENCE</text>
+
+  <!-- Tier table headers -->
+  <rect x="40" y="260" width="160" height="20" rx="4" fill="rgba(137,87,229,0.08)"/>
+  <rect x="210" y="260" width="160" height="20" rx="4" fill="rgba(137,87,229,0.08)"/>
+  <rect x="380" y="260" width="160" height="20" rx="4" fill="rgba(68,204,68,0.06)"/>
+  <rect x="550" y="260" width="175" height="20" rx="4" fill="rgba(68,204,68,0.06)"/>
+  <text x="120" y="274" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="11" font-weight="bold">BASIC LOCKS</text>
+  <text x="290" y="274" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="11" font-weight="bold">ADVANCED LOCKS</text>
+  <text x="460" y="274" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">MASTER LOCKS</text>
+  <text x="637" y="274" text-anchor="middle" fill="#44cc44" font-family="Arial,sans-serif" font-size="11" font-weight="bold">SPECIAL</text>
+
+  <!-- Basic row -->
+  <rect x="40" y="288" width="160" height="38" rx="5" fill="rgba(137,87,229,0.03)" stroke="rgba(137,87,229,0.1)" stroke-width="0.5"/>
+  <text x="120" y="300" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Interior doors</text>
+  <text x="120" y="314" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Bedroom / storage</text>
+  <text x="120" y="328" text-anchor="middle" fill="rgba(167,139,250,0.6)" font-family="Arial,sans-serif" font-size="9">Lockpick Set</text>
+
+  <!-- Adv row -->
+  <rect x="210" y="288" width="160" height="38" rx="5" fill="rgba(137,87,229,0.03)" stroke="rgba(137,87,229,0.1)" stroke-width="0.5"/>
+  <text x="290" y="300" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Deadbolts, garage</text>
+  <text x="290" y="314" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Security doors</text>
+  <text x="290" y="328" text-anchor="middle" fill="rgba(167,139,250,0.6)" font-family="Arial,sans-serif" font-size="9">Bobby Pin + Adv Skill</text>
+
+  <!-- Master row -->
+  <rect x="380" y="288" width="160" height="38" rx="5" fill="rgba(68,204,68,0.03)" stroke="rgba(68,204,68,0.1)" stroke-width="0.5"/>
+  <text x="460" y="300" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">High-security</text>
+  <text x="460" y="314" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Endgame safes/doors</text>
+  <text x="460" y="328" text-anchor="middle" fill="rgba(68,204,68,0.6)" font-family="Arial,sans-serif" font-size="9">Master Lockpick Set</text>
+
+  <!-- Special row -->
+  <rect x="550" y="288" width="175" height="38" rx="5" fill="rgba(68,204,68,0.02)" stroke="rgba(68,204,68,0.08)" stroke-width="0.5"/>
+  <text x="637" y="300" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Electronic keypads</text>
+  <text x="637" y="314" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="Arial,sans-serif" font-size="10">Security panels</text>
+  <text x="637" y="328" text-anchor="middle" fill="rgba(68,204,68,0.5)" font-family="Arial,sans-serif" font-size="9">Basic Electronics skill</text>
+
+  <!-- Source note -->
+  <text x="40" y="400" fill="rgba(255,255,255,0.18)" font-family="Arial,sans-serif" font-size="10">Sources: Steam community guide "Skill Leaflets" (Jun 19 2025) / Reddit r/CrimeSimulator / YouTube Lakeside Street guides</text>
+</svg>

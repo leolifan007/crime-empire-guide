@@ -96,3 +96,7 @@ Before every session:
 - [ ] Reputation stable or rising (avoid raids)
 
 Run this checklist before each session and your staff output should consistently improve. Staff efficiency compounds -- as your dealers earn and your reputation rises, you unlock better employees, which produces more revenue, which funds more expansion.
+
+![DDS2 staff efficiency checks diagram](/images/diagrams/dds2-staff-efficiency-checks.svg)
+
+*The five-point efficiency check system: fix items 1-2 first, then work down the list.*
