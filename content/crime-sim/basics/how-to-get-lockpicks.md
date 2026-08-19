@@ -12,6 +12,10 @@ description: "Every lockpick tool in Crime Simulator explained: where to buy the
 
 If you have been relying on the crowbar for every locked door, you are making every heist louder and slower than it needs to be. Lockpick tools let you open locks silently -- the difference between a clean escape and a police chase. Here is the complete progression for every lockpick tool in Crime Simulator.
 
+{{< callout "info" >}}
+**Lockpick tool quick reference:** Basic Lockpick Set (buy at shop, basic doors) → Bobby Pin (find in runs, advanced locks) → Advanced Lockpicking skill leaflet (tool boxes/garages) → Master Lockpick Set (world bonus reward, master locks).
+{{< /callout >}}
+
 ## Lockpick Tool Progression
 
 Crime Simulator has three tiers of lockpick tools, each unlocking progressively harder locks:

@@ -12,6 +12,10 @@ description: "Five concrete ways to improve staff efficiency in Drug Dealer Simu
 
 If your dealers are idle or your lab technicians are producing below capacity, the bottleneck is almost never the employee count. It is setup. Drug Dealer Simulator 2 has a specific set of mechanics that determine whether your staff produces or wastes your inventory. Here are the five fixes that move the needle.
 
+{{< callout "info" >}}
+**Staff efficiency quick checklist:** Every session, verify (1) all active dealers have an assigned dealer spot, (2) dealer spots have stock, (3) lab technicians are actively cooking, (4) no employees are unassigned, (5) regional reputation is stable or rising. Items 1-2 alone fix most idle-dealer problems.
+{{< /callout >}}
+
 ## 1. Assign Dealers to Dealer Spots First
 
 This is the most common mistake new players make: buying dealers but not assigning them to spots.

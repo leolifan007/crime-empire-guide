@@ -12,6 +12,10 @@ description: "Zip ties let you restrain NPCs silently so they cannot call the po
 
 Zip ties are one of the most useful stealth tools in Crime Simulator -- restrain a witness and they cannot reach a phone to call the cops. But they are not in the starting shop, and the unlock method is not obvious. Here is what the community has confirmed.
 
+{{< callout "info" >}}
+**Short answer:** Zip ties are a world bonus reward, not a shop purchase. Complete more runs to unlock higher world bonus tiers. Once unlocked, buy them from the regular shop. They last approximately 5-10 seconds per use -- long enough for a clean escape, not long enough to leave an NPC unattended.
+{{< /callout >}}
+
 ## What Zip Ties Do
 
 Zip ties restrain an NPC for the duration of the run. While tied up, they cannot:

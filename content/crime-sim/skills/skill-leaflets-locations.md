@@ -12,6 +12,10 @@ description: "Skill leaflets are the key to unlocking powerful abilities in Crim
 
 Skill leaflets are collectible items scattered throughout the Crime Simulator world. Finding the right leaflet and reading it with a skill point is the only way to unlock abilities like Basic Electronics, Jewelry Appraisal, and Advanced Lockpicking. The problem is that leaflets spawn randomly, and the game does not tell you where to look. This guide fixes that.
 
+{{< callout "info" >}}
+**Spawn rate priority:** Dressers/nightstands (highest) > Kitchen drawers > Tool boxes/garage shelves (Advanced Lockpicking specific) > Bathroom cabinets > Display cases/safes (Jewelry Appraisal). Lakeside Street runs give better drops per run than starter houses. If a bad leaflet drops, alt-F4 before saving to keep it in your inventory.
+{{< /callout >}}
+
 ## How Skill Leaflets Work
 
 Each skill leaflet unlocks a permanent ability when read with a skill point:
@@ -111,3 +115,7 @@ Community advice from r/CrimeSimulator and Steam discussions:
 | Special locations | Variable | Speed Boost, Extra Pocket (endgame only) |
 
 The pattern is straightforward: better neighborhoods have better leaflet drops. If you are hunting a specific uncommon leaflet, commit to Lakeside Street runs rather than grinding starter houses.
+
+{{< insight >}}
+Lakeside Street is the single best area for leaflet farming in the mid-game. It has the highest concentration of tool boxes, garage shelves, and locked containers per square meter. If you need Advanced Lockpicking or Basic Electronics and have been stuck in starter houses for 10+ runs, the jump to Lakeside Street is worth it even if it takes a few attempts to access.
+{{< /insight >}}
