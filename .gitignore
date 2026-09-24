@@ -17,3 +17,7 @@ Thumbs.db
 # Temp
 *.tmp
 _tw_*
+
+# Local backups
+*.bak
+*.orig
