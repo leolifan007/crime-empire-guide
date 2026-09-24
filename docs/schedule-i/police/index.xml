@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Police System on Crime Empire Guide</title>
+    <title>Schedule I Police System on Crime Empire Guide</title>
     <link>https://crimempire.com/schedule-i/police/</link>
-    <description>Recent content in Police System on Crime Empire Guide</description>
+    <description>Recent content in Schedule I Police System on Crime Empire Guide</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jun 2026 18:25:00 +0800</lastBuildDate>
@@ -16,7 +16,7 @@
       <description>&lt;div class=&#34;callout&#34;&gt;&lt;strong&gt;Quick answer:&lt;/strong&gt; Selling drugs in view of a cop = Low heat (Investigating level). Assaulting an NPC = Medium heat. Pulling out a weapon = High heat (Wanted level). Hitting a cop = Maximum heat (Wanted Dead or Alive instantly). Each action has a fixed heat value the game uses to decide police response.&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;This guide is a reference tool -- not an explainer. Bookmark it. Use it before every sale.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Police AI Behavior: Detection Distances, Chase Durations, and Best Hiding Spots</title>
+      <title>Schedule I Police AI: Detection, Chase Time, Hiding Spots</title>
       <link>https://crimempire.com/schedule-i/police/evasion/</link>
       <pubDate>Thu, 18 Jun 2026 18:25:00 +0800</pubDate>
       <guid>https://crimempire.com/schedule-i/police/evasion/</guid>

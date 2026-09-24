@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+{{/* Homepage had ZERO h1. Add exactly one, describing the site.
+     Visually hidden so the accordion design is unchanged. */}}
+<h1 class="visually-hidden">{{ .Site.Title }} - Guides, Recipes and Strategy for Schedule I, Drug Dealer Simulator 2 and Crime Simulator</h1>
+
 {{ $firstGame := index .Site.Params.games 0 }}
 
 <!-- Hero Accordion -->
@@ -104,7 +108,7 @@
         {{- $ldDisplay := "" -}}
         {{- if gt $catLatest 0 }}{{ $ldDisplay = $catLatest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
 
-        <a href="{{ .RelPermalink }}" class="guide-card theme-{{ $game.id }}">
+        <a href="{{ partial "section-link.html" . }}" class="guide-card theme-{{ $game.id }}">
           <div class="guide-card-visual">
             <div class="guide-card-img"{{ with .Params.image }} style="background-image: url('{{ . }}')"{{ end }}></div>
             {{ if $catIsNew }}<div class="guide-card-new">NEW</div>{{ end }}

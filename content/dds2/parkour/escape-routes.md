@@ -42,7 +42,7 @@ Slavs Bay has high police density, making it one of the riskier production zones
 
 1. Exit through the rear door (not the front -- police usually approach from the road)
 2. Vault over the wooden fence immediately behind the building
-3. Wall-run along the concrete barrier to reach a集装箱 stacking area
+3. Wall-run along the concrete barrier to reach acontainer stacking area
 4. Climb the shipping containers to the roof of the adjacent warehouse
 5. From the warehouse roof, jump across to the building with the green awning
 6. Crouch behind the rooftop AC unit until the search subsides

@@ -1,5 +1,5 @@
 ---
-title: "Crime Simulator Skill Leaflets Guide: Complete List and Priority Order"
+title: "Crime Simulator Skill Leaflets: Full List and Priority"
 date: 2026-06-18
 draft: false
 

@@ -1,10 +1,12 @@
 ---
-title: "Bungalow 8-Step Automation Blueprint: Room-by-Room Layout With ROI Timeline"
+title: "Schedule I Bungalow Automation: Room-by-Room Blueprint"
 date: 2026-06-18T18:40:00+08:00
 draft: false
 game: schedule-i
 tag: AUTOMATION
 weight: 3
+aliases:
+  - "/schedule-i/automation/"
 ---
 
 {{< callout "info" >}}

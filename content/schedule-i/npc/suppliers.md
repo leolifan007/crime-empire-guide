@@ -1,10 +1,12 @@
 ---
-title: "Fastest Supplier Unlock Route: From Street Rat to Kingpin in Minimum Orders"
+title: "Schedule I Fastest Supplier Unlock Route"
 date: 2026-06-18T18:35:00+08:00
 draft: false
 game: schedule-i
 tag: NPC
 weight: 4
+aliases:
+  - "/schedule-i/npc/"
 ---
 
 {{< callout "info" >}}

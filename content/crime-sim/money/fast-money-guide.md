@@ -8,6 +8,8 @@ game: crime-sim
 tags: [money, early-game, fast-cash, guide]
 weight: 1
 description: "Need cash fast in Crime Simulator? These proven money-making methods get you from broke to self-sufficient in the first hour of gameplay."
+aliases:
+  - "/crime-sim/money/"
 ---
 
 The fastest first $1,000 I found: complete the tutorial, grab the crowbar, rob the nearest low-security house, sell electronics at the fence, buy a lockpick set. Repeat with better entry on house number two. Took me about 20 minutes of real time.

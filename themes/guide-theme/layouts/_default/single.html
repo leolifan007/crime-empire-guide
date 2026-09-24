@@ -13,7 +13,9 @@
 <section class="section-hero game-{{ $gameID }}">
   <div class="section-hero-gradient"></div>
   <div class="section-hero-content">
-    <h1>{{ $gameName }}</h1>
+    {{/* NOTE: was <h1> - caused 2 h1 per article page (game name + article title).
+         The article title below is the real h1. Styled via .hero-game-name. */}}
+    <p class="hero-game-name">{{ $gameName }}</p>
     <p class="section-hero-tagline">{{ $tagline }}</p>
   </div>
 </section>
@@ -26,7 +28,7 @@
     <span class="sep">/</span>
     <a href="/{{ $gameID }}/">{{ $gameName }}</a>
     <span class="sep">/</span>
-    <a href="{{ $currentCat.RelPermalink }}">{{ $currentCat.Title }}</a>
+    <a href="{{ partial "section-link.html" $currentCat }}">{{ $currentCat.Title }}</a>
     <span class="sep">/</span>
     <span class="current">{{ .Title }}</span>
   </nav>
@@ -34,7 +36,7 @@
   <!-- 2nd Level: Category Navigation -->
   <div class="cat-nav game-{{ $gameID }}">
     {{ range $gameSection.Sections.ByParam "weight" }}
-    <a href="{{ .RelPermalink }}" class="cat-nav-btn {{ if eq .RelPermalink $currentCat.RelPermalink }}active{{ end }}">
+    <a href="{{ partial "section-link.html" . }}" class="cat-nav-btn {{ if eq (partial "section-link.html" .) (partial "section-link.html" $currentCat) }}active{{ end }}">
       {{ .Title }}
     </a>
     {{ end }}
@@ -93,7 +95,7 @@
       </nav>
 
       <div class="back-section">
-        <a href="{{ $currentCat.RelPermalink }}" class="back-btn">Back to {{ $currentCat.Title }}</a>
+        <a href="{{ partial "section-link.html" $currentCat }}" class="back-btn">Back to {{ $currentCat.Title }}</a>
       </div>
     </main>
   </div>

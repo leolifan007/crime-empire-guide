@@ -23,7 +23,7 @@ Cross-referenced from Fandom Wiki Quality page, TheGamer quality guide, Steam Co
 | Premium | Purple star | 1.5x | Use Fertilizer only (no PGR/Speed Grow) | Requires drying rack |
 | Heavenly | Gold star | 1.6x | Fertilizer + Drying Rack processing | Requires drying rack + Botanist |
 
-**Source:** TheGamer "Best Quality Types" guide confirms Premium requires Fertilizer only (no Speed Grow or PGR). Fandom Wiki Quality page confirms Heavenly requires drying rack processing. Scaling quality production requires automation — the [Barn vs Warehouse ROI comparison](/schedule-i/automation/barn-and-warehouse/) shows at what setup quality upgrades become profitable.
+**Source:** TheGamer "Best Quality Types" guide confirms Premium requires Fertilizer only (no Speed Grow or PGR). Fandom Wiki Quality page confirms Heavenly requires drying rack processing. Scaling quality production requires automation ,  the [Barn vs Warehouse ROI comparison](/schedule-i/automation/barn-and-warehouse/) shows at what setup quality upgrades become profitable.
 
 ## Profit Comparison By Quality
 

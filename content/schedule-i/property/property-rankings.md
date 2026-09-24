@@ -1,10 +1,12 @@
 ---
-title: "Which Property to Buy First, Second, Third: The Order That Worked for Me"
+title: "Schedule I Property Guide: Which to Buy First"
 date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i
 tag: PROPERTY
 weight: 2
+aliases:
+  - "/schedule-i/property/"
 ---
 
 I messed up my property order on my first playthrough. Bought the Warehouse before I had the cash flow to staff it. Wasted a lot of in-game days staring at empty shelves. Here's the order I settled on after restarting.

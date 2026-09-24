@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: MONEY
 weight: 7
+aliases:
+  - "/schedule-i/money/"
 ---
 
 I spent a full evening testing the casino to see which game actually pays. Took notes, tried different strategies, reloaded saves when I busted. Here's what I found.

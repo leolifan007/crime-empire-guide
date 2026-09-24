@@ -5,6 +5,8 @@ draft: false
 game: dds2
 tag: HIDEOUT
 weight: 1
+aliases:
+  - "/dds2/hideouts/"
 ---
 
 Hideouts in DDS2 are your operational bases, and they can be raided based on your wanted level and the hideout's visibility rating. I lost my first major stockpile to a raid because I kept everything in the starter shack. The community guide "Pedro Alvarez Real Estate Agency" documents all locations with prices, water/phone line availability, and visibility ratings. This guide covers how to choose hideouts, how raids work, and how to protect your assets.

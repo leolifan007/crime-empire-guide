@@ -8,6 +8,8 @@ game: crime-sim
 tags: [beginner, tutorial]
 weight: 1
 description: "New to Crime Simulator? This step-by-step beginner guide covers the tutorial, basic controls, first heist, and how to avoid prison."
+aliases:
+  - "/crime-sim/basics/"
 ---
 
 I started Crime Simulator in debt with nothing but a crowbar and a hideout. Took me a few restarts to figure out the flow. Here is what I wish I knew from the start.

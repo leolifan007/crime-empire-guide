@@ -8,6 +8,8 @@ game: crime-sim
 tags: [hardcore, survival, permadeath, guide]
 weight: 1
 description: "Hardcore mode in Crime Simulator is permadeath with higher quotas. This guide covers survival strategies, resource management, and how to avoid losing everything."
+aliases:
+  - "/crime-sim/hardcore/"
 ---
 
 I lost my first Hardcore run in under 30 minutes. Broke a lockpick on my first door, panicked, used the crowbar, alerted a patrol, got chased, arrested, save gone. Not my finest moment.

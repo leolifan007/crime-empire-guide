@@ -6,6 +6,8 @@ game: crime-sim
 tags: [achievements, guide, steam, walkthrough]
 weight: 1
 description: "Complete Crime Simulator achievement guide part 1 - easy to medium achievements. Covers tutorial, progression, and loot-based achievements with exact unlock conditions and strategy tips."
+aliases:
+  - "/crime-sim/achievements/"
 ---
 
 Crime Simulator has 60 Steam achievements total. About half come naturally through normal gameplay -- you will get the first 15-20 without trying. The rest require specific strategies. This guide covers the first 32 achievements (Very Easy to Medium difficulty).

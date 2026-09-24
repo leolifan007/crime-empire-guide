@@ -1,0 +1,25 @@
+{{/*
+  section-link.html - resolve the correct URL for a category/section entry.
+
+  Background: category (_index.md) pages are no longer rendered
+  (`_build: {render: never}`) because their inlined full-text of child
+  articles caused duplicate content and cannibalization. But sections still
+  appear in .Sections, and their .RelPermalink is now empty.
+
+  This partial returns:
+    - the section's own permalink if it IS rendered, else
+    - the permalink of its first (lowest weight) article.
+
+  That way every category entry points straight at real content instead of a
+  dead "" href. Old category URLs still work via an `aliases:` redirect on the
+  first article.
+
+  Usage: {{ partial "section-link.html" $sectionObject }}
+*/}}
+{{- $s := . -}}
+{{- $href := $s.RelPermalink -}}
+{{- if not $href -}}
+  {{- $arts := $s.RegularPages.ByParam "weight" -}}
+  {{- with index $arts 0 -}}{{- $href = .RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- return $href -}}

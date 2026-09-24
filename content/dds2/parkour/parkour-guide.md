@@ -5,6 +5,8 @@ draft: false
 game: dds2
 tag: PARKOUR
 weight: 1
+aliases:
+  - "/dds2/parkour/"
 ---
 
 The DDS2 Fandom tutorial page confirms: "Use parkour to find shortcuts, to make it easier to escape from enemies chasing you, or to sneak into otherwise inaccessible areas." Parkour is your primary survival tool -- not guns. I stopped trying to fight police after my first few arrests taught me that bullets attract more heat than they solve. This guide covers every parkour move, when to use each, and how to chain them into effective escape sequences.

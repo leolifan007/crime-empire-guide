@@ -1,5 +1,5 @@
 ---
-title: "10 Common Schedule I Mistakes That Waste Your Time (And How To Fix Them)"
+title: "10 Schedule I Mistakes That Waste Your Time"
 date: 2026-06-18T19:00:00+08:00
 draft: false
 game: schedule-i

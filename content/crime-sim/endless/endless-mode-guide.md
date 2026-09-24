@@ -1,5 +1,5 @@
 ---
-title: "Crime Simulator Endless Mode Guide: Complete Strategy and Survival Tips"
+title: "Crime Simulator Endless Mode Guide and Survival Tips"
 date: 2026-06-18
 draft: false
 
