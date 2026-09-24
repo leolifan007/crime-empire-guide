@@ -1,5 +1,5 @@
 ---
-title: "DDS2 Staff Efficiency Guide: Unlock More Employees and Boost Dealer Output"
+title: "DDS2 Staff Efficiency: Unlock and Boost Your Dealers"
 date: 2026-08-19
 lastmod: 2026-08-19T00:20:00+08:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Which Property to Buy First, Second, Third: The Order That Worked for Me"
+title: "Schedule I Property Guide: Which to Buy First"
 date: 2026-06-15T12:15:00+08:00
 draft: false
 game: schedule-i

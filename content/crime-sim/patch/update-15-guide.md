@@ -1,5 +1,5 @@
 ---
-title: "Crime Simulator 1.5 Update Guide: Chemist's Workshop, New Furniture and Scoring Changes"
+title: "Crime Simulator 1.5 Update: Chemist Workshop and Scoring"
 date: 2026-08-18
 lastmod: 2026-08-18T23:40:00+08:00
 draft: false

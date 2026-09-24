@@ -1,5 +1,5 @@
 ---
-title: "DDS2 Late-Game Empire: Scaling with Employees and Multi-Hideout Strategy"
+title: "DDS2 Late-Game Empire: Employees and Multi-Hideout"
 date: 2026-06-09T12:25:00+08:00
 draft: false
 game: dds2

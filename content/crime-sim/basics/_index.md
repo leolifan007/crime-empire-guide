@@ -1,5 +1,5 @@
 ---
-title: "Basics"
+title: "Crime Simulator Basics"
 date: 2026-06-07
 draft: false
 game: crime-sim

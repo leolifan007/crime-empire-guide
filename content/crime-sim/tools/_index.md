@@ -1,5 +1,5 @@
 ---
-title: "Tools"
+title: "Crime Simulator Tools Guide"
 date: 2026-06-07
 draft: false
 game: crime-sim

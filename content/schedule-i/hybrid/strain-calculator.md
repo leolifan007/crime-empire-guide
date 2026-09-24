@@ -1,5 +1,5 @@
 ---
-title: "Best Strain By Game Stage: Decision Table For Early, Mid, and Late Game"
+title: "Best Strain by Game Stage in Schedule I"
 date: 2026-06-18T18:55:00+08:00
 draft: false
 game: schedule-i

@@ -17,7 +17,7 @@ The best co-op heists I have been on were planned before anyone left the hideout
 Before leaving the hideout, we confirm every item on this list:
 
 - Target selected from job board or free-roam
-- Security level assessed (locks, NPCs, alarms) — the [tools guide](/crime-sim/tools/complete-tools-guide/) lists which gear you need for each security tier.
+- Security level assessed (locks, NPCs, alarms) ,  the [tools guide](/crime-sim/tools/complete-tools-guide/) lists which gear you need for each security tier.
 - Required tools confirmed for each team member
 - Entry point identified (front, back, roof, window)
 - Extraction point agreed (vehicle, alley, rooftop)

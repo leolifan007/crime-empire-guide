@@ -13,9 +13,7 @@
 <section class="section-hero game-{{ $gameID }}">
   <div class="section-hero-gradient"></div>
   <div class="section-hero-content">
-    {{/* NOTE: was <h1> - caused 2 h1 per article page (game name + article title).
-         The article title below is the real h1. Styled via .hero-game-name. */}}
-    <p class="hero-game-name">{{ $gameName }}</p>
+    <h1>{{ $gameName }}</h1>
     <p class="section-hero-tagline">{{ $tagline }}</p>
   </div>
 </section>

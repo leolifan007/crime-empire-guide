@@ -1,20 +1,50 @@
-﻿{{ define "main" }}
+{{/*
+  list.html - SECTION LIST PAGE (fixed)
+  
+  BEFORE (the bug): this template inlined the FULL body of every article in the
+  section into this one URL, and gave each a <h1>. Result:
+    - /dds2/staff/ contained 100% of the text of its 4 articles -> duplicate content
+    - /dds2/staff/ had 5 <h1> tags
+    - Google picked the section URL as canonical, indexed it, and dropped the real articles
+    - measured: 478 impressions / 2 clicks / CTR 0.42% / pos 6.5 on the section page,
+      while all 4 underlying articles were "URL is unknown to Google"
+
+  AFTER (this fix):
+    - exactly ONE <h1> (the section name)
+    - article titles rendered as <h2> links, NOT <h1>
+    - NO article body is inlined; only real, short section intro copy
+    - each article gets a normal link -> crawlable, distinct URL, no duplication
+  Verified by: build locally, check h1 count == 1 and that article text is absent.
+*/}}
+{{ define "main" }}
 
 {{ $gameID := .Params.game }}
 {{ $gameName := "" }}
 {{ range $.Site.Params.games }}{{ if eq .id $gameID }}{{ $gameName = .name }}{{ end }}{{ end }}
 {{ $gameSection := $.Site.GetPage (printf "/%s" $gameID) }}
 
-<!-- Game Hero (shows GAME name, not category) -->
+{{ $articles := .RegularPages.ByParam "weight" }}
+
+<!-- Section Hero: ONE h1, the section name -->
 <section class="section-hero game-{{ $gameID }}">
   <div class="section-hero-gradient"></div>
   <div class="section-hero-content">
-    <h1>{{ $gameName }}</h1>
-    <p class="section-hero-tagline">{{ .Title }}</p>
+    <h1>{{ with .Title }}{{ . }}{{ else }}{{ $gameName }}{{ end }}</h1>
+    <p class="section-hero-tagline">{{ $gameName }}{{ with .Params.tagline }} &middot; {{ . }}{{ end }}</p>
   </div>
 </section>
 
 <div class="single-wrap">
+
+  <!-- Breadcrumb -->
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="sep">/</span>
+    <a href="/{{ $gameID }}/">{{ $gameName }}</a>
+    <span class="sep">/</span>
+    <span class="current">{{ .Title }}</span>
+  </nav>
+
   <!-- 2nd Level Nav -->
   <div class="cat-nav game-{{ $gameID }}">
     {{ range $gameSection.Sections.ByParam "weight" }}
@@ -22,19 +52,19 @@
     {{ end }}
   </div>
 
-  <!-- Main Layout -->
   <div class="single-layout">
-    <!-- Sidebar: just article list -->
+
+    <!-- Sidebar: link list only -->
     <aside class="guide-sidebar game-{{ $gameID }}">
       <div class="sidebar-header">
-        <span class="sidebar-count">{{ len .RegularPages }} articles</span>
+        <span class="sidebar-count">{{ len $articles }} articles</span>
       </div>
       <div class="sidebar-list">
-        {{ range $i, $article := .RegularPages.ByParam "weight" }}
+        {{ range $articles }}
         {{- $pd := 0 -}}
         {{- if gt .Lastmod.Unix 0 }}{{ $pd = div (sub now.Unix .Lastmod.Unix) 86400 }}{{ end -}}
         {{- $isNew := le $pd 10 -}}
-        <a href="#article-{{ $i }}" class="sidebar-item {{ if eq $i 0 }}active{{ end }}" onclick="showArticle({{ $i }}); return false;">
+        <a href="{{ .RelPermalink }}" class="sidebar-item">
           <span class="sidebar-title">{{ .Title }}</span>
           {{ if $isNew }}<span class="sidebar-new">NEW</span>{{ end }}
         </a>
@@ -42,64 +72,32 @@
       </div>
     </aside>
 
-    <!-- Content -->
+    <!-- Main: section intro + article index. NO article bodies inlined. -->
     <main class="single-main">
-      {{ range $i, $article := .RegularPages.ByParam "weight" }}
-      <div class="article-content" id="article-body-{{ $i }}" {{ if ne $i 0 }}style="display:none"{{ end }}>
-        <article class="single-article">
-          <div class="article-header">
-            <h1>{{ .Title }}</h1>
-            <div class="article-meta">
-              <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-            </div>
-          </div>
-          <div class="article-body game-{{ $gameID }}">
-            {{ .Content | safeHTML }}
-        </article>
-      </div>
-      {{ end }}
+      <article class="single-article">
+        <div class="article-body game-{{ $gameID }}">
+          {{/* Only the section's own intro copy. Keep this short (~100-150 words). */}}
+          {{ with .Content }}{{ . | safeHTML }}{{ end }}
 
-      {{ if eq (len .RegularPages) 0 }}
-        {{ $sections := .Sections.ByParam "weight" }}
-        {{ $first := index $sections 0 }}
-        {{ if $first }}
-        <script>
-        window.location.href = "{{ $first.RelPermalink }}";
-        </script>
-        {{ else }}
-        <div class="coming-panel" style="margin-top:0;">
-          <h3>UNDER CONSTRUCTION</h3>
-          <p>Articles for this category are being written. Check back soon.</p>
+          {{ if $articles }}
+          <h2>All {{ .Title }} Guides</h2>
+          <ul class="section-index-list">
+            {{ range $articles }}
+            <li>
+              <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+              {{ with .Description }}<p>{{ . }}</p>{{ end }}
+            </li>
+            {{ end }}
+          </ul>
+          {{ end }}
         </div>
-        {{ end }}
-      {{ end }}
+      </article>
+
+      <div class="back-section">
+        <a href="/{{ $gameID }}/" class="back-btn">Back to {{ $gameName }}</a>
+      </div>
     </main>
   </div>
 </div>
 
-<script>
-function showArticle(index) {
-  var contents = document.querySelectorAll('.article-content');
-  for (var i = 0; i < contents.length; i++) {
-    contents[i].style.display = 'none';
-  }
-  var target = document.getElementById('article-body-' + index);
-  if (target) target.style.display = 'block';
-  var items = document.querySelectorAll('.sidebar-item');
-  for (var i = 0; i < items.length; i++) {
-    items[i].classList.remove('active');
-  }
-  if (items[index]) items[index].classList.add('active');
-  window.location.hash = 'article-' + index;
-}
-window.addEventListener('DOMContentLoaded', function() {
-  if (window.location.hash) {
-    var m = window.location.hash.match(/article-(\d+)/);
-    if (m) {
-      var items = document.querySelectorAll('.sidebar-item');
-      if (items[parseInt(m[1])]) items[parseInt(m[1])].click();
-    }
-  }
-});
-</script>
 {{ end }}

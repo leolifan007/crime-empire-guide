@@ -1,5 +1,5 @@
 ---
-title: "Map & Districts"
+title: "Crime Simulator Map and Districts"
 date: 2026-08-19
 draft: false
 game: crime-sim

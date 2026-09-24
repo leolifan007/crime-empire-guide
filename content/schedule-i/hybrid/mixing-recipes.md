@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Community Custom Strains By Profit: Ranked With Verified Ingredient Lists"
+title: "Best Custom Strains by Profit: Top 10 With Ingredient Lists"
 date: 2026-06-18T18:50:00+08:00
 draft: false
 game: schedule-i
@@ -53,7 +53,7 @@ This is a curated ranking of real community-discovered strains -- not a calculat
 - **Best for:** Early-to-mid game (Hustler-Peddler)
 - **Source:** Times of India "Best Strains" article, BisectHosting OG Kush combinations guide
 
-## Rank 5: Gorilla Mix (OG Kush 4-Mix) — for the full automation setup that handles these recipes at scale, see the [Bungalow workshop guide](/schedule-i/automation/workshop/).
+## Rank 5: Gorilla Mix (OG Kush 4-Mix) ,  for the full automation setup that handles these recipes at scale, see the [Bungalow workshop guide](/schedule-i/automation/workshop/).
 - **Base:** OG Kush
 - **Ingredients:** OG Kush + Horse Semen + Mega Bean + Donut
 - **Sell price:** ~$150-160/unit

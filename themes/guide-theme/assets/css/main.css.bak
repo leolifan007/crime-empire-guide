@@ -227,3 +227,9 @@
 .game-crime-sim .step-metrics .metric-profit{color:#3498db}
 .game-crime-sim .step-plus{background:rgba(52,152,219,8%);color:#3498db}
 .game-crime-sim .article-tag{background:rgba(52,152,219,.12);color:#3498db}
+
+/* ===== VERSION + SIDEBAR NEW BADGE (added 2026-08-19) ===== */
+.card-version{display:inline-flex;align-items:center;padding:2px 8px;border-radius:4px;font-size:9px;font-weight:700;letter-spacing:.5px;background:rgba(255,255,255,5%);border:1px solid var(--border);color:var(--text2)}
+.article-version{margin-left:12px;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;background:rgba(255,255,255,5%);border:1px solid var(--border);color:var(--text3)}
+.sidebar-new{margin-left:auto;padding:2px 6px;border-radius:4px;font-size:8px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;background:rgba(231,76,60,.92);color:#fff;animation:newGlowRed 2s ease-in-out infinite;flex-shrink:0}
+

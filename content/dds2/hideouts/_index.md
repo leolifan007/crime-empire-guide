@@ -1,5 +1,5 @@
 ---
-title: "Hideouts"
+title: "DDS2 Hideouts Guide"
 date: 2026-06-07
 draft: false
 game: dds2

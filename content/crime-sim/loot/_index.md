@@ -1,5 +1,5 @@
 ---
-title: "Loot Guide"
+title: "Crime Simulator Loot Guide"
 date: 2026-06-07
 draft: false
 game: crime-sim

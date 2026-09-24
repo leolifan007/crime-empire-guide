@@ -50,7 +50,7 @@ These are community-verified combos of product + dealer that outperform all othe
 
 ### Combo 1: The Meth Express (Hustler rank, $500 setup)
 - **Dealer:** Molly Presley
-- **Product:** Meth 2-mix (Pseudo + Iodine, ~$90-100 sell price) — once your dealers are assigned, the [endgame guide](/schedule-i/automation/endgame-guide/) covers how to scale supply across all six simultaneously.
+- **Product:** Meth 2-mix (Pseudo + Iodine, ~$90-100 sell price) ,  once your dealers are assigned, the [endgame guide](/schedule-i/automation/endgame-guide/) covers how to scale supply across all six simultaneously.
 - **Customers:** High-frequency low-spenders (Kim Delany, George Greene, Jerry Montero)
 - **Daily revenue:** ~$900-1,500/day
 - **Net after cut:** ~$720-1,200/day

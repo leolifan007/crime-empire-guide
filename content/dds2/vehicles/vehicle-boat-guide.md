@@ -1,5 +1,5 @@
 ---
-title: "DDS2 Vehicle and Boat Guide: Best Purchases, Upgrades, and Customization"
+title: "DDS2 Vehicles and Boats: Best Purchases and Upgrades"
 date: 2026-06-18T18:28:00+08:00
 draft: false
 game: dds2

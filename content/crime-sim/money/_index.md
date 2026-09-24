@@ -1,5 +1,5 @@
 ---
-title: "Money"
+title: "Crime Simulator Money Guide"
 date: 2026-06-07
 draft: false
 game: crime-sim

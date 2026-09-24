@@ -1,5 +1,5 @@
 ---
-title: "Beginner Guide"
+title: "DDS2 Beginner Guide"
 date: 2026-06-07
 draft: false
 game: dds2

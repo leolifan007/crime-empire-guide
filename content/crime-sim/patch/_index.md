@@ -1,5 +1,5 @@
 ---
-title: "Patch Updates"
+title: "Crime Simulator Patch Updates"
 date: 2026-08-18
 draft: false
 game: crime-sim

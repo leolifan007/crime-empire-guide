@@ -1,5 +1,5 @@
 ---
-title: "Hardcore Mode"
+title: "Crime Simulator Hardcore Mode"
 date: 2026-06-07
 draft: false
 game: crime-sim

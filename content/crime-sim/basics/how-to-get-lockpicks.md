@@ -1,5 +1,5 @@
 ---
-title: "How to Get Lockpicks in Crime Simulator: Lockpick Set, Bobby Pin and More"
+title: "How to Get Lockpicks in Crime Simulator"
 date: 2026-08-19
 lastmod: 2026-08-19T01:00:00+08:00
 draft: false

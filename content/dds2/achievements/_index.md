@@ -1,5 +1,5 @@
 ---
-title: "Achievements"
+title: "DDS2 Achievements"
 date: 2026-06-07
 draft: false
 game: dds2
