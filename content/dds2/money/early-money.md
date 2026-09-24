@@ -5,6 +5,8 @@ draft: false
 game: dds2
 tag: MONEY
 weight: 1
+aliases:
+  - "/dds2/money/"
 ---
 
 The fastest early-game money in DDS2 comes from delivery grinding and territory expansion, not cooking. I tried going straight to cooking and ended up broke with wasted materials. In the first 10 hours, deliveries outperform cooking by roughly 3:1 based on what I have seen and what the community confirms. This guide covers the three phases of early money-making, from zero to a sustainable operation.

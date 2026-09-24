@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: EXPANSION
 weight: 10
+aliases:
+  - "/schedule-i/expansion/"
 ---
 
 {{< callout "info" >}}

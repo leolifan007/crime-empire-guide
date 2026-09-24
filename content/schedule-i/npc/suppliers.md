@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: NPC
 weight: 4
+aliases:
+  - "/schedule-i/npc/"
 ---
 
 {{< callout "info" >}}

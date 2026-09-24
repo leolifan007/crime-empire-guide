@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: PATCH
 weight: 6
+aliases:
+  - "/schedule-i/patch/"
 ---
 
 {{< callout "info" >}}

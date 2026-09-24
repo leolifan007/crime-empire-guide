@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: POLICE
 weight: 5
+aliases:
+  - "/schedule-i/police/"
 ---
 
 {{< callout "info" >}}

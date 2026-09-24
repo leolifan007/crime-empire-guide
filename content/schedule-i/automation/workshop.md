@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: AUTOMATION
 weight: 3
+aliases:
+  - "/schedule-i/automation/"
 ---
 
 {{< callout "info" >}}

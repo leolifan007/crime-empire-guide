@@ -7,6 +7,9 @@ tag: achievement
 weight: 1
 image: "/images/screenshots/crime-7.jpg"
 description: "Complete guide to unlocking all achievements across all game modes."
+_build:
+  render: never
+  list: always
 ---
 
 Complete guide to unlocking all achievements across all game modes.

@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: HYBRID
 weight: 8
+aliases:
+  - "/schedule-i/hybrid/"
 ---
 
 {{< callout "info" >}}

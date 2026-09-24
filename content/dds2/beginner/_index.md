@@ -7,6 +7,9 @@ tag: tips
 weight: 1
 image: "/images/screenshots/dds2-5.jpg"
 description: "12 essential tips every new player needs to know before starting their drug empire."
+_build:
+  render: never
+  list: always
 ---
 
 12 essential tips every new player needs to know before starting their drug empire.

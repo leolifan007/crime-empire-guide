@@ -7,6 +7,9 @@ tag: survival
 weight: 1
 image: "/images/screenshots/police.jpg"
 description: "How the heat system works, when police raid you, and the evasion routes that actually work."
+_build:
+  render: never
+  list: always
 ---
 
 Police System and Evasion Guide  -  complete guide covering all strategies, tips, and data.

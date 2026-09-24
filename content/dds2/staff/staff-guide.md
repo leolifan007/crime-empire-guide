@@ -5,6 +5,8 @@ draft: false
 game: dds2
 tag: STAFF
 weight: 1
+aliases:
+  - "/dds2/staff/"
 ---
 
 Employees in DDS2 are essential for scaling past the early game. I spent my first 20 hours running everything solo before realizing how much time staff saves. The Steam FAQ guide covers how to get more employees from early-game strategies to advanced methods. This guide covers every hiring method, how assignments work, and the optimal staffing progression.

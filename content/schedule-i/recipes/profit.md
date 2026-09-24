@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: MONEY
 weight: 1
+aliases:
+  - "/schedule-i/recipes/"
 ---
 
 {{< callout "info" >}}

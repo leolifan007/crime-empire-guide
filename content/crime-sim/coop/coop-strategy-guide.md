@@ -8,6 +8,8 @@ game: crime-sim
 tags: [coop, multiplayer, strategy, teamwork]
 weight: 1
 description: "Master 4-player co-op in Crime Simulator with role assignments, communication tactics, and coordinated heist strategies that beat quotas faster than solo play."
+aliases:
+  - "/crime-sim/coop/"
 ---
 
 I played most of Crime Simulator solo before trying co-op. The difference is night and day -- with a coordinated team, you clear houses faster and pull in way more loot per run. The [fast money guide](/crime-sim/money/fast-money-guide/) covers early cash methods I still use between co-op sessions. But without coordination, co-op is chaos.

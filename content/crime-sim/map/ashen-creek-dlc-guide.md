@@ -8,6 +8,8 @@ version: "1.55"
 tags: [dlc, map, ashen-creek, heist]
 weight: 2
 description: "Ashen Creek is the first Crime Simulator DLC: 9+ new locations, a jewelry store and pharmacy as high-value targets, new cars, and pressure floor traps. Everything you need to know before your first run."
+aliases:
+  - "/crime-sim/map/"
 ---
 
 {{< callout "info" >}}

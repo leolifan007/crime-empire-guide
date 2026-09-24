@@ -7,6 +7,9 @@ tag: survival
 weight: 1
 image: "/images/screenshots/crime-4.jpg"
 description: "Survive and thrive in Hardcore mode with expert strategies and essential tips."
+_build:
+  render: never
+  list: always
 ---
 
 Survive and thrive in Hardcore mode with expert strategies and essential tips.

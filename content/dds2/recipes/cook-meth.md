@@ -5,6 +5,8 @@ draft: false
 game: dds2
 tag: RECIPES
 weight: 1
+aliases:
+  - "/dds2/recipes/"
 ---
 
 The DDS2 Datamine v2 catalogs 73 substances. Meth starts at POT 0.88 (pure potency). The first cook is straightforward once you know the ingredient chain: ephedrine to compound to purify to cut. I wasted my first few batches guessing ratios. This guide walks through every step from ingredient sourcing to finished product.

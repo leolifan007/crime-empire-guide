@@ -7,6 +7,9 @@ tag: strategy
 weight: 1
 image: "/images/screenshots/expansion.jpg"
 description: "New cities, new mechanics, and how to expand your operation without losing money."
+_build:
+  render: never
+  list: always
 ---
 
 Expansion Strategy: Coast to Coast  -  complete guide covering all strategies, tips, and data.

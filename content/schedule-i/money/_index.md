@@ -7,6 +7,9 @@ tag: speedrun
 weight: 1
 image: "/images/screenshots/money.jpg"
 description: "The fastest money routes in Schedule I, from the first $10K to a fully automated empire."
+_build:
+  render: never
+  list: always
 ---
 
 Fastest Early-Game Money Loop  -  complete guide covering all strategies, tips, and data.

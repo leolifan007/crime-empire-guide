@@ -5,6 +5,8 @@ draft: false
 game: dds2
 tag: BEGINNER
 weight: 1
+aliases:
+  - "/dds2/beginner/"
 ---
 
 Your first hour on Isla Sombra is about survival, not profits. I learned this the hard way -- my first run I focused on cooking and ended up broke with no clients. Complete the tutorial missions, meet your contact Shady, secure your first hideout, and make deliveries until you hit $5,000. Cooking comes after you have a reliable client pipeline. This guide walks through every step from washing up on the beach to building a sustainable early-game operation.

@@ -7,6 +7,9 @@ tag: automation
 weight: 1
 image: "/images/screenshots/automation.jpg"
 description: "Handler, Chemist, and Packer setups that keep your production line running while you are away."
+_build:
+  render: never
+  list: always
 ---
 
 Full Automation Workshop Guide  -  complete guide covering all strategies, tips, and data.

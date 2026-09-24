@@ -7,6 +7,9 @@ tag: cooking
 weight: 1
 image: "/images/screenshots/dds2-1.jpg"
 description: "Complete guide to cooking meth, opium, and weed in DDS2. Recipes, ingredients, and step-by-step process."
+_build:
+  render: never
+  list: always
 ---
 
 Complete guide to cooking meth, opium, and weed in DDS2. Recipes, ingredients, and step-by-step process.

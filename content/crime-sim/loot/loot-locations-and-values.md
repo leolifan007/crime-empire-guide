@@ -8,6 +8,8 @@ game: crime-sim
 tags: [loot, items, locations, guide]
 weight: 1
 description: "Where to find the best loot in Crime Simulator -- high-value electronics, jewelry, gold bars, and how to spot item requests across every map."
+aliases:
+  - "/crime-sim/loot/"
 ---
 
 Not all loot is worth the same inventory slot. I learned this the hard way after filling my bag with kitchen appliances worth $40 each while passing laptops worth $200+. Understanding what to grab and what to leave behind is the single biggest factor in beating quotas consistently. The [loot selling strategy](/crime-sim/loot/loot-selling-strategy/) shows how to turn those items into double the fence price.

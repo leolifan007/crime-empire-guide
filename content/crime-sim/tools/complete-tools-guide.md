@@ -8,6 +8,8 @@ game: crime-sim
 tags: [equipment, tools, guide]
 weight: 1
 description: "Complete breakdown of every tool in Crime Simulator -- lockpicks, drill, glass knife, blowtorch, cable ties, and more -- with use cases and upgrade priorities."
+aliases:
+  - "/crime-sim/tools/"
 ---
 
 I spent my first few Crime Simulator runs using nothing but the crowbar on every door. Loud, slow, and got me caught repeatedly. Better tools changed everything. The [tool upgrades guide](/crime-sim/tools/tool-upgrades-and-advanced/) explains what each upgrade tier does.

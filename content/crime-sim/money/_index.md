@@ -7,6 +7,9 @@ tag: money
 weight: 1
 image: "/images/screenshots/crime-3.jpg"
 description: "Proven methods to earn massive money in Crime Simulator from heists to smart selling."
+_build:
+  render: never
+  list: always
 ---
 
 Proven methods to earn massive money in Crime Simulator from heists to smart selling.

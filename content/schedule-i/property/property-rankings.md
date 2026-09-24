@@ -5,6 +5,8 @@ draft: false
 game: schedule-i
 tag: PROPERTY
 weight: 2
+aliases:
+  - "/schedule-i/property/"
 ---
 
 I messed up my property order on my first playthrough. Bought the Warehouse before I had the cash flow to staff it. Wasted a lot of in-game days staring at empty shelves. Here's the order I settled on after restarting.

@@ -7,6 +7,9 @@ tag: patch
 weight: 1
 image: "/images/screenshots/patch.jpg"
 description: "What changed in each Schedule I update and how to adapt your strategy."
+_build:
+  render: never
+  list: always
 ---
 
 v0.4 Patch Analysis  -  complete guide covering all strategies, tips, and data.

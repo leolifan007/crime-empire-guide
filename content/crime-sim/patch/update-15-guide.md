@@ -8,6 +8,8 @@ version: "1.55"
 tags: [patch, update, chemistry, furniture, scoring]
 weight: 1
 description: "Everything in the Crime Simulator 1.5 update: the Chemist's Workshop drug-making loop, four new hideout furniture pieces, the reworked scoring system, and how it sets up the Ashen Creek DLC."
+aliases:
+  - "/crime-sim/patch/"
 ---
 
 {{< callout "info" >}}

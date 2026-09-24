@@ -108,7 +108,7 @@
         {{- $ldDisplay := "" -}}
         {{- if gt $catLatest 0 }}{{ $ldDisplay = $catLatest | mul 1000 | dateFormat "Jan 2" }}{{ end -}}
 
-        <a href="{{ .RelPermalink }}" class="guide-card theme-{{ $game.id }}">
+        <a href="{{ partial "section-link.html" . }}" class="guide-card theme-{{ $game.id }}">
           <div class="guide-card-visual">
             <div class="guide-card-img"{{ with .Params.image }} style="background-image: url('{{ . }}')"{{ end }}></div>
             {{ if $catIsNew }}<div class="guide-card-new">NEW</div>{{ end }}

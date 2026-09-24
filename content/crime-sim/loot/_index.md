@@ -7,6 +7,9 @@ tag: money
 weight: 1
 image: "/images/screenshots/crime-2.jpg"
 description: "Effective loot selling strategies to maximize profits and progress through quotas faster."
+_build:
+  render: never
+  list: always
 ---
 
 Effective loot selling strategies to maximize profits and progress through quotas faster.
