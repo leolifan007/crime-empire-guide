@@ -1,8 +1,14 @@
 # Hugo
 public/
-docs/
 resources/_gen/
 .hugo_build.lock
+
+# NOTE: docs/ is intentionally NOT ignored.
+# GitHub Pages is in LEGACY mode (source = main branch /docs).
+# The live site IS main/docs, so build output must be committed.
+# Ignoring docs/ caused the 2026-09-25 site-wide CSS outage:
+# the new hashed main.min.<hash>.css was untracked -> not in main/docs -> 404 -> unstyled site.
+# See TOOLS.md SOP 11.
 
 # OS
 .DS_Store
